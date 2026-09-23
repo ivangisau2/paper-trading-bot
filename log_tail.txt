@@ -1,15 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-23 23:11 UTC
+⏰ Ciclo — 2026-09-23 23:19 UTC
 ============================================================
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (long score 1)...
-  [analista] IA deshabilitada — decisión solo con estrategia técnica
-  [ejecución] ▲ LONG AVAXUSDT: 14.52988762 @ 10.322 | SL 10.0495 | TP 10.867 | score 1
-
-💰 Equity: $999.29 | Cash: $999.70 | Retorno: -0.07%
+💰 Equity: $999.11 | Cash: $999.70 | Retorno: -0.09%
 📈 Posiciones abiertas: 2 | Cerradas: 0 | PnL realizado: +0.00
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0927434 (-0.41 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.322 (+0.00 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0927065 (-0.47 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.314 (-0.12 USD)
