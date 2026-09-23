@@ -1,7 +1,7 @@
 """Analista IA con múltiples proveedores (sin Claude de pago).
 
 Seleccionable con la variable de entorno AI_PROVIDER:
-  - "groq"    → API gratis de Groq (Llama 3.3 70B)  → necesita GROQ_API_KEY
+  - "groq"    → API gratis de Groq (gpt-oss-120b)  → necesita GROQ_API_KEY
   - "gemini"  → API gratis de Google Gemini Flash    → necesita GEMINI_API_KEY
   - "ollama"  → Ollama local (futuro Raspberry Pi)   → OLLAMA_URL opcional
   - "none"    → sin IA: el bot opera solo con la estrategia técnica
@@ -61,7 +61,7 @@ def _extract_json(text: str) -> dict | None:
 
 def _ask_groq(prompt: str) -> dict | None:
     key = os.environ["GROQ_API_KEY"]
-    model = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
+    model = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
     r = requests.post(
         "https://api.groq.com/openai/v1/chat/completions",
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
@@ -76,7 +76,12 @@ def _ask_groq(prompt: str) -> dict | None:
         },
         timeout=60,
     )
-    r.raise_for_status()
+    if not r.ok:
+        try:
+            msg = r.json().get("error", {}).get("message", r.text[:200])
+        except Exception:
+            msg = r.text[:200]
+        raise RuntimeError(f"Groq HTTP {r.status_code}: {msg}")
     return _extract_json(r.json()["choices"][0]["message"]["content"])
 
 
