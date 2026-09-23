@@ -1,0 +1,52 @@
+name: 🤖 Ciclo de trading
+
+on:
+  schedule:
+    # Cada 15 min (en :04 :19 :34 :49 para esquivar los retrasos de GitHub en minutos redondos)
+    - cron: "4,19,34,49 * * * *"
+  workflow_dispatch: {}  # botón "Run workflow" para probar
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot-cycle
+  cancel-in-progress: false
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar ciclo
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          AI_PROVIDER: ${{ secrets.GROQ_API_KEY != '' && 'groq' || 'none' }}
+        run: |
+          PYTHONUNBUFFERED=1 python3 bot.py cycle 2>&1 | tee -a bot.log
+          tail -n 120 bot.log > log_tail.txt
+          python3 -c "import json; from config import SYMBOLS; open('symbols.json','w').write(json.dumps(SYMBOLS))"
+
+      - name: Guardar estado en el repo
+        run: |
+          git config user.name "paper-bot"
+          git config user.email "paper-bot@users.noreply.github.com"
+          for f in state.json trades.jsonl equity.jsonl APRENDIDO.md log_tail.txt symbols.json; do
+            [ -f "$f" ] && git add "$f"
+          done
+          if git diff --cached --quiet; then
+            echo "Sin cambios que guardar"
+            exit 0
+          fi
+          git commit -m "📊 ciclo $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push || { git pull --rebase origin HEAD && git push; }

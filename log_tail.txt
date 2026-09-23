@@ -1,0 +1,72 @@
+🔁 Bucle cada 15.0 min. Ctrl+C para parar.
+
+============================================================
+⏰ Ciclo — 2026-09-23 21:45 UTC
+============================================================
+
+📊 3 candidatos tras filtros
+
+🤖 Analista IA evaluando BNBUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen bajo, MACD negativo, tendencia alcista pero contexto ambiguo
+
+🤖 Analista IA evaluando DOGEUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen bajo, MACD negativo, tendencia alcista contradice señal
+
+🤖 Analista IA evaluando LINKUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen bajo, MACD negativo, tendencia alcista pero precio cerca de banda inferior
+
+💰 Equity: $1000.00 | Cash: $1000.00 | Retorno: +0.00%
+📈 Posiciones abiertas: 0 | Cerradas: 0 | PnL realizado: +0.00
+
+============================================================
+⏰ Ciclo — 2026-09-23 22:00 UTC
+============================================================
+
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando BNBUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen inusualmente bajo y MACD negativo contradicen señal alcista
+
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen inusualmente bajo y MACD negativo no confirman señal alcista
+
+🤖 Analista IA evaluando DOGEUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI muy bajo, volumen inusualmente bajo y MACD negativo no confirman señal alcista
+
+🤖 Analista IA evaluando AVAXUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen caído, MACD negativo, pero EMA alcista
+
+💰 Equity: $1000.00 | Cash: $1000.00 | Retorno: +0.00%
+📈 Posiciones abiertas: 0 | Cerradas: 0 | PnL realizado: +0.00
+
+============================================================
+⏰ Ciclo — 2026-09-23 22:15 UTC
+============================================================
+
+📊 0 candidatos tras filtros
+
+💰 Equity: $999.74 | Cash: $999.85 | Retorno: -0.03%
+📈 Posiciones abiertas: 1 | Cerradas: 0 | PnL realizado: +0.00
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.09293 (-0.11 USD)
+
+============================================================
+⏰ Ciclo — 2026-09-23 22:30 UTC
+============================================================
+
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando BNBUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen bajo, MACD negativo, tendencia alcista pero contexto ambiguo
+
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen bajo, MACD negativo, tendencia alcista pero precio cerca de banda inferior
+
+🤖 Analista IA evaluando AVAXUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen bajo, MACD negativo, tendencia alcista pero contexto ambiguo
+
+🤖 Analista IA evaluando LINKUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI bajo, volumen bajo, MACD negativo, tendencia alcista pero contexto ambiguo
+
+💰 Equity: $998.90 | Cash: $999.85 | Retorno: -0.11%
+📈 Posiciones abiertas: 1 | Cerradas: 0 | PnL realizado: +0.00
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.09241 (-0.95 USD)

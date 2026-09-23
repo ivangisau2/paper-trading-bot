@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>📊 Paper Trading Bot</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0d1117; --card: #161b22; --border: #30363d;
+    --text: #e6edf3; --muted: #8b949e;
+    --green: #3fb950; --red: #f85149; --blue: #58a6ff; --yellow: #d29922;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, "Segoe UI", Roboto, sans-serif; padding: 24px; }
+  h1 { font-size: 22px; display: flex; align-items: center; gap: 10px; }
+  .badge { font-size: 11px; background: var(--yellow); color: #000; padding: 3px 8px; border-radius: 20px; font-weight: 700; }
+  .sub { color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .grid { display: grid; gap: 16px; margin-top: 20px; }
+  .kpis { grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
+  .kpi .label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .5px; }
+  .kpi .value { font-size: 26px; font-weight: 700; margin-top: 6px; }
+  .kpi .sub2 { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .pos { color: var(--green); } .neg { color: var(--red); }
+  .two { grid-template-columns: 2fr 1fr; }
+  @media (max-width: 900px) { .two { grid-template-columns: 1fr; } }
+  h2 { font-size: 15px; margin-bottom: 12px; color: var(--blue); }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { text-align: left; color: var(--muted); font-weight: 600; padding: 8px 6px; border-bottom: 1px solid var(--border); }
+  td { padding: 8px 6px; border-bottom: 1px solid #21262d; }
+  .side { font-size: 11px; padding: 2px 7px; border-radius: 4px; font-weight: 700; }
+  .long { background: #1f6feb33; color: var(--blue); }
+  .short { background: #f8514933; color: var(--red); }
+  pre { font-size: 12px; color: var(--muted); white-space: pre-wrap; word-break: break-word; max-height: 340px; overflow-y: auto; font-family: ui-monospace, monospace; }
+  .empty { color: var(--muted); font-style: italic; padding: 20px 0; }
+  canvas { max-height: 260px; }
+  .footer { margin-top: 20px; color: var(--muted); font-size: 12px; text-align: center; }
+  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 900px) { .charts { grid-template-columns: 1fr; } }
+  .pill { display: inline-block; font-size: 11px; color: var(--muted); }
+</style>
+</head>
+<body>
+  <h1>📊 Bot de Paper Trading <span class="badge">PAPER · SIN DINERO REAL</span> <span class="pill" id="timer" style="font-size:14px; margin-left:auto"></span></h1>
+  <div class="sub">Pipeline: datos → indicadores → filtros → <b>analista IA (Groq)</b> → riesgo → ejecución · ciclo cada 15 min (GitHub Actions) · precios en vivo</div>
+
+  <div class="grid kpis" id="kpis"></div>
+
+  <div class="grid charts">
+    <div class="card"><h2>💰 Evolución del equity</h2><canvas id="eqChart"></canvas></div>
+    <div class="card"><h2>📉 PnL por trade</h2><canvas id="pnlChart"></canvas></div>
+  </div>
+
+  <div class="grid" style="grid-template-columns:1fr; margin-top:16px">
+    <div class="card">
+      <h2 style="display:flex; align-items:center; gap:12px; flex-wrap:wrap">🔍 Precio (velas 1h)
+        <select id="symSel" style="background:var(--bg); color:var(--text); border:1px solid var(--border); border-radius:6px; padding:5px 10px; font-size:13px"></select>
+        <span class="pill" id="priceNow"></span>
+      </h2>
+      <canvas id="priceChart"></canvas>
+    </div>
+  </div>
+
+  <div class="grid two">
+    <div class="card">
+      <h2>📈 Posiciones abiertas</h2>
+      <div id="positions"></div>
+      <h2 style="margin-top:24px">🧾 Últimos trades cerrados</h2>
+      <div id="trades"></div>
+    </div>
+    <div>
+      <div class="card">
+        <h2>🧠 Aprendido (reflexiones IA)</h2>
+        <pre id="lessons">Aún sin lecciones — ejecuta: python3 bot.py reflect</pre>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h2>📋 Log del bot</h2>
+        <pre id="log"></pre>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">Ciclos: GitHub Actions · Estado: commits en el repo · Datos: Binance (data-api.binance.vision) · IA: Groq gratis · Experimento, no asesoramiento financiero</div>
+
+<script>
+let eqChart, pnlChart, priceChart, mode = null; // mode: 'server' | 'static'
+const fmt = (n, d=2) => Number(n).toLocaleString('es-ES', {minimumFractionDigits:d, maximumFractionDigits:d});
+const esc = s => String(s).replace(/[<>&"]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]));
+const BN = 'https://data-api.binance.vision'; // API pública de mercado de Binance (CORS abierto)
+
+// ---- Base de los archivos de estado ----
+//  localhost → archivos relativos | GitHub Pages → derivado de la URL
+function rawBase() {
+  if (/^(localhost|127\.0\.0\.1)$/.test(location.hostname)) return '';
+  if (location.hostname.endsWith('.github.io')) {
+    const owner = location.hostname.replace(/\.github\.io$/, '');
+    const segs = location.pathname.split('/').filter(Boolean);
+    const repo = segs.length ? segs[0] : owner;
+    return `https://raw.githubusercontent.com/${owner}/${repo}/main`;
+  }
+  return '';
+}
+const RAW = rawBase();
+
+function parseJsonl(txt) {
+  return txt.split('\n').filter(l => l.trim()).map(l => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
+}
+
+// ---- Modo estático: arma el snapshot desde los archivos del repo + Binance ----
+async function fetchStaticState() {
+  const cb = '?cb=' + Date.now();
+  const get = async (u) => { try { const r = await fetch(u); return r.ok ? await r.text() : ''; } catch { return ''; } };
+  const [stateTxt, tradesTxt, eqTxt, logTxt, lessonsTxt, symTxt, bnTxt] = await Promise.all([
+    get(RAW + '/state.json' + cb),
+    get(RAW + '/trades.jsonl' + cb),
+    get(RAW + '/equity.jsonl' + cb),
+    get(RAW + '/log_tail.txt' + cb),
+    get(RAW + '/APRENDIDO.md' + cb),
+    get(RAW + '/symbols.json' + cb),
+    fetch(BN + '/api/v3/ticker/24hr').then(r => r.ok ? r.text() : '[]').catch(() => '[]'),
+  ]);
+
+  let st = null;
+  try { st = JSON.parse(stateTxt); } catch {}
+  if (!st) return { error: 'Sin datos todavía — ¿ha corrido el primer ciclo de GitHub Actions? (pestaña Actions del repo). Si acabas de desplegar, espera ~15 min.' };
+
+  let symbols = [];
+  try { symbols = JSON.parse(symTxt); } catch {}
+  const tickers = {};
+  try {
+    for (const t of JSON.parse(bnTxt)) tickers[t.symbol] = {
+      price: parseFloat(t.lastPrice), volume_usd: parseFloat(t.quoteVolume),
+      change_pct: parseFloat(t.priceChangePercent), high: parseFloat(t.highPrice), low: parseFloat(t.lowPrice),
+    };
+  } catch {}
+
+  // posiciones con precio vivo + equity
+  const positions = [];
+  for (const [sym, p] of Object.entries(st.positions || {})) {
+    const price = (tickers[sym] || {}).price || p.entry;
+    const pnl = p.side === 'long' ? (price - p.entry) * p.qty : (p.entry - price) * p.qty;
+    positions.push({ symbol: sym, side: p.side, qty: p.qty, entry: p.entry, price, pnl: Math.round(pnl * 100) / 100, sl: p.sl, tp: p.tp, opened_at: p.opened_at, note: p.note || '' });
+  }
+  let equity = st.balance || 0;
+  for (const p of positions) equity += p.pnl;
+
+  const trades = parseJsonl(tradesTxt);
+  const wins = trades.filter(t => t.pnl > 0);
+  const equity_history = parseJsonl(eqTxt);
+  const last = equity_history[equity_history.length - 1];
+
+  return {
+    generated_at: new Date().toISOString(),
+    mode: 'PAPER TRADING (simulado)',
+    cycle_minutes: 15,
+    last_cycle: last ? last.ts : null,
+    symbols: symbols.length ? symbols : ['BTCUSDT', 'ETHUSDT'],
+    equity: Math.round(equity * 100) / 100,
+    cash: Math.round((st.balance || 0) * 100) / 100,
+    initial_balance: st.initial_balance || 1000,
+    return_pct: Math.round((equity / (st.initial_balance || 1000) - 1) * 10000) / 100,
+    realized_pnl: Math.round((st.realized_pnl || 0) * 100) / 100,
+    closed_count: st.closed || 0,
+    open_count: positions.length,
+    positions,
+    win_rate: trades.length ? Math.round(wins.length / trades.length * 1000) / 10 : null,
+    trades_total: trades.length,
+    best: trades.length ? Math.max(...trades.map(t => t.pnl)) : 0,
+    worst: trades.length ? Math.min(...trades.map(t => t.pnl)) : 0,
+    trades: trades.slice(-50),
+    equity_history: equity_history.slice(-500),
+    log: logTxt ? logTxt.split('\n') : [],
+    lessons: lessonsTxt,
+    prices: {},
+  };
+}
+
+// ---- Snapshot: servidor local (web.py) o estático (GitHub) ----
+async function getSnapshot() {
+  if (mode !== 'static') {
+    try {
+      const r = await fetch('/api/state', { cache: 'no-store' });
+      const j = await r.json();
+      mode = 'server';
+      return j;
+    } catch { mode = 'static'; }
+  }
+  return fetchStaticState();
+}
+
+// ---- Velas 1h: vía servidor local o directo de Binance ----
+async function getKlines(symbol, limit = 168) {
+  if (mode === 'server') {
+    return await (await fetch(`/api/klines?symbol=${symbol}&limit=${limit}`)).json();
+  }
+  const rows = await (await fetch(`${BN}/api/v3/klines?symbol=${symbol}&interval=1h&limit=${limit}`)).json();
+  return {
+    symbol,
+    times: rows.map(r => Math.floor(r[6] / 1000)),
+    close: rows.map(r => parseFloat(r[4])),
+    high: rows.map(r => parseFloat(r[2])),
+    low: rows.map(r => parseFloat(r[3])),
+  };
+}
+
+// ---- Temporizador: cuenta atrás para el próximo ciclo ----
+let lastCycleMs = null, cycleMs = 15 * 60 * 1000;
+function tickTimer() {
+  const el = document.getElementById('timer');
+  if (!lastCycleMs) { el.textContent = '⏱ próximo ciclo: —'; return; }
+  const left = lastCycleMs + cycleMs - Date.now();
+  if (left <= 0) {
+    const over = Math.floor(-left / 60000);
+    el.textContent = over >= 5 ? `⏱ ¡ciclo retrasado! hace ${over} min` : '⏱ esperando cron...';
+    return;
+  }
+  const m = Math.floor(left / 60000), s = Math.floor((left % 60000) / 1000);
+  el.textContent = `⏱ próximo ciclo en ${m}:${String(s).padStart(2, '0')}`;
+}
+setInterval(tickTimer, 1000);
+
+// ---- Selector de gráfico de precio ----
+const symSel = document.getElementById('symSel');
+async function loadPrice() {
+  const sym = symSel.value;
+  if (!sym) return;
+  try {
+    const k = await getKlines(sym, 168);
+    const labels = k.times.map(t => { const d = new Date(t * 1000); return `${String(d.getUTCMonth()+1).padStart(2,'0')}/${String(d.getUTCDate()).padStart(2,'0')} ${String(d.getUTCHours()).padStart(2,'0')}h`; });
+    const style = k.close[k.close.length-1] >= k.close[0] ? '#3fb950' : '#f85149';
+    const last = k.close[k.close.length - 1];
+    document.getElementById('priceNow').textContent = `${sym}: ${fmt(last, last < 1 ? 5 : 2)} (7d)`;
+    if (priceChart) {
+      priceChart.data.labels = labels;
+      priceChart.data.datasets[0].data = k.close;
+      priceChart.data.datasets[0].borderColor = style;
+      priceChart.data.datasets[0].backgroundColor = style + '22';
+      priceChart.update();
+    } else {
+      priceChart = new Chart(document.getElementById('priceChart'), {
+        type: 'line',
+        data: { labels, datasets: [{ data: k.close, borderColor: style, backgroundColor: style + '22', fill: true, tension: .2, pointRadius: 0, pointHitRadius: 25, pointHoverRadius: 5, borderWidth: 1.5 }] },
+        options: {
+          interaction: { mode: 'index', intersect: false },
+          plugins: { legend: { display: false }, tooltip: { intersect: false, position: 'nearest' } },
+          scales: { x: { ticks: { color: '#8b949e', maxTicksLimit: 10 }, grid: { color: '#21262d' } }, y: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } } }
+        }
+      });
+    }
+  } catch (e) { console.error('klines', e); }
+}
+symSel.addEventListener('change', loadPrice);
+
+async function refresh() {
+  let d;
+  try { d = await getSnapshot(); } catch (e) { return; }
+  if (!d || d.error) { document.getElementById('kpis').innerHTML = `<div class="card">${esc((d && d.error) || 'Sin datos (¿red caída?)')}</div>`; return; }
+
+  // temporizador del próximo ciclo
+  if (d.last_cycle) {
+    let ts = d.last_cycle;
+    if (!/Z$/.test(ts) && !/[+-]\d{2}:\d{2}$/.test(ts)) ts += "Z";
+    const t = Date.parse(ts);
+    if (!isNaN(t)) {
+      lastCycleMs = t;
+      cycleMs = (d.cycle_minutes || 15) * 60 * 1000;
+      tickTimer();
+    }
+  }
+
+  // poblar selector de símbolos una sola vez
+  if (!symSel.options.length && d.symbols) {
+    symSel.innerHTML = d.symbols.map(s => `<option value="${s}">${s}</option>`).join('');
+    loadPrice();
+  }
+
+  const wr = d.win_rate == null ? '—' : fmt(d.win_rate,0)+'%';
+  document.getElementById('kpis').innerHTML = `
+    <div class="card kpi"><div class="label">Equity</div><div class="value">$${fmt(d.equity)}</div><div class="sub2">Cash: $${fmt(d.cash)}</div></div>
+    <div class="card kpi"><div class="label">Retorno</div><div class="value ${d.return_pct>=0?'pos':'neg'}">${d.return_pct>=0?'+':''}${fmt(d.return_pct)}%</div><div class="sub2">desde $${fmt(d.initial_balance,0)} iniciales</div></div>
+    <div class="card kpi"><div class="label">PnL realizado</div><div class="value ${d.realized_pnl>=0?'pos':'neg'}">${d.realized_pnl>=0?'+':''}$${fmt(d.realized_pnl)}</div><div class="sub2">${d.closed_count} trades cerrados</div></div>
+    <div class="card kpi"><div class="label">Win rate</div><div class="value">${wr}</div><div class="sub2">${d.trades_total} en historial</div></div>
+    <div class="card kpi"><div class="label">Posiciones</div><div class="value">${d.open_count}</div><div class="sub2">abiertas ahora</div></div>
+    <div class="card kpi"><div class="label">Mejor / Peor</div><div class="value" style="font-size:18px"><span class="pos">+$${fmt(d.best)}</span> / <span class="neg">-$${fmt(Math.abs(d.worst))}</span></div><div class="sub2">trade único</div></div>`;
+
+  // posiciones
+  const posEl = document.getElementById('positions');
+  if (!d.positions.length) posEl.innerHTML = '<div class="empty">Sin posiciones abiertas — el mercado no ofrece setups válidos</div>';
+  else posEl.innerHTML = `<table><tr><th>Símbolo</th><th>Lado</th><th>Entrada</th><th>Precio</th><th>PnL</th><th>SL / TP</th></tr>` +
+    d.positions.map(p => `<tr>
+      <td><b>${esc(p.symbol)}</b></td>
+      <td><span class="side ${p.side}">${p.side.toUpperCase()}</span></td>
+      <td>${fmt(p.entry, p.entry<1?5:2)}</td>
+      <td>${fmt(p.price, p.price<1?5:2)}</td>
+      <td class="${p.pnl>=0?'pos':'neg'}">${p.pnl>=0?'+':''}$${fmt(p.pnl)}</td>
+      <td class="pill">${fmt(p.sl, p.sl<1?5:2)} / ${fmt(p.tp, p.tp<1?5:2)}</td></tr>`).join('') + '</table>';
+
+  // trades
+  const trEl = document.getElementById('trades');
+  const trades = [...d.trades].reverse();
+  if (!trades.length) trEl.innerHTML = '<div class="empty">Aún sin trades cerrados</div>';
+  else trEl.innerHTML = `<table><tr><th>Cierre</th><th>Símbolo</th><th>Lado</th><th>PnL</th><th>Motivo</th></tr>` +
+    trades.slice(0, 15).map(t => `<tr>
+      <td class="pill">${esc(String(t.closed_at || '').slice(5,16).replace('T',' '))}</td>
+      <td>${esc(t.symbol)}</td>
+      <td><span class="side ${t.side}">${t.side.toUpperCase()}</span></td>
+      <td class="${t.pnl>=0?'pos':'neg'}">${t.pnl>=0?'+':''}$${fmt(t.pnl)}</td>
+      <td class="pill">${esc(t.reason)}</td></tr>`).join('') + '</table>';
+
+  document.getElementById('log').textContent = (d.log || []).join('\n') || 'Sin log todavía';
+  if (d.lessons) document.getElementById('lessons').textContent = d.lessons;
+
+  // gráfica equity
+  const hist = d.equity_history;
+  const labels = hist.map(h => h.ts.slice(5,16).replace('T',' '));
+  const eqData = hist.map(h => h.equity);
+  if (eqChart) { eqChart.data.labels = labels; eqChart.data.datasets[0].data = eqData; eqChart.update(); }
+  else eqChart = new Chart(document.getElementById('eqChart'), {
+    type: 'line',
+    data: { labels, datasets: [{ data: eqData, borderColor: '#58a6ff', backgroundColor: '#58a6ff22', fill: true, tension: .3, pointRadius: 2, pointHitRadius: 20, pointHoverRadius: 6 }] },
+    options: {
+      interaction: { mode: 'index', intersect: false },
+      plugins: { legend: { display: false }, tooltip: { intersect: false, position: 'nearest' } },
+      scales: { x: { ticks: { color: '#8b949e', maxTicksLimit: 8 }, grid: { color: '#21262d' } }, y: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } } }
+    }
+  });
+
+  // gráfica PnL por trade
+  const t20 = d.trades.slice(-20);
+  const plabels = t20.map(t => t.symbol.replace('USDT',''));
+  const pdata = t20.map(t => t.pnl);
+  const pcolors = pdata.map(v => v >= 0 ? '#3fb950' : '#f85149');
+  if (pnlChart) { pnlChart.data.labels = plabels; pnlChart.data.datasets[0].data = pdata; pnlChart.data.datasets[0].backgroundColor = pcolors; pnlChart.update(); }
+  else pnlChart = new Chart(document.getElementById('pnlChart'), {
+    type: 'bar',
+    data: { labels: plabels, datasets: [{ data: pdata, backgroundColor: pcolors, borderWidth: 0, hoverBackgroundColor: pdata.map(v => v >= 0 ? '#56d364' : '#ff7b72') }] },
+    options: {
+      interaction: { mode: 'nearest', intersect: false },
+      plugins: { legend: { display: false }, tooltip: { intersect: false } },
+      scales: { x: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } }, y: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } } }
+    }
+  });
+}
+refresh();
+setInterval(refresh, 30000);   // estado + precios en vivo
+setInterval(loadPrice, 60000);  // velas del gráfico cada minuto
+</script>
+</body>
+</html>

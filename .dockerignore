@@ -1,0 +1,10 @@
+.git
+__pycache__
+.cache
+*.log
+state.json
+trades.jsonl
+equity.jsonl
+APRENDIDO.md
+start.sh
+stop.sh
