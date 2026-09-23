@@ -51,6 +51,11 @@ gh secret set GROQ_API_KEY
 
 - **Repo público recomendado**: Actions es ilimitado en públicos (en privados
   solo hay 2.000 min/mes, justo el límite). El estado es dinero simulado.
+- **Ciclos autónomos**: el cron de GitHub (`schedule`) está con una incidencia
+  conocida de la plataforma (ago-2026), así que cada ciclo encadena el
+  siguiente vía job `chain` + secreto `NEXT_RUN_TOKEN` (~15 min). El cron
+  queda como respaldo. Nota: mientras un job `chain` duerme, un lanzamiento
+  manual espera en cola hasta ~14 min.
 - **Fuente de datos del bot: Kraken** (`EXCHANGE=kraken`, por defecto). Binance
   bloquea las IPs de EE.UU. con HTTP 451 y los runners de GitHub Actions están
   en EE.UU. Kraken es legal allí, API pública sin key y con los mismos OHLCV.
