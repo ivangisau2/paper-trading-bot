@@ -122,7 +122,7 @@ def api_state():
 class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.path in ("/", "/index.html"):
-            body = open(os.path.join(ROOT, "dashboard.html"), "rb").read()
+            body = open(os.path.join(ROOT, "index.html"), "rb").read()
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")
             self.send_header("Cache-Control", "no-store")  # siempre la última versión

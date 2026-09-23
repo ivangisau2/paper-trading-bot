@@ -21,11 +21,11 @@ Sin `AI_PROVIDER` definido, se deduce de las claves presentes.
 ## Arquitectura (mismo pipeline que el vídeo)
 
 ```
-Datos (Binance API pública)
+Datos (Kraken API pública — el bot; el dashboard usa Binance en el navegador)
   → Motor de datos (ordena OHLCV)
     → Indicadores (RSI, MACD, EMA, Bollinger, ATR, volumen)
       → Filtro y controles (volumen, volatilidad, extremos)
-        → Analista IA (Ollama qwen3:8b) — puede vetar o confirmar
+        → Analista IA (Groq Llama 3.3 70B / Ollama local) — puede vetar o confirmar
           → Motor de riesgo (tamaño por ATR × agresividad)
             → Ejecución simulada (compra/venta paper)
               → Posición (vigila SL/TP, long y short)
@@ -51,6 +51,12 @@ gh secret set GROQ_API_KEY
 
 - **Repo público recomendado**: Actions es ilimitado en públicos (en privados
   solo hay 2.000 min/mes, justo el límite). El estado es dinero simulado.
+- **Fuente de datos del bot: Kraken** (`EXCHANGE=kraken`, por defecto). Binance
+  bloquea las IPs de EE.UU. con HTTP 451 y los runners de GitHub Actions están
+  en EE.UU. Kraken es legal allí, API pública sin key y con los mismos OHLCV.
+  (BNB no existe en Kraken → se opera UNI en su lugar.)
+- El dashboard en GitHub Pages sigue usando Binance en el navegador (IP del
+  usuario, sin bloqueo) y el HTML se llama `index.html` (lo que Pages sirve).
 - **Sin GROQ_API_KEY** el bot funciona igual, solo que decide con la estrategia
   técnica sin el veto de la IA (nunca se para por falta de IA).
 - ⚠️ GitHub retrasa a veces el cron unos minutos: el contador del dashboard lo

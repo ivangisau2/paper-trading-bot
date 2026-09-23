@@ -69,6 +69,10 @@ def run_cycle() -> dict:
     # 2. Analizar cada cripto sin posición
     candidates = []
     for symbol in SYMBOLS:
+        ticker = tickers.get(symbol)
+        if not ticker:
+            print(f"  [datos] {symbol}: sin ticker — se omite")
+            continue
         try:
             k = data.fetch_klines(symbol, TIMEFRAME, CANDLES)
             ind = indicators.compute_all(k)
@@ -77,7 +81,7 @@ def run_cycle() -> dict:
             continue
 
         has_pos = symbol in engine.state["positions"]
-        ok, why = strategy.passes_filters(ind, tickers[symbol], has_pos)
+        ok, why = strategy.passes_filters(ind, ticker, has_pos)
         sig = strategy.score_signal(ind)
         if not ok:
             continue

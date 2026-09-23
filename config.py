@@ -1,12 +1,18 @@
 # Configuración del bot de paper trading
+import os
 
-# 16 criptomonedas (igual que el vídeo)
-SYMBOLS = [
-    "BTCUSDT", "ETHUSDT", "BNBUSDT", "SOLUSDT",
-    "XRPUSDT", "ADAUSDT", "DOGEUSDT", "AVAXUSDT",
-    "LINKUSDT", "DOTUSDT", "LTCUSDT", "ATOMUSDT",
-    "NEARUSDT", "APTUSDT", "ARBUSDT", "OPUSDT",
-]
+# Criptomonedas canónicas del bot (16, como en el vídeo).
+# Nota: Binance bloquea EE.UU. (HTTP 451) y los runners de GitHub Actions están
+# allí, así que el bot usa Kraken (legal en EE.UU., API pública sin key).
+# Kraken no lista BNB → se usa UNI en su lugar.
+COINS = ["BTC", "ETH", "UNI", "SOL", "XRP", "ADA", "DOGE", "AVAX",
+         "LINK", "DOT", "LTC", "ATOM", "NEAR", "APT", "ARB", "OP"]
+
+# Símbolos clave del bot (BTCUSDT...) = también los que usa el dashboard (vía Binance en navegador)
+SYMBOLS = [c + "USDT" for c in COINS]
+
+# Fuente de datos del bot: kraken (por defecto) o binance
+EXCHANGE = os.environ.get("EXCHANGE", "kraken")
 
 TIMEFRAME = "1h"          # temporalidad de las velas
 CANDLES = 200             # velas a descargar para indicadores
@@ -23,7 +29,7 @@ MAX_POSITION_PCT = 0.15   # máximo 15% del equity en una sola posición
 MIN_SCORE = 1             # puntuación mínima del estratega para operar (de -4 a 4)
 
 # Filtros
-MIN_24H_VOLUME = 20_000_000   # volumen mínimo 24h en USD
+MIN_24H_VOLUME = 5_000_000    # volumen mínimo 24h en USD (Kraken es más fino que Binance)
 MAX_ATR_PCT = 6.0             # no entrar si ATR% > 6% (mercado demsiado loco)
 MIN_ATR_PCT = 0.15            # no entrar si ATR% < 0.15% (mercado muerto)
 
