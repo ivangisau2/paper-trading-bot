@@ -2,7 +2,7 @@ name: 🤖 Ciclo de trading
 
 on:
   schedule:
-    # Cada 15 min (en :04 :19 :34 :49 para esquivar los retrasos de GitHub en minutos redondos)
+    # Kickstart: Cada 15 min (en :04 :19 :34 :49 para esquivar los retrasos de GitHub en minutos redondos)
     - cron: "4,19,34,49 * * * *"
   workflow_dispatch: {}  # botón "Run workflow" para probar
 
