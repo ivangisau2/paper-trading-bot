@@ -1,31 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 14:53 UTC
+⏰ Ciclo — 2026-09-24 15:08 UTC
 ============================================================
-  [ejecución] ❌ CERRADO LINKUSDT @ 12.38953: -3.09 USD (stop loss)
 
-📊 7 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (long score 3)...
-   → LONG (confianza 70%): Precio cerca banda baja, RSI bajo, MACD bullish, volumen alto confirma.
-  [ejecución] ▲ LONG ETHUSDT: 0.05672322 @ 2653.68 | SL 2618.57 | TP 2723.9 | score 3 | IA: Precio cerca banda baja, RSI bajo, MACD bullish, volumen alto confirma.
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 60%): Baja confirmación de volumen y RSI neutral, riesgo de falso impulso
 
-🤖 Analista IA evaluando SOLUSDT (long score 3)...
-   → LONG (confianza 70%): EMA bullish, MACD positive, volume strong, RSI neutral
-  [riesgo] No se abre SOLUSDT: máximo 5 posiciones
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 60%): Volumen bajo y RSI neutro debilitan confirmación
 
-🤖 Analista IA evaluando XRPUSDT (long score 3)...
-   → LONG (confianza 65%): EMA bullish, MACD positive, volume strong, RSI neutral, price near Bollinger middle
-  [riesgo] No se abre XRPUSDT: máximo 5 posiciones
+🤖 Analista IA evaluando NEARUSDT (long score 2)...
+   → FLAT (confianza 60%): Baja confirmación de volumen y precio cerca de banda superior
 
-🤖 Analista IA evaluando LINKUSDT (long score 3)...
-   → LONG (confianza 65%): Bullish EMA, MACD, high volume; RSI neutral, price near upper Bollinger, moderate confidence.
-  [riesgo] No se abre LINKUSDT: máximo 5 posiciones
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 65%): Baja confirmación de volumen y precio sobre banda superior, señal larga poco robusta
 
-💰 Equity: $1005.00 | Cash: $1003.35 | Retorno: +0.50%
+💰 Equity: $1010.82 | Cash: $1003.35 | Retorno: +1.08%
 📈 Posiciones abiertas: 5 | Cerradas: 4 | PnL realizado: +4.10
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0934692 (+0.76 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 83489.9 (-0.01 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.0615 (-0.94 USD)
-   ▲ AVAXUSDT: entry 10.02 → ahora 10.153 (+1.98 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2651.28 (-0.14 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0946297 (+2.63 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 83818.2 (+0.58 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.1405 (+0.36 USD)
+   ▲ AVAXUSDT: entry 10.02 → ahora 10.254 (+3.48 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2661.2 (+0.43 USD)
