@@ -1,26 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 11:09 UTC
+⏰ Ciclo — 2026-09-24 11:24 UTC
 ============================================================
 
-📊 4 candidatos tras filtros
-
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen bajo y MACD negativo generan incertidumbre
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal no suficientemente confirmada
 
 🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen muy bajo, señal poco respaldada
+   → FLAT (confianza 60%): Baja confirmación de volumen y RSI neutro
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 55%): Volumen bajo y MACD negativo, pese a RSI bajo y EMA alcista
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 60%): Baja confirmación: volumen débil, MACD negativo, señal incierta
 
-💰 Equity: $991.31 | Cash: $997.16 | Retorno: -0.87%
+💰 Equity: $992.28 | Cash: $997.16 | Retorno: -0.77%
 📈 Posiciones abiertas: 5 | Cerradas: 1 | PnL realizado: -2.09
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0926907 (-0.50 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.163 (-2.31 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 83491.4 (-0.00 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.0037 (-1.89 USD)
-   ▲ LTCUSDT: entry 67.17 → ahora 66.65 (-1.16 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0928863 (-0.18 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.182 (-2.03 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 83544.6 (+0.09 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.0375 (-1.33 USD)
+   ▲ LTCUSDT: entry 67.17 → ahora 66.53 (-1.43 USD)
