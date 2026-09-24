@@ -1,27 +1,28 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 23:05 UTC
+⏰ Ciclo — 2026-09-24 23:20 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando AVAXUSDT (long score 3)...
+   → LONG (confianza 75%): EMA bullish, MACD positive, volume strong, price near lower Bollinger, RSI neutral.
+  [riesgo] No se abre AVAXUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 65%): Volumen bajo debilita confirmación de señal LONG
+   → FLAT (confianza 40%): Baja confirmación de volumen, señal no suficientemente respaldada
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal poco robusta
+   → FLAT (confianza 65%): Baja volumen y precio cerca de resistencia, señal poco confirmada
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 40%): Baja volumen, señal poco confirmada
+   → FLAT (confianza 45%): Volumen bajo debilita confirmación alcista
 
-🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 65%): Volumen muy bajo y RSI neutral, señal insuficiente
-
-💰 Equity: $1009.38 | Cash: $1004.58 | Retorno: +0.94%
+💰 Equity: $1008.23 | Cash: $1004.58 | Retorno: +0.82%
 📈 Posiciones abiertas: 5 | Cerradas: 6 | PnL realizado: +5.33
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0957921 (+4.50 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84325.5 (+1.49 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2687.12 (+1.90 USD)
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.6011 (-3.12 USD)
-   ▲ UNIUSDT: entry 9.1771 → ahora 9.1786 (+0.02 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0956848 (+4.33 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84320 (+1.48 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2686.99 (+1.89 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.5903 (-3.46 USD)
+   ▲ UNIUSDT: entry 9.1771 → ahora 9.1414 (-0.59 USD)
