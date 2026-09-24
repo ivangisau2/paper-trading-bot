@@ -12,7 +12,7 @@
       "notional": 150.00000000033,
       "fee": 0.15000000000033,
       "note": "score 1",
-      "checked_at": 1790276429.7519288
+      "checked_at": 1790277311.0190814
     },
     "BTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 149.64128656,
       "fee": 0.14964128656,
       "note": "score 5 | IA: RSI oversold, bullish MACD, EMA up, price near lower Bollinger",
-      "checked_at": 1790276429.7519288
+      "checked_at": 1790277311.0190814
     },
     "ETHUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 150.52527444959998,
       "fee": 0.15052527444959998,
       "note": "score 3 | IA: Precio cerca banda baja, RSI bajo, MACD bullish, volumen alto confirma.",
-      "checked_at": 1790276429.7519288
+      "checked_at": 1790277311.0190814
     }
   },
   "closed": 6,
