@@ -1,5 +1,5 @@
 {
-  "balance": 999.5500672982901,
+  "balance": 997.3118045782797,
   "initial_balance": 1000.0,
   "positions": {
     "DOGEUSDT": {
@@ -26,17 +26,28 @@
     },
     "BTCUSDT": {
       "side": "long",
-      "qty": 0.00177504,
-      "entry": 84479.9,
-      "sl": 83752.50753642699,
-      "tp": 85934.68492714601,
-      "opened_at": "2026-09-24T07:58:17+00:00",
-      "notional": 149.955201696,
-      "fee": 0.149955201696,
-      "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, price near Bollinger middle."
+      "qty": 0.00179224,
+      "entry": 83494.0,
+      "sl": 82672.3998718186,
+      "tp": 85137.20025636278,
+      "opened_at": "2026-09-24T08:56:39+00:00",
+      "notional": 149.64128656,
+      "fee": 0.14964128656,
+      "note": "score 5 | IA: RSI oversold, bullish MACD, EMA up, price near lower Bollinger"
+    },
+    "UNIUSDT": {
+      "side": "long",
+      "qty": 16.40813432,
+      "entry": 9.1186,
+      "sl": 8.807555505870406,
+      "tp": 9.74068898825919,
+      "opened_at": "2026-09-24T08:56:41+00:00",
+      "notional": 149.619213610352,
+      "fee": 0.14961921361035202,
+      "note": "score 2 | IA: RSI oversold, EMA bullish, but low volume reduces conviction"
     }
   },
-  "closed": 0,
-  "realized_pnl": 0.0,
+  "closed": 1,
+  "realized_pnl": -2.08895742153599,
   "started": "2026-09-23T21:38:36+00:00"
 }

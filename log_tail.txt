@@ -1,24 +1,28 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 08:41 UTC
+⏰ Ciclo — 2026-09-24 08:56 UTC
 ============================================================
+  [ejecución] ❌ CERRADO BTCUSDT @ 83471.0: -2.09 USD (stop loss)
 
-📊 7 candidatos tras filtros
+📊 8 candidatos tras filtros
+
+🤖 Analista IA evaluando BTCUSDT (long score 5)...
+   → LONG (confianza 78%): RSI oversold, bullish MACD, EMA up, price near lower Bollinger
+  [ejecución] ▲ LONG BTCUSDT: 0.00179224 @ 83494.0 | SL 82672.4 | TP 85137.2 | score 5 | IA: RSI oversold, bullish MACD, EMA up, price near lower Bollinger
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen, RSI cerca de sobreventa, tendencia alcista débil
+   → FLAT (confianza 55%): Baja confirmación de volumen y RSI moderado, aunque EMA y MACD positivos
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen bajo y señal débil, contexto no confirma
+   → LONG (confianza 60%): RSI oversold, EMA bullish, but low volume reduces conviction
+  [ejecución] ▲ LONG UNIUSDT: 16.40813432 @ 9.1186 | SL 8.80756 | TP 9.74069 | score 2 | IA: RSI oversold, EMA bullish, but low volume reduces conviction
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen, señal poco confirmada
+   → FLAT (confianza 55%): Baja confirmación de volumen, aunque indicadores bullish
 
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): EMA bullish, RSI low, pero volumen débil y señal poco fuerte
-
-💰 Equity: $996.69 | Cash: $999.55 | Retorno: -0.33%
-📈 Posiciones abiertas: 3 | Cerradas: 0 | PnL realizado: +0.00
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0934 (+0.65 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.166 (-2.27 USD)
-   ▲ BTCUSDT: entry 84479.9 → ahora 83780.2 (-1.24 USD)
+💰 Equity: $994.87 | Cash: $997.31 | Retorno: -0.51%
+📈 Posiciones abiertas: 4 | Cerradas: 1 | PnL realizado: -2.09
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0930934 (+0.15 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.146 (-2.56 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 83471 (-0.04 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.1189 (+0.00 USD)
