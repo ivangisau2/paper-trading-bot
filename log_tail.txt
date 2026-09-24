@@ -1,26 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 16:36 UTC
+⏰ Ciclo — 2026-09-24 16:50 UTC
 ============================================================
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio sobre banda superior, RSI alto, señal insuficiente, mejor esperar
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Mixed indicators; bullish trend but price near upper Bollinger, signal not fully confirmed
+   → LONG (confianza 65%): EMA bullish, MACD positive, volume strong; price above upper Bollinger raises caution
+  [riesgo] No se abre XRPUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio sobre BB superior, RSI alto, señal poco confirmada
-
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 55%): Precio sobre banda superior, posible retroceso, duda razonable
+   → FLAT (confianza 60%): Señal LONG, pero precio sobre banda superior y RSI alto generan duda
 
 🤖 Analista IA evaluando LINKUSDT (long score 1)...
-   → FLAT (confianza 30%): Precio sobre banda superior, RSI alto; tendencia bullish pero señal débil
+   → FLAT (confianza 60%): Precio sobre Bollinger, RSI alto, riesgo de retroceso
 
-💰 Equity: $1021.88 | Cash: $1003.35 | Retorno: +2.19%
+💰 Equity: $1021.87 | Cash: $1003.35 | Retorno: +2.19%
 📈 Posiciones abiertas: 5 | Cerradas: 4 | PnL realizado: +4.10
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0965589 (+5.74 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84575.8 (+1.94 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.2939 (+2.88 USD)
-   ▲ AVAXUSDT: entry 10.02 → ahora 10.416 (+5.88 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2690.48 (+2.09 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0965165 (+5.67 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84581.9 (+1.95 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.279 (+2.63 USD)
+   ▲ AVAXUSDT: entry 10.02 → ahora 10.44 (+6.24 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2689.34 (+2.02 USD)
