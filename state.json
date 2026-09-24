@@ -12,7 +12,7 @@
       "notional": 150.00000000033,
       "fee": 0.15000000000033,
       "note": "score 1",
-      "checked_at": 1790285899.5984426
+      "checked_at": 1790286775.6640763
     },
     "BTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 149.64128656,
       "fee": 0.14964128656,
       "note": "score 5 | IA: RSI oversold, bullish MACD, EMA up, price near lower Bollinger",
-      "checked_at": 1790285899.5984426
+      "checked_at": 1790286775.6640763
     },
     "ETHUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 150.52527444959998,
       "fee": 0.15052527444959998,
       "note": "score 3 | IA: Precio cerca banda baja, RSI bajo, MACD bullish, volumen alto confirma.",
-      "checked_at": 1790285899.5984426
+      "checked_at": 1790286775.6640763
     },
     "NEARUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790285899.5984426
+      "checked_at": 1790286775.6640763
     },
     "UNIUSDT": {
       "side": "long",
@@ -59,7 +59,8 @@
       "opened_at": "2026-09-24T21:38:23+00:00",
       "notional": 150.710114962696,
       "fee": 0.150710114962696,
-      "note": "score 3 | IA: EMA bullish, MACD positive, volume high; RSI neutral, price near lower Bollinger, modest confidence."
+      "note": "score 3 | IA: EMA bullish, MACD positive, volume high; RSI neutral, price near lower Bollinger, modest confidence.",
+      "checked_at": 1790286775.6640763
     }
   },
   "closed": 6,
