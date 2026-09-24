@@ -1,5 +1,5 @@
 {
-  "balance": 999.7000224999861,
+  "balance": 999.5500672982901,
   "initial_balance": 1000.0,
   "positions": {
     "DOGEUSDT": {
@@ -23,6 +23,17 @@
       "notional": 149.97750001364,
       "fee": 0.14997750001364,
       "note": "score 1"
+    },
+    "BTCUSDT": {
+      "side": "long",
+      "qty": 0.00177504,
+      "entry": 84479.9,
+      "sl": 83752.50753642699,
+      "tp": 85934.68492714601,
+      "opened_at": "2026-09-24T07:58:17+00:00",
+      "notional": 149.955201696,
+      "fee": 0.149955201696,
+      "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, price near Bollinger middle."
     }
   },
   "closed": 0,
