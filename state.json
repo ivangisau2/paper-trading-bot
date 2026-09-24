@@ -1,5 +1,5 @@
 {
-  "balance": 992.4796979834023,
+  "balance": 1006.4407826195304,
   "initial_balance": 1000.0,
   "positions": {
     "DOGEUSDT": {
@@ -35,17 +35,6 @@
       "fee": 0.14961921361035202,
       "note": "score 2 | IA: RSI oversold, EMA bullish, but low volume reduces conviction"
     },
-    "LTCUSDT": {
-      "side": "long",
-      "qty": 2.22713668,
-      "entry": 67.17,
-      "sl": 64.78722666380683,
-      "tp": 71.93554667238634,
-      "opened_at": "2026-09-24T09:41:23+00:00",
-      "notional": 149.5967707956,
-      "fee": 0.14959677079560002,
-      "note": "score 3 | IA: Se\u00f1al respaldada, pero cerca de banda superior"
-    },
     "AVAXUSDT": {
       "side": "long",
       "qty": 14.85970947,
@@ -56,9 +45,20 @@
       "notional": 148.8942888894,
       "fee": 0.1488942888894,
       "note": "score 4 | IA: RSI oversold, bullish EMA, price near lower Bollinger, MACD positive"
+    },
+    "LINKUSDT": {
+      "side": "long",
+      "qty": 11.96155269,
+      "entry": 12.62284,
+      "sl": 12.399702930520911,
+      "tp": 13.069114138958179,
+      "opened_at": "2026-09-24T14:24:18+00:00",
+      "notional": 150.9887657574396,
+      "fee": 0.1509887657574396,
+      "note": "score 2 | IA: Precio sobre banda superior, pero indicadores alcistas confirman tendencia"
     }
   },
-  "closed": 2,
-  "realized_pnl": -6.7725504567420245,
+  "closed": 3,
+  "realized_pnl": 7.189926174347969,
   "started": "2026-09-23T21:38:36+00:00"
 }
