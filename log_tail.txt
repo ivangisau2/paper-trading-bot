@@ -1,28 +1,28 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 23:20 UTC
+⏰ Ciclo — 2026-09-24 23:23 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (long score 3)...
-   → LONG (confianza 75%): EMA bullish, MACD positive, volume strong, price near lower Bollinger, RSI neutral.
+   → LONG (confianza 65%): MACD bullish, EMA up, volume high; RSI neutral, price near lower Bollinger.
   [riesgo] No se abre AVAXUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 40%): Baja confirmación de volumen, señal no suficientemente respaldada
+   → FLAT (confianza 55%): Bulls dominate EMA, MACD; pero bajo volumen y cerca de banda superior sugiere cautela
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volumen y precio cerca de resistencia, señal poco confirmada
+   → FLAT (confianza 65%): Baja confirmación de volumen y precio cerca de banda superior
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen bajo debilita confirmación alcista
+   → FLAT (confianza 55%): Volumen bajo y señal débil, mejor esperar
 
-💰 Equity: $1008.23 | Cash: $1004.58 | Retorno: +0.82%
+💰 Equity: $1008.77 | Cash: $1004.58 | Retorno: +0.88%
 📈 Posiciones abiertas: 5 | Cerradas: 6 | PnL realizado: +5.33
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0956848 (+4.33 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84320 (+1.48 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2686.99 (+1.89 USD)
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.5903 (-3.46 USD)
-   ▲ UNIUSDT: entry 9.1771 → ahora 9.1414 (-0.59 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0958201 (+4.55 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84365.7 (+1.56 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2689.11 (+2.01 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.5927 (-3.39 USD)
+   ▲ UNIUSDT: entry 9.1771 → ahora 9.1437 (-0.55 USD)
