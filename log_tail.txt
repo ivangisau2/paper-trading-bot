@@ -1,20 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 00:12 UTC
+⏰ Ciclo — 2026-09-24 00:27 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+   → FLAT (confianza 60%): Volumen bajo y señal débil, mejor esperar
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 65%): Bajo volumen y señal débil, mejor esperar
+   → FLAT (confianza 55%): Volumen bajo y RSI neutro debilitan confirmación
 
-🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 65%): Baja confirmación: volumen escaso y MACD negativo pese a RSI bajo.
-
-💰 Equity: $997.79 | Cash: $999.70 | Retorno: -0.22%
+💰 Equity: $998.61 | Cash: $999.70 | Retorno: -0.14%
 📈 Posiciones abiertas: 2 | Cerradas: 0 | PnL realizado: +0.00
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0926185 (-0.62 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.233 (-1.29 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0931558 (+0.25 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.23 (-1.34 USD)
