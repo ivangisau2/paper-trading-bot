@@ -1,5 +1,5 @@
 {
-  "balance": 997.3118045782797,
+  "balance": 997.1622078074842,
   "initial_balance": 1000.0,
   "positions": {
     "DOGEUSDT": {
@@ -45,6 +45,17 @@
       "notional": 149.619213610352,
       "fee": 0.14961921361035202,
       "note": "score 2 | IA: RSI oversold, EMA bullish, but low volume reduces conviction"
+    },
+    "LTCUSDT": {
+      "side": "long",
+      "qty": 2.22713668,
+      "entry": 67.17,
+      "sl": 64.78722666380683,
+      "tp": 71.93554667238634,
+      "opened_at": "2026-09-24T09:41:23+00:00",
+      "notional": 149.5967707956,
+      "fee": 0.14959677079560002,
+      "note": "score 3 | IA: Se\u00f1al respaldada, pero cerca de banda superior"
     }
   },
   "closed": 1,
