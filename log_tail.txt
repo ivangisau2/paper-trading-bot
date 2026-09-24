@@ -1,27 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 10:54 UTC
+⏰ Ciclo — 2026-09-24 11:09 UTC
 ============================================================
 
-📊 6 candidatos tras filtros
-
-🤖 Analista IA evaluando LINKUSDT (long score 3)...
-   → LONG (confianza 75%): RSI oversold, bullish EMA, positive MACD, price near lower Bollinger, strong volume.
-  [riesgo] No se abre LINKUSDT: máximo 5 posiciones
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Indicadores mixtos, RSI bajo y EMA bullish, pero MACD negativo y bajo volumen.
-
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Indicadores mixtos, bajo volumen y MACD negativo generan duda.
+   → FLAT (confianza 45%): Volumen bajo y MACD negativo generan incertidumbre
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen, señal débil
+   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente, señal poco confirmada
 
-💰 Equity: $989.33 | Cash: $997.16 | Retorno: -1.07%
+🤖 Analista IA evaluando LINKUSDT (long score 2)...
+   → FLAT (confianza 55%): Volumen muy bajo, señal poco respaldada
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 55%): Volumen bajo y MACD negativo, pese a RSI bajo y EMA alcista
+
+💰 Equity: $991.31 | Cash: $997.16 | Retorno: -0.87%
 📈 Posiciones abiertas: 5 | Cerradas: 1 | PnL realizado: -2.09
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0926178 (-0.62 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.117 (-2.98 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 83477.5 (-0.03 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 8.9311 (-3.08 USD)
-   ▲ LTCUSDT: entry 67.17 → ahora 66.66 (-1.14 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0926907 (-0.50 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.163 (-2.31 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 83491.4 (-0.00 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.0037 (-1.89 USD)
+   ▲ LTCUSDT: entry 67.17 → ahora 66.65 (-1.16 USD)
