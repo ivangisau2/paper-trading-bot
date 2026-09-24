@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 10:25 UTC
+⏰ Ciclo — 2026-09-24 10:39 UTC
 ============================================================
 
 📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando LINKUSDT (long score 3)...
-   → LONG (confianza 70%): Precio cerca de banda inferior, RSI bajo, MACD positivo, tendencia alcista
+🤖 Analista IA evaluando LINKUSDT (long score 4)...
+   → LONG (confianza 78%): Precio cerca banda baja, RSI bajo, MACD positivo, tendencia alcista
   [riesgo] No se abre LINKUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio bajo banda, RSI oversold, pero MACD negativo y bajo volumen; duda razonable.
+   → FLAT (confianza 45%): Señal conflictiva, bajo volumen y MACD negativo
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Señal conflictiva, bajo volumen y MACD negativo pese a RSI bajo
+   → FLAT (confianza 55%): Mixed signals: oversold, below Bollinger lower, but MACD negative and low volume.
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Mixed signals; bullish trend but low volume and negative MACD suggest caution
+   → FLAT (confianza 55%): Conflicto entre MACD negativo, bajo volumen y precio bajo banda, duda razonable
 
-💰 Equity: $987.22 | Cash: $997.16 | Retorno: -1.28%
+💰 Equity: $986.90 | Cash: $997.16 | Retorno: -1.31%
 📈 Posiciones abiertas: 5 | Cerradas: 1 | PnL realizado: -2.09
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0920127 (-1.59 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.062 (-3.78 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 83235.4 (-0.46 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 8.8966 (-3.64 USD)
-   ▲ LTCUSDT: entry 67.17 → ahora 66.96 (-0.47 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0921712 (-1.34 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.081 (-3.50 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 83329.6 (-0.29 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 8.8672 (-4.13 USD)
+   ▲ LTCUSDT: entry 67.17 → ahora 66.72 (-1.00 USD)
