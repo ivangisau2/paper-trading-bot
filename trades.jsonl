@@ -1,1 +1,2 @@
 {"symbol": "BTCUSDT", "side": "long", "entry": 84479.9, "exit": 83471.0, "qty": 0.00177504, "pnl": -2.089, "opened_at": "2026-09-24T07:58:17+00:00", "closed_at": "2026-09-24T08:56:36+00:00", "reason": "stop loss", "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, price near Bollinger middle."}
+{"symbol": "AVAXUSDT", "side": "long", "entry": 10.322, "exit": 10.02, "qty": 14.52988762, "pnl": -4.6836, "opened_at": "2026-09-23T23:11:21+00:00", "closed_at": "2026-09-24T12:41:39+00:00", "reason": "stop loss", "note": "score 1"}
