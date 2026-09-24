@@ -1,26 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 18:15 UTC
+⏰ Ciclo — 2026-09-24 18:30 UTC
 ============================================================
 
-📊 5 candidatos tras filtros
-
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen, cerca de resistencia
-
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja volumen y precio cerca banda superior, señal poco confirmada
+📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen, precio cerca resistencia Bollinger.
+   → FLAT (confianza 55%): Bullish trend but low volume and near upper Bollinger; moderate confidence, stay flat
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen y precio cerca de banda superior
+   → FLAT (confianza 55%): Precio cerca de resistencia, bajo volumen, señal bullish pero incertidumbre, mejor esperar
 
-💰 Equity: $1018.07 | Cash: $1003.35 | Retorno: +1.81%
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 70%): Banda superior, bajo volumen, RSI alto, señal débil
+
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 65%): Baja volumen y precio cerca de resistencia, señal poco confirmada
+
+💰 Equity: $1020.39 | Cash: $1003.35 | Retorno: +2.04%
 📈 Posiciones abiertas: 5 | Cerradas: 4 | PnL realizado: +4.10
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0960435 (+4.91 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84249.6 (+1.35 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.2636 (+2.38 USD)
-   ▲ AVAXUSDT: entry 10.02 → ahora 10.35 (+4.90 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2674.37 (+1.17 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0964812 (+5.61 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84460.8 (+1.73 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.2687 (+2.46 USD)
+   ▲ AVAXUSDT: entry 10.02 → ahora 10.385 (+5.42 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2685.54 (+1.81 USD)
