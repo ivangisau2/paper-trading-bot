@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 06:59 UTC
+⏰ Ciclo — 2026-09-24 07:14 UTC
 ============================================================
 
 📊 8 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen, señal bullish pero falta confirmación robusta
+   → FLAT (confianza 60%): Baja confirmación de volumen pese a indicadores alcistas
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y señal débil, aunque EMA y MACD positivos
+   → FLAT (confianza 65%): Bajo volumen y RSI neutro, contexto no confirma
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja confirmación, volumen débil, RSI neutro
+   → FLAT (confianza 65%): Baja confirmación: volumen débil y RSI no suficientemente bajo
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja confirmación, volumen débil y RSI neutro
+   → FLAT (confianza 60%): Baja confirmación, volumen muy bajo
 
-💰 Equity: $1001.05 | Cash: $999.70 | Retorno: +0.10%
+💰 Equity: $999.78 | Cash: $999.70 | Retorno: -0.02%
 📈 Posiciones abiertas: 2 | Cerradas: 0 | PnL realizado: +0.00
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0944216 (+2.29 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.257 (-0.94 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0941226 (+1.81 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.203 (-1.73 USD)
