@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 13:25 UTC
+⏰ Ciclo — 2026-09-24 13:40 UTC
 ============================================================
 
-📊 5 candidatos tras filtros
+📊 6 candidatos tras filtros
+
+🤖 Analista IA evaluando ADAUSDT (long score 3)...
+   → LONG (confianza 65%): EMA bullish, MACD positive, volume high; price near resistance
+  [riesgo] No se abre ADAUSDT: máximo 5 posiciones
+
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 45%): Indicadores mixtos, falta confirmación clara
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Tendencia alcista pero indicadores mixtos y bajo volumen
+   → FLAT (confianza 55%): Precio cerca de banda superior, señal no suficientemente confirmada
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen bajo y RSI neutro, señal insuficiente para LONG
+   → FLAT (confianza 55%): Precio cerca de banda superior, señal débil, duda razonable
 
-🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 60%): Bullish EMA, MACD, but low volume and RSI <50; insufficient confirmation.
-
-🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → LONG (confianza 65%): Indicadores mayormente alcistas, RSI neutro, precio cerca de banda superior
-  [riesgo] No se abre LINKUSDT: máximo 5 posiciones
-
-💰 Equity: $1000.20 | Cash: $992.48 | Retorno: +0.02%
+💰 Equity: $1004.72 | Cash: $992.48 | Retorno: +0.47%
 📈 Posiciones abiertas: 5 | Cerradas: 2 | PnL realizado: -6.77
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0936443 (+1.04 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 83784.4 (+0.52 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.1087 (-0.16 USD)
-   ▲ LTCUSDT: entry 67.17 → ahora 69.11 (+4.32 USD)
-   ▲ AVAXUSDT: entry 10.02 → ahora 10.155 (+2.01 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.094155 (+1.86 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84176.1 (+1.22 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.2124 (+1.54 USD)
+   ▲ LTCUSDT: entry 67.17 → ahora 68.9 (+3.85 USD)
+   ▲ AVAXUSDT: entry 10.02 → ahora 10.273 (+3.76 USD)
