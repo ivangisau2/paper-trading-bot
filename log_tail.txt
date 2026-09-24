@@ -1,28 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 13:54 UTC
+⏰ Ciclo — 2026-09-24 14:09 UTC
 ============================================================
 
-📊 5 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 3)...
-   → LONG (confianza 75%): Precio cerca de media, RSI neutro, MACD positivo, volumen alto
-  [riesgo] No se abre SOLUSDT: máximo 5 posiciones
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal poco confirmada
 
-🤖 Analista IA evaluando ADAUSDT (long score 3)...
-   → LONG (confianza 65%): Bullish EMA, MACD +, high volume, RSI neutral, near upper Bollinger.
-  [riesgo] No se abre ADAUSDT: máximo 5 posiciones
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 40%): Baja volatilidad y volumen insuficiente, señal poco confirmada
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 45%): Indicadores mixtos, falta confirmación clara para LONG
+   → FLAT (confianza 40%): Volumen bajo y RSI neutro, señal insuficiente
 
-🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio cerca de banda superior, señal no suficientemente confirmada
+🤖 Analista IA evaluando NEARUSDT (long score 2)...
+   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, señal poco confirmada
 
-💰 Equity: $1006.38 | Cash: $992.48 | Retorno: +0.64%
+💰 Equity: $1010.33 | Cash: $992.48 | Retorno: +1.03%
 📈 Posiciones abiertas: 5 | Cerradas: 2 | PnL realizado: -6.77
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0938246 (+1.33 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 83983.6 (+0.88 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.1635 (+0.74 USD)
-   ▲ LTCUSDT: entry 67.17 → ahora 70.64 (+7.73 USD)
-   ▲ AVAXUSDT: entry 10.02 → ahora 10.237 (+3.22 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0944695 (+2.37 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84251.7 (+1.36 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.1902 (+1.17 USD)
+   ▲ LTCUSDT: entry 67.17 → ahora 71.24 (+9.06 USD)
+   ▲ AVAXUSDT: entry 10.02 → ahora 10.281 (+3.88 USD)
