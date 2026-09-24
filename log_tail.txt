@@ -1,25 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 09:11 UTC
+⏰ Ciclo — 2026-09-24 09:26 UTC
 ============================================================
 
-📊 6 candidatos tras filtros
+📊 7 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 4)...
-   → FLAT (confianza 45%): Low volume and price below Bollinger lower band create doubt despite bullish indicators
+🤖 Analista IA evaluando ETHUSDT (long score 4)...
+   → FLAT (confianza 55%): Low volume and price below Bollinger lower band outweigh bullish EMA and MACD
 
-🤖 Analista IA evaluando SOLUSDT (long score 3)...
-   → FLAT (confianza 60%): Baja confirmación de volumen y señal débil pese a RSI bajo y EMA alcista
+🤖 Analista IA evaluando ADAUSDT (long score 3)...
+   → FLAT (confianza 55%): Precio bajo banda, RSI bajo, pero volumen débil, duda razonable
 
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio bajo banda, RSI bajo, pero MACD negativo y bajo volumen
 
-🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+🤖 Analista IA evaluando LINKUSDT (long score 2)...
+   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente para confirmar señal LONG
 
-💰 Equity: $994.42 | Cash: $997.31 | Retorno: -0.56%
+💰 Equity: $987.80 | Cash: $997.31 | Retorno: -1.22%
 📈 Posiciones abiertas: 4 | Cerradas: 1 | PnL realizado: -2.09
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0930843 (+0.14 USD)
-   ▲ AVAXUSDT: entry 10.322 → ahora 10.162 (-2.32 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 83567.6 (+0.13 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.0677 (-0.84 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0923541 (-1.04 USD)
+   ▲ AVAXUSDT: entry 10.322 → ahora 10.08 (-3.52 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 83327.5 (-0.30 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 8.8347 (-4.66 USD)
