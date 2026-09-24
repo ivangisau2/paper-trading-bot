@@ -58,13 +58,67 @@ def log_equity(engine: "PaperEngine", tickers: dict):
         f.write(json.dumps(entry) + "\n")
 
 
+def check_wick_exits(engine: PaperEngine) -> list:
+    """Cierre por toques entre ciclos (semántica de orden límite).
+
+    check_exits solo mira el precio en el instante del ciclo: si el TP se toca
+    y se abandona entre dos ciclos (wick de 1-5 min), no se cerraba. Aquí se
+    revisan las velas de 1 minuto desde la última comprobación de cada
+    posición (o desde su apertura) y se cierra al precio TP/SL que se tocó,
+    como si hubiera una orden límite real colocada.
+    """
+    closed = []
+    now_ts = time.time()
+    for symbol in list(engine.state["positions"]):
+        pos = engine.state["positions"][symbol]
+        since = pos.get("checked_at")
+        if since is None:  # posición anterior a esta función: desde su apertura
+            try:
+                since = datetime.fromisoformat(pos.get("opened_at", "")).timestamp()
+            except ValueError:
+                since = now_ts
+            since = max(since, now_ts - 720 * 60)  # Kraken devuelve 720 velas 1m
+        try:
+            k = data.fetch_klines(symbol, "1m", 720)
+            time.sleep(0.25)  # ritmo de Kraken
+        except Exception as e:
+            print(f"  [salida] velas 1m de {symbol}: {e}")
+            continue  # sin datos: no se avanza checked_at (se reintentará)
+        hit = None
+        for i in range(len(k["close_time"])):
+            if k["close_time"][i] / 1000 < since - 60:
+                continue  # vela terminada antes de la ventana
+            if pos["side"] == "long":
+                if k["low"][i] <= pos["sl"]:
+                    hit = (pos["sl"], "stop loss (wick entre ciclos)")
+                    break
+                if k["high"][i] >= pos["tp"]:
+                    hit = (pos["tp"], "take profit (wick entre ciclos)")
+                    break
+            else:
+                if k["high"][i] >= pos["sl"]:
+                    hit = (pos["sl"], "stop loss (wick entre ciclos)")
+                    break
+                if k["low"][i] <= pos["tp"]:
+                    hit = (pos["tp"], "take profit (wick entre ciclos)")
+                    break
+        if hit:
+            closed.append((symbol, engine.close(symbol, hit[0], hit[1])))
+        if symbol in engine.state["positions"]:
+            engine.state["positions"][symbol]["checked_at"] = now_ts
+    if engine.state["positions"] and not closed:
+        print(f"  [salida] wicks 1m revisados: {len(engine.state['positions'])} posición(es) — sin toque de SL/TP")
+    return closed
+
+
 def run_cycle() -> dict:
     print(f"\n{'='*60}\n⏰ Ciclo — {now()}\n{'='*60}")
     engine = PaperEngine()
     tickers = data.fetch_24h_tickers(SYMBOLS)
 
     # 1. Vigilar posiciones abiertas (SL/TP)
-    engine.check_exits(tickers)
+    check_wick_exits(engine)       # toques en velas 1m entre ciclos (orden límite)
+    engine.check_exits(tickers)    # precio actual en el instante del ciclo
 
     # 2. Analizar cada cripto sin posición
     candidates = []
