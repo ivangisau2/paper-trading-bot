@@ -1,26 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-24 17:46 UTC
+⏰ Ciclo — 2026-09-24 18:00 UTC
 ============================================================
 
 📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 3)...
-   → FLAT (confianza 60%): Precio cerca banda superior, posible retroceso; indicadores mixtos
-
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio cerca de resistencia, volumen bajo, señal débil; mejor esperar confirmación
+   → FLAT (confianza 60%): Volumen extremadamente bajo, señal poco confirmada
+
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 60%): Bajo volumen y precio cerca de banda superior, riesgo de reversión
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 60%): Precio cerca de resistencia, volumen bajo, señal poco robusta
+   → FLAT (confianza 65%): Baja volatilidad y volumen, precio cerca banda superior, señal poco confirmada
 
-🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio sobre banda superior y RSI alto indican posible retroceso
+🤖 Analista IA evaluando LTCUSDT (long score 2)...
+   → FLAT (confianza 40%): Low volume and high RSI create doubt despite bullish EMA; recommend flat
 
-💰 Equity: $1015.77 | Cash: $1003.35 | Retorno: +1.58%
+💰 Equity: $1015.69 | Cash: $1003.35 | Retorno: +1.57%
 📈 Posiciones abiertas: 5 | Cerradas: 4 | PnL realizado: +4.10
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0957291 (+4.40 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84139.9 (+1.16 USD)
-   ▲ UNIUSDT: entry 9.1186 → ahora 9.2073 (+1.46 USD)
-   ▲ AVAXUSDT: entry 10.02 → ahora 10.318 (+4.43 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2670.95 (+0.98 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0958725 (+4.63 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84033.3 (+0.97 USD)
+   ▲ UNIUSDT: entry 9.1186 → ahora 9.2368 (+1.94 USD)
+   ▲ AVAXUSDT: entry 10.02 → ahora 10.293 (+4.06 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2666.85 (+0.75 USD)
