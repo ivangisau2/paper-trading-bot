@@ -1,24 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 08:23 UTC
+⏰ Ciclo — 2026-09-25 08:37 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja confirmación de volumen y señal cercana a resistencia
+   → FLAT (confianza 55%): Volumen bajo y confirmación limitada, mejor esperar
 
 🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen bajo, señal débil pese a tendencia alcista
+   → FLAT (confianza 60%): Baja confirmación de volumen, señal poco robusta
 
-🤖 Analista IA evaluando LINKUSDT (long score 1)...
-   → FLAT (confianza 65%): RSI overbought y precio cerca de banda superior, riesgo de reversión
+🤖 Analista IA evaluando LINKUSDT (long score 2)...
+   → FLAT (confianza 55%): RSI overbought y cerca de banda superior, riesgo de reversión pese tendencia alcista
 
-💰 Equity: $1011.43 | Cash: $1004.58 | Retorno: +1.14%
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 40%): Bollinger breakout but low volume, weak signal
+
+💰 Equity: $1010.83 | Cash: $1004.58 | Retorno: +1.08%
 📈 Posiciones abiertas: 5 | Cerradas: 6 | PnL realizado: +5.33
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0960738 (+4.96 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84325.1 (+1.49 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2688.84 (+1.99 USD)
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.6525 (-1.47 USD)
-   ▲ UNIUSDT: entry 9.1771 → ahora 9.1697 (-0.12 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0961301 (+5.05 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84358.5 (+1.55 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2688.32 (+1.96 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.6163 (-2.63 USD)
+   ▲ UNIUSDT: entry 9.1771 → ahora 9.1962 (+0.31 USD)
