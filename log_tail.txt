@@ -1,28 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 00:36 UTC
+⏰ Ciclo — 2026-09-25 00:50 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → LONG (confianza 60%): Bullish EMA, MACD, RSI neutral; low volume reduces confidence.
-  [riesgo] No se abre SOLUSDT: máximo 5 posiciones
+   → FLAT (confianza 60%): Precio cerca de resistencia, volumen bajo, señal poco confirmada
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio cerca de banda superior, volumen bajo, señal poco confirmada
+   → FLAT (confianza 55%): Precio cerca de banda superior, RSI moderado, señales mixtas, mejor esperar confirmación
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 65%): Precio cerca de banda superior, RSI alto, volumen bajo, duda razonable
+   → FLAT (confianza 60%): Volumen bajo y precio cerca de banda superior, señal poco confirmada
 
 🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen y RSI neutro, duda razonable
+   → FLAT (confianza 55%): Bullish indicators weak, volume low, RSI neutral
 
-💰 Equity: $1009.90 | Cash: $1004.58 | Retorno: +0.99%
+💰 Equity: $1010.98 | Cash: $1004.58 | Retorno: +1.10%
 📈 Posiciones abiertas: 5 | Cerradas: 6 | PnL realizado: +5.33
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.0960209 (+4.87 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84536.2 (+1.87 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2688.04 (+1.95 USD)
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.6161 (-2.64 USD)
-   ▲ UNIUSDT: entry 9.1771 → ahora 9.1323 (-0.74 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.0963228 (+5.36 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84603.8 (+1.99 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2689.55 (+2.03 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.6057 (-2.97 USD)
+   ▲ UNIUSDT: entry 9.1771 → ahora 9.1759 (-0.02 USD)
