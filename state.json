@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790371235.2851715
+      "checked_at": 1790371685.3555408
     },
     "DOGEUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 154.14123727067317,
       "fee": 0.15414123727067316,
       "note": "score 3 | IA: Precio cerca banda media, RSI neutro, EMA bullish, volumen fuerte, confirma se\u00f1al LONG",
-      "checked_at": 1790371235.2851715
+      "checked_at": 1790371685.3555408
     },
     "XRPUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 153.89396947409028,
       "fee": 0.1538939694740903,
       "note": "score 3 | IA: Bullish EMA, RSI moderate, volume strong, price near upper Bollinger",
-      "checked_at": 1790371235.2851715
+      "checked_at": 1790371685.3555408
     },
     "AVAXUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 153.87088537604,
       "fee": 0.15387088537604002,
       "note": "score 3 | IA: EMA bullish, MACD positivo, precio cerca de media Bollinger, RSI neutro",
-      "checked_at": 1790371235.2851715
+      "checked_at": 1790371685.3555408
     },
     "LINKUSDT": {
       "side": "long",
@@ -60,7 +60,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790371235.2851715
+      "checked_at": 1790371685.3555408
     }
   },
   "closed": 11,
