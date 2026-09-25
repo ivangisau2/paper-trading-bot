@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790343945.9527314
+      "checked_at": 1790344825.7554033
     },
     "BTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 154.16422545,
       "fee": 0.15416422545,
       "note": "score 3 | IA: Precio cerca banda baja, MACD y EMA bullish, RSI neutro, confirma LONG.",
-      "checked_at": 1790343945.9527314
+      "checked_at": 1790344825.7554033
     },
     "DOGEUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 154.14123727067317,
       "fee": 0.15414123727067316,
       "note": "score 3 | IA: Precio cerca banda media, RSI neutro, EMA bullish, volumen fuerte, confirma se\u00f1al LONG",
-      "checked_at": 1790343945.9527314
+      "checked_at": 1790344825.7554033
     }
   },
   "closed": 10,
