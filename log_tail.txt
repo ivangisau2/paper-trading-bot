@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 04:16 UTC
+⏰ Ciclo — 2026-09-25 04:31 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil, señal marginal
+   → FLAT (confianza 55%): Baja confirmación, volumen débil, señal incierta
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, señal débil pese a EMA alcista
+   → FLAT (confianza 55%): Baja volatilidad y volumen, señal débil pese a indicadores alcistas
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen, indicadores mixtos; contexto no confirma suficientemente la LONG
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal poco confirmada
 
-🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja volatilidad y volumen, RSI alto, cerca de banda superior
+🤖 Analista IA evaluando AVAXUSDT (long score 2)...
+   → FLAT (confianza 45%): Volumen bajo y señal marginal, mejor esperar
 
-💰 Equity: $1001.50 | Cash: $1004.58 | Retorno: +0.15%
+💰 Equity: $1003.19 | Cash: $1004.58 | Retorno: +0.32%
 📈 Posiciones abiertas: 5 | Cerradas: 6 | PnL realizado: +5.33
-   ▲ DOGEUSDT: entry 0.093 → ahora 0.095042 (+3.29 USD)
-   ▲ BTCUSDT: entry 83494 → ahora 84116.9 (+1.12 USD)
-   ▲ ETHUSDT: entry 2653.68 → ahora 2674.75 (+1.20 USD)
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.4497 (-7.98 USD)
-   ▲ UNIUSDT: entry 9.1771 → ahora 9.1336 (-0.71 USD)
+   ▲ DOGEUSDT: entry 0.093 → ahora 0.095319 (+3.74 USD)
+   ▲ BTCUSDT: entry 83494 → ahora 84122.5 (+1.13 USD)
+   ▲ ETHUSDT: entry 2653.68 → ahora 2676.59 (+1.30 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.4845 (-6.86 USD)
+   ▲ UNIUSDT: entry 9.1771 → ahora 9.1342 (-0.70 USD)
