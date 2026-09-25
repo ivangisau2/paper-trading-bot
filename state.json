@@ -1,5 +1,5 @@
 {
-  "balance": 1027.7624126983176,
+  "balance": 1027.6082484728677,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,7 +12,18 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790337752.3320222
+      "checked_at": 1790338624.7757485
+    },
+    "BTCUSDT": {
+      "side": "long",
+      "qty": 0.0018345,
+      "entry": 84036.1,
+      "sl": 83304.84463653872,
+      "tp": 85498.61072692259,
+      "opened_at": "2026-09-25T12:17:07+00:00",
+      "notional": 154.16422545,
+      "fee": 0.15416422545,
+      "note": "score 3 | IA: Precio cerca banda baja, MACD y EMA bullish, RSI neutro, confirma LONG."
     }
   },
   "closed": 10,
