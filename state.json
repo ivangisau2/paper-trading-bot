@@ -1,43 +1,7 @@
 {
-  "balance": 1004.5833898732419,
+  "balance": 1027.7624126983176,
   "initial_balance": 1000.0,
   "positions": {
-    "DOGEUSDT": {
-      "side": "long",
-      "qty": 1612.90322581,
-      "entry": 0.093,
-      "sl": 0.09051539033406897,
-      "tp": 0.09796921933186206,
-      "opened_at": "2026-09-23T22:15:01+00:00",
-      "notional": 150.00000000033,
-      "fee": 0.15000000000033,
-      "note": "score 1",
-      "checked_at": 1790334242.9740028
-    },
-    "BTCUSDT": {
-      "side": "long",
-      "qty": 0.00179224,
-      "entry": 83494.0,
-      "sl": 82672.3998718186,
-      "tp": 85137.20025636278,
-      "opened_at": "2026-09-24T08:56:39+00:00",
-      "notional": 149.64128656,
-      "fee": 0.14964128656,
-      "note": "score 5 | IA: RSI oversold, bullish MACD, EMA up, price near lower Bollinger",
-      "checked_at": 1790334242.9740028
-    },
-    "ETHUSDT": {
-      "side": "long",
-      "qty": 0.05672322,
-      "entry": 2653.68,
-      "sl": 2618.569026768398,
-      "tp": 2723.9019464632033,
-      "opened_at": "2026-09-24T14:53:44+00:00",
-      "notional": 150.52527444959998,
-      "fee": 0.15052527444959998,
-      "note": "score 3 | IA: Precio cerca banda baja, RSI bajo, MACD bullish, volumen alto confirma.",
-      "checked_at": 1790334242.9740028
-    },
     "NEARUSDT": {
       "side": "long",
       "qty": 32.0823968,
@@ -48,22 +12,10 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790334242.9740028
-    },
-    "UNIUSDT": {
-      "side": "long",
-      "qty": 16.42241176,
-      "entry": 9.1771,
-      "sl": 8.90732813889637,
-      "tp": 9.716643722207259,
-      "opened_at": "2026-09-24T21:38:23+00:00",
-      "notional": 150.710114962696,
-      "fee": 0.150710114962696,
-      "note": "score 3 | IA: EMA bullish, MACD positive, volume high; RSI neutral, price near lower Bollinger, modest confidence.",
-      "checked_at": 1790334242.9740028
+      "checked_at": 1790335127.0343325
     }
   },
-  "closed": 6,
-  "realized_pnl": 5.334999274100055,
+  "closed": 10,
+  "realized_pnl": 27.91314542320309,
   "started": "2026-09-23T21:38:36+00:00"
 }
