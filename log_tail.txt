@@ -1,30 +1,29 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 15:43 UTC
+⏰ Ciclo — 2026-09-25 15:57 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (long score 3)...
-   → LONG (confianza 70%): EMA bullish, RSI neutral, volume high, price near upper Bollinger.
-  [riesgo] No se abre ADAUSDT: máximo 5 posiciones
-
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → LONG (confianza 65%): Precio cerca banda baja, MACD positivo, tendencia alcista
+🤖 Analista IA evaluando ETHUSDT (long score 3)...
+   → LONG (confianza 70%): MACD+, EMA bullish, volume high; RSI neutral, price near lower Bollinger
   [riesgo] No se abre ETHUSDT: máximo 5 posiciones
 
+🤖 Analista IA evaluando SOLUSDT (long score 3)...
+   → FLAT (confianza 55%): Precio cerca de banda superior, riesgo de retroceso
+
+🤖 Analista IA evaluando ADAUSDT (long score 3)...
+   → LONG (confianza 75%): Bullish trend, strong volume, MACD positive, RSI moderate, price near upper band.
+  [riesgo] No se abre ADAUSDT: máximo 5 posiciones
+
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen, señal parcial
+   → FLAT (confianza 55%): Bullish indicators but low volume and near upper Bollinger suggest caution
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → LONG (confianza 70%): EMA bullish, MACD positive, RSI moderate, volume strong
-  [riesgo] No se abre SOLUSDT: máximo 5 posiciones
-
-💰 Equity: $1037.68 | Cash: $1025.50 | Retorno: +3.77%
+💰 Equity: $1038.03 | Cash: $1025.50 | Retorno: +3.80%
 📈 Posiciones abiertas: 5 | Cerradas: 11 | PnL realizado: +26.26
-   ▲ NEARUSDT: entry 4.6983 → ahora 5.1016 (+12.94 USD)
-   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0970405 (-0.69 USD)
-   ▲ XRPUSDT: entry 1.57459 → ahora 1.57112 (-0.34 USD)
-   ▲ AVAXUSDT: entry 10.297 → ahora 10.309 (+0.18 USD)
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.7848 (+0.09 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 5.1077 (+13.13 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0970958 (-0.61 USD)
+   ▲ XRPUSDT: entry 1.57459 → ahora 1.57184 (-0.27 USD)
+   ▲ AVAXUSDT: entry 10.297 → ahora 10.308 (+0.16 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.7861 (+0.11 USD)
