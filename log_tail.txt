@@ -1,28 +1,29 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 14:14 UTC
+⏰ Ciclo — 2026-09-25 14:29 UTC
 ============================================================
-  [ejecución] ❌ CERRADO BTCUSDT @ 83304.84463653872: -1.65 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 9 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 3)...
-   → LONG (confianza 70%): Bullish EMA, RSI moderate, volume strong, price near upper Bollinger
-  [ejecución] ▲ LONG XRPUSDT: 97.73589917 @ 1.57459 | SL 1.53892 | TP 1.64593 | score 3 | IA: Bullish EMA, RSI moderate, volume strong, price near upper Bollinger
-
-🤖 Analista IA evaluando AVAXUSDT (long score 3)...
-   → LONG (confianza 70%): EMA bullish, MACD positivo, precio cerca de media Bollinger, RSI neutro
-  [ejecución] ▲ LONG AVAXUSDT: 14.94327332 @ 10.297 | SL 10.0124 | TP 10.8661 | score 3 | IA: EMA bullish, MACD positivo, precio cerca de media Bollinger, RSI neutro
+🤖 Analista IA evaluando LINKUSDT (long score 3)...
+   → LONG (confianza 70%): Bullish indicators align, price near upper Bollinger but no overbought extreme
+  [ejecución] ▲ LONG LINKUSDT: 11.16744914 @ 13.77645 | SL 13.4108 | TP 14.5077 | score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen bajo y RSI neutro debilitan confirmación
+   → FLAT (confianza 40%): Señal débil, volumen bajo y RSI neutro
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio cerca de banda superior, volumen bajo, señal no suficientemente confirmada
+   → FLAT (confianza 55%): Precio cerca de resistencia, RSI alto, señal débil
 
-💰 Equity: $1036.15 | Cash: $1025.65 | Retorno: +3.61%
-📈 Posiciones abiertas: 4 | Cerradas: 11 | PnL realizado: +26.26
-   ▲ NEARUSDT: entry 4.6983 → ahora 5.0467 (+11.18 USD)
-   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0970992 (-0.60 USD)
-   ▲ XRPUSDT: entry 1.57459 → ahora 1.57376 (-0.08 USD)
-   ▲ AVAXUSDT: entry 10.297 → ahora 10.297 (+0.00 USD)
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → LONG (confianza 65%): Bullish EMA, MACD, price near upper Bollinger, RSI not extreme.
+  [riesgo] No se abre SOLUSDT: máximo 5 posiciones
+
+💰 Equity: $1036.80 | Cash: $1025.50 | Retorno: +3.68%
+📈 Posiciones abiertas: 5 | Cerradas: 11 | PnL realizado: +26.26
+   ▲ NEARUSDT: entry 4.6983 → ahora 5.0611 (+11.64 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0970734 (-0.64 USD)
+   ▲ XRPUSDT: entry 1.57459 → ahora 1.57254 (-0.20 USD)
+   ▲ AVAXUSDT: entry 10.297 → ahora 10.331 (+0.51 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.7765 (+0.00 USD)

@@ -1,5 +1,5 @@
 {
-  "balance": 1025.6520316789913,
+  "balance": 1025.4981838742865,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790345702.457753
+      "checked_at": 1790346580.9181376
     },
     "DOGEUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 154.14123727067317,
       "fee": 0.15414123727067316,
       "note": "score 3 | IA: Precio cerca banda media, RSI neutro, EMA bullish, volumen fuerte, confirma se\u00f1al LONG",
-      "checked_at": 1790345702.457753
+      "checked_at": 1790346580.9181376
     },
     "XRPUSDT": {
       "side": "long",
@@ -35,7 +35,8 @@
       "opened_at": "2026-09-25T14:15:05+00:00",
       "notional": 153.89396947409028,
       "fee": 0.1538939694740903,
-      "note": "score 3 | IA: Bullish EMA, RSI moderate, volume strong, price near upper Bollinger"
+      "note": "score 3 | IA: Bullish EMA, RSI moderate, volume strong, price near upper Bollinger",
+      "checked_at": 1790346580.9181376
     },
     "AVAXUSDT": {
       "side": "long",
@@ -46,7 +47,19 @@
       "opened_at": "2026-09-25T14:15:06+00:00",
       "notional": 153.87088537604,
       "fee": 0.15387088537604002,
-      "note": "score 3 | IA: EMA bullish, MACD positivo, precio cerca de media Bollinger, RSI neutro"
+      "note": "score 3 | IA: EMA bullish, MACD positivo, precio cerca de media Bollinger, RSI neutro",
+      "checked_at": 1790346580.9181376
+    },
+    "LINKUSDT": {
+      "side": "long",
+      "qty": 11.16744914,
+      "entry": 13.77645,
+      "sl": 13.410837394499618,
+      "tp": 14.507675211000766,
+      "opened_at": "2026-09-25T14:29:46+00:00",
+      "notional": 153.847804704753,
+      "fee": 0.153847804704753,
+      "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme"
     }
   },
   "closed": 11,
