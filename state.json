@@ -1,5 +1,5 @@
 {
-  "balance": 1027.6082484728677,
+  "balance": 1027.454107235597,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790342189.1564636
+      "checked_at": 1790343065.663646
     },
     "BTCUSDT": {
       "side": "long",
@@ -24,7 +24,18 @@
       "notional": 154.16422545,
       "fee": 0.15416422545,
       "note": "score 3 | IA: Precio cerca banda baja, MACD y EMA bullish, RSI neutro, confirma LONG.",
-      "checked_at": 1790342189.1564636
+      "checked_at": 1790343065.663646
+    },
+    "DOGEUSDT": {
+      "side": "long",
+      "qty": 1581.27797165,
+      "entry": 0.0974789,
+      "sl": 0.09554302134769163,
+      "tp": 0.10135065730461673,
+      "opened_at": "2026-09-25T13:31:10+00:00",
+      "notional": 154.14123727067317,
+      "fee": 0.15414123727067316,
+      "note": "score 3 | IA: Precio cerca banda media, RSI neutro, EMA bullish, volumen fuerte, confirma se\u00f1al LONG"
     }
   },
   "closed": 10,

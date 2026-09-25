@@ -1,18 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 13:16 UTC
+⏰ Ciclo — 2026-09-25 13:30 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 7 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja volumen y precio cerca banda superior, señal poco confirmada
+🤖 Analista IA evaluando DOGEUSDT (long score 3)...
+   → LONG (confianza 70%): Precio cerca banda media, RSI neutro, EMA bullish, volumen fuerte, confirma señal LONG
+  [ejecución] ▲ LONG DOGEUSDT: 1581.27797165 @ 0.0974789 | SL 0.095543 | TP 0.101351 | score 3 | IA: Precio cerca banda media, RSI neutro, EMA bullish, volumen fuerte, confirma señal LONG
 
-🤖 Analista IA evaluando LINKUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, low volume, price near upper Bollinger
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 55%): Volumen bajo y RSI neutro generan duda pese a EMA y MACD positivos
 
-💰 Equity: $1042.06 | Cash: $1027.61 | Retorno: +4.21%
-📈 Posiciones abiertas: 2 | Cerradas: 10 | PnL realizado: +27.91
-   ▲ NEARUSDT: entry 4.6983 → ahora 5.1197 (+13.52 USD)
-   ▲ BTCUSDT: entry 84036.1 → ahora 84546.9 (+0.94 USD)
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio cerca de resistencia, volumen bajo, RSI alto, duda razonable
+
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio cerca de banda superior, volumen bajo, RSI moderado; señal no suficientemente confirmada
+
+💰 Equity: $1039.52 | Cash: $1027.45 | Retorno: +3.95%
+📈 Posiciones abiertas: 3 | Cerradas: 10 | PnL realizado: +27.91
+   ▲ NEARUSDT: entry 4.6983 → ahora 5.0703 (+11.93 USD)
+   ▲ BTCUSDT: entry 84036.1 → ahora 83982.3 (-0.10 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.097627 (+0.23 USD)
