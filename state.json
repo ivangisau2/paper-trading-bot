@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790339498.5951078
+      "checked_at": 1790340375.8490088
     },
     "BTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 154.16422545,
       "fee": 0.15416422545,
       "note": "score 3 | IA: Precio cerca banda baja, MACD y EMA bullish, RSI neutro, confirma LONG.",
-      "checked_at": 1790339498.5951078
+      "checked_at": 1790340375.8490088
     }
   },
   "closed": 10,
