@@ -1,25 +1,28 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 14:00 UTC
+⏰ Ciclo — 2026-09-25 14:14 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO BTCUSDT @ 83304.84463653872: -1.65 USD (stop loss (wick entre ciclos))
 
-📊 8 candidatos tras filtros
+📊 9 candidatos tras filtros
+
+🤖 Analista IA evaluando XRPUSDT (long score 3)...
+   → LONG (confianza 70%): Bullish EMA, RSI moderate, volume strong, price near upper Bollinger
+  [ejecución] ▲ LONG XRPUSDT: 97.73589917 @ 1.57459 | SL 1.53892 | TP 1.64593 | score 3 | IA: Bullish EMA, RSI moderate, volume strong, price near upper Bollinger
+
+🤖 Analista IA evaluando AVAXUSDT (long score 3)...
+   → LONG (confianza 70%): EMA bullish, MACD positivo, precio cerca de media Bollinger, RSI neutro
+  [ejecución] ▲ LONG AVAXUSDT: 14.94327332 @ 10.297 | SL 10.0124 | TP 10.8661 | score 3 | IA: EMA bullish, MACD positivo, precio cerca de media Bollinger, RSI neutro
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Bajo volumen y precio cerca de banda superior, duda razonable
+   → FLAT (confianza 60%): Volumen bajo y RSI neutro debilitan confirmación
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Bajo volumen y RSI alto, riesgo de falso impulso
+🤖 Analista IA evaluando UNIUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio cerca de banda superior, volumen bajo, señal no suficientemente confirmada
 
-🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen, RSI neutro, tendencia alcista limitada
-
-🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 45%): Volumen bajo y precio cerca de banda superior, señal poco confirmada
-
-💰 Equity: $1042.76 | Cash: $1027.45 | Retorno: +4.28%
-📈 Posiciones abiertas: 3 | Cerradas: 10 | PnL realizado: +27.91
-   ▲ NEARUSDT: entry 4.6983 → ahora 5.1571 (+14.72 USD)
-   ▲ BTCUSDT: entry 84036.1 → ahora 83982.3 (-0.10 USD)
-   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0979101 (+0.68 USD)
+💰 Equity: $1036.15 | Cash: $1025.65 | Retorno: +3.61%
+📈 Posiciones abiertas: 4 | Cerradas: 11 | PnL realizado: +26.26
+   ▲ NEARUSDT: entry 4.6983 → ahora 5.0467 (+11.18 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0970992 (-0.60 USD)
+   ▲ XRPUSDT: entry 1.57459 → ahora 1.57376 (-0.08 USD)
+   ▲ AVAXUSDT: entry 10.297 → ahora 10.297 (+0.00 USD)
