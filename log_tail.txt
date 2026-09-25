@@ -1,18 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-25 22:11 UTC
+⏰ Ciclo — 2026-09-25 22:26 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Baja confirmación, volumen muy bajo, RSI alto
+   → FLAT (confianza 65%): Sobrecompra, bajo volumen, precio cerca banda superior; tendencia alcista insuficiente
 
-💰 Equity: $1037.92 | Cash: $1025.50 | Retorno: +3.79%
+🤖 Analista IA evaluando LTCUSDT (long score 1)...
+   → FLAT (confianza 55%): Precio sobre Bollinger, bajo volumen, señal insuficiente
+
+💰 Equity: $1038.47 | Cash: $1025.50 | Retorno: +3.85%
 📈 Posiciones abiertas: 5 | Cerradas: 11 | PnL realizado: +26.26
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.9723 (+8.79 USD)
-   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0982429 (+1.21 USD)
-   ▲ XRPUSDT: entry 1.57459 → ahora 1.55913 (-1.51 USD)
-   ▲ AVAXUSDT: entry 10.297 → ahora 10.545 (+3.71 USD)
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.7968 (+0.23 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.9486 (+8.03 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0986139 (+1.79 USD)
+   ▲ XRPUSDT: entry 1.57459 → ahora 1.56344 (-1.09 USD)
+   ▲ AVAXUSDT: entry 10.297 → ahora 10.55 (+3.78 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.8172 (+0.46 USD)
