@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-26 00:06 UTC
+⏰ Ciclo — 2026-09-26 00:21 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen muy bajo, señal poco confirmada
-
-🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja volatilidad y volumen, RSI alto, precio cerca de banda superior, señal poco confirmada
+   → FLAT (confianza 60%): Baja confirmación de volumen y RSI neutral, duda razonable
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja volatilidad y volumen, cerca de sobrecompra, señal poco confirmada
+   → FLAT (confianza 45%): Baja volatilidad y volumen, precio cerca resistencia; confirmación insuficiente
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Bajo volumen y sobrecompra, señal poco confirmada
+   → FLAT (confianza 70%): Baja volatilidad y volumen, RSI alto, cerca de banda superior, riesgo de reversión
 
-💰 Equity: $1041.25 | Cash: $1025.50 | Retorno: +4.12%
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 70%): Banda superior, RSI alto, volumen bajo, señal poco confirmada
+
+💰 Equity: $1042.76 | Cash: $1025.50 | Retorno: +4.28%
 📈 Posiciones abiertas: 5 | Cerradas: 11 | PnL realizado: +26.26
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.949 (+8.04 USD)
-   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0987602 (+2.03 USD)
-   ▲ XRPUSDT: entry 1.57459 → ahora 1.56518 (-0.92 USD)
-   ▲ AVAXUSDT: entry 10.297 → ahora 10.622 (+4.86 USD)
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.9327 (+1.74 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.9526 (+8.16 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0991071 (+2.57 USD)
+   ▲ XRPUSDT: entry 1.57459 → ahora 1.56568 (-0.87 USD)
+   ▲ AVAXUSDT: entry 10.297 → ahora 10.636 (+5.07 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.9857 (+2.34 USD)
