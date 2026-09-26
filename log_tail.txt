@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-26 02:03 UTC
+⏰ Ciclo — 2026-09-26 02:18 UTC
 ============================================================
   [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 65%): Bajo volumen y RSI neutral debilitan confirmación
+   → FLAT (confianza 60%): Volumen extremadamente bajo, RSI neutro, señal insuficiente
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, riesgo de falso impulso
+   → FLAT (confianza 65%): Precio cerca de banda superior, volumen débil, señal poco confirmada
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): Baja confirmación, tendencia alcista y volumen muy bajo
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 70%): Bajo volumen y RSI alto, señal débil; mejor esperar
 
-💰 Equity: $1043.19 | Cash: $1033.84 | Retorno: +4.32%
+💰 Equity: $1044.95 | Cash: $1033.84 | Retorno: +4.50%
 📈 Posiciones abiertas: 4 | Cerradas: 12 | PnL realizado: +34.45
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.8762 (+5.71 USD)
-   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0989081 (+2.26 USD)
-   ▲ XRPUSDT: entry 1.57459 → ahora 1.57181 (-0.27 USD)
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.9246 (+1.65 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.9069 (+6.69 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0991493 (+2.64 USD)
+   ▲ XRPUSDT: entry 1.57459 → ahora 1.57292 (-0.16 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.9504 (+1.94 USD)
