@@ -1,24 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-26 15:48 UTC
+⏰ Ciclo — 2026-09-26 16:03 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Indicadores mixtos, soporte débil, mejor esperar confirmación
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → FLAT (confianza 40%): Bajo volumen y precio cerca de banda superior, señal poco confirmada
+
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 45%): Baja confirmación de volumen y RSI neutral, riesgo de falso impulso
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 45%): Banda superior, bajo volumen, RSI neutro, señal poco confirmada
+   → FLAT (confianza 70%): Bajo volumen y precio cerca de banda superior, señal poco confirmada
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): EMA bullish y RSI neutral, señal corta no confirmada
-
-💰 Equity: $1042.44 | Cash: $1029.89 | Retorno: +4.24%
+💰 Equity: $1041.38 | Cash: $1029.89 | Retorno: +4.14%
 📈 Posiciones abiertas: 5 | Cerradas: 13 | PnL realizado: +30.66
-   ▲ NEARUSDT: entry 4.6983 → ahora 4.8333 (+4.33 USD)
-   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0983682 (+1.41 USD)
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.2564 (+5.36 USD)
+   ▲ NEARUSDT: entry 4.6983 → ahora 4.8426 (+4.63 USD)
+   ▲ DOGEUSDT: entry 0.0974789 → ahora 0.0984657 (+1.56 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.2077 (+4.82 USD)
    ▲ LTCUSDT: entry 73.57 → ahora 72.95 (-1.30 USD)
-   ▲ AVAXUSDT: entry 10.826 → ahora 11.019 (+2.75 USD)
+   ▲ AVAXUSDT: entry 10.826 → ahora 10.951 (+1.78 USD)
