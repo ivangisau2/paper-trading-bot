@@ -1,5 +1,5 @@
 {
-  "balance": 1030.2034363241612,
+  "balance": 1030.048905808612,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790419235.9062393
+      "checked_at": 1790420106.642551
     },
     "DOGEUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 154.14123727067317,
       "fee": 0.15414123727067316,
       "note": "score 3 | IA: Precio cerca banda media, RSI neutro, EMA bullish, volumen fuerte, confirma se\u00f1al LONG",
-      "checked_at": 1790419235.9062393
+      "checked_at": 1790420106.642551
     },
     "LINKUSDT": {
       "side": "long",
@@ -36,7 +36,18 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790419235.9062393
+      "checked_at": 1790420106.642551
+    },
+    "LTCUSDT": {
+      "side": "long",
+      "qty": 2.10045556,
+      "entry": 73.57,
+      "sl": 71.81507609339974,
+      "tp": 77.07984781320052,
+      "opened_at": "2026-09-26T10:55:09+00:00",
+      "notional": 154.53051554919998,
+      "fee": 0.15453051554919997,
+      "note": "score 3 | IA: Precio cerca de banda superior, pero indicadores bullish confirman"
     }
   },
   "closed": 13,
