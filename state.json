@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790460936.438512
+      "checked_at": 1790461810.483579
     },
     "LINKUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790460936.438512
+      "checked_at": 1790461810.483579
     },
     "BTCUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 152.712962098,
       "fee": 0.152712962098,
       "note": "score 1 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral",
-      "checked_at": 1790460936.438512
+      "checked_at": 1790461810.483579
     }
   },
   "closed": 17,
