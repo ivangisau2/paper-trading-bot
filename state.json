@@ -1,5 +1,5 @@
 {
-  "balance": 1032.6041397234512,
+  "balance": 1031.4286452851961,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,19 +12,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790521440.1810384
-    },
-    "ETHUSDT": {
-      "side": "long",
-      "qty": 0.05661067,
-      "entry": 2697.2,
-      "sl": 2681.850675088648,
-      "tp": 2727.898649822703,
-      "opened_at": "2026-09-27T02:57:35+00:00",
-      "notional": 152.690299124,
-      "fee": 0.152690299124,
-      "note": "score 2 | IA: EMA bullish, MACD positive, volume above average, price near upper Bollinger",
-      "checked_at": 1790521440.1810384
+      "checked_at": 1790522315.6295779
     },
     "AVAXUSDT": {
       "side": "long",
@@ -36,7 +24,7 @@
       "notional": 155.27731161144,
       "fee": 0.15527731161144,
       "note": "score 3 | IA: EMA bullish, MACD positive, volume strong, RSI not overbought, price near upper Bollinger",
-      "checked_at": 1790521440.1810384
+      "checked_at": 1790522315.6295779
     },
     "NEARUSDT": {
       "side": "long",
@@ -48,7 +36,7 @@
       "notional": 155.254020021408,
       "fee": 0.155254020021408,
       "note": "score 2 | IA: Bullish trend, RSI moderate, price near upper Bollinger suggests caution",
-      "checked_at": 1790521440.1810384
+      "checked_at": 1790522315.6295779
     },
     "BTCUSDT": {
       "side": "long",
@@ -60,10 +48,21 @@
       "notional": 154.914165318,
       "fee": 0.15491416531799998,
       "note": "score 3 | IA: Precio cerca de media Bollinger, RSI neutro, MACD y EMA bullish, volumen fuerte",
-      "checked_at": 1790521440.1810384
+      "checked_at": 1790522315.6295779
+    },
+    "DOGEUSDT": {
+      "side": "long",
+      "qty": 1599.56570398,
+      "entry": 0.0967372,
+      "sl": 0.09542216084025475,
+      "tp": 0.09936727831949049,
+      "opened_at": "2026-09-27T15:18:40+00:00",
+      "notional": 154.73750741905405,
+      "fee": 0.15473750741905407,
+      "note": "score 3 | IA: Precio cerca banda inferior, EMA bullish, RSI neutral, volumen alto"
     }
   },
-  "closed": 20,
-  "realized_pnl": 33.37612332423042,
+  "closed": 21,
+  "realized_pnl": 32.20267609427039,
   "started": "2026-09-23T21:38:36+00:00"
 }

@@ -1,24 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 15:03 UTC
+⏰ Ciclo — 2026-09-27 15:18 UTC
 ============================================================
-  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ETHUSDT @ 2681.850675088648: -1.17 USD (stop loss (wick entre ciclos))
 
 📊 3 candidatos tras filtros
 
+🤖 Analista IA evaluando DOGEUSDT (long score 3)...
+   → LONG (confianza 70%): Precio cerca banda inferior, EMA bullish, RSI neutral, volumen alto
+  [ejecución] ▲ LONG DOGEUSDT: 1599.56570398 @ 0.0967372 | SL 0.0954222 | TP 0.0993673 | score 3 | IA: Precio cerca banda inferior, EMA bullish, RSI neutral, volumen alto
+
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen muy bajo, señal poco confirmada
+   → FLAT (confianza 60%): EMA bullish, pero volumen bajo y RSI neutro, duda razonable
 
-🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 60%): Precio bajo banda inferior, RSI oversold, pero MACD negativo y bajo volumen; duda
+🤖 Analista IA evaluando LTCUSDT (long score 1)...
+   → FLAT (confianza 55%): Señal LONG sin confirmación clara, indicadores mixtos.
 
-🤖 Analista IA evaluando DOGEUSDT (short score -1)...
-   → FLAT (confianza 70%): EMA bullish, price near lower Bollinger, RSI neutral; short not supported.
-
-💰 Equity: $1031.00 | Cash: $1032.60 | Retorno: +3.10%
-📈 Posiciones abiertas: 5 | Cerradas: 20 | PnL realizado: +33.38
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.9999 (+2.50 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2684.68 (-0.71 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 10.919 (-1.80 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.1994 (-1.58 USD)
-   ▲ BTCUSDT: entry 84482.2 → ahora 84476.7 (-0.01 USD)
+💰 Equity: $1032.12 | Cash: $1031.43 | Retorno: +3.21%
+📈 Posiciones abiertas: 5 | Cerradas: 21 | PnL realizado: +32.20
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.066 (+3.23 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 10.991 (-0.79 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.1934 (-1.76 USD)
+   ▲ BTCUSDT: entry 84482.2 → ahora 84549.7 (+0.12 USD)
+   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0966622 (-0.12 USD)
