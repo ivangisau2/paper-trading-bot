@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 11:33 UTC
+⏰ Ciclo — 2026-09-27 11:47 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen, precio cerca banda superior, señal poco robusta
+   → FLAT (confianza 60%): Volumen bajo y precio cerca de banda superior, duda razonable
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 70%): Precio cerca de banda superior, bajo volumen, RSI alto, señal poco confirmada
+   → FLAT (confianza 65%): Volumen bajo y RSI alto indican sobrecompra; tendencia alcista no suficientemente confirmada
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+   → FLAT (confianza 45%): Low volume, price near upper Bollinger, RSI neutral
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja volatilidad y volumen, precio cerca de banda superior, señal poco confirmada.
+   → FLAT (confianza 45%): Baja volatilidad, volumen débil, indicadores mixtos; no confirmación suficiente
 
-💰 Equity: $1038.03 | Cash: $1034.87 | Retorno: +3.80%
+💰 Equity: $1036.53 | Cash: $1034.87 | Retorno: +3.65%
 📈 Posiciones abiertas: 5 | Cerradas: 19 | PnL realizado: +35.64
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.3131 (+5.99 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2708.82 (+0.66 USD)
-   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0977972 (-0.21 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 10.999 (-0.67 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.1645 (-2.61 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.2653 (+5.46 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2706.92 (+0.55 USD)
+   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0976632 (-0.42 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 10.964 (-1.17 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.1593 (-2.76 USD)
