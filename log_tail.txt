@@ -1,16 +1,16 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 06:06 UTC
+⏰ Ciclo — 2026-09-27 06:21 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 70%): Baja confirmación, volumen débil y precio cerca de banda superior
+   → FLAT (confianza 40%): Bollinger upper breach, low volume, weak signal; mejor esperar
 
-💰 Equity: $1040.09 | Cash: $1034.26 | Retorno: +4.01%
+💰 Equity: $1041.26 | Cash: $1034.26 | Retorno: +4.13%
 📈 Posiciones abiertas: 3 | Cerradas: 18 | PnL realizado: +34.72
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.1927 (+4.65 USD)
-   ▲ BTCUSDT: entry 84145.4 → ahora 84497.6 (+0.64 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2706.63 (+0.53 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.2652 (+5.46 USD)
+   ▲ BTCUSDT: entry 84145.4 → ahora 84588.2 (+0.80 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2710.14 (+0.73 USD)
