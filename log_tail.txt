@@ -1,27 +1,28 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 09:21 UTC
+⏰ Ciclo — 2026-09-27 09:36 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
-
-🤖 Analista IA evaluando AVAXUSDT (long score 3)...
-   → LONG (confianza 75%): EMA bullish, MACD positive, volume strong, RSI not overbought, price near upper Bollinger
-  [ejecución] ▲ LONG AVAXUSDT: 14.05606152 @ 11.047 | SL 10.797 | TP 11.5469 | score 3 | IA: EMA bullish, MACD positive, volume strong, RSI not overbought, price near upper Bollinger
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volumen y precio cerca banda superior, señal poco confirmada
+   → FLAT (confianza 60%): Baja confirmación de volumen y RSI cerca de sobrecompra
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja confirmación: volumen débil, RSI neutro, señal insuficiente
+   → FLAT (confianza 45%): Baja confirmación de volumen y momentum, señal poco robusta
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen y señal débil, aunque tendencia alcista
+   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente, señal no suficientemente confirmada
 
-💰 Equity: $1040.21 | Cash: $1035.03 | Retorno: +4.02%
-📈 Posiciones abiertas: 4 | Cerradas: 19 | PnL realizado: +35.64
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.2724 (+5.54 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2708.72 (+0.65 USD)
-   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0972933 (-1.01 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 11.047 (+0.00 USD)
+🤖 Analista IA evaluando NEARUSDT (long score 2)...
+   → LONG (confianza 65%): Bullish trend, RSI moderate, price near upper Bollinger suggests caution
+  [ejecución] ▲ LONG NEARUSDT: 29.55643086 @ 5.2528 | SL 5.05452 | TP 5.64937 | score 2 | IA: Bullish trend, RSI moderate, price near upper Bollinger suggests caution
+
+💰 Equity: $1040.85 | Cash: $1034.87 | Retorno: +4.09%
+📈 Posiciones abiertas: 5 | Cerradas: 19 | PnL realizado: +35.64
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.29 (+5.74 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2710.9 (+0.78 USD)
+   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0974708 (-0.73 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 11.061 (+0.20 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.2528 (+0.00 USD)
