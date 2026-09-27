@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 12:16 UTC
+⏰ Ciclo — 2026-09-27 12:31 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 55%): Bajo volumen y señal débil, no confirma suficiente para LONG
+   → FLAT (confianza 70%): Baja confirmación, volumen débil, cerca de banda superior
+
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 70%): Precio cerca de banda superior, RSI alto, volumen bajo, indica sobrecompra
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 60%): Banda superior, bajo volumen, señal débil
+   → FLAT (confianza 65%): Baja confirmación de volumen y precio cerca de banda superior
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 60%): Precio cerca de banda superior, bajo volumen, señal débil; mejor esperar confirmación
+   → FLAT (confianza 60%): Volumen bajo y precio cerca de banda superior, señal poco confirmada
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio cerca de banda superior, RSI alto, volumen bajo, duda razonable
-
-💰 Equity: $1041.29 | Cash: $1034.87 | Retorno: +4.13%
+💰 Equity: $1040.21 | Cash: $1034.87 | Retorno: +4.02%
 📈 Posiciones abiertas: 5 | Cerradas: 19 | PnL realizado: +35.64
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.3595 (+6.51 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2715.89 (+1.06 USD)
-   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0983104 (+0.60 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 11.019 (-0.39 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.2069 (-1.36 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.3209 (+6.08 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2712.33 (+0.86 USD)
+   ▲ DOGEUSDT: entry 0.097929 → ahora 0.09815 (+0.35 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 11.024 (-0.32 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.1978 (-1.63 USD)
