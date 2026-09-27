@@ -1,28 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 13:21 UTC
+⏰ Ciclo — 2026-09-27 13:36 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 3)...
-   → LONG (confianza 78%): RSI neutral, MACD bullish, EMA up, volume strong, price near mid Bollinger
+   → LONG (confianza 70%): Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger
   [riesgo] No se abre SOLUSDT: máximo 5 posiciones
 
-🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Bullish indicators but low volume and overbought RSI, duda razonable
-
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 40%): Baja confirmación de volumen y RSI neutro, riesgo de reversión
+   → FLAT (confianza 55%): EMA bullish, MACD positive, pero volumen bajo y señal débil
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación: volumen bajo, RSI neutro, señal débil
+   → LONG (confianza 65%): Bullish EMA, positive MACD, RSI neutral; price near upper Bollinger, moderate confidence.
+  [riesgo] No se abre ADAUSDT: máximo 5 posiciones
 
-💰 Equity: $1032.38 | Cash: $1034.87 | Retorno: +3.24%
+💰 Equity: $1035.88 | Cash: $1034.87 | Retorno: +3.59%
 📈 Posiciones abiertas: 5 | Cerradas: 19 | PnL realizado: +35.64
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.1426 (+4.09 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2704.04 (+0.39 USD)
-   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0972671 (-1.05 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 10.868 (-2.52 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.1375 (-3.41 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.2045 (+4.78 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2709.55 (+0.70 USD)
+   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0977752 (-0.24 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 10.933 (-1.60 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.164 (-2.62 USD)
