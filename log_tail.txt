@@ -1,17 +1,19 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 05:37 UTC
+⏰ Ciclo — 2026-09-27 05:52 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO NEARUSDT @ 5.217241293474697: +16.33 USD (take profit (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y precio cerca de banda superior, señal poco confirmada
+🤖 Analista IA evaluando UNIUSDT (long score 1)...
+   → FLAT (confianza 65%): Precio cerca de banda superior, volumen bajo, señal débil
 
-💰 Equity: $1038.49 | Cash: $1017.78 | Retorno: +3.85%
-📈 Posiciones abiertas: 4 | Cerradas: 17 | PnL realizado: +18.39
-   ▲ NEARUSDT: entry 4.6983 → ahora 5.1599 (+14.81 USD)
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.185 (+4.56 USD)
-   ▲ BTCUSDT: entry 84145.4 → ahora 84577 (+0.78 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2707.01 (+0.56 USD)
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, riesgo de retroceso
+
+💰 Equity: $1039.60 | Cash: $1034.26 | Retorno: +3.96%
+📈 Posiciones abiertas: 3 | Cerradas: 18 | PnL realizado: +34.72
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.1622 (+4.31 USD)
+   ▲ BTCUSDT: entry 84145.4 → ahora 84479.9 (+0.61 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2704.57 (+0.42 USD)
