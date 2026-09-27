@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 17:29 UTC
+⏰ Ciclo — 2026-09-27 17:44 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $1031.95 | Cash: $1031.43 | Retorno: +3.19%
+💰 Equity: $1033.03 | Cash: $1031.43 | Retorno: +3.30%
 📈 Posiciones abiertas: 5 | Cerradas: 21 | PnL realizado: +32.20
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.1105 (+3.73 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 10.925 (-1.71 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.2111 (-1.23 USD)
-   ▲ BTCUSDT: entry 84482.2 → ahora 84420.6 (-0.11 USD)
-   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0966435 (-0.15 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.1336 (+3.99 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 10.96 (-1.22 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.2124 (-1.19 USD)
+   ▲ BTCUSDT: entry 84482.2 → ahora 84461.4 (-0.04 USD)
+   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.096783 (+0.07 USD)
