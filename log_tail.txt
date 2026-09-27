@@ -1,25 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 20:43 UTC
+⏰ Ciclo — 2026-09-27 20:57 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ARBUSDT (long score 3)...
-   → LONG (confianza 78%): EMA bullish, price above lower Bollinger, volume strong, RSI neutral, MACD positive.
+   → LONG (confianza 70%): Precio cerca de media, RSI neutro, tendencia alcista, volumen fuerte
   [riesgo] No se abre ARBUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutral, aunque tendencia alcista
+   → FLAT (confianza 45%): Indicadores mixtos, falta confirmación clara
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 65%): EMA bullish, RSI neutral, price not overbought; short lacks confirmation
+   → FLAT (confianza 45%): Indicadores mixtos, tendencia alcista dominante
 
-💰 Equity: $1040.71 | Cash: $1031.43 | Retorno: +4.07%
+💰 Equity: $1039.26 | Cash: $1031.43 | Retorno: +3.93%
 📈 Posiciones abiertas: 5 | Cerradas: 21 | PnL realizado: +32.20
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.049 (+3.04 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 10.993 (-0.76 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.4661 (+6.30 USD)
-   ▲ BTCUSDT: entry 84482.2 → ahora 84599.8 (+0.22 USD)
-   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0970338 (+0.47 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.0187 (+2.71 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 10.966 (-1.14 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.4552 (+5.98 USD)
+   ▲ BTCUSDT: entry 84482.2 → ahora 84525.1 (+0.08 USD)
+   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.096866 (+0.21 USD)
