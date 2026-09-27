@@ -1,27 +1,31 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 14:34 UTC
+⏰ Ciclo — 2026-09-27 14:49 UTC
 ============================================================
-  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO DOGEUSDT @ 0.09669222077207594: -2.27 USD (stop loss (wick entre ciclos))
 
-📊 4 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 55%): EMA bullish, MACD positive, pero RSI neutral y bajo puntaje; mejor esperar
+🤖 Analista IA evaluando BTCUSDT (long score 3)...
+   → LONG (confianza 78%): Precio cerca de media Bollinger, RSI neutro, MACD y EMA bullish, volumen fuerte
+  [ejecución] ▲ LONG BTCUSDT: 0.00183369 @ 84482.2 | SL 84070 | TP 85306.7 | score 3 | IA: Precio cerca de media Bollinger, RSI neutro, MACD y EMA bullish, volumen fuerte
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Bullish EMA, MACD positive but low volume and neutral RSI; cautious
+🤖 Analista IA evaluando SOLUSDT (long score 3)...
+   → LONG (confianza 65%): Precio cerca banda baja, EMA alcista, MACD positivo, volumen fuerte
+  [riesgo] No se abre SOLUSDT: máximo 5 posiciones
 
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 45%): Bullish EMA, MACD positive, but RSI neutral and price near Bollinger middle; insufficient confidence.
+🤖 Analista IA evaluando XRPUSDT (long score 3)...
+   → LONG (confianza 70%): Precio cerca banda baja, indicadores alcistas, RSI neutro
+  [riesgo] No se abre XRPUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutro
+   → LONG (confianza 55%): EMA bullish, MACD positive, but low volume and neutral RSI; moderate confidence
+  [riesgo] No se abre ADAUSDT: máximo 5 posiciones
 
-💰 Equity: $1035.38 | Cash: $1034.87 | Retorno: +3.54%
-📈 Posiciones abiertas: 5 | Cerradas: 19 | PnL realizado: +35.64
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.0955 (+3.56 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2693.8 (-0.19 USD)
-   ▲ DOGEUSDT: entry 0.097929 → ahora 0.0971869 (-1.18 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 10.95 (-1.36 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.2419 (-0.32 USD)
+💰 Equity: $1032.43 | Cash: $1032.60 | Retorno: +3.24%
+📈 Posiciones abiertas: 5 | Cerradas: 20 | PnL realizado: +33.38
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.0305 (+2.84 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2685.49 (-0.66 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 10.915 (-1.86 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.2355 (-0.51 USD)
+   ▲ BTCUSDT: entry 84482.2 → ahora 84490.1 (+0.01 USD)
