@@ -1,18 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 18:02 UTC
+⏰ Ciclo — 2026-09-27 18:17 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 70%): Bajo volumen y RSI neutro, señal poco confirmada
+   → FLAT (confianza 40%): Baja confirmación de volumen y señal mixta, mejor esperar
 
-💰 Equity: $1034.21 | Cash: $1031.43 | Retorno: +3.42%
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → FLAT (confianza 70%): Baja confirmación, volumen débil, señal incierta
+
+💰 Equity: $1038.15 | Cash: $1031.43 | Retorno: +3.82%
 📈 Posiciones abiertas: 5 | Cerradas: 21 | PnL realizado: +32.20
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.072 (+3.30 USD)
-   ▲ AVAXUSDT: entry 11.047 → ahora 10.958 (-1.25 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.2636 (+0.32 USD)
-   ▲ BTCUSDT: entry 84482.2 → ahora 84543 (+0.11 USD)
-   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0969282 (+0.31 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.139 (+4.05 USD)
+   ▲ AVAXUSDT: entry 11.047 → ahora 11.009 (-0.53 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.3155 (+1.85 USD)
+   ▲ BTCUSDT: entry 84482.2 → ahora 84603.4 (+0.22 USD)
+   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0974472 (+1.14 USD)
