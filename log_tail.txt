@@ -1,27 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-27 07:53 UTC
+⏰ Ciclo — 2026-09-27 08:08 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO BTCUSDT @ 84821.46489837916: +0.92 USD (take profit (wick entre ciclos))
 
-📊 5 candidatos tras filtros
+📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando DOGEUSDT (long score 3)...
-   → LONG (confianza 70%): Bullish EMA, RSI neutral, price near lower Bollinger, volume up, supports LONG.
-  [ejecución] ▲ LONG DOGEUSDT: 1584.20516993 @ 0.097929 | SL 0.0966922 | TP 0.100403 | score 3 | IA: Bullish EMA, RSI neutral, price near lower Bollinger, volume up, supports LONG.
+🤖 Analista IA evaluando UNIUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio cerca de banda superior, volumen bajo, señal poco confirmada
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y precio cerca banda superior, señal poco confirmada
+   → FLAT (confianza 60%): Volumen bajo y precio cerca de banda superior, riesgo de retroceso
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Bollinger near top, low volume, signal weak
+   → FLAT (confianza 65%): Baja volatilidad y volumen, precio cerca banda superior, señal poco robusta
 
-🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio sobre banda superior, señal sobreextendida
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 55%): RSI overbought, low volume, price near Bollinger upper; bullish EMA insufficient
 
-💰 Equity: $1043.31 | Cash: $1034.11 | Retorno: +4.33%
-📈 Posiciones abiertas: 4 | Cerradas: 18 | PnL realizado: +34.72
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.4343 (+7.35 USD)
-   ▲ BTCUSDT: entry 84145.4 → ahora 84659.4 (+0.93 USD)
-   ▲ ETHUSDT: entry 2697.2 → ahora 2713.47 (+0.92 USD)
+💰 Equity: $1043.25 | Cash: $1035.18 | Retorno: +4.32%
+📈 Posiciones abiertas: 3 | Cerradas: 19 | PnL realizado: +35.64
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.3899 (+6.85 USD)
+   ▲ ETHUSDT: entry 2697.2 → ahora 2718.63 (+1.21 USD)
    ▲ DOGEUSDT: entry 0.097929 → ahora 0.0979289 (-0.00 USD)
