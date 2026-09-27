@@ -1,5 +1,5 @@
 {
-  "balance": 1017.9353786526871,
+  "balance": 1017.7826883535631,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,7 +12,7 @@
       "notional": 150.73272488543998,
       "fee": 0.15073272488543998,
       "note": "score 3 | IA: Bullish indicators, volume strong, RSI not overbought, near Bollinger top.",
-      "checked_at": 1790476975.3962274
+      "checked_at": 1790477849.9817958
     },
     "LINKUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790476975.3962274
+      "checked_at": 1790477849.9817958
     },
     "BTCUSDT": {
       "side": "long",
@@ -36,7 +36,18 @@
       "notional": 152.712962098,
       "fee": 0.152712962098,
       "note": "score 1 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral",
-      "checked_at": 1790476975.3962274
+      "checked_at": 1790477849.9817958
+    },
+    "ETHUSDT": {
+      "side": "long",
+      "qty": 0.05661067,
+      "entry": 2697.2,
+      "sl": 2681.850675088648,
+      "tp": 2727.898649822703,
+      "opened_at": "2026-09-27T02:57:35+00:00",
+      "notional": 152.690299124,
+      "fee": 0.152690299124,
+      "note": "score 2 | IA: EMA bullish, MACD positive, volume above average, price near upper Bollinger"
     }
   },
   "closed": 17,
