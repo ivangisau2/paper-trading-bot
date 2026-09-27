@@ -12,7 +12,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790550596.6253946
+      "checked_at": 1790551286.1720753
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 155.254020021408,
       "fee": 0.155254020021408,
       "note": "score 2 | IA: Bullish trend, RSI moderate, price near upper Bollinger suggests caution",
-      "checked_at": 1790550596.6253946
+      "checked_at": 1790551286.1720753
     },
     "BTCUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 154.914165318,
       "fee": 0.15491416531799998,
       "note": "score 3 | IA: Precio cerca de media Bollinger, RSI neutro, MACD y EMA bullish, volumen fuerte",
-      "checked_at": 1790550596.6253946
+      "checked_at": 1790551286.1720753
     },
     "DOGEUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 154.73750741905405,
       "fee": 0.15473750741905407,
       "note": "score 3 | IA: Precio cerca banda inferior, EMA bullish, RSI neutral, volumen alto",
-      "checked_at": 1790550596.6253946
+      "checked_at": 1790551286.1720753
     },
     "LTCUSDT": {
       "side": "long",
@@ -60,7 +60,7 @@
       "notional": 154.164525984,
       "fee": 0.154164525984,
       "note": "score 1 | IA: Precio en banda inferior, RSI bajo, EMA alcista, MACD negativo",
-      "checked_at": 1790550596.6253946
+      "checked_at": 1790551286.1720753
     }
   },
   "closed": 22,
