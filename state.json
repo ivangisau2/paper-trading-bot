@@ -12,7 +12,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790498254.7563822
+      "checked_at": 1790499133.483723
     },
     "ETHUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 152.690299124,
       "fee": 0.152690299124,
       "note": "score 2 | IA: EMA bullish, MACD positive, volume above average, price near upper Bollinger",
-      "checked_at": 1790498254.7563822
+      "checked_at": 1790499133.483723
     },
     "DOGEUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 155.13962808607496,
       "fee": 0.15513962808607495,
       "note": "score 3 | IA: Bullish EMA, RSI neutral, price near lower Bollinger, volume up, supports LONG.",
-      "checked_at": 1790498254.7563822
+      "checked_at": 1790499133.483723
     }
   },
   "closed": 19,
