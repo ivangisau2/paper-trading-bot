@@ -1,25 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 19:30 UTC
+⏰ Ciclo — 2026-09-28 19:44 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y precio cerca de banda superior, señal poco confirmada
+   → LONG (confianza 70%): Bullish EMA, MACD, RSI below overbought, price near upper Bollinger.
+  [ejecución] ▲ LONG LINKUSDT: 10.13668892 @ 15.00348 | SL 14.4979 | TP 16.0147 | score 2 | IA: Bullish EMA, MACD, RSI below overbought, price near upper Bollinger.
 
 🤖 Analista IA evaluando ARBUSDT (short score -2)...
-   → FLAT (confianza 70%): Precio cerca de soporte, RSI no sobrecomprado, señal corta no confirmada
+   → FLAT (confianza 55%): Bearish trend confirmed, but RSI oversold near support; uncertainty suggests flat.
 
-🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 60%): Baja confirmación de tendencia, volumen débil, señal dudosa
+🤖 Analista IA evaluando UNIUSDT (short score -1)...
+   → FLAT (confianza 70%): Indicadores mixtos, sobreventa y bajo volumen; no confirma short
 
 🤖 Analista IA evaluando LTCUSDT (long score 1)...
-   → FLAT (confianza 60%): Señal contradictoria, bajo volumen y MACD negativo pese a EMA alcista
+   → FLAT (confianza 60%): Precio bajo banda, RSI oversold, pero MACD negativo y bajo volumen
 
-💰 Equity: $1014.44 | Cash: $1013.90 | Retorno: +1.44%
-📈 Posiciones abiertas: 3 | Cerradas: 34 | PnL realizado: +14.36
-   ▼ AVAXUSDT: entry 10.581 → ahora 10.388 (+2.78 USD)
-   ▲ SOLUSDT: entry 119.41 → ahora 118.83 (-0.74 USD)
-   ▲ ADAUSDT: entry 0.248337 → ahora 0.245877 (-1.51 USD)
+💰 Equity: $1013.44 | Cash: $1013.75 | Retorno: +1.34%
+📈 Posiciones abiertas: 4 | Cerradas: 34 | PnL realizado: +14.36
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.284 (+4.28 USD)
+   ▲ SOLUSDT: entry 119.41 → ahora 118.29 (-1.43 USD)
+   ▲ ADAUSDT: entry 0.248337 → ahora 0.243341 (-3.06 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 14.9932 (-0.10 USD)
