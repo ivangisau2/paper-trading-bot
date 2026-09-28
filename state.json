@@ -12,7 +12,7 @@
       "notional": 152.31952151436,
       "fee": 0.15231952151435998,
       "note": "score -3 | IA: Bearish trend, MACD, EMA, volume support short",
-      "checked_at": 1790609269.7484848
+      "checked_at": 1790610148.6120477
     },
     "LINKUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 150.8006991512768,
       "fee": 0.1508006991512768,
       "note": "score 3 | IA: Bullish trend, positive MACD, volume up; RSI neutral, near Bollinger top",
-      "checked_at": 1790609269.7484848
+      "checked_at": 1790610148.6120477
     }
   },
   "closed": 33,
