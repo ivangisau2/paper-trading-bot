@@ -1,5 +1,5 @@
 {
-  "balance": 1005.3379941554157,
+  "balance": 1005.1871934562644,
   "initial_balance": 1000.0,
   "positions": {
     "AVAXUSDT": {
@@ -12,7 +12,18 @@
       "notional": 152.31952151436,
       "fee": 0.15231952151435998,
       "note": "score -3 | IA: Bearish trend, MACD, EMA, volume support short",
-      "checked_at": 1790606628.6812193
+      "checked_at": 1790607508.5449955
+    },
+    "LINKUSDT": {
+      "side": "long",
+      "qty": 10.61330987,
+      "entry": 14.20864,
+      "sl": 13.776112762155686,
+      "tp": 15.073694475688631,
+      "opened_at": "2026-09-28T14:58:32+00:00",
+      "notional": 150.8006991512768,
+      "fee": 0.1508006991512768,
+      "note": "score 3 | IA: Bullish trend, positive MACD, volume up; RSI neutral, near Bollinger top"
     }
   },
   "closed": 33,
