@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 12:16 UTC
+⏰ Ciclo — 2026-09-28 12:31 UTC
 ============================================================
-  [ejecución] ✅ CERRADO LINKUSDT @ 14.507675211000766: +7.85 USD (take profit (wick entre ciclos))
 
-📊 5 candidatos tras filtros
+📊 7 candidatos tras filtros
+
+🤖 Analista IA evaluando AVAXUSDT (short score -3)...
+   → FLAT (confianza 55%): Banda inferior cercana, señal corta no totalmente confirmada
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil, precio cerca de soporte
+   → FLAT (confianza 55%): Bajista débil, volumen bajo, RSI neutro, señal no confirmada
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación, volumen débil, RSI neutro
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 55%): Context neutral, RSI moderate, price near upper Bollinger, no strong momentum
 
 🤖 Analista IA evaluando ARBUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen débil debilitan confirmación de corto
-
-🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 70%): Baja confirmación: MACD negativo, volumen bajo, señal dudosa
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal corta poco confirmada
 
 💰 Equity: $1015.46 | Cash: $1015.46 | Retorno: +1.55%
 📈 Posiciones abiertas: 0 | Cerradas: 30 | PnL realizado: +15.46
