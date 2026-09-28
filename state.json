@@ -1,5 +1,5 @@
 {
-  "balance": 1015.6712614653086,
+  "balance": 1013.4695322096358,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,7 +12,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790585482.5700831
+      "checked_at": 1790586363.2700937
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,22 +24,10 @@
       "notional": 155.254020021408,
       "fee": 0.155254020021408,
       "note": "score 2 | IA: Bullish trend, RSI moderate, price near upper Bollinger suggests caution",
-      "checked_at": 1790585482.5700831
-    },
-    "LTCUSDT": {
-      "side": "long",
-      "qty": 2.1848714,
-      "entry": 70.56,
-      "sl": 69.62190618631705,
-      "tp": 72.43618762736591,
-      "opened_at": "2026-09-27T22:40:53+00:00",
-      "notional": 154.164525984,
-      "fee": 0.154164525984,
-      "note": "score 1 | IA: Precio en banda inferior, RSI bajo, EMA alcista, MACD negativo",
-      "checked_at": 1790585482.5700831
+      "checked_at": 1790586363.2700937
     }
   },
-  "closed": 27,
-  "realized_pnl": 16.134527816018252,
+  "closed": 28,
+  "realized_pnl": 13.77863403436147,
   "started": "2026-09-23T21:38:36+00:00"
 }

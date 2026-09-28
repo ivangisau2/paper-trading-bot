@@ -1,25 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 08:51 UTC
+⏰ Ciclo — 2026-09-28 09:05 UTC
 ============================================================
-  [ejecución] ❌ CERRADO UNIUSDT @ 8.916780452167584: -4.19 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO LTCUSDT @ 69.62190618631705: -2.36 USD (stop loss (wick entre ciclos))
 
-📊 8 candidatos tras filtros
+📊 10 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio cerca de soporte, RSI bajo, tendencia bajista, incertidumbre
+🤖 Analista IA evaluando UNIUSDT (long score 2)...
+   → FLAT (confianza 60%): Precio bajo banda, RSI bajo, pero MACD y volumen débiles
+
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → FLAT (confianza 45%): Volumen muy bajo, MACD negativo, señal poco confirmada
+
+🤖 Analista IA evaluando AVAXUSDT (long score 2)...
+   → FLAT (confianza 45%): Precio en banda baja, RSI oversold, EMA bullish; MACD negativo, duda razonable
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, price near soporte, señal corta no confirmada
+   → FLAT (confianza 70%): RSI oversold, volumen muy bajo, precio en banda inferior
 
-🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 60%): Precio bajo banda inferior, RSI oversold, pero MACD negativo; mejor esperar
-
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 55%): Indicadores mixtos, bajo volumen, señal insuficiente
-
-💰 Equity: $1011.01 | Cash: $1015.67 | Retorno: +1.10%
-📈 Posiciones abiertas: 3 | Cerradas: 27 | PnL realizado: +16.13
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.6883 (-0.98 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.1448 (-3.19 USD)
-   ▲ LTCUSDT: entry 70.56 → ahora 70.34 (-0.48 USD)
+💰 Equity: $1007.72 | Cash: $1013.47 | Retorno: +0.77%
+📈 Posiciones abiertas: 2 | Cerradas: 28 | PnL realizado: +13.78
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.6114 (-1.84 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.1206 (-3.91 USD)
