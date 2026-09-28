@@ -1,26 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 14:14 UTC
+⏰ Ciclo — 2026-09-28 14:29 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ADAUSDT @ 0.2448707070867379: -3.85 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO LTCUSDT @ 69.23842308246617: -3.28 USD (stop loss (wick entre ciclos))
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y señal débil, mejor esperar
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → FLAT (confianza 70%): Volumen bajo y RSI cerca de sobreventa, señal poco confirmada
 
 🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja confirmación de volumen, señal no suficientemente respaldada
-
-🤖 Analista IA evaluando ARBUSDT (short score -2)...
-   → FLAT (confianza 30%): Precio cerca banda baja, RSI bajo, volumen débil, duda razonable
+   → FLAT (confianza 45%): Volumen bajo y señal parcial, mejor esperar confirmación
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 70%): Baja confirmación: bajo volumen y MACD negativo pese RSI bajo
+   → FLAT (confianza 60%): Low volume y MACD negativo, señal LONG no confirmada
 
-💰 Equity: $1011.85 | Cash: $1014.85 | Retorno: +1.19%
-📈 Posiciones abiertas: 4 | Cerradas: 30 | PnL realizado: +15.46
-   ▼ AVAXUSDT: entry 10.581 → ahora 10.418 (+2.35 USD)
-   ▲ XRPUSDT: entry 1.51643 → ahora 1.50555 (-1.09 USD)
-   ▲ ADAUSDT: entry 0.250716 → ahora 0.246511 (-2.55 USD)
-   ▲ LTCUSDT: entry 70.62 → ahora 69.83 (-1.70 USD)
+🤖 Analista IA evaluando LTCUSDT (long score 1)...
+   → FLAT (confianza 55%): Precio bajo banda, RSI bajo, pero MACD negativo y bajo volumen
+
+💰 Equity: $1009.77 | Cash: $1008.03 | Retorno: +0.98%
+📈 Posiciones abiertas: 2 | Cerradas: 32 | PnL realizado: +8.33
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.323 (+3.71 USD)
+   ▲ XRPUSDT: entry 1.51643 → ahora 1.49681 (-1.97 USD)
