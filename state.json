@@ -12,7 +12,7 @@
       "notional": 152.31952151436,
       "fee": 0.15231952151435998,
       "note": "score -3 | IA: Bearish trend, MACD, EMA, volume support short",
-      "checked_at": 1790615888.4906447
+      "checked_at": 1790616769.943751
     },
     "SOLUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 152.1312452453,
       "fee": 0.1521312452453,
       "note": "score 2 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral, modest confidence.",
-      "checked_at": 1790615888.4906447
+      "checked_at": 1790616769.943751
     }
   },
   "closed": 34,
