@@ -1,21 +1,8 @@
 {
-  "balance": 1007.4595699002435,
+  "balance": 1015.4634765289219,
   "initial_balance": 1000.0,
-  "positions": {
-    "LINKUSDT": {
-      "side": "long",
-      "qty": 11.16744914,
-      "entry": 13.77645,
-      "sl": 13.410837394499618,
-      "tp": 14.507675211000766,
-      "opened_at": "2026-09-25T14:29:46+00:00",
-      "notional": 153.847804704753,
-      "fee": 0.153847804704753,
-      "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790596937.652827
-    }
-  },
-  "closed": 29,
-  "realized_pnl": 7.613417704947897,
+  "positions": {},
+  "closed": 30,
+  "realized_pnl": 15.463476528921472,
   "started": "2026-09-23T21:38:36+00:00"
 }
