@@ -1,14 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 01:46 UTC
+⏰ Ciclo — 2026-09-28 01:56 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO DOGEUSDT @ 0.09542216084025475: -2.41 USD (stop loss (wick entre ciclos))
 
-📊 0 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-💰 Equity: $1031.46 | Cash: $1026.70 | Retorno: +3.15%
-📈 Posiciones abiertas: 4 | Cerradas: 23 | PnL realizado: +27.32
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.0616 (+3.18 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.3584 (+3.12 USD)
-   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0962095 (-0.84 USD)
-   ▲ LTCUSDT: entry 70.56 → ahora 70.24 (-0.70 USD)
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → LONG (confianza 60%): RSI oversold, price below lower Bollinger, bullish EMA; MACD still bearish.
+  [ejecución] ▲ LONG ETHUSDT: 0.05780108 @ 2658.54 | SL 2636.53 | TP 2702.55 | score 1 | IA: RSI oversold, price below lower Bollinger, bullish EMA; MACD still bearish.
+
+🤖 Analista IA evaluando DOGEUSDT (long score 1)...
+   → FLAT (confianza 40%): Señal débil, MACD negativo y RSI neutro, mejor esperar
+
+💰 Equity: $1028.94 | Cash: $1024.29 | Retorno: +2.89%
+📈 Posiciones abiertas: 4 | Cerradas: 24 | PnL realizado: +24.91
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.0737 (+3.32 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.3159 (+1.87 USD)
+   ▲ LTCUSDT: entry 70.56 → ahora 70.32 (-0.52 USD)
+   ▲ ETHUSDT: entry 2658.54 → ahora 2658.35 (-0.01 USD)
