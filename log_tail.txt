@@ -1,24 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 16:26 UTC
+⏰ Ciclo — 2026-09-28 16:41 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO LINKUSDT @ 15.073694475688631: +8.87 USD (take profit (wick entre ciclos))
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente, confirmación limitada
-
-🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): EMA bullish, MACD positivo, pero RSI neutro y volumen bajo
+   → LONG (confianza 65%): EMA bullish, MACD positive, price near lower Bollinger, RSI neutral, modest confidence.
+  [ejecución] ▲ LONG SOLUSDT: 1.27402433 @ 119.41 | SL 117.441 | TP 123.348 | score 2 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral, modest confidence.
 
 🤖 Analista IA evaluando ARBUSDT (short score -2)...
-   → FLAT (confianza 60%): Bajista trend, pero precio cerca banda inferior y RSI no sobrevendido
+   → FLAT (confianza 45%): Precio cerca de banda inferior, RSI no sobrevendido; señal corta no confirmada.
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos, tendencia bajista no confirmada
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 70%): EMA200 bearish, price near Bollinger top, signal unconfirmed
 
-💰 Equity: $1014.67 | Cash: $1005.19 | Retorno: +1.47%
-📈 Posiciones abiertas: 2 | Cerradas: 33 | PnL realizado: +5.49
-   ▼ AVAXUSDT: entry 10.581 → ahora 10.49 (+1.31 USD)
-   ▲ LINKUSDT: entry 14.2086 → ahora 14.9786 (+8.17 USD)
+🤖 Analista IA evaluando LINKUSDT (long score 1)...
+   → FLAT (confianza 55%): Precio sobre BB, RSI alto; momentum bullish pero riesgo de retroceso
+
+💰 Equity: $1015.84 | Cash: $1014.06 | Retorno: +1.58%
+📈 Posiciones abiertas: 2 | Cerradas: 34 | PnL realizado: +14.36
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.457 (+1.79 USD)
+   ▲ SOLUSDT: entry 119.41 → ahora 119.41 (+0.00 USD)
