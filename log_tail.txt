@@ -1,21 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 00:48 UTC
+⏰ Ciclo — 2026-09-28 01:03 UTC
 ============================================================
-  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO BTCUSDT @ 84069.96480189523: -1.06 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutro, riesgo de sobrecompra
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen y MACD negativo, mejor esperar
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed signals: bullish EMA trend, bearish MACD, price near lower Bollinger, insufficient confirmation.
-
-💰 Equity: $1035.05 | Cash: $1027.61 | Retorno: +3.51%
-📈 Posiciones abiertas: 5 | Cerradas: 22 | PnL realizado: +28.38
-   ▲ LINKUSDT: entry 13.7765 → ahora 14.0661 (+3.23 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.371 (+3.49 USD)
-   ▲ BTCUSDT: entry 84482.2 → ahora 84461.1 (-0.04 USD)
-   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0973171 (+0.93 USD)
-   ▲ LTCUSDT: entry 70.56 → ahora 70.48 (-0.17 USD)
+💰 Equity: $1030.68 | Cash: $1026.70 | Retorno: +3.07%
+📈 Posiciones abiertas: 4 | Cerradas: 23 | PnL realizado: +27.32
+   ▲ LINKUSDT: entry 13.7765 → ahora 14.0283 (+2.81 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.3115 (+1.73 USD)
+   ▲ DOGEUSDT: entry 0.0967372 → ahora 0.0967624 (+0.04 USD)
+   ▲ LTCUSDT: entry 70.56 → ahora 70.28 (-0.61 USD)
