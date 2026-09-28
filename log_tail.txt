@@ -1,25 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 12:45 UTC
+⏰ Ciclo — 2026-09-28 13:00 UTC
 ============================================================
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 8 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (short score -3)...
-   → SHORT (confianza 70%): Bearish trend, MACD, EMA, volume support short
-  [ejecución] ▼ SHORT AVAXUSDT: 14.39556956 @ 10.581 | SL 10.8487 | TP 10.0457 | score -3 | IA: Bearish trend, MACD, EMA, volume support short
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → FLAT (confianza 55%): Bajo volumen y cerca banda inferior, señal débil pese a EMA alcista
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Señal bajista débil, RSI neutro y cerca banda inferior
-
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → LONG (confianza 65%): EMA bullish, RSI neutral, volume above average, price near upper Bollinger, slight upside
-  [ejecución] ▲ LONG XRPUSDT: 100.43106081 @ 1.51643 | SL 1.49114 | TP 1.56701 | score 2 | IA: EMA bullish, RSI neutral, volume above average, price near upper Bollinger, slight upside
+🤖 Analista IA evaluando DOGEUSDT (long score 2)...
+   → FLAT (confianza 40%): Baja volatilidad y volumen insuficiente, señal no suficientemente confirmada
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen bajo y señal poco robusta
+   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente, señal poco confirmada
 
-💰 Equity: $1015.19 | Cash: $1015.16 | Retorno: +1.52%
+🤖 Analista IA evaluando ARBUSDT (short score -2)...
+   → FLAT (confianza 60%): Baja liquidez y precio cerca banda inferior, duda razonable
+
+💰 Equity: $1016.19 | Cash: $1015.16 | Retorno: +1.62%
 📈 Posiciones abiertas: 2 | Cerradas: 30 | PnL realizado: +15.46
-   ▼ AVAXUSDT: entry 10.581 → ahora 10.579 (+0.03 USD)
-   ▲ XRPUSDT: entry 1.51643 → ahora 1.51643 (+0.00 USD)
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.533 (+0.69 USD)
+   ▲ XRPUSDT: entry 1.51643 → ahora 1.51984 (+0.34 USD)
