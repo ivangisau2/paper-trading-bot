@@ -12,7 +12,7 @@
       "notional": 152.31952151436,
       "fee": 0.15231952151435998,
       "note": "score -3 | IA: Bearish trend, MACD, EMA, volume support short",
-      "checked_at": 1790613668.072422
+      "checked_at": 1790614552.0255487
     },
     "SOLUSDT": {
       "side": "long",
@@ -23,7 +23,8 @@
       "opened_at": "2026-09-28T16:41:13+00:00",
       "notional": 152.1312452453,
       "fee": 0.1521312452453,
-      "note": "score 2 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral, modest confidence."
+      "note": "score 2 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral, modest confidence.",
+      "checked_at": 1790614552.0255487
     }
   },
   "closed": 34,
