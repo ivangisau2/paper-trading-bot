@@ -12,7 +12,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790574674.7560165
+      "checked_at": 1790575551.1750789
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 155.254020021408,
       "fee": 0.155254020021408,
       "note": "score 2 | IA: Bullish trend, RSI moderate, price near upper Bollinger suggests caution",
-      "checked_at": 1790574674.7560165
+      "checked_at": 1790575551.1750789
     },
     "LTCUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 154.164525984,
       "fee": 0.154164525984,
       "note": "score 1 | IA: Precio en banda inferior, RSI bajo, EMA alcista, MACD negativo",
-      "checked_at": 1790574674.7560165
+      "checked_at": 1790575551.1750789
     }
   },
   "closed": 26,
