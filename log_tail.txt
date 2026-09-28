@@ -1,21 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 12:31 UTC
+⏰ Ciclo — 2026-09-28 12:45 UTC
 ============================================================
 
-📊 7 candidatos tras filtros
+📊 8 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -3)...
-   → FLAT (confianza 55%): Banda inferior cercana, señal corta no totalmente confirmada
+   → SHORT (confianza 70%): Bearish trend, MACD, EMA, volume support short
+  [ejecución] ▼ SHORT AVAXUSDT: 14.39556956 @ 10.581 | SL 10.8487 | TP 10.0457 | score -3 | IA: Bearish trend, MACD, EMA, volume support short
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Bajista débil, volumen bajo, RSI neutro, señal no confirmada
+   → FLAT (confianza 55%): Señal bajista débil, RSI neutro y cerca banda inferior
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Context neutral, RSI moderate, price near upper Bollinger, no strong momentum
+   → LONG (confianza 65%): EMA bullish, RSI neutral, volume above average, price near upper Bollinger, slight upside
+  [ejecución] ▲ LONG XRPUSDT: 100.43106081 @ 1.51643 | SL 1.49114 | TP 1.56701 | score 2 | IA: EMA bullish, RSI neutral, volume above average, price near upper Bollinger, slight upside
 
-🤖 Analista IA evaluando ARBUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal corta poco confirmada
+🤖 Analista IA evaluando LTCUSDT (long score 2)...
+   → FLAT (confianza 45%): Volumen bajo y señal poco robusta
 
-💰 Equity: $1015.46 | Cash: $1015.46 | Retorno: +1.55%
-📈 Posiciones abiertas: 0 | Cerradas: 30 | PnL realizado: +15.46
+💰 Equity: $1015.19 | Cash: $1015.16 | Retorno: +1.52%
+📈 Posiciones abiertas: 2 | Cerradas: 30 | PnL realizado: +15.46
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.579 (+0.03 USD)
+   ▲ XRPUSDT: entry 1.51643 → ahora 1.51643 (+0.00 USD)

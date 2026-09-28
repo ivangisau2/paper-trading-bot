@@ -1,7 +1,30 @@
 {
-  "balance": 1015.4634765289219,
+  "balance": 1015.1588603338633,
   "initial_balance": 1000.0,
-  "positions": {},
+  "positions": {
+    "AVAXUSDT": {
+      "side": "short",
+      "qty": 14.39556956,
+      "entry": 10.581,
+      "sl": 10.848665196673597,
+      "tp": 10.045669606652805,
+      "opened_at": "2026-09-28T12:46:07+00:00",
+      "notional": 152.31952151436,
+      "fee": 0.15231952151435998,
+      "note": "score -3 | IA: Bearish trend, MACD, EMA, volume support short"
+    },
+    "XRPUSDT": {
+      "side": "long",
+      "qty": 100.43106081,
+      "entry": 1.51643,
+      "sl": 1.4911405336999928,
+      "tp": 1.567008932600014,
+      "opened_at": "2026-09-28T12:46:09+00:00",
+      "notional": 152.2966735441083,
+      "fee": 0.1522966735441083,
+      "note": "score 2 | IA: EMA bullish, RSI neutral, volume above average, price near upper Bollinger, slight upside"
+    }
+  },
   "closed": 30,
   "realized_pnl": 15.463476528921472,
   "started": "2026-09-23T21:38:36+00:00"
