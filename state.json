@@ -12,7 +12,7 @@
       "notional": 152.31952151436,
       "fee": 0.15231952151435998,
       "note": "score -3 | IA: Bearish trend, MACD, EMA, volume support short",
-      "checked_at": 1790600440.4344583
+      "checked_at": 1790601327.5779347
     },
     "XRPUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 152.2966735441083,
       "fee": 0.1522966735441083,
       "note": "score 2 | IA: EMA bullish, RSI neutral, volume above average, price near upper Bollinger, slight upside",
-      "checked_at": 1790600440.4344583
+      "checked_at": 1790601327.5779347
     }
   },
   "closed": 30,

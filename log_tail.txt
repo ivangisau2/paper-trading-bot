@@ -1,24 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 13:00 UTC
+⏰ Ciclo — 2026-09-28 13:15 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
+📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Bajo volumen y cerca banda inferior, señal débil pese a EMA alcista
+   → FLAT (confianza 60%): Baja confirmación de volumen y RSI neutro, riesgo alto
 
 🤖 Analista IA evaluando DOGEUSDT (long score 2)...
-   → FLAT (confianza 40%): Baja volatilidad y volumen insuficiente, señal no suficientemente confirmada
+   → FLAT (confianza 35%): Baja confirmación, volumen débil y RSI neutro
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+   → FLAT (confianza 65%): Precio cerca banda baja, EMA bullish, pero volumen bajo y RSI neutro; mejor esperar
 
 🤖 Analista IA evaluando ARBUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja liquidez y precio cerca banda inferior, duda razonable
+   → FLAT (confianza 65%): Baja volatilidad y volumen muy bajo debilitan confirmación de short
 
-💰 Equity: $1016.19 | Cash: $1015.16 | Retorno: +1.62%
+💰 Equity: $1016.42 | Cash: $1015.16 | Retorno: +1.64%
 📈 Posiciones abiertas: 2 | Cerradas: 30 | PnL realizado: +15.46
-   ▼ AVAXUSDT: entry 10.581 → ahora 10.533 (+0.69 USD)
-   ▲ XRPUSDT: entry 1.51643 → ahora 1.51984 (+0.34 USD)
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.514 (+0.96 USD)
+   ▲ XRPUSDT: entry 1.51643 → ahora 1.5194 (+0.30 USD)
