@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 04:37 UTC
+⏰ Ciclo — 2026-09-28 04:52 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 45%): Indicadores mixtos, bajo volumen y MACD negativo; duda razonable
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 55%): Señal conflictiva, bajo volumen y MACD negativo pese a RSI bajo.
 
-🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 55%): MACD negativo y precio bajo banda, RSI bajo, tendencia alcista, duda razonable
+🤖 Analista IA evaluando UNIUSDT (long score 1)...
+   → FLAT (confianza 45%): Indicadores mixtos, RSI bajo pero MACD negativo, duda razonable
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): EMA bullish but RSI oversold, price at lower Bollinger; mixed signals, recommend flat
+   → FLAT (confianza 70%): Trend bullish, RSI oversold, price near support; short not justified
 
-🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 55%): Señal conflictiva: EMA bullish, pero MACD y precio bajo Bollinger indican incertidumbre.
+🤖 Analista IA evaluando AVAXUSDT (long score 1)...
+   → FLAT (confianza 55%): Precio bajo banda, RSI bajo, pero MACD negativo y bajo volumen.
 
-💰 Equity: $1025.18 | Cash: $1024.14 | Retorno: +2.52%
+💰 Equity: $1028.04 | Cash: $1024.14 | Retorno: +2.80%
 📈 Posiciones abiertas: 5 | Cerradas: 24 | PnL realizado: +24.91
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.8783 (+1.14 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.2359 (-0.50 USD)
-   ▲ LTCUSDT: entry 70.56 → ahora 70.9 (+0.74 USD)
-   ▲ ETHUSDT: entry 2658.54 → ahora 2656.25 (-0.13 USD)
-   ▲ DOGEUSDT: entry 0.0943165 → ahora 0.0941933 (-0.20 USD)
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.9601 (+2.05 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.2878 (+1.03 USD)
+   ▲ LTCUSDT: entry 70.56 → ahora 70.94 (+0.83 USD)
+   ▲ ETHUSDT: entry 2658.54 → ahora 2658.26 (-0.02 USD)
+   ▲ DOGEUSDT: entry 0.0943165 → ahora 0.0943211 (+0.01 USD)
