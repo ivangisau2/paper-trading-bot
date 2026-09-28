@@ -1,18 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 15:42 UTC
+⏰ Ciclo — 2026-09-28 15:56 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
+
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 35%): EMA50/200 bajista, señal LONG no confirmada
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 65%): RSI oversold but MACD y bajo volumen indican incertidumbre
+   → FLAT (confianza 60%): Momentum bajista y bajo volumen contradicen sobrecompra, mejor esperar
 
 🤖 Analista IA evaluando ARBUSDT (short score -1)...
-   → FLAT (confianza 60%): Precio cerca banda baja, RSI oversold, señal corta no confirmada
+   → FLAT (confianza 45%): Baja confirmación, precio cerca banda inferior y volumen débil
 
-💰 Equity: $1010.34 | Cash: $1005.19 | Retorno: +1.03%
+💰 Equity: $1010.98 | Cash: $1005.19 | Retorno: +1.10%
 📈 Posiciones abiertas: 2 | Cerradas: 33 | PnL realizado: +5.49
-   ▼ AVAXUSDT: entry 10.581 → ahora 10.348 (+3.35 USD)
-   ▲ LINKUSDT: entry 14.2086 → ahora 14.3782 (+1.80 USD)
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.343 (+3.43 USD)
+   ▲ LINKUSDT: entry 14.2086 → ahora 14.432 (+2.37 USD)
