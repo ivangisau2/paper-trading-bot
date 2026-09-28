@@ -12,7 +12,7 @@
       "notional": 153.847804704753,
       "fee": 0.153847804704753,
       "note": "score 3 | IA: Bullish indicators align, price near upper Bollinger but no overbought extreme",
-      "checked_at": 1790571158.8649728
+      "checked_at": 1790572041.1429183
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 155.254020021408,
       "fee": 0.155254020021408,
       "note": "score 2 | IA: Bullish trend, RSI moderate, price near upper Bollinger suggests caution",
-      "checked_at": 1790571158.8649728
+      "checked_at": 1790572041.1429183
     },
     "LTCUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 154.164525984,
       "fee": 0.154164525984,
       "note": "score 1 | IA: Precio en banda inferior, RSI bajo, EMA alcista, MACD negativo",
-      "checked_at": 1790571158.8649728
+      "checked_at": 1790572041.1429183
     },
     "ETHUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 153.6664832232,
       "fee": 0.1536664832232,
       "note": "score 1 | IA: RSI oversold, price below lower Bollinger, bullish EMA; MACD still bearish.",
-      "checked_at": 1790571158.8649728
+      "checked_at": 1790572041.1429183
     },
     "DOGEUSDT": {
       "side": "long",
@@ -60,7 +60,7 @@
       "notional": 153.6434216868034,
       "fee": 0.15364342168680342,
       "note": "score 2 | IA: RSI oversold, price below Bollinger lower, bullish EMA, but MACD bearish",
-      "checked_at": 1790571158.8649728
+      "checked_at": 1790572041.1429183
     }
   },
   "closed": 24,
