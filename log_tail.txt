@@ -1,25 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 06:20 UTC
+⏰ Ciclo — 2026-09-28 06:35 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 9 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volatilidad, MACD negativo y volumen débil generan incertidumbre
+   → FLAT (confianza 65%): RSI oversold but MACD negative and low volume
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 55%): RSI oversold, bullish EMA, but MACD negative and price below Bollinger lower band.
+   → LONG (confianza 70%): RSI oversold, bullish EMA, price below lower Bollinger, volume strong; MACD still negative.
+  [ejecución] ▲ LONG UNIUSDT: 16.72062601 @ 9.1491 | SL 8.91678 | TP 9.61374 | score 2 | IA: RSI oversold, bullish EMA, price below lower Bollinger, volume strong; MACD still negative.
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y señal débil, aunque RSI sobrevendido
+   → FLAT (confianza 55%): Volumen bajo y MACD negativo debilitan señal, aunque RSI sobrevendido y tendencia alcista
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 60%): RSI oversold but MACD negative, low volume; insufficient confirmation
+   → FLAT (confianza 45%): RSI oversold but MACD negative, low volume, signal unconfirmed
 
-💰 Equity: $1017.72 | Cash: $1019.86 | Retorno: +1.77%
-📈 Posiciones abiertas: 3 | Cerradas: 26 | PnL realizado: +20.32
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.8465 (+0.78 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.1288 (-3.66 USD)
-   ▲ LTCUSDT: entry 70.56 → ahora 70.9 (+0.74 USD)
+💰 Equity: $1018.89 | Cash: $1019.70 | Retorno: +1.89%
+📈 Posiciones abiertas: 4 | Cerradas: 26 | PnL realizado: +20.32
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.8207 (+0.49 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.1772 (-2.23 USD)
+   ▲ LTCUSDT: entry 70.56 → ahora 70.99 (+0.94 USD)
+   ▲ UNIUSDT: entry 9.1491 → ahora 9.148 (-0.02 USD)
