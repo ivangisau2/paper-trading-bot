@@ -1,27 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 05:36 UTC
+⏰ Ciclo — 2026-09-28 05:51 UTC
 ============================================================
-  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ETHUSDT @ 2636.5333500479005: -1.58 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO DOGEUSDT @ 0.09265744776279944: -3.01 USD (stop loss (wick entre ciclos))
 
-📊 7 candidatos tras filtros
+📊 8 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 45%): Señal conflictiva, bajo volumen y MACD negativo
+   → FLAT (confianza 55%): Conflicto: RSI bajo y EMA alcista, pero MACD negativo y bajo volumen.
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio bajo banda, RSI bajo, pero MACD negativo y bajo volumen
+   → FLAT (confianza 55%): Precio bajo banda, RSI oversold, pero MACD negativo y bajo volumen generan duda.
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 60%): Señal contradice momentum bajista y volumen bajo.
+   → FLAT (confianza 55%): Señal LONG con indicadores mixtos, duda razonable
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Oversold, price below Bollinger lower band, but MACD negative and low volume; doubt
+   → FLAT (confianza 55%): MACD negativo y precio bajo banda inferior generan duda, mejor esperar
 
-💰 Equity: $1017.55 | Cash: $1024.14 | Retorno: +1.75%
-📈 Posiciones abiertas: 5 | Cerradas: 24 | PnL realizado: +24.91
-   ▲ LINKUSDT: entry 13.7765 → ahora 13.7203 (-0.63 USD)
-   ▲ NEARUSDT: entry 5.2528 → ahora 5.1443 (-3.21 USD)
+💰 Equity: $1018.72 | Cash: $1019.86 | Retorno: +1.87%
+📈 Posiciones abiertas: 3 | Cerradas: 26 | PnL realizado: +20.32
+   ▲ LINKUSDT: entry 13.7765 → ahora 13.789 (+0.14 USD)
+   ▲ NEARUSDT: entry 5.2528 → ahora 5.1845 (-2.02 USD)
    ▲ LTCUSDT: entry 70.56 → ahora 70.9 (+0.74 USD)
-   ▲ ETHUSDT: entry 2658.54 → ahora 2641.21 (-1.00 USD)
-   ▲ DOGEUSDT: entry 0.0943165 → ahora 0.0927845 (-2.50 USD)
