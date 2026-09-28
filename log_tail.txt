@@ -1,25 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-28 14:58 UTC
+⏰ Ciclo — 2026-09-28 15:13 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 8 candidatos tras filtros
-
-🤖 Analista IA evaluando LINKUSDT (long score 3)...
-   → LONG (confianza 65%): Bullish trend, positive MACD, volume up; RSI neutral, near Bollinger top
-  [ejecución] ▲ LONG LINKUSDT: 10.61330987 @ 14.20864 | SL 13.7761 | TP 15.0737 | score 3 | IA: Bullish trend, positive MACD, volume up; RSI neutral, near Bollinger top
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI no sobrevendido, riesgo reversión
+   → FLAT (confianza 55%): Precio cerca banda inferior, RSI no sobrevendido, volumen bajo
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 60%): EMA bajista y tendencia general negativa pese a sobreventa
+🤖 Analista IA evaluando LTCUSDT (long score 2)...
+   → FLAT (confianza 45%): RSI oversold, but MACD negative and volume very low; insufficient confirmation.
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): EMA trend bullish, price near lower Bollinger, RSI low; short signal not confirmed
+🤖 Analista IA evaluando UNIUSDT (long score 1)...
+   → FLAT (confianza 65%): Volumen bajo y MACD negativo pese a RSI sobrevendido
 
-💰 Equity: $1010.25 | Cash: $1005.19 | Retorno: +1.03%
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 70%): Precio bajo banda, pero MACD y volumen débiles
+
+💰 Equity: $1009.95 | Cash: $1005.19 | Retorno: +1.00%
 📈 Posiciones abiertas: 2 | Cerradas: 33 | PnL realizado: +5.49
-   ▼ AVAXUSDT: entry 10.581 → ahora 10.241 (+4.89 USD)
-   ▲ LINKUSDT: entry 14.2086 → ahora 14.2249 (+0.17 USD)
+   ▼ AVAXUSDT: entry 10.581 → ahora 10.254 (+4.71 USD)
+   ▲ LINKUSDT: entry 14.2086 → ahora 14.2142 (+0.06 USD)
