@@ -1,5 +1,5 @@
 {
-  "balance": 1014.0561716255767,
+  "balance": 1013.9040631998334,
   "initial_balance": 1000.0,
   "positions": {
     "AVAXUSDT": {
@@ -12,7 +12,7 @@
       "notional": 152.31952151436,
       "fee": 0.15231952151435998,
       "note": "score -3 | IA: Bearish trend, MACD, EMA, volume support short",
-      "checked_at": 1790616769.943751
+      "checked_at": 1790617651.007211
     },
     "SOLUSDT": {
       "side": "long",
@@ -24,7 +24,18 @@
       "notional": 152.1312452453,
       "fee": 0.1521312452453,
       "note": "score 2 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral, modest confidence.",
-      "checked_at": 1790616769.943751
+      "checked_at": 1790617651.007211
+    },
+    "ADAUSDT": {
+      "side": "long",
+      "qty": 612.5081069,
+      "entry": 0.248337,
+      "sl": 0.2413515345827242,
+      "tp": 0.26230793083455156,
+      "opened_at": "2026-09-28T17:47:34+00:00",
+      "notional": 152.1084257432253,
+      "fee": 0.1521084257432253,
+      "note": "score 2 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral."
     }
   },
   "closed": 34,
