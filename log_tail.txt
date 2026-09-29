@@ -1,30 +1,29 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 15:37 UTC
+⏰ Ciclo — 2026-09-29 15:52 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ADAUSDT @ 0.24598251985606254: -4.09 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO LTCUSDT @ 67.50688243902998: -2.82 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando LTCUSDT (long score 4)...
-   → LONG (confianza 70%): Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG
-  [ejecución] ▲ LONG LTCUSDT: 2.19727404 @ 67.41 | SL 66.1846 | TP 69.8608 | score 4 | IA: Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG
+🤖 Analista IA evaluando BTCUSDT (short score -3)...
+   → SHORT (confianza 65%): EMA bajista, MACD negativo, precio cerca banda inferior
+  [riesgo] No se abre BTCUSDT: máximo 5 posiciones
 
-🤖 Analista IA evaluando AVAXUSDT (long score 3)...
-   → LONG (confianza 75%): Bullish EMA, positive MACD, price near upper Bollinger, strong volume.
-  [ejecución] ▲ LONG AVAXUSDT: 13.22049861 @ 11.202 | SL 10.8111 | TP 11.9838 | score 3 | IA: Bullish EMA, positive MACD, price near upper Bollinger, strong volume.
+🤖 Analista IA evaluando ETHUSDT (short score -3)...
+   → SHORT (confianza 70%): Indicadores bajistas confirman señal, RSI neutro, sin sobreventa.
+  [riesgo] No se abre ETHUSDT: máximo 5 posiciones
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 60%): EMA downtrend y señal mixta, mejor esperar
+🤖 Analista IA evaluando UNIUSDT (long score 1)...
+   → FLAT (confianza 30%): EMA200 bearish, RSI neutral, signal weak
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 30%): EMA200 bearish, insufficient confirmation for long.
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 60%): EMA bajista y RSI neutro, señal poco confirmada
 
-💰 Equity: $989.32 | Cash: $987.16 | Retorno: -1.07%
+💰 Equity: $988.04 | Cash: $987.16 | Retorno: -1.20%
 📈 Posiciones abiertas: 5 | Cerradas: 41 | PnL realizado: -12.09
-   ▲ LINKUSDT: entry 15.0035 → ahora 14.7986 (-2.08 USD)
-   ▲ SOLUSDT: entry 118.88 → ahora 118.47 (-0.52 USD)
-   ▲ NEARUSDT: entry 4.8326 → ahora 4.9883 (+4.81 USD)
-   ▲ LTCUSDT: entry 67.41 → ahora 67.41 (+0.00 USD)
-   ▲ AVAXUSDT: entry 11.202 → ahora 11.198 (-0.05 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 14.7641 (-2.43 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 118.27 (-0.77 USD)
+   ▲ NEARUSDT: entry 4.8326 → ahora 4.9469 (+3.53 USD)
+   ▲ LTCUSDT: entry 67.41 → ahora 67.56 (+0.33 USD)
+   ▲ AVAXUSDT: entry 11.202 → ahora 11.219 (+0.22 USD)
