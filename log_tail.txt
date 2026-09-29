@@ -1,13 +1,13 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 00:42 UTC
+⏰ Ciclo — 2026-09-29 00:56 UTC
 ============================================================
-  [ejecución] ❌ CERRADO AVAXUSDT @ 10.848665196673597: -4.16 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $1015.21 | Cash: $1006.93 | Retorno: +1.52%
+💰 Equity: $1010.72 | Cash: $1006.93 | Retorno: +1.07%
 📈 Posiciones abiertas: 3 | Cerradas: 36 | PnL realizado: +7.39
-   ▲ ADAUSDT: entry 0.248337 → ahora 0.249514 (+0.72 USD)
-   ▲ LINKUSDT: entry 15.0035 → ahora 15.6984 (+7.04 USD)
-   ▲ SOLUSDT: entry 118.53 → ahora 118.93 (+0.51 USD)
+   ▲ ADAUSDT: entry 0.248337 → ahora 0.246536 (-1.10 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.5312 (+5.35 USD)
+   ▲ SOLUSDT: entry 118.53 → ahora 118.17 (-0.46 USD)
