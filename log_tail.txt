@@ -1,22 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 01:11 UTC
+⏰ Ciclo — 2026-09-29 01:26 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca soporte
+   → FLAT (confianza 60%): Precio cerca de soporte, señal corta sin confirmación clara
+
+🤖 Analista IA evaluando LTCUSDT (long score 2)...
+   → FLAT (confianza 55%): RSI oversold, EMA bullish, pero MACD negativo y bajo volumen
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 55%): Señal conflictiva, bajo volumen y tendencia bajista
+   → FLAT (confianza 60%): RSI oversold but bearish EMA, low volume, weak MACD; insufficient confirmation
 
-🤖 Analista IA evaluando LTCUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI oversold but MACD negative, low volume, ambiguous bullish trend
-
-💰 Equity: $1006.07 | Cash: $1006.93 | Retorno: +0.61%
+💰 Equity: $1006.20 | Cash: $1006.93 | Retorno: +0.62%
 📈 Posiciones abiertas: 3 | Cerradas: 36 | PnL realizado: +7.39
-   ▲ ADAUSDT: entry 0.248337 → ahora 0.244284 (-2.48 USD)
-   ▲ LINKUSDT: entry 15.0035 → ahora 15.2905 (+2.91 USD)
-   ▲ SOLUSDT: entry 118.53 → ahora 117.52 (-1.29 USD)
+   ▲ ADAUSDT: entry 0.248337 → ahora 0.244417 (-2.40 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.3409 (+3.42 USD)
+   ▲ SOLUSDT: entry 118.53 → ahora 117.16 (-1.75 USD)
