@@ -1,22 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 11:22 UTC
+⏰ Ciclo — 2026-09-29 11:37 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 60%): Mixed indicators, low volume, RSI high, but MACD bullish; better wait.
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen bajo y RSI bajo generan incertidumbre
+   → FLAT (confianza 55%): Baja confirmación de volumen, indicadores mixtos
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+   → LONG (confianza 65%): Bullish MACD, EMA uptrend, volume above average; price near upper Bollinger, RSI neutral.
+  [ejecución] ▲ LONG NEARUSDT: 30.86436552 @ 4.8326 | SL 4.66414 | TP 5.16952 | score 2 | IA: Bullish MACD, EMA uptrend, volume above average; price near upper Bollinger, RSI neutral.
 
-🤖 Analista IA evaluando AVAXUSDT (long score 1)...
-   → FLAT (confianza 65%): RSI overbought y precio cerca de banda superior, riesgo de reversión
+🤖 Analista IA evaluando UNIUSDT (short score -1)...
+   → FLAT (confianza 55%): Banda superior, MACD bullish, volumen bajo, señal corta no confirmada
 
-💰 Equity: $997.93 | Cash: $994.37 | Retorno: -0.21%
-📈 Posiciones abiertas: 3 | Cerradas: 39 | PnL realizado: -5.18
-   ▲ LINKUSDT: entry 15.0035 → ahora 15.3621 (+3.64 USD)
-   ▲ SOLUSDT: entry 118.88 → ahora 119.33 (+0.57 USD)
-   ▲ ADAUSDT: entry 0.252371 → ahora 0.251287 (-0.64 USD)
+💰 Equity: $999.58 | Cash: $994.22 | Retorno: -0.04%
+📈 Posiciones abiertas: 4 | Cerradas: 39 | PnL realizado: -5.18
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.4022 (+4.04 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 119.63 (+0.95 USD)
+   ▲ ADAUSDT: entry 0.252371 → ahora 0.253094 (+0.43 USD)
+   ▲ NEARUSDT: entry 4.8326 → ahora 4.8307 (-0.06 USD)
