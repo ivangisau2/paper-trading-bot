@@ -1,26 +1,28 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 12:37 UTC
+⏰ Ciclo — 2026-09-29 12:52 UTC
 ============================================================
   [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
-
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish; mejor esperar
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y RSI neutro generan incertidumbre
-
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): EMA bearish but MACD bullish, price near upper band; insufficient confirmation.
+   → LONG (confianza 60%): MACD y EMA bullish, RSI neutral, precio cerca banda media
+  [ejecución] ▲ LONG LTCUSDT: 2.17173088 @ 68.67 | SL 67.5069 | TP 70.9962 | score 2 | IA: MACD y EMA bullish, RSI neutral, precio cerca banda media
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos, sobrecompra pero momentum alcista, mejor esperar
+   → FLAT (confianza 55%): Indicadores mixtos, RSI alto pero MACD bullish; mejor esperar
 
-💰 Equity: $1001.93 | Cash: $994.22 | Retorno: +0.19%
-📈 Posiciones abiertas: 4 | Cerradas: 39 | PnL realizado: -5.18
-   ▲ LINKUSDT: entry 15.0035 → ahora 15.3895 (+3.91 USD)
-   ▲ SOLUSDT: entry 118.88 → ahora 120.63 (+2.21 USD)
-   ▲ ADAUSDT: entry 0.252371 → ahora 0.253161 (+0.47 USD)
-   ▲ NEARUSDT: entry 4.8326 → ahora 4.869 (+1.12 USD)
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 40%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish; mejor esperar
+
+🤖 Analista IA evaluando AVAXUSDT (long score 1)...
+   → FLAT (confianza 60%): Precio cerca de resistencia, RSI alto, señal dudosa
+
+💰 Equity: $1000.23 | Cash: $994.07 | Retorno: +0.02%
+📈 Posiciones abiertas: 5 | Cerradas: 39 | PnL realizado: -5.18
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.2762 (+2.76 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 120.57 (+2.13 USD)
+   ▲ ADAUSDT: entry 0.252371 → ahora 0.252671 (+0.18 USD)
+   ▲ NEARUSDT: entry 4.8326 → ahora 4.8677 (+1.08 USD)
+   ▲ LTCUSDT: entry 68.67 → ahora 68.67 (+0.00 USD)
