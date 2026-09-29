@@ -1,24 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 01:40 UTC
+⏰ Ciclo — 2026-09-29 01:55 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ADAUSDT @ 0.2413515345827242: -4.58 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO SOLUSDT @ 116.49679141493046: -2.90 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 7 candidatos tras filtros
-
-🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → FLAT (confianza 60%): Precio cerca de banda inferior, RSI no sobrevendido, riesgo de rebote
+📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -3)...
-   → FLAT (confianza 65%): Precio cerca banda baja, RSI bajo, tendencia bajista, señal corta dudosa
+   → FLAT (confianza 55%): Baja tendencia, pero precio cerca soporte; duda razonable
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio cerca banda baja, señal corta no confirmada
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → FLAT (confianza 45%): Baja confirmación: volumen bajo, RSI neutro, señal débil.
 
-🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 70%): Precio bajo banda, RSI bajo, pero tendencia bajista y bajo volumen
+🤖 Analista IA evaluando LTCUSDT (long score 2)...
+   → FLAT (confianza 70%): MACD bearish, but RSI oversold and price at lower Bollinger; uncertainty, stay flat.
 
-💰 Equity: $1002.29 | Cash: $999.76 | Retorno: +0.23%
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 30%): EMA200 downtrend y señal débil, mejor esperar
+
+💰 Equity: $1002.28 | Cash: $999.76 | Retorno: +0.23%
 📈 Posiciones abiertas: 1 | Cerradas: 38 | PnL realizado: -0.09
-   ▲ LINKUSDT: entry 15.0035 → ahora 15.2533 (+2.53 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.2521 (+2.52 USD)
