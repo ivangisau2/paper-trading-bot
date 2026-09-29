@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 16:51 UTC
+⏰ Ciclo — 2026-09-29 17:06 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (short score -3)...
-   → FLAT (confianza 65%): Precio cerca banda baja, RSI no sobrevendido, riesgo rebote
-
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI near neutral, price near lower Bollinger, trend bearish but uncertain
+   → FLAT (confianza 55%): Baja confirmada pero volumen débil y RSI neutro, riesgo alto
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 65%): Precio cerca banda baja, RSI neutro, señal corta no confirmada
+   → FLAT (confianza 55%): Baja confirmación: volumen muy bajo, RSI neutro, señal corta poco respaldada
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 65%): EMA bearish, but price near lower Bollinger, RSI neutral, volume weak
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 65%): Baja confirmación, volumen débil y RSI neutral
 
-💰 Equity: $986.85 | Cash: $987.16 | Retorno: -1.32%
+🤖 Analista IA evaluando ADAUSDT (short score -2)...
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI no sobrecomprado
+
+💰 Equity: $987.01 | Cash: $987.16 | Retorno: -1.30%
 📈 Posiciones abiertas: 5 | Cerradas: 41 | PnL realizado: -12.09
-   ▲ LINKUSDT: entry 15.0035 → ahora 14.7232 (-2.84 USD)
-   ▲ SOLUSDT: entry 118.88 → ahora 118.04 (-1.06 USD)
-   ▲ NEARUSDT: entry 4.8326 → ahora 4.9433 (+3.42 USD)
-   ▲ LTCUSDT: entry 67.41 → ahora 67.71 (+0.66 USD)
-   ▲ AVAXUSDT: entry 11.202 → ahora 11.165 (-0.49 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 14.7239 (-2.83 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 118.3 (-0.73 USD)
+   ▲ NEARUSDT: entry 4.8326 → ahora 4.9439 (+3.44 USD)
+   ▲ LTCUSDT: entry 67.41 → ahora 67.72 (+0.68 USD)
+   ▲ AVAXUSDT: entry 11.202 → ahora 11.149 (-0.70 USD)
