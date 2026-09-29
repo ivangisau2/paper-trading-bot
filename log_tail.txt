@@ -1,17 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 06:09 UTC
+⏰ Ciclo — 2026-09-29 06:24 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen bajo y señal débil, mejor esperar
+   → FLAT (confianza 60%): Volumen bajo y señal mixta, mejor esperar
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 70%): Indicadores mixtos, bajo volumen, no confirma señal corta
+   → FLAT (confianza 55%): EMA bajista, MACD positivo y bajo volumen; señal corta no confirmada
 
-💰 Equity: $999.11 | Cash: $999.76 | Retorno: -0.09%
+💰 Equity: $998.90 | Cash: $999.76 | Retorno: -0.11%
 📈 Posiciones abiertas: 1 | Cerradas: 38 | PnL realizado: -0.09
-   ▲ LINKUSDT: entry 15.0035 → ahora 14.94 (-0.64 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 14.9191 (-0.86 USD)
