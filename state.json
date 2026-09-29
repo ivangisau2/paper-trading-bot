@@ -12,7 +12,7 @@
       "notional": 152.08560947744158,
       "fee": 0.15208560947744157,
       "note": "score 2 | IA: Bullish EMA, MACD, RSI below overbought, price near upper Bollinger.",
-      "checked_at": 1790703326.1480176
+      "checked_at": 1790704216.0444212
     },
     "SOLUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 149.96335744799998,
       "fee": 0.149963357448,
       "note": "score 2 | IA: EMA bullish, MACD positive, volume up; RSI neutral, price near middle, modest confidence.",
-      "checked_at": 1790703326.1480176
+      "checked_at": 1790704216.0444212
     },
     "NEARUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 149.155132811952,
       "fee": 0.149155132811952,
       "note": "score 2 | IA: Bullish MACD, EMA uptrend, volume above average; price near upper Bollinger, RSI neutral.",
-      "checked_at": 1790703326.1480176
+      "checked_at": 1790704216.0444212
     },
     "LTCUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 148.11824303639997,
       "fee": 0.14811824303639998,
       "note": "score 4 | IA: Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG",
-      "checked_at": 1790703326.1480176
+      "checked_at": 1790704216.0444212
     },
     "AVAXUSDT": {
       "side": "long",
@@ -60,7 +60,7 @@
       "notional": 148.09602542922,
       "fee": 0.14809602542921999,
       "note": "score 3 | IA: Bullish EMA, positive MACD, price near upper Bollinger, strong volume.",
-      "checked_at": 1790703326.1480176
+      "checked_at": 1790704216.0444212
     }
   },
   "closed": 41,
