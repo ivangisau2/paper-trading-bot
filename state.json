@@ -1,19 +1,7 @@
 {
-  "balance": 987.1587398045317,
+  "balance": 981.886679639383,
   "initial_balance": 1000.0,
   "positions": {
-    "LINKUSDT": {
-      "side": "long",
-      "qty": 10.13668892,
-      "entry": 15.00348,
-      "sl": 14.497881012423832,
-      "tp": 16.014677975152335,
-      "opened_at": "2026-09-28T19:45:08+00:00",
-      "notional": 152.08560947744158,
-      "fee": 0.15208560947744157,
-      "note": "score 2 | IA: Bullish EMA, MACD, RSI below overbought, price near upper Bollinger.",
-      "checked_at": 1790704216.0444212
-    },
     "SOLUSDT": {
       "side": "long",
       "qty": 1.26146835,
@@ -24,7 +12,7 @@
       "notional": 149.96335744799998,
       "fee": 0.149963357448,
       "note": "score 2 | IA: EMA bullish, MACD positive, volume up; RSI neutral, price near middle, modest confidence.",
-      "checked_at": 1790704216.0444212
+      "checked_at": 1790705104.2736154
     },
     "NEARUSDT": {
       "side": "long",
@@ -36,7 +24,7 @@
       "notional": 149.155132811952,
       "fee": 0.149155132811952,
       "note": "score 2 | IA: Bullish MACD, EMA uptrend, volume above average; price near upper Bollinger, RSI neutral.",
-      "checked_at": 1790704216.0444212
+      "checked_at": 1790705104.2736154
     },
     "LTCUSDT": {
       "side": "long",
@@ -48,7 +36,7 @@
       "notional": 148.11824303639997,
       "fee": 0.14811824303639998,
       "note": "score 4 | IA: Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG",
-      "checked_at": 1790704216.0444212
+      "checked_at": 1790705104.2736154
     },
     "AVAXUSDT": {
       "side": "long",
@@ -60,10 +48,10 @@
       "notional": 148.09602542922,
       "fee": 0.14809602542921999,
       "note": "score 3 | IA: Bullish EMA, positive MACD, price near upper Bollinger, strong volume.",
-      "checked_at": 1790704216.0444212
+      "checked_at": 1790705104.2736154
     }
   },
-  "closed": 41,
-  "realized_pnl": -12.093841827265715,
+  "closed": 42,
+  "realized_pnl": -17.517987601891825,
   "started": "2026-09-23T21:38:36+00:00"
 }
