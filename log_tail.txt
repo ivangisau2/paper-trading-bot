@@ -1,26 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 08:35 UTC
+⏰ Ciclo — 2026-09-29 08:41 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
-
-🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → LONG (confianza 65%): Bullish EMA, MACD+, volume; near upper BB, moderate risk
-  [ejecución] ▲ LONG ADAUSDT: 594.12873471 @ 0.252371 | SL 0.245983 | TP 0.265148 | score 2 | IA: Bullish EMA, MACD+, volume; near upper BB, moderate risk
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 55%): Señal corta, pero MACD bullish y precio sobre BB genera duda
+   → SHORT (confianza 65%): RSI high, price above BB, bearish EMA supports short
+  [ejecución] ▼ SHORT AVAXUSDT: 13.31424261 @ 11.26 | SL 11.6193 | TP 10.5414 | score -2 | IA: RSI high, price above BB, bearish EMA supports short
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen, señal no suficientemente respaldada
+   → FLAT (confianza 55%): Baja confirmación de volumen, señal débil
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutro, tendencia alcista insuficiente
+   → FLAT (confianza 55%): Baja volatilidad, volumen débil, señal poco robusta, preferir esperar
 
-💰 Equity: $1001.54 | Cash: $999.46 | Retorno: +0.15%
-📈 Posiciones abiertas: 3 | Cerradas: 38 | PnL realizado: -0.09
-   ▲ LINKUSDT: entry 15.0035 → ahora 15.1477 (+1.46 USD)
-   ▲ SOLUSDT: entry 118.88 → ahora 119.37 (+0.62 USD)
-   ▲ ADAUSDT: entry 0.252371 → ahora 0.252371 (+0.00 USD)
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 65%): Indicadores mixtos, tendencia bajista no confirmada
+
+💰 Equity: $999.62 | Cash: $999.31 | Retorno: -0.04%
+📈 Posiciones abiertas: 4 | Cerradas: 38 | PnL realizado: -0.09
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.1002 (+0.98 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 119.02 (+0.18 USD)
+   ▲ ADAUSDT: entry 0.252371 → ahora 0.250958 (-0.84 USD)
+   ▼ AVAXUSDT: entry 11.26 → ahora 11.26 (+0.00 USD)
