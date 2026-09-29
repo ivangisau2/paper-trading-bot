@@ -1,22 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 06:38 UTC
+⏰ Ciclo — 2026-09-29 06:53 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → LONG (confianza 60%): EMA bullish, MACD positive, volume up; RSI neutral, price near middle, modest confidence.
-  [ejecución] ▲ LONG SOLUSDT: 1.26146835 @ 118.88 | SL 117.049 | TP 122.543 | score 2 | IA: EMA bullish, MACD positive, volume up; RSI neutral, price near middle, modest confidence.
-
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA200 bearish, price near upper Bollinger, signal conflict
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): Indicadores mixtos, tendencia bajista EMA pero MACD y precio alcista; mejor esperar
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, señal corta no suficientemente confirmada
+   → FLAT (confianza 60%): Indicadores mixtos, tendencia bajista pero momentum aún alcista
 
-💰 Equity: $999.31 | Cash: $999.61 | Retorno: -0.07%
+💰 Equity: $1000.00 | Cash: $999.61 | Retorno: -0.00%
 📈 Posiciones abiertas: 2 | Cerradas: 38 | PnL realizado: -0.09
-   ▲ LINKUSDT: entry 15.0035 → ahora 14.9743 (-0.30 USD)
-   ▲ SOLUSDT: entry 118.88 → ahora 118.88 (+0.00 USD)
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.0158 (+0.12 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 119.09 (+0.26 USD)
