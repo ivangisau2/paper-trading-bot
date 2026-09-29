@@ -1,19 +1,7 @@
 {
-  "balance": 1006.9328377659292,
+  "balance": 999.7557160809133,
   "initial_balance": 1000.0,
   "positions": {
-    "ADAUSDT": {
-      "side": "long",
-      "qty": 612.5081069,
-      "entry": 0.248337,
-      "sl": 0.2413515345827242,
-      "tp": 0.26230793083455156,
-      "opened_at": "2026-09-28T17:47:34+00:00",
-      "notional": 152.1084257432253,
-      "fee": 0.1521084257432253,
-      "note": "score 2 | IA: EMA bullish, MACD positive, price near lower Bollinger, RSI neutral.",
-      "checked_at": 1790645177.160208
-    },
     "LINKUSDT": {
       "side": "long",
       "qty": 10.13668892,
@@ -24,22 +12,10 @@
       "notional": 152.08560947744158,
       "fee": 0.15208560947744157,
       "note": "score 2 | IA: Bullish EMA, MACD, RSI below overbought, price near upper Bollinger.",
-      "checked_at": 1790645177.160208
-    },
-    "SOLUSDT": {
-      "side": "long",
-      "qty": 1.27954172,
-      "entry": 118.53,
-      "sl": 116.49679141493046,
-      "tp": 122.59641717013909,
-      "opened_at": "2026-09-28T22:59:49+00:00",
-      "notional": 151.6640800716,
-      "fee": 0.1516640800716,
-      "note": "score 2 | IA: Precio cerca banda baja, MACD y EMA bullish, RSI neutro, volumen bajo, confirma LONG",
-      "checked_at": 1790645177.160208
+      "checked_at": 1790646054.0552964
     }
   },
-  "closed": 36,
-  "realized_pnl": 7.3886958812211825,
+  "closed": 38,
+  "realized_pnl": -0.0921983096095258,
   "started": "2026-09-23T21:38:36+00:00"
 }
