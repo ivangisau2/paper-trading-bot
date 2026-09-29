@@ -1,5 +1,5 @@
 {
-  "balance": 981.7393966374367,
+  "balance": 991.9787915722073,
   "initial_balance": 1000.0,
   "positions": {
     "SOLUSDT": {
@@ -12,19 +12,7 @@
       "notional": 149.96335744799998,
       "fee": 0.149963357448,
       "note": "score 2 | IA: EMA bullish, MACD positive, volume up; RSI neutral, price near middle, modest confidence.",
-      "checked_at": 1790708633.6331372
-    },
-    "NEARUSDT": {
-      "side": "long",
-      "qty": 30.86436552,
-      "entry": 4.8326,
-      "sl": 4.664137942844464,
-      "tp": 5.169524114311073,
-      "opened_at": "2026-09-29T11:37:50+00:00",
-      "notional": 149.155132811952,
-      "fee": 0.149155132811952,
-      "note": "score 2 | IA: Bullish MACD, EMA uptrend, volume above average; price near upper Bollinger, RSI neutral.",
-      "checked_at": 1790708633.6331372
+      "checked_at": 1790709550.7000601
     },
     "LTCUSDT": {
       "side": "long",
@@ -36,7 +24,7 @@
       "notional": 148.11824303639997,
       "fee": 0.14811824303639998,
       "note": "score 4 | IA: Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG",
-      "checked_at": 1790708633.6331372
+      "checked_at": 1790709550.7000601
     },
     "AVAXUSDT": {
       "side": "long",
@@ -48,7 +36,7 @@
       "notional": 148.09602542922,
       "fee": 0.14809602542921999,
       "note": "score 3 | IA: Bullish EMA, positive MACD, price near upper Bollinger, strong volume.",
-      "checked_at": 1790708633.6331372
+      "checked_at": 1790709550.7000601
     },
     "XRPUSDT": {
       "side": "short",
@@ -60,10 +48,10 @@
       "notional": 147.2830019463768,
       "fee": 0.1472830019463768,
       "note": "score -2 | IA: EMA bearish, MACD negative, price near lower Bollinger, RSI neutral.",
-      "checked_at": 1790708633.6331372
+      "checked_at": 1790709550.7000601
     }
   },
-  "closed": 42,
-  "realized_pnl": -17.517987601891825,
+  "closed": 43,
+  "realized_pnl": -7.427747799933128,
   "started": "2026-09-23T21:38:36+00:00"
 }
