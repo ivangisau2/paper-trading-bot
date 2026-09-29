@@ -1,24 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-29 08:21 UTC
+⏰ Ciclo — 2026-09-29 08:35 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 7 candidatos tras filtros
+📊 6 candidatos tras filtros
+
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → LONG (confianza 65%): Bullish EMA, MACD+, volume; near upper BB, moderate risk
+  [ejecución] ▲ LONG ADAUSDT: 594.12873471 @ 0.252371 | SL 0.245983 | TP 0.265148 | score 2 | IA: Bullish EMA, MACD+, volume; near upper BB, moderate risk
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed indicators, overbought but MACD bullish; better wait
+   → FLAT (confianza 55%): Señal corta, pero MACD bullish y precio sobre BB genera duda
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, confirmación limitada
+   → FLAT (confianza 60%): Baja confirmación de volumen, señal no suficientemente respaldada
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil, señal incierta
+   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutro, tendencia alcista insuficiente
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 30%): Indicadores mixtos, bajo volumen, señal corta no confirmada
-
-💰 Equity: $1003.20 | Cash: $999.61 | Retorno: +0.32%
-📈 Posiciones abiertas: 2 | Cerradas: 38 | PnL realizado: -0.09
-   ▲ LINKUSDT: entry 15.0035 → ahora 15.2757 (+2.76 USD)
-   ▲ SOLUSDT: entry 118.88 → ahora 119.54 (+0.83 USD)
+💰 Equity: $1001.54 | Cash: $999.46 | Retorno: +0.15%
+📈 Posiciones abiertas: 3 | Cerradas: 38 | PnL realizado: -0.09
+   ▲ LINKUSDT: entry 15.0035 → ahora 15.1477 (+1.46 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 119.37 (+0.62 USD)
+   ▲ ADAUSDT: entry 0.252371 → ahora 0.252371 (+0.00 USD)
