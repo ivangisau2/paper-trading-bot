@@ -12,7 +12,7 @@
       "notional": 148.11824303639997,
       "fee": 0.14811824303639998,
       "note": "score 4 | IA: Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG",
-      "checked_at": 1790783290.108395
+      "checked_at": 1790783487.9198563
     },
     "LINKUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790783290.108395
+      "checked_at": 1790783487.9198563
     },
     "SOLUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 148.7059293632,
       "fee": 0.1487059293632,
       "note": "score 2 | IA: Bullish EMA, MACD, RSI; but low volume reduces certainty.",
-      "checked_at": 1790783290.108395
+      "checked_at": 1790783487.9198563
     },
     "NEARUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 147.886973695296,
       "fee": 0.14788697369529602,
       "note": "score 3 | IA: Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1790783290.108395
+      "checked_at": 1790783487.9198563
     }
   },
   "closed": 47,
