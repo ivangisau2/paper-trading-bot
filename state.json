@@ -1,5 +1,5 @@
 {
-  "balance": 991.8299947633974,
+  "balance": 987.055718661795,
   "initial_balance": 1000.0,
   "positions": {
     "SOLUSDT": {
@@ -12,7 +12,7 @@
       "notional": 149.96335744799998,
       "fee": 0.149963357448,
       "note": "score 2 | IA: EMA bullish, MACD positive, volume up; RSI neutral, price near middle, modest confidence.",
-      "checked_at": 1790770953.0223472
+      "checked_at": 1790771828.6100006
     },
     "LTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 148.11824303639997,
       "fee": 0.14811824303639998,
       "note": "score 4 | IA: Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG",
-      "checked_at": 1790770953.0223472
+      "checked_at": 1790771828.6100006
     },
     "AVAXUSDT": {
       "side": "long",
@@ -36,34 +36,10 @@
       "notional": 148.09602542922,
       "fee": 0.14809602542921999,
       "note": "score 3 | IA: Bullish EMA, positive MACD, price near upper Bollinger, strong volume.",
-      "checked_at": 1790770953.0223472
-    },
-    "XRPUSDT": {
-      "side": "short",
-      "qty": 98.33814194,
-      "entry": 1.49772,
-      "sl": 1.5296451551301673,
-      "tp": 1.433869689739665,
-      "opened_at": "2026-09-29T18:49:20+00:00",
-      "notional": 147.2830019463768,
-      "fee": 0.1472830019463768,
-      "note": "score -2 | IA: EMA bearish, MACD negative, price near lower Bollinger, RSI neutral.",
-      "checked_at": 1790770953.0223472
-    },
-    "ETHUSDT": {
-      "side": "short",
-      "qty": 0.05538975,
-      "entry": 2686.36,
-      "sl": 2710.4486108283704,
-      "tp": 2638.182778343259,
-      "opened_at": "2026-09-30T09:41:10+00:00",
-      "notional": 148.79680881000002,
-      "fee": 0.14879680881000001,
-      "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda superior",
-      "checked_at": 1790770953.0223472
+      "checked_at": 1790771828.6100006
     }
   },
-  "closed": 43,
-  "realized_pnl": -7.427747799933128,
+  "closed": 45,
+  "realized_pnl": -12.4981037122918,
   "started": "2026-09-23T21:38:36+00:00"
 }
