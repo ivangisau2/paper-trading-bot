@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-30 10:10 UTC
+⏰ Ciclo — 2026-09-30 10:24 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja volatilidad y volumen insuficiente, señal poco confirmada
-
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): Señal corta contradicha por MACD y RSI, volumen bajo
+   → FLAT (confianza 65%): Indicadores mixtos, bajo volumen, señal corta no confirmada
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed signals, low volume, price above Bollinger, insufficient confirmation for short.
+   → FLAT (confianza 45%): Indicadores mixtos, bajo volumen, falta de confirmación clara
 
 🤖 Analista IA evaluando DOGEUSDT (short score -1)...
-   → FLAT (confianza 45%): EMA bajista, pero MACD y RSI neutros; volumen bajo, duda.
+   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista pero MACD positivo; mejor esperar
 
-💰 Equity: $989.90 | Cash: $991.83 | Retorno: -1.01%
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 65%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+
+💰 Equity: $990.18 | Cash: $991.83 | Retorno: -0.98%
 📈 Posiciones abiertas: 5 | Cerradas: 43 | PnL realizado: -7.43
-   ▲ SOLUSDT: entry 118.88 → ahora 119.23 (+0.44 USD)
-   ▲ LTCUSDT: entry 67.41 → ahora 67.17 (-0.53 USD)
-   ▲ AVAXUSDT: entry 11.202 → ahora 11.163 (-0.52 USD)
-   ▼ XRPUSDT: entry 1.49772 → ahora 1.50947 (-1.16 USD)
-   ▼ ETHUSDT: entry 2686.36 → ahora 2689.45 (-0.17 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 119.6 (+0.91 USD)
+   ▲ LTCUSDT: entry 67.41 → ahora 67.15 (-0.57 USD)
+   ▲ AVAXUSDT: entry 11.202 → ahora 11.158 (-0.58 USD)
+   ▼ XRPUSDT: entry 1.49772 → ahora 1.50934 (-1.14 USD)
+   ▼ ETHUSDT: entry 2686.36 → ahora 2691.02 (-0.26 USD)
