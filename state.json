@@ -1,5 +1,5 @@
 {
-  "balance": 991.2241561589286,
+  "balance": 985.7652711083571,
   "initial_balance": 1000.0,
   "positions": {
     "LTCUSDT": {
@@ -12,19 +12,7 @@
       "notional": 148.11824303639997,
       "fee": 0.14811824303639998,
       "note": "score 4 | IA: Precio en banda inferior, RSI bajo, MACD positivo, tendencia EMA alcista, confirma LONG",
-      "checked_at": 1790778892.622629
-    },
-    "AVAXUSDT": {
-      "side": "long",
-      "qty": 13.22049861,
-      "entry": 11.202,
-      "sl": 10.811086595443573,
-      "tp": 11.983826809112854,
-      "opened_at": "2026-09-29T15:38:10+00:00",
-      "notional": 148.09602542922,
-      "fee": 0.14809602542921999,
-      "note": "score 3 | IA: Bullish EMA, positive MACD, price near upper Bollinger, strong volume.",
-      "checked_at": 1790778892.622629
+      "checked_at": 1790779775.3056958
     },
     "LINKUSDT": {
       "side": "long",
@@ -36,7 +24,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790778892.622629
+      "checked_at": 1790779775.3056958
     },
     "SOLUSDT": {
       "side": "long",
@@ -48,10 +36,21 @@
       "notional": 148.7059293632,
       "fee": 0.1487059293632,
       "note": "score 2 | IA: Bullish EMA, MACD, RSI; but low volume reduces certainty.",
-      "checked_at": 1790778892.622629
+      "checked_at": 1790779775.3056958
+    },
+    "NEARUSDT": {
+      "side": "long",
+      "qty": 28.29181468,
+      "entry": 5.2272,
+      "sl": 5.004146911141556,
+      "tp": 5.673306177716886,
+      "opened_at": "2026-09-30T14:49:41+00:00",
+      "notional": 147.886973695296,
+      "fee": 0.14788697369529602,
+      "note": "score 3 | IA: Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger."
     }
   },
-  "closed": 46,
-  "realized_pnl": -8.182195404707631,
+  "closed": 47,
+  "realized_pnl": -13.641289507013111,
   "started": "2026-09-23T21:38:36+00:00"
 }

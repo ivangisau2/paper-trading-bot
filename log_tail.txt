@@ -1,26 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-30 14:34 UTC
+⏰ Ciclo — 2026-09-30 14:49 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO AVAXUSDT @ 10.811086595443573: -5.46 USD (stop loss (wick entre ciclos))
 
 📊 7 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (long score 3)...
-   → FLAT (confianza 60%): Precio cerca de banda superior, riesgo de retroceso pese a tendencia alcista
+   → LONG (confianza 70%): Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger.
+  [ejecución] ▲ LONG NEARUSDT: 28.29181468 @ 5.2272 | SL 5.00415 | TP 5.67331 | score 3 | IA: Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger.
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA200 bearish, price near middle band, MACD bullish insufficient to override trend.
+   → FLAT (confianza 65%): EMA200 bearish, MACD bullish, mixed signals, prefer flat
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA200 downtrend contradicts bullish MACD, señal incierta
+   → FLAT (confianza 55%): EMA bajista y RSI neutro, señal insuficiente
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA trend bajista y RSI neutro, señal poco confirmada
+   → FLAT (confianza 60%): EMA bajista y señal débil, mejor esperar.
 
-💰 Equity: $981.92 | Cash: $991.22 | Retorno: -1.81%
-📈 Posiciones abiertas: 4 | Cerradas: 46 | PnL realizado: -8.18
-   ▲ LTCUSDT: entry 67.41 → ahora 66.39 (-2.24 USD)
-   ▲ AVAXUSDT: entry 11.202 → ahora 10.865 (-4.46 USD)
-   ▲ LINKUSDT: entry 14.33 → ahora 14.1999 (-1.35 USD)
-   ▲ SOLUSDT: entry 119.68 → ahora 118.67 (-1.25 USD)
+💰 Equity: $980.65 | Cash: $985.77 | Retorno: -1.93%
+📈 Posiciones abiertas: 4 | Cerradas: 47 | PnL realizado: -13.64
+   ▲ LTCUSDT: entry 67.41 → ahora 66.51 (-1.98 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.1189 (-2.19 USD)
+   ▲ SOLUSDT: entry 119.68 → ahora 118.85 (-1.03 USD)
+   ▲ NEARUSDT: entry 5.2272 → ahora 5.2302 (+0.08 USD)
