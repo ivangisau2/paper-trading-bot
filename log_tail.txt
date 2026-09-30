@@ -1,26 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-30 12:37 UTC
+⏰ Ciclo — 2026-09-30 12:51 UTC
 ============================================================
-  [ejecución] ❌ CERRADO XRPUSDT @ 1.5296451551301673: -3.44 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO ETHUSDT @ 2710.4486108283704: -1.63 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 7 candidatos tras filtros
 
 🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 60%): Banda superior, volumen bajo, señal débil
+   → FLAT (confianza 55%): Precio cerca de banda superior, señal LONG no suficientemente confirmada
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Señal corta, pero MACD bullish y precio sobre banda superior generan duda.
+   → FLAT (confianza 55%): Indicadores mixtos; sobrecompra y BB superior, pero MACD y tendencia bajista generan duda.
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): MACD bullish y precio sobre Bollinger contradicen señal corta; mejor esperar
+   → FLAT (confianza 60%): Conflicto indicadores, sobrecompra pero momentum alcista
 
-🤖 Analista IA evaluando DOGEUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish, duda razonable
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): Mixed signals; overbought but MACD still bullish.
 
-💰 Equity: $990.92 | Cash: $987.06 | Retorno: -0.91%
+💰 Equity: $993.46 | Cash: $987.06 | Retorno: -0.65%
 📈 Posiciones abiertas: 3 | Cerradas: 45 | PnL realizado: -12.50
-   ▲ SOLUSDT: entry 118.88 → ahora 120.96 (+2.62 USD)
-   ▲ LTCUSDT: entry 67.41 → ahora 67.68 (+0.59 USD)
-   ▲ AVAXUSDT: entry 11.202 → ahora 11.251 (+0.65 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 121.72 (+3.58 USD)
+   ▲ LTCUSDT: entry 67.41 → ahora 68 (+1.30 USD)
+   ▲ AVAXUSDT: entry 11.202 → ahora 11.317 (+1.52 USD)
