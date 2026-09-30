@@ -1,24 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-30 14:05 UTC
+⏰ Ciclo — 2026-09-30 14:20 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y precio cerca de banda superior, señal poco robusta
+🤖 Analista IA evaluando LINKUSDT (long score 3)...
+   → LONG (confianza 70%): EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.
+  [ejecución] ▲ LONG LINKUSDT: 10.37880241 @ 14.33 | SL 14.0182 | TP 14.9537 | score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 30%): Baja confirmación de volumen y precio cerca de banda superior
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → LONG (confianza 65%): Bullish EMA, MACD, RSI; but low volume reduces certainty.
+  [ejecución] ▲ LONG SOLUSDT: 1.24252949 @ 119.68 | SL 117.722 | TP 123.596 | score 2 | IA: Bullish EMA, MACD, RSI; but low volume reduces certainty.
 
-🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators, low volume, bullish MACD vs bearish EMA; better stay flat.
+🤖 Analista IA evaluando NEARUSDT (long score 2)...
+   → FLAT (confianza 55%): Baja confirmación de volumen y precio cerca de banda superior
 
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 70%): Banda superior, RSI alto, volumen bajo indican sobrecompra; duda razonable
-
-💰 Equity: $990.21 | Cash: $991.52 | Retorno: -0.98%
-📈 Posiciones abiertas: 2 | Cerradas: 46 | PnL realizado: -8.18
-   ▲ LTCUSDT: entry 67.41 → ahora 67.5 (+0.20 USD)
-   ▲ AVAXUSDT: entry 11.202 → ahora 11.088 (-1.51 USD)
+💰 Equity: $988.35 | Cash: $991.22 | Retorno: -1.17%
+📈 Posiciones abiertas: 4 | Cerradas: 46 | PnL realizado: -8.18
+   ▲ LTCUSDT: entry 67.41 → ahora 66.95 (-1.01 USD)
+   ▲ AVAXUSDT: entry 11.202 → ahora 11.045 (-2.08 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.33 (+0.00 USD)
+   ▲ SOLUSDT: entry 119.68 → ahora 119.85 (+0.21 USD)
