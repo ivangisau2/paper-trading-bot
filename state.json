@@ -1,5 +1,5 @@
 {
-  "balance": 980.3480913534722,
+  "balance": 980.2010393783582,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,7 +12,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790801087.5892875
+      "checked_at": 1790801995.2912536
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,18 @@
       "notional": 147.886973695296,
       "fee": 0.14788697369529602,
       "note": "score 3 | IA: Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1790801087.5892875
+      "checked_at": 1790801995.2912536
+    },
+    "BTCUSDT": {
+      "side": "short",
+      "qty": 0.00175857,
+      "entry": 83620.2,
+      "sl": 84429.90603996435,
+      "tp": 82000.7879200713,
+      "opened_at": "2026-09-30T20:59:59+00:00",
+      "notional": 147.05197511400002,
+      "fee": 0.147051975114,
+      "note": "score -2 | IA: MACD y EMA bajista, RSI neutro, volumen bajo"
     }
   },
   "closed": 49,
