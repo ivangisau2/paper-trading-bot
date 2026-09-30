@@ -1,26 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-09-30 06:06 UTC
+⏰ Ciclo — 2026-09-30 06:21 UTC
 ============================================================
   [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, riesgo de rebote
+   → FLAT (confianza 35%): Baja confirmación, RSI bajo y volumen débil, riesgo de rebote
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, señal corta no confirmada
+   → FLAT (confianza 60%): EMA bajista y MACD negativo, pero RSI no confirma y volumen bajo; duda razonable
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen, precio cerca banda inferior, riesgo de rebote
+   → FLAT (confianza 65%): Baja confirmación, volumen débil y precio cerca de soporte
 
 🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación de volumen y RSI neutro, tendencia no clara.
+   → FLAT (confianza 45%): Banda inferior, bajo volumen, RSI neutro, señal poco confirmada
 
-💰 Equity: $991.85 | Cash: $991.98 | Retorno: -0.82%
+💰 Equity: $990.41 | Cash: $991.98 | Retorno: -0.96%
 📈 Posiciones abiertas: 4 | Cerradas: 43 | PnL realizado: -7.43
-   ▲ SOLUSDT: entry 118.88 → ahora 119.1 (+0.28 USD)
-   ▲ LTCUSDT: entry 67.41 → ahora 67.18 (-0.51 USD)
-   ▲ AVAXUSDT: entry 11.202 → ahora 11.268 (+0.87 USD)
-   ▼ XRPUSDT: entry 1.49772 → ahora 1.50563 (-0.78 USD)
+   ▲ SOLUSDT: entry 118.88 → ahora 118.55 (-0.42 USD)
+   ▲ LTCUSDT: entry 67.41 → ahora 66.91 (-1.10 USD)
+   ▲ AVAXUSDT: entry 11.202 → ahora 11.214 (+0.16 USD)
+   ▼ XRPUSDT: entry 1.49772 → ahora 1.49987 (-0.21 USD)
