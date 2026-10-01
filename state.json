@@ -1,5 +1,5 @@
 {
-  "balance": 976.8292796450395,
+  "balance": 970.3771265942133,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,19 +12,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790859415.9290895
-    },
-    "NEARUSDT": {
-      "side": "long",
-      "qty": 28.29181468,
-      "entry": 5.2272,
-      "sl": 5.004146911141556,
-      "tp": 5.673306177716886,
-      "opened_at": "2026-09-30T14:49:41+00:00",
-      "notional": 147.886973695296,
-      "fee": 0.14788697369529602,
-      "note": "score 3 | IA: Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1790859415.9290895
+      "checked_at": 1790860297.9706671
     },
     "BTCUSDT": {
       "side": "short",
@@ -36,7 +24,7 @@
       "notional": 147.05197511400002,
       "fee": 0.147051975114,
       "note": "score -2 | IA: MACD y EMA bajista, RSI neutro, volumen bajo",
-      "checked_at": 1790859415.9290895
+      "checked_at": 1790860297.9706671
     },
     "SOLUSDT": {
       "side": "short",
@@ -48,7 +36,7 @@
       "notional": 146.56835932,
       "fee": 0.14656835932,
       "note": "score -2 | IA: EMA bajista, MACD negativo, RSI neutro, precio cerca banda inferior, soporte d\u00e9bil",
-      "checked_at": 1790859415.9290895
+      "checked_at": 1790860297.9706671
     },
     "ETHUSDT": {
       "side": "long",
@@ -59,10 +47,11 @@
       "opened_at": "2026-10-01T12:57:01+00:00",
       "notional": 146.54637422640002,
       "fee": 0.14654637422640002,
-      "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume above average, price near middle band."
+      "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume above average, price near middle band.",
+      "checked_at": 1790860297.9706671
     }
   },
-  "closed": 50,
-  "realized_pnl": -22.433938434069916,
+  "closed": 51,
+  "realized_pnl": -29.033978458591378,
   "started": "2026-09-23T21:38:36+00:00"
 }

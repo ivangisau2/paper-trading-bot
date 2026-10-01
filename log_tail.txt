@@ -1,28 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-01 12:56 UTC
+⏰ Ciclo — 2026-10-01 13:11 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO NEARUSDT @ 5.004146911141556: -6.60 USD (stop loss (wick entre ciclos))
 
-📊 5 candidatos tras filtros
-
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → LONG (confianza 70%): EMA bullish, MACD positive, RSI neutral, volume above average, price near middle band.
-  [ejecución] ▲ LONG ETHUSDT: 0.05438682 @ 2694.52 | SL 2668.59 | TP 2746.38 | score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume above average, price near middle band.
-
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, precio cerca soporte
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 60%): EMA bajista, pero RSI neutro y bajo volumen, duda razonable
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
 
 🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil y precio cerca de soporte
+   → FLAT (confianza 60%): Precio cerca de banda inferior, RSI neutro, riesgo de rebote
 
-💰 Equity: $974.08 | Cash: $976.83 | Retorno: -2.59%
-📈 Posiciones abiertas: 5 | Cerradas: 50 | PnL realizado: -22.43
-   ▲ LINKUSDT: entry 14.33 → ahora 14.3618 (+0.33 USD)
-   ▲ NEARUSDT: entry 5.2272 → ahora 5.0915 (-3.84 USD)
-   ▼ BTCUSDT: entry 83620.2 → ahora 83718 (-0.17 USD)
-   ▼ SOLUSDT: entry 118 → ahora 117.31 (+0.86 USD)
-   ▲ ETHUSDT: entry 2694.52 → ahora 2695.82 (+0.07 USD)
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): Baja confirmación, volumen débil y RSI no sobrecomprado
+
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 45%): Mixed signals; oversold but MACD bearish, mejor esperar
+
+💰 Equity: $970.88 | Cash: $970.38 | Retorno: -2.91%
+📈 Posiciones abiertas: 4 | Cerradas: 51 | PnL realizado: -29.03
+   ▲ LINKUSDT: entry 14.33 → ahora 14.2536 (-0.79 USD)
+   ▼ BTCUSDT: entry 83620.2 → ahora 83514.8 (+0.19 USD)
+   ▼ SOLUSDT: entry 118 → ahora 116.82 (+1.47 USD)
+   ▲ ETHUSDT: entry 2694.52 → ahora 2687.93 (-0.36 USD)
