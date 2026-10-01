@@ -1,26 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-01 13:11 UTC
+⏰ Ciclo — 2026-10-01 13:26 UTC
 ============================================================
-  [ejecución] ❌ CERRADO NEARUSDT @ 5.004146911141556: -6.60 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
+🤖 Analista IA evaluando DOGEUSDT (short score -3)...
+   → FLAT (confianza 60%): Precio cerca de banda inferior, riesgo de rebote
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 60%): Precio cerca de banda inferior, RSI neutro, riesgo de rebote
+🤖 Analista IA evaluando ADAUSDT (short score -2)...
+   → FLAT (confianza 55%): Baja confirmación: volumen bajo, RSI neutro, precio cerca banda inferior, riesgo de rebote.
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Baja confirmación, volumen débil y RSI no sobrecomprado
+   → FLAT (confianza 60%): Precio cerca banda inferior, RSI neutro, volumen bajo, duda razonable
 
 🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 45%): Mixed signals; oversold but MACD bearish, mejor esperar
+   → FLAT (confianza 55%): Mixed signals; bullish trend but MACD negative, better wait
 
-💰 Equity: $970.88 | Cash: $970.38 | Retorno: -2.91%
+💰 Equity: $970.52 | Cash: $970.38 | Retorno: -2.95%
 📈 Posiciones abiertas: 4 | Cerradas: 51 | PnL realizado: -29.03
-   ▲ LINKUSDT: entry 14.33 → ahora 14.2536 (-0.79 USD)
-   ▼ BTCUSDT: entry 83620.2 → ahora 83514.8 (+0.19 USD)
-   ▼ SOLUSDT: entry 118 → ahora 116.82 (+1.47 USD)
-   ▲ ETHUSDT: entry 2694.52 → ahora 2687.93 (-0.36 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.2504 (-0.83 USD)
+   ▼ BTCUSDT: entry 83620.2 → ahora 83471.5 (+0.26 USD)
+   ▼ SOLUSDT: entry 118 → ahora 117 (+1.24 USD)
+   ▲ ETHUSDT: entry 2694.52 → ahora 2684.74 (-0.53 USD)
