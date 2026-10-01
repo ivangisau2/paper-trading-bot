@@ -1,5 +1,5 @@
 {
-  "balance": 970.3771265942133,
+  "balance": 968.8047259436486,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,19 +12,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790872006.8231413
-    },
-    "BTCUSDT": {
-      "side": "short",
-      "qty": 0.00175857,
-      "entry": 83620.2,
-      "sl": 84429.90603996435,
-      "tp": 82000.7879200713,
-      "opened_at": "2026-09-30T20:59:59+00:00",
-      "notional": 147.05197511400002,
-      "fee": 0.147051975114,
-      "note": "score -2 | IA: MACD y EMA bajista, RSI neutro, volumen bajo",
-      "checked_at": 1790872006.8231413
+      "checked_at": 1790872885.833179
     },
     "SOLUSDT": {
       "side": "short",
@@ -36,7 +24,7 @@
       "notional": 146.56835932,
       "fee": 0.14656835932,
       "note": "score -2 | IA: EMA bajista, MACD negativo, RSI neutro, precio cerca banda inferior, soporte d\u00e9bil",
-      "checked_at": 1790872006.8231413
+      "checked_at": 1790872885.833179
     },
     "ETHUSDT": {
       "side": "long",
@@ -48,10 +36,10 @@
       "notional": 146.54637422640002,
       "fee": 0.14654637422640002,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume above average, price near middle band.",
-      "checked_at": 1790872006.8231413
+      "checked_at": 1790872885.833179
     }
   },
-  "closed": 51,
-  "realized_pnl": -29.033978458591378,
+  "closed": 52,
+  "realized_pnl": -30.75343108427019,
   "started": "2026-09-23T21:38:36+00:00"
 }
