@@ -1,26 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-01 15:42 UTC
+⏰ Ciclo — 2026-10-01 15:57 UTC
 ============================================================
   [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 70%): Precio cerca de banda inferior, RSI no sobrevendido, volumen bajo, duda razonable
+   → FLAT (confianza 55%): Bajista débil, RSI neutral, precio cerca banda baja, señal insuficiente.
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación, volumen bajo y precio cerca de soporte
-
-🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 60%): Mixed signals; bullish trend but bearish momentum and low volume, not enough confirmation
+   → FLAT (confianza 55%): EMA bajista, pero precio cerca banda inferior y RSI neutro, duda.
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA200 downtrend y precio cerca de banda superior, señal poco confirmada
+   → FLAT (confianza 65%): EMA bajista y precio cerca banda superior, riesgo de reversión
 
-💰 Equity: $969.24 | Cash: $970.38 | Retorno: -3.08%
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 65%): Señal conflictiva, bajo volumen y MACD negativo pese a RSI bajo.
+
+💰 Equity: $969.07 | Cash: $970.38 | Retorno: -3.09%
 📈 Posiciones abiertas: 4 | Cerradas: 51 | PnL realizado: -29.03
-   ▲ LINKUSDT: entry 14.33 → ahora 14.245 (-0.88 USD)
-   ▼ BTCUSDT: entry 83620.2 → ahora 83881.6 (-0.46 USD)
-   ▼ SOLUSDT: entry 118 → ahora 117.06 (+1.17 USD)
-   ▲ ETHUSDT: entry 2694.52 → ahora 2676.8 (-0.96 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.2772 (-0.55 USD)
+   ▼ BTCUSDT: entry 83620.2 → ahora 84104.4 (-0.85 USD)
+   ▼ SOLUSDT: entry 118 → ahora 117.39 (+0.76 USD)
+   ▲ ETHUSDT: entry 2694.52 → ahora 2682.25 (-0.67 USD)
