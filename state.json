@@ -12,7 +12,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790815277.3243847
+      "checked_at": 1790816152.8792005
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 147.886973695296,
       "fee": 0.14788697369529602,
       "note": "score 3 | IA: Bullish EMA, MACD+, volume surge, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1790815277.3243847
+      "checked_at": 1790816152.8792005
     },
     "BTCUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 147.05197511400002,
       "fee": 0.147051975114,
       "note": "score -2 | IA: MACD y EMA bajista, RSI neutro, volumen bajo",
-      "checked_at": 1790815277.3243847
+      "checked_at": 1790816152.8792005
     }
   },
   "closed": 49,
