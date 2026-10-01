@@ -1,5 +1,5 @@
 {
-  "balance": 968.8047259436486,
+  "balance": 968.6594056000506,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,7 +12,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790875540.9828627
+      "checked_at": 1790876418.4594963
     },
     "SOLUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 146.56835932,
       "fee": 0.14656835932,
       "note": "score -2 | IA: EMA bajista, MACD negativo, RSI neutro, precio cerca banda inferior, soporte d\u00e9bil",
-      "checked_at": 1790875540.9828627
+      "checked_at": 1790876418.4594963
     },
     "ETHUSDT": {
       "side": "long",
@@ -36,7 +36,18 @@
       "notional": 146.54637422640002,
       "fee": 0.14654637422640002,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume above average, price near middle band.",
-      "checked_at": 1790875540.9828627
+      "checked_at": 1790876418.4594963
+    },
+    "BTCUSDT": {
+      "side": "short",
+      "qty": 0.00171014,
+      "entry": 84975.7,
+      "sl": 85734.19884674232,
+      "tp": 83458.70230651536,
+      "opened_at": "2026-10-01T17:40:21+00:00",
+      "notional": 145.320343598,
+      "fee": 0.145320343598,
+      "note": "score -2 | IA: Precio sobre banda superior, RSI alto, EMA bajista; se\u00f1al corta respaldada."
     }
   },
   "closed": 52,
