@@ -1,16 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-01 04:35 UTC
+⏰ Ciclo — 2026-10-01 04:50 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 3 candidatos tras filtros
+
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 60%): Volumen bajo y señal débil, contexto no confirma suficientemente
 
 🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja confirmación, volumen débil y señal mixta
+   → LONG (confianza 65%): Bullish EMA, MACD, RSI neutral, but volume low, near Bollinger top.
+  [ejecución] ▲ LONG AVAXUSDT: 13.17946898 @ 11.156 | SL 10.9445 | TP 11.579 | score 2 | IA: Bullish EMA, MACD, RSI neutral, but volume low, near Bollinger top.
 
-💰 Equity: $986.61 | Cash: $980.20 | Retorno: -1.34%
-📈 Posiciones abiertas: 3 | Cerradas: 49 | PnL realizado: -19.36
-   ▲ LINKUSDT: entry 14.33 → ahora 14.4673 (+1.42 USD)
-   ▲ NEARUSDT: entry 5.2272 → ahora 5.4119 (+5.23 USD)
-   ▼ BTCUSDT: entry 83620.2 → ahora 83755.6 (-0.24 USD)
+🤖 Analista IA evaluando ADAUSDT (short score -1)...
+   → FLAT (confianza 60%): Conflicto entre indicadores, señal no clara
+
+💰 Equity: $987.73 | Cash: $980.05 | Retorno: -1.23%
+📈 Posiciones abiertas: 4 | Cerradas: 49 | PnL realizado: -19.36
+   ▲ LINKUSDT: entry 14.33 → ahora 14.5213 (+1.99 USD)
+   ▲ NEARUSDT: entry 5.2272 → ahora 5.4598 (+6.58 USD)
+   ▼ BTCUSDT: entry 83620.2 → ahora 84044.5 (-0.75 USD)
+   ▲ AVAXUSDT: entry 11.156 → ahora 11.145 (-0.14 USD)
