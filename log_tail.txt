@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 10:38 UTC
+⏰ Ciclo — 2026-10-02 10:52 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y precio cerca banda superior, señal poco confirmada
+   → FLAT (confianza 65%): Volumen bajo y precio cerca banda superior, señal poco confirmada
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 40%): Baja confirmación, volumen débil y RSI neutro
-
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Sobrecompra y tendencia bajista, pero MACD y bajo volumen generan duda
+   → FLAT (confianza 65%): Baja confirmación, volumen débil y precio cerca banda inferior
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, volumen débil, precio cerca banda superior
+   → FLAT (confianza 45%): RSI overbought, low volume, price near resistance; bullish signs insufficient
 
-💰 Equity: $969.42 | Cash: $967.29 | Retorno: -3.06%
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): Precio cerca banda superior, RSI alto, EMA bajista, pero MACD positivo; duda, FLAT
+
+💰 Equity: $968.76 | Cash: $967.29 | Retorno: -3.12%
 📈 Posiciones abiertas: 5 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.3966 (+0.69 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.9146 (-0.72 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 121.81 (+0.65 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.256579 (+0.28 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.194 (+1.23 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.4044 (+0.77 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.8982 (-1.20 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 121.69 (+0.79 USD)
+   ▼ ADAUSDT: entry 0.257072 → ahora 0.256448 (+0.35 USD)
+   ▲ AVAXUSDT: entry 11.1 → ahora 11.157 (+0.75 USD)
