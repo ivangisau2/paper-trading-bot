@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 09:39 UTC
+⏰ Ciclo — 2026-10-02 09:54 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente para confirmar corto
+   → FLAT (confianza 55%): EMA bajista, pero RSI neutro y volumen bajo; duda razonable
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Overbought, price near upper Bollinger, bearish EMA, but low volume and bullish MACD; doubt
+   → FLAT (confianza 55%): Mixed signals, overbought but low volume; better wait.
+
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → FLAT (confianza 60%): Indicadores mixtos, volumen bajo, RSI alto, MACD bullish
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca de banda superior, riesgo de reversión
+   → FLAT (confianza 70%): Precio cerca de banda superior, RSI sobrecomprado, volumen bajo, duda
 
-🤖 Analista IA evaluando LTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Señal corta contradicha por MACD positivo, duda razonable
-
-💰 Equity: $968.27 | Cash: $967.29 | Retorno: -3.17%
+💰 Equity: $968.34 | Cash: $967.29 | Retorno: -3.17%
 📈 Posiciones abiertas: 5 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.3733 (+0.45 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.9122 (-0.79 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 121.94 (+0.50 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.255803 (+0.72 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.108 (+0.10 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.3867 (+0.59 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.9131 (-0.76 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 121.91 (+0.53 USD)
+   ▼ ADAUSDT: entry 0.257072 → ahora 0.256844 (+0.13 USD)
+   ▲ AVAXUSDT: entry 11.1 → ahora 11.143 (+0.56 USD)
