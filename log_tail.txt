@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 09:54 UTC
+⏰ Ciclo — 2026-10-02 10:08 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, riesgo de reversión
+
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bajista, pero RSI neutro y volumen bajo; duda razonable
-
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed signals, overbought but low volume; better wait.
-
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 60%): Indicadores mixtos, volumen bajo, RSI alto, MACD bullish
+   → FLAT (confianza 65%): Baja confirmación, volumen débil y RSI neutro
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio cerca de banda superior, RSI sobrecomprado, volumen bajo, duda
+   → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca banda superior, riesgo de reversión
 
-💰 Equity: $968.34 | Cash: $967.29 | Retorno: -3.17%
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): Volumen bajo y MACD positivo debilitan señal corta
+
+💰 Equity: $969.67 | Cash: $967.29 | Retorno: -3.03%
 📈 Posiciones abiertas: 5 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.3867 (+0.59 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.9131 (-0.76 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 121.91 (+0.53 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.256844 (+0.13 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.143 (+0.56 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.3939 (+0.66 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.9274 (-0.34 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 121.79 (+0.68 USD)
+   ▼ ADAUSDT: entry 0.257072 → ahora 0.256636 (+0.25 USD)
+   ▲ AVAXUSDT: entry 11.1 → ahora 11.187 (+1.14 USD)
