@@ -1,27 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 15:48 UTC
+⏰ Ciclo — 2026-10-02 16:02 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
-
-🤖 Analista IA evaluando DOGEUSDT (short score -3)...
-   → FLAT (confianza 55%): Precio sube, RSI neutral, aunque EMA bajista y MACD negativo, duda razonable
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI neutral, low volume, price near middle; doubt.
+   → FLAT (confianza 40%): Baja confirmación, volumen muy bajo y RSI neutro
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): EMA bullish, MACD bearish, signal weak
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → FLAT (confianza 60%): Baja confirmación, volumen muy bajo, RSI neutro, tendencia incierta
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 70%): EMA bullish y precio cerca banda inferior, señal corta no confirmada
-
-💰 Equity: $969.39 | Cash: $967.29 | Retorno: -3.06%
+💰 Equity: $968.98 | Cash: $967.29 | Retorno: -3.10%
 📈 Posiciones abiertas: 5 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.2216 (-1.12 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.826 (-3.32 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 119.8 (+3.04 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.251203 (+3.31 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.115 (+0.20 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.2515 (-0.81 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.8348 (-3.06 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 120.19 (+2.57 USD)
+   ▼ ADAUSDT: entry 0.257072 → ahora 0.253397 (+2.07 USD)
+   ▲ AVAXUSDT: entry 11.1 → ahora 11.17 (+0.92 USD)
