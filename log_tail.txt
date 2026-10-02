@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 18:59 UTC
+⏰ Ciclo — 2026-10-02 19:14 UTC
 ============================================================
 
-📊 8 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando LTCUSDT (short score -3)...
-   → FLAT (confianza 60%): Precio cerca banda baja, posible rebote, señal no clara
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 60%): MACD negativo, bajo volumen y precio bajo banda inferior, señal poco confirmada
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 55%): MACD bearish y precio bajo BB, RSI oversold; contexto mixto, mejor esperar
+🤖 Analista IA evaluando AVAXUSDT (long score 2)...
+   → FLAT (confianza 60%): Precio bajo BB, RSI oversold, pero MACD negativo y volumen débil
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 65%): Precio bajo Bollinger, RSI oversold, señal corta no confirmada
+🤖 Analista IA evaluando LINKUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio bajo banda, RSI oversold, pero MACD negativo y bajo volumen
 
-🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio bajo banda inferior y RSI oversold; tendencia bajista pero posible reversión, duda
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 45%): RSI oversold but MACD negative, volume weak; mixed, better stay flat
 
 💰 Equity: $965.26 | Cash: $965.26 | Retorno: -3.47%
 📈 Posiciones abiertas: 0 | Cerradas: 60 | PnL realizado: -34.74
