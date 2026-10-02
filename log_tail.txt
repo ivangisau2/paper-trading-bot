@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 18:15 UTC
+⏰ Ciclo — 2026-10-02 18:30 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO LINKUSDT @ 14.018165376190076: -3.53 USD (stop loss (wick entre ciclos))
+  [ejecución] ✅ CERRADO SOLUSDT @ 119.0824060533177: +3.60 USD (take profit (wick entre ciclos))
+  [ejecución] ✅ CERRADO ADAUSDT @ 0.24730305918629808: +5.23 USD (take profit (wick entre ciclos))
+  [ejecución] ❌ CERRADO AVAXUSDT @ 10.909427630527432: -2.78 USD (stop loss (wick entre ciclos))
 
-📊 3 candidatos tras filtros
+📊 8 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen, precio cerca banda inferior, señal corta no confirmada
+   → FLAT (confianza 70%): Precio cerca de soporte, RSI bajo, volumen débil, señal corta no confirmada
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación, volumen muy bajo y precio cerca banda inferior
+🤖 Analista IA evaluando LINKUSDT (long score 2)...
+   → FLAT (confianza 55%): Señal conflict: MACD bearish, RSI oversold, tendencia alcista
 
 🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil y precio sube; mejor esperar
+   → FLAT (confianza 65%): Baja confirmación, volumen débil y RSI neutro
 
-💰 Equity: $966.35 | Cash: $962.15 | Retorno: -3.37%
-📈 Posiciones abiertas: 4 | Cerradas: 56 | PnL realizado: -37.26
-   ▲ LINKUSDT: entry 14.33 → ahora 14.1401 (-1.97 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 119.7 (+3.16 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.250173 (+3.90 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.032 (-0.89 USD)
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 55%): Mixed signals; bullish trend but bearish MACD and low volume.
+
+💰 Equity: $965.26 | Cash: $965.26 | Retorno: -3.47%
+📈 Posiciones abiertas: 0 | Cerradas: 60 | PnL realizado: -34.74

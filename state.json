@@ -1,57 +1,8 @@
 {
-  "balance": 962.1541650753883,
+  "balance": 965.260883456966,
   "initial_balance": 1000.0,
-  "positions": {
-    "LINKUSDT": {
-      "side": "long",
-      "qty": 10.37880241,
-      "entry": 14.33,
-      "sl": 14.018165376190076,
-      "tp": 14.95366924761985,
-      "opened_at": "2026-09-30T14:20:15+00:00",
-      "notional": 148.7282385353,
-      "fee": 0.14872823853529998,
-      "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790964952.9216027
-    },
-    "SOLUSDT": {
-      "side": "short",
-      "qty": 1.18632881,
-      "entry": 122.36,
-      "sl": 123.99879697334114,
-      "tp": 119.0824060533177,
-      "opened_at": "2026-10-02T04:46:36+00:00",
-      "notional": 145.1591931916,
-      "fee": 0.1451591931916,
-      "note": "score -1 | IA: Precio sobre banda superior, RSI sobrecomprado, tendencia bajista, MACD positivo genera ligera duda",
-      "checked_at": 1790964952.9216027
-    },
-    "ADAUSDT": {
-      "side": "short",
-      "qty": 564.57886868,
-      "entry": 0.257072,
-      "sl": 0.261956470406851,
-      "tp": 0.24730305918629808,
-      "opened_at": "2026-10-02T05:01:07+00:00",
-      "notional": 145.13741892930497,
-      "fee": 0.14513741892930498,
-      "note": "score -2 | IA: Overbought, price above Bollinger, bearish EMA, low volume supports short",
-      "checked_at": 1790964952.9216027
-    },
-    "AVAXUSDT": {
-      "side": "long",
-      "qty": 13.07348183,
-      "entry": 11.1,
-      "sl": 10.909427630527432,
-      "tp": 11.481144738945135,
-      "opened_at": "2026-10-02T05:30:26+00:00",
-      "notional": 145.115648313,
-      "fee": 0.145115648313,
-      "note": "score 2 | IA: Bullish indicators align, price near upper Bollinger, moderate confidence",
-      "checked_at": 1790964952.9216027
-    }
-  },
-  "closed": 56,
-  "realized_pnl": -37.26169442564302,
+  "positions": {},
+  "closed": 60,
+  "realized_pnl": -34.739116543034484,
   "started": "2026-09-23T21:38:36+00:00"
 }
