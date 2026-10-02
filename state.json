@@ -1,5 +1,5 @@
 {
-  "balance": 967.2925397923285,
+  "balance": 962.1541650753883,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,19 +12,7 @@
       "notional": 148.7282385353,
       "fee": 0.14872823853529998,
       "note": "score 3 | IA: EMA bullish, MACD positive, RSI near oversold, price near lower Bollinger, high volume.",
-      "checked_at": 1790962274.470579
-    },
-    "NEARUSDT": {
-      "side": "long",
-      "qty": 29.35694049,
-      "entry": 4.9391,
-      "sl": 4.7688378355862024,
-      "tp": 5.279624328827595,
-      "opened_at": "2026-10-02T02:33:53+00:00",
-      "notional": 144.99686477415898,
-      "fee": 0.144996864774159,
-      "note": "score 2 | IA: Bullish EMA, RSI neutral, price near middle Bollinger, modest volume",
-      "checked_at": 1790962274.470579
+      "checked_at": 1790963154.586039
     },
     "SOLUSDT": {
       "side": "short",
@@ -36,7 +24,7 @@
       "notional": 145.1591931916,
       "fee": 0.1451591931916,
       "note": "score -1 | IA: Precio sobre banda superior, RSI sobrecomprado, tendencia bajista, MACD positivo genera ligera duda",
-      "checked_at": 1790962274.470579
+      "checked_at": 1790963154.586039
     },
     "ADAUSDT": {
       "side": "short",
@@ -48,7 +36,7 @@
       "notional": 145.13741892930497,
       "fee": 0.14513741892930498,
       "note": "score -2 | IA: Overbought, price above Bollinger, bearish EMA, low volume supports short",
-      "checked_at": 1790962274.470579
+      "checked_at": 1790963154.586039
     },
     "AVAXUSDT": {
       "side": "long",
@@ -60,10 +48,10 @@
       "notional": 145.115648313,
       "fee": 0.145115648313,
       "note": "score 2 | IA: Bullish indicators align, price near upper Bollinger, moderate confidence",
-      "checked_at": 1790962274.470579
+      "checked_at": 1790963154.586039
     }
   },
-  "closed": 55,
-  "realized_pnl": -31.97832284392865,
+  "closed": 56,
+  "realized_pnl": -37.26169442564302,
   "started": "2026-09-23T21:38:36+00:00"
 }
