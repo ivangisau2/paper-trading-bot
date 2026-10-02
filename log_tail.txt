@@ -1,24 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 15:33 UTC
+⏰ Ciclo — 2026-10-02 15:48 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando DOGEUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio sube, RSI neutral, aunque EMA bajista y MACD negativo, duda razonable
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Bearish EMA, MACD negative, but low volume and RSI neutral; better stay flat.
+   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI neutral, low volume, price near middle; doubt.
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bajista, MACD negativo, pero RSI neutro y precio cerca media
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 60%): EMA bullish, MACD bearish, signal weak
 
-🤖 Analista IA evaluando LTCUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA200 bearish, price near Bollinger top, signal uncertain
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 70%): EMA bullish y precio cerca banda inferior, señal corta no confirmada
 
-💰 Equity: $968.67 | Cash: $967.29 | Retorno: -3.13%
+💰 Equity: $969.39 | Cash: $967.29 | Retorno: -3.06%
 📈 Posiciones abiertas: 5 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.2089 (-1.26 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.8229 (-3.41 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 119.95 (+2.86 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.251887 (+2.93 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.12 (+0.26 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.2216 (-1.12 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.826 (-3.32 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 119.8 (+3.04 USD)
+   ▼ ADAUSDT: entry 0.257072 → ahora 0.251203 (+3.31 USD)
+   ▲ AVAXUSDT: entry 11.1 → ahora 11.115 (+0.20 USD)
