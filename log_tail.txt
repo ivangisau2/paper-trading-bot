@@ -1,27 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 02:33 UTC
+⏰ Ciclo — 2026-10-02 02:48 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, precio cerca banda inferior
+   → FLAT (confianza 65%): Baja volatilidad y volumen insuficiente para confirmar corto
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 30%): Baja confirmación, volumen bajo y precio cerca banda inferior
+   → FLAT (confianza 65%): EMA bajista y MACD negativo, pero bajo volumen y RSI neutro generan incertidumbre
 
 🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutro
+   → FLAT (confianza 45%): Baja confirmación: volumen débil, RSI neutral, señal insuficiente
 
-🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → LONG (confianza 65%): Bullish EMA, RSI neutral, price near middle Bollinger, modest volume
-  [ejecución] ▲ LONG NEARUSDT: 29.35694049 @ 4.9391 | SL 4.76884 | TP 5.27962 | score 2 | IA: Bullish EMA, RSI neutral, price near middle Bollinger, modest volume
+🤖 Analista IA evaluando LTCUSDT (short score -1)...
+   → FLAT (confianza 55%): Mixed signals; overbought but MACD bullish, volume weak, trend bearish—uncertain
 
-💰 Equity: $968.09 | Cash: $966.50 | Retorno: -3.19%
+💰 Equity: $968.90 | Cash: $966.50 | Retorno: -3.11%
 📈 Posiciones abiertas: 4 | Cerradas: 53 | PnL realizado: -32.91
-   ▲ LINKUSDT: entry 14.33 → ahora 14.3802 (+0.52 USD)
-   ▲ ETHUSDT: entry 2694.52 → ahora 2710.29 (+0.86 USD)
-   ▼ BTCUSDT: entry 84975.7 → ahora 84907.1 (+0.12 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.9424 (+0.10 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.4239 (+0.98 USD)
+   ▲ ETHUSDT: entry 2694.52 → ahora 2713.96 (+1.06 USD)
+   ▼ BTCUSDT: entry 84975.7 → ahora 85012 (-0.06 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.9538 (+0.43 USD)
