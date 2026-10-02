@@ -1,29 +1,29 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 14:33 UTC
+⏰ Ciclo — 2026-10-02 14:47 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 3)...
-   → LONG (confianza 78%): EMA bullish, MACD positive, RSI neutral, volume strong, price near Bollinger middle
+   → LONG (confianza 75%): Indicadores bullish, volumen fuerte, precio cerca banda superior, pero sin sobrecompra clara.
   [riesgo] No se abre BTCUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando ETHUSDT (long score 3)...
-   → LONG (confianza 75%): Bullish EMA, positive MACD, high volume, RSI neutral, price near Bollinger middle.
+   → LONG (confianza 70%): Bullish EMA, positive MACD, volume surge, RSI neutral, price above lower Bollinger.
   [riesgo] No se abre ETHUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI neutro y señal débil
+   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista débil, no suficiente confirmación
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA trend bajista contradice señal, duda razonable
+   → FLAT (confianza 45%): EMA bajista y precio cerca de banda superior, señal larga poco confirmada
 
-💰 Equity: $968.15 | Cash: $967.29 | Retorno: -3.18%
+💰 Equity: $969.70 | Cash: $967.29 | Retorno: -3.03%
 📈 Posiciones abiertas: 5 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.28 (-0.52 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.8964 (-1.25 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 121.47 (+1.06 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.254143 (+1.65 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.094 (-0.08 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.3282 (-0.02 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.928 (-0.33 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 121.54 (+0.97 USD)
+   ▼ ADAUSDT: entry 0.257072 → ahora 0.254759 (+1.31 USD)
+   ▲ AVAXUSDT: entry 11.1 → ahora 11.136 (+0.47 USD)
