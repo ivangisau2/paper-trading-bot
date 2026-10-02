@@ -1,25 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 04:31 UTC
+⏰ Ciclo — 2026-10-02 04:46 UTC
 ============================================================
-  [ejecución] ✅ CERRADO ETHUSDT @ 2746.3764447989315: +2.52 USD (take profit (wick entre ciclos))
-  [ejecución] ❌ CERRADO BTCUSDT @ 85734.19884674232: -1.59 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 60%): Indicadores mixtos, sobrecompra pero momentum alcista
+🤖 Analista IA evaluando AVAXUSDT (long score 2)...
+   → FLAT (confianza 70%): Precio sobre banda superior, RSI alto, señal poco confirmada
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, riesgo de reversión
+   → FLAT (confianza 70%): Precio sobre Bollinger superior y RSI sobrecomprado, riesgo de reversión
 
 🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed signals, bearish EMA but bullish MACD; better wait.
+   → FLAT (confianza 60%): Mixed indicators; overbought BB and RSI but bullish MACD, trend bearish—stay flat.
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio sobre BB, RSI alto, MACD positivo, señal incierta
+   → SHORT (confianza 70%): Precio sobre banda superior, RSI sobrecomprado, tendencia bajista, MACD positivo genera ligera duda
+  [ejecución] ▼ SHORT SOLUSDT: 1.18632881 @ 122.36 | SL 123.999 | TP 119.082 | score -1 | IA: Precio sobre banda superior, RSI sobrecomprado, tendencia bajista, MACD positivo genera ligera duda
 
-💰 Equity: $972.14 | Cash: $967.73 | Retorno: -2.79%
-📈 Posiciones abiertas: 2 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.5633 (+2.42 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 5.007 (+1.99 USD)
+💰 Equity: $972.72 | Cash: $967.58 | Retorno: -2.73%
+📈 Posiciones abiertas: 3 | Cerradas: 55 | PnL realizado: -31.98
+   ▲ LINKUSDT: entry 14.33 → ahora 14.57 (+2.49 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 5.0309 (+2.69 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 122.4 (-0.05 USD)
