@@ -1,25 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 18:30 UTC
+⏰ Ciclo — 2026-10-02 18:45 UTC
 ============================================================
-  [ejecución] ❌ CERRADO LINKUSDT @ 14.018165376190076: -3.53 USD (stop loss (wick entre ciclos))
-  [ejecución] ✅ CERRADO SOLUSDT @ 119.0824060533177: +3.60 USD (take profit (wick entre ciclos))
-  [ejecución] ✅ CERRADO ADAUSDT @ 0.24730305918629808: +5.23 USD (take profit (wick entre ciclos))
-  [ejecución] ❌ CERRADO AVAXUSDT @ 10.909427630527432: -2.78 USD (stop loss (wick entre ciclos))
 
-📊 8 candidatos tras filtros
+📊 10 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 70%): Precio cerca de soporte, RSI bajo, volumen débil, señal corta no confirmada
-
-🤖 Analista IA evaluando LINKUSDT (long score 2)...
-   → FLAT (confianza 55%): Señal conflict: MACD bearish, RSI oversold, tendencia alcista
+🤖 Analista IA evaluando BTCUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio bajo banda, RSI bajo, pero MACD negativo y tendencia mixta, mejor esperar.
 
 🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil y RSI neutro
+   → FLAT (confianza 55%): Precio bajo banda, RSI neutro, tendencia bajista, pero posible rebote
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 55%): Mixed signals; bullish trend but bearish MACD and low volume.
+   → FLAT (confianza 55%): Señal conflict: RSI oversold but MACD bearish, duda razonable
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 55%): Mixed indicators; bullish EMA but MACD bearish, price below Bollinger, insufficient confirmation.
 
 💰 Equity: $965.26 | Cash: $965.26 | Retorno: -3.47%
 📈 Posiciones abiertas: 0 | Cerradas: 60 | PnL realizado: -34.74
