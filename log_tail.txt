@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-02 07:57 UTC
+⏰ Ciclo — 2026-10-02 08:11 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Mixed indicators, low volume, MACD bullish; better no trade
+   → FLAT (confianza 60%): Mixed indicators, low volume, MACD bullish, insufficient confirmation
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 55%): RSI alto y cerca de banda superior, señal mixta, mejor esperar
+   → FLAT (confianza 45%): RSI overbought, low volume, price near upper Bollinger; insufficient confirmation.
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 55%): Precio cerca banda superior, RSI alto, bajo volumen, señal LONG no confirmada
+   → FLAT (confianza 55%): Precio cerca de banda superior, volumen bajo, posible sobrecompra
 
-🤖 Analista IA evaluando DOGEUSDT (short score -1)...
-   → FLAT (confianza 70%): Indicadores mixtos y bajo volumen; señal corta no confirmada
+🤖 Analista IA evaluando LTCUSDT (short score -1)...
+   → FLAT (confianza 55%): Indicadores mixtos, volumen bajo, duda razonable
 
-💰 Equity: $970.57 | Cash: $967.29 | Retorno: -2.94%
+💰 Equity: $970.23 | Cash: $967.29 | Retorno: -2.98%
 📈 Posiciones abiertas: 5 | Cerradas: 55 | PnL realizado: -31.98
-   ▲ LINKUSDT: entry 14.33 → ahora 14.3805 (+0.52 USD)
-   ▲ NEARUSDT: entry 4.9391 → ahora 4.973 (+1.00 USD)
-   ▼ SOLUSDT: entry 122.36 → ahora 121.67 (+0.82 USD)
-   ▼ ADAUSDT: entry 0.257072 → ahora 0.255332 (+0.98 USD)
-   ▲ AVAXUSDT: entry 11.1 → ahora 11.097 (-0.04 USD)
+   ▲ LINKUSDT: entry 14.33 → ahora 14.3546 (+0.26 USD)
+   ▲ NEARUSDT: entry 4.9391 → ahora 4.9773 (+1.12 USD)
+   ▼ SOLUSDT: entry 122.36 → ahora 121.88 (+0.57 USD)
+   ▼ ADAUSDT: entry 0.257072 → ahora 0.254649 (+1.37 USD)
+   ▲ AVAXUSDT: entry 11.1 → ahora 11.071 (-0.38 USD)
