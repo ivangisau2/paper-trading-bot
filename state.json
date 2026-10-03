@@ -12,7 +12,7 @@
       "notional": 144.78913256574,
       "fee": 0.14478913256574,
       "note": "score 2 | IA: RSI oversold, price below Bollinger lower, bullish EMA trend; MACD still bearish.",
-      "checked_at": 1791007289.8759837
+      "checked_at": 1791008162.6722014
     },
     "AVAXUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791007289.8759837
+      "checked_at": 1791008162.6722014
     }
   },
   "closed": 60,
