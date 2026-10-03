@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-03 02:08 UTC
+⏰ Ciclo — 2026-10-03 02:22 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
+📊 6 candidatos tras filtros
+
+🤖 Analista IA evaluando AVAXUSDT (long score 3)...
+   → LONG (confianza 70%): Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG
+  [ejecución] ▲ LONG AVAXUSDT: 13.22318361 @ 10.948 | SL 10.7312 | TP 11.3816 | score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación, volumen muy bajo, señal débil
+   → FLAT (confianza 55%): Baja confirmación, volumen muy bajo, señal poco fiable
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 30%): Baja confirmación, volumen muy bajo y RSI neutro
+   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente para confirmar corto
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 40%): Baja confirmación, volumen débil y RSI neutro
+   → FLAT (confianza 65%): Baja confirmación: volumen bajo, RSI neutro, precio cerca de media Bollinger.
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil y precio cerca banda inferior
-
-💰 Equity: $968.03 | Cash: $965.12 | Retorno: -3.20%
-📈 Posiciones abiertas: 1 | Cerradas: 60 | PnL realizado: -34.74
-   ▲ LINKUSDT: entry 13.638 → ahora 13.9122 (+2.91 USD)
+💰 Equity: $968.27 | Cash: $964.97 | Retorno: -3.17%
+📈 Posiciones abiertas: 2 | Cerradas: 60 | PnL realizado: -34.74
+   ▲ LINKUSDT: entry 13.638 → ahora 13.9484 (+3.30 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.948 (+0.00 USD)
