@@ -1,23 +1,19 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-03 09:00 UTC
+⏰ Ciclo — 2026-10-03 09:15 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
-
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → LONG (confianza 65%): EMA bullish, MACD positive, price above Bollinger middle, RSI neutral; context supports LONG
-  [ejecución] ▲ LONG ETHUSDT: 0.05394377 @ 2683.27 | SL 2665.35 | TP 2719.11 | score 2 | IA: EMA bullish, MACD positive, price above Bollinger middle, RSI neutral; context supports LONG
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 30%): Baja confirmación de volumen, señal débil
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente para confirmar corto
 
 🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen escaso y RSI neutro
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente para confirmar short
 
-💰 Equity: $967.50 | Cash: $964.83 | Retorno: -3.25%
+💰 Equity: $968.13 | Cash: $964.83 | Retorno: -3.19%
 📈 Posiciones abiertas: 3 | Cerradas: 60 | PnL realizado: -34.74
-   ▲ LINKUSDT: entry 13.638 → ahora 13.9442 (+3.25 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.905 (-0.57 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2683.1 (-0.01 USD)
+   ▲ LINKUSDT: entry 13.638 → ahora 13.9627 (+3.45 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.93 (-0.24 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2685.08 (+0.10 USD)
