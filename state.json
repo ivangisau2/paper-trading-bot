@@ -12,7 +12,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791155108.1539283
+      "checked_at": 1791155981.9067504
     },
     "XRPUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-10-04T23:05:10+00:00",
       "notional": 145.51487729403001,
       "fee": 0.14551487729403,
-      "note": "score -2 | IA: RSI overbought, price above upper Bollinger, bearish EMA trend, low volume supports short."
+      "note": "score -2 | IA: RSI overbought, price above upper Bollinger, bearish EMA trend, low volume supports short.",
+      "checked_at": 1791155981.9067504
     }
   },
   "closed": 65,
