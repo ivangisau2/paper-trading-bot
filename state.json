@@ -1,5 +1,5 @@
 {
-  "balance": 968.3123714241436,
+  "balance": 970.0991819997492,
   "initial_balance": 1000.0,
   "positions": {
     "AVAXUSDT": {
@@ -12,22 +12,10 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791151608.9277914
-    },
-    "ETHUSDT": {
-      "side": "long",
-      "qty": 0.05394377,
-      "entry": 2683.27,
-      "sl": 2665.3486555602376,
-      "tp": 2719.1126888795247,
-      "opened_at": "2026-10-03T09:00:46+00:00",
-      "notional": 144.74569972790002,
-      "fee": 0.14474569972790002,
-      "note": "score 2 | IA: EMA bullish, MACD positive, price above Bollinger middle, RSI neutral; context supports LONG",
-      "checked_at": 1791151608.9277914
+      "checked_at": 1791152485.332122
     }
   },
-  "closed": 64,
-  "realized_pnl": -31.39811546196676,
+  "closed": 65,
+  "realized_pnl": -29.756050586089017,
   "started": "2026-09-23T21:38:36+00:00"
 }

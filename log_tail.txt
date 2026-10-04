@@ -1,24 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 22:06 UTC
+⏰ Ciclo — 2026-10-04 22:21 UTC
 ============================================================
-  [ejecución] ✅ CERRADO LINKUSDT @ 14.263607443955063: +6.35 USD (take profit (wick entre ciclos))
+  [ejecución] ✅ CERRADO ETHUSDT @ 2719.1126888795247: +1.64 USD (take profit (wick entre ciclos))
 
-📊 4 candidatos tras filtros
+📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Trend alcista contradice sobrecompra y MACD negativo; mejor esperar
-
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI overbought, price above Bollinger, but MACD lacks bearish confirmation.
+   → FLAT (confianza 40%): Indicadores mixtos, tendencia alcista, señal corta no confirmada
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 55%): Overbought, bearish EMA, but low volume and bullish MACD
+   → FLAT (confianza 60%): RSI y BB indican sobrecompra, pero MACD bullish y tendencia bajista conflictiva; duda
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI y BB sobrecomprados, pero MACD positivo y bajo volumen generan incertidumbre.
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, riesgo de reversión pese a tendencia alcista
 
-💰 Equity: $971.99 | Cash: $968.31 | Retorno: -2.80%
-📈 Posiciones abiertas: 2 | Cerradas: 64 | PnL realizado: -31.40
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.093 (+1.92 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2715.98 (+1.76 USD)
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 70%): Precio sobre BB, RSI sobrecomprado, señal poco confirmada
+
+💰 Equity: $972.16 | Cash: $970.10 | Retorno: -2.78%
+📈 Posiciones abiertas: 1 | Cerradas: 65 | PnL realizado: -29.76
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.104 (+2.06 USD)
