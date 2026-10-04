@@ -1,24 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 11:16 UTC
+⏰ Ciclo — 2026-10-04 11:31 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
-
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra pero momentum positivo, mejor esperar
-
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio cerca de banda superior, RSI alto, volumen bajo, duda razonable
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos, falta de confirmación de presión bajista
+   → FLAT (confianza 60%): Indicadores mixtos, tendencia bajista pero sin confirmación clara
 
-💰 Equity: $970.64 | Cash: $964.54 | Retorno: -2.94%
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 55%): Señal corta pero MACD positivo y precio cerca de máximo.
+
+💰 Equity: $970.56 | Cash: $964.54 | Retorno: -2.94%
 📈 Posiciones abiertas: 5 | Cerradas: 60 | PnL realizado: -34.74
-   ▲ LINKUSDT: entry 13.638 → ahora 14.1271 (+5.19 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.025 (+1.02 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2701.96 (+1.01 USD)
-   ▼ LTCUSDT: entry 69.88 → ahora 70.78 (-1.86 USD)
-   ▲ BTCUSDT: entry 84841.1 → ahora 85277.3 (+0.74 USD)
+   ▲ LINKUSDT: entry 13.638 → ahora 14.1306 (+5.23 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.036 (+1.16 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2703.37 (+1.08 USD)
+   ▼ LTCUSDT: entry 69.88 → ahora 70.97 (-2.26 USD)
+   ▲ BTCUSDT: entry 84841.1 → ahora 85312 (+0.80 USD)
