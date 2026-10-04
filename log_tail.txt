@@ -1,25 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 21:52 UTC
+⏰ Ciclo — 2026-10-04 22:06 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO LINKUSDT @ 14.263607443955063: +6.35 USD (take profit (wick entre ciclos))
 
 📊 4 candidatos tras filtros
 
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 55%): Trend alcista contradice sobrecompra y MACD negativo; mejor esperar
+
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 55%): RSI overbought, price above Bollinger, but MACD lacks bearish confirmation.
+
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 60%): Sobrecompra y precio sobre BB, pero MACD bullish y bajo volumen
+   → FLAT (confianza 55%): Overbought, bearish EMA, but low volume and bullish MACD
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 65%): RSI overbought y precio supera banda superior, riesgo de retroceso
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → FLAT (confianza 55%): RSI y BB sobrecomprados, pero MACD positivo y bajo volumen generan incertidumbre.
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 45%): Señal corta contradicha por MACD y tendencia alcista reciente
-
-🤖 Analista IA evaluando DOGEUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI overbought, but MACD bullish, señal conflictiva
-
-💰 Equity: $970.59 | Cash: $961.82 | Retorno: -2.94%
-📈 Posiciones abiertas: 3 | Cerradas: 63 | PnL realizado: -37.74
-   ▲ LINKUSDT: entry 13.638 → ahora 14.215 (+6.13 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.053 (+1.39 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2706.48 (+1.25 USD)
+💰 Equity: $971.99 | Cash: $968.31 | Retorno: -2.80%
+📈 Posiciones abiertas: 2 | Cerradas: 64 | PnL realizado: -31.40
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.093 (+1.92 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2715.98 (+1.76 USD)
