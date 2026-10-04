@@ -1,22 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 15:57 UTC
+⏰ Ciclo — 2026-10-04 16:12 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → LONG (confianza 65%): Precio cerca banda superior, RSI alto, pero tendencia alcista confirma
-  [ejecución] ▲ LONG SOLUSDT: 1.18690256 @ 121.58 | SL 120.799 | TP 123.142 | score 1 | IA: Precio cerca banda superior, RSI alto, pero tendencia alcista confirma
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 45%): Baja confirmación, volumen muy bajo y RSI neutro
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 65%): Mixed indicators, overbought but bullish MACD; better wait
-
-💰 Equity: $970.79 | Cash: $961.88 | Retorno: -2.92%
+💰 Equity: $970.88 | Cash: $961.88 | Retorno: -2.91%
 📈 Posiciones abiertas: 5 | Cerradas: 61 | PnL realizado: -37.40
-   ▲ LINKUSDT: entry 13.638 → ahora 14.1453 (+5.39 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.091 (+1.89 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2699.04 (+0.85 USD)
-   ▲ BTCUSDT: entry 84841.1 → ahora 85304.8 (+0.79 USD)
-   ▲ SOLUSDT: entry 121.58 → ahora 121.57 (-0.01 USD)
+   ▲ LINKUSDT: entry 13.638 → ahora 14.1778 (+5.73 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.073 (+1.65 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2699.5 (+0.88 USD)
+   ▲ BTCUSDT: entry 84841.1 → ahora 85258.6 (+0.71 USD)
+   ▲ SOLUSDT: entry 121.58 → ahora 121.6 (+0.02 USD)
