@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 22:50 UTC
+⏰ Ciclo — 2026-10-04 23:05 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
+📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 65%): EMA bullish, señal corta no confirmada
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → SHORT (confianza 65%): RSI overbought, price above upper Bollinger, bearish EMA trend, low volume supports short.
+  [ejecución] ▼ SHORT XRPUSDT: 95.76497354 @ 1.5195 | SL 1.52905 | TP 1.50039 | score -2 | IA: RSI overbought, price above upper Bollinger, bearish EMA trend, low volume supports short.
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, riesgo de reversión
+🤖 Analista IA evaluando ADAUSDT (short score -2)...
+   → FLAT (confianza 55%): Overbought RSI, price above BB, but low volume and bullish MACD cause uncertainty
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio sobre Bollinger y RSI alto indican sobrecompra; riesgo de reversión
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 60%): Mixed indicators, low volume, bullish trend; no clear short
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Señal contradictoria, indicadores mixtos, mejor esperar
+🤖 Analista IA evaluando DOGEUSDT (short score -1)...
+   → FLAT (confianza 55%): Sobrecompra, bajo volumen y tendencia bajista, pero MACD positivo; duda razonable
 
-💰 Equity: $972.20 | Cash: $970.10 | Retorno: -2.78%
-📈 Posiciones abiertas: 1 | Cerradas: 65 | PnL realizado: -29.76
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.107 (+2.10 USD)
+💰 Equity: $971.83 | Cash: $969.95 | Retorno: -2.82%
+📈 Posiciones abiertas: 2 | Cerradas: 65 | PnL realizado: -29.76
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.09 (+1.88 USD)
+   ▼ XRPUSDT: entry 1.5195 → ahora 1.5195 (+0.00 USD)
