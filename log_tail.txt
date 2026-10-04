@@ -1,21 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 02:03 UTC
+⏰ Ciclo — 2026-10-04 02:18 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
-
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen, no confirma señal corta
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): Volumen bajo y MACD positivo contradicen señal corta
+   → FLAT (confianza 65%): Indicadores mixtos, bajo volumen, no confirma señal corta
 
-💰 Equity: $971.34 | Cash: $964.54 | Retorno: -2.87%
+💰 Equity: $970.59 | Cash: $964.54 | Retorno: -2.94%
 📈 Posiciones abiertas: 5 | Cerradas: 60 | PnL realizado: -34.74
-   ▲ LINKUSDT: entry 13.638 → ahora 14.0832 (+4.73 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.07 (+1.61 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2694.96 (+0.63 USD)
-   ▼ LTCUSDT: entry 69.88 → ahora 69.94 (-0.12 USD)
-   ▲ BTCUSDT: entry 84841.1 → ahora 84816 (-0.04 USD)
+   ▲ LINKUSDT: entry 13.638 → ahora 14.0312 (+4.17 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.065 (+1.55 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2693.29 (+0.54 USD)
+   ▼ LTCUSDT: entry 69.88 → ahora 69.96 (-0.17 USD)
+   ▲ BTCUSDT: entry 84841.1 → ahora 84815.2 (-0.04 USD)
