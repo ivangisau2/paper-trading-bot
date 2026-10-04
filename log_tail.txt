@@ -1,25 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 21:19 UTC
+⏰ Ciclo — 2026-10-04 21:34 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI high, price near upper Bollinger, but MACD bullish, low volume; unclear
+   → FLAT (confianza 55%): Mixed indicators, overbought but MACD bullish; better wait
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 65%): Sobrecompra RSI, pero MACD bullish y bajo volumen; duda razonable
-
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 60%): RSI overbought, price above Bollinger, but MACD bullish; duda razonable
+   → FLAT (confianza 45%): RSI overbought, price above BB, but MACD bullish and low volume; uncertainty.
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought y precio fuera de Bollinger indica posible reversión
+   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, riesgo de retroceso
 
-💰 Equity: $970.55 | Cash: $961.82 | Retorno: -2.95%
+🤖 Analista IA evaluando DOGEUSDT (short score -1)...
+   → FLAT (confianza 60%): Señal corta, pero MACD bullish y precio arriba de BB, contexto incierto
+
+💰 Equity: $970.31 | Cash: $961.82 | Retorno: -2.97%
 📈 Posiciones abiertas: 3 | Cerradas: 63 | PnL realizado: -37.74
-   ▲ LINKUSDT: entry 13.638 → ahora 14.2155 (+6.13 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.046 (+1.30 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2707.36 (+1.30 USD)
+   ▲ LINKUSDT: entry 13.638 → ahora 14.199 (+5.96 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.051 (+1.36 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2705.03 (+1.17 USD)
