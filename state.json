@@ -12,7 +12,7 @@
       "notional": 144.78913256574,
       "fee": 0.14478913256574,
       "note": "score 2 | IA: RSI oversold, price below Bollinger lower, bullish EMA trend; MACD still bearish.",
-      "checked_at": 1791134712.487876
+      "checked_at": 1791135622.7757604
     },
     "AVAXUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791134712.487876
+      "checked_at": 1791135622.7757604
     },
     "ETHUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 144.74569972790002,
       "fee": 0.14474569972790002,
       "note": "score 2 | IA: EMA bullish, MACD positive, price above Bollinger middle, RSI neutral; context supports LONG",
-      "checked_at": 1791134712.487876
+      "checked_at": 1791135622.7757604
     },
     "BTCUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 144.702434927,
       "fee": 0.14470243492700002,
       "note": "score 2 | IA: EMA bullish, MACD positivo, volumen alto, RSI neutral, cerca banda superior",
-      "checked_at": 1791134712.487876
+      "checked_at": 1791135622.7757604
     },
     "SOLUSDT": {
       "side": "long",
@@ -60,7 +60,7 @@
       "notional": 144.3036132448,
       "fee": 0.1443036132448,
       "note": "score 1 | IA: Precio cerca banda superior, RSI alto, pero tendencia alcista confirma",
-      "checked_at": 1791134712.487876
+      "checked_at": 1791135622.7757604
     }
   },
   "closed": 61,
