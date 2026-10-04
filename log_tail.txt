@@ -1,17 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 12:58 UTC
+⏰ Ciclo — 2026-10-04 13:13 UTC
 ============================================================
   [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): RSI alto y precio cerca de banda superior, riesgo de reversión
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca de banda superior
 
-💰 Equity: $968.69 | Cash: $962.02 | Retorno: -3.13%
+💰 Equity: $968.23 | Cash: $962.02 | Retorno: -3.18%
 📈 Posiciones abiertas: 4 | Cerradas: 61 | PnL realizado: -37.40
-   ▲ LINKUSDT: entry 13.638 → ahora 14.1095 (+5.01 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.988 (+0.53 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2695.48 (+0.66 USD)
-   ▲ BTCUSDT: entry 84841.1 → ahora 85115.2 (+0.47 USD)
+   ▲ LINKUSDT: entry 13.638 → ahora 14.07 (+4.59 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.978 (+0.40 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2696.95 (+0.74 USD)
+   ▲ BTCUSDT: entry 84841.1 → ahora 85124.9 (+0.48 USD)
