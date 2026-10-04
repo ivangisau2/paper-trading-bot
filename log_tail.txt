@@ -1,20 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 11:45 UTC
+⏰ Ciclo — 2026-10-04 12:00 UTC
 ============================================================
-  [ejecución] ❌ CERRADO LTCUSDT @ 71.02241346933204: -2.66 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, near upper Bollinger, low volume; doubt.
+   → FLAT (confianza 45%): RSI alto, cerca de banda superior, volumen bajo, duda razonable
 
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA downtrend y precio cerca de resistencia, señal débil
-
-💰 Equity: $969.00 | Cash: $962.02 | Retorno: -3.10%
+💰 Equity: $969.11 | Cash: $962.02 | Retorno: -3.09%
 📈 Posiciones abiertas: 4 | Cerradas: 61 | PnL realizado: -37.40
-   ▲ LINKUSDT: entry 13.638 → ahora 14.0868 (+4.77 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.991 (+0.57 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2700.25 (+0.92 USD)
-   ▲ BTCUSDT: entry 84841.1 → ahora 85267.1 (+0.73 USD)
+   ▲ LINKUSDT: entry 13.638 → ahora 14.0946 (+4.85 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.99 (+0.56 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2699.85 (+0.89 USD)
+   ▲ BTCUSDT: entry 84841.1 → ahora 85302.1 (+0.79 USD)
