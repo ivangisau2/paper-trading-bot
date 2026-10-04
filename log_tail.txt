@@ -1,17 +1,13 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 19:52 UTC
+⏰ Ciclo — 2026-10-04 20:06 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO SOLUSDT @ 120.79906186102313: -1.21 USD (stop loss (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA50/200 bearish, price near upper Bollinger, RSI high; signal lacks confirmation.
-
-💰 Equity: $970.72 | Cash: $962.89 | Retorno: -2.93%
-📈 Posiciones abiertas: 4 | Cerradas: 62 | PnL realizado: -36.53
-   ▲ LINKUSDT: entry 13.638 → ahora 14.1347 (+5.27 USD)
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.094 (+1.93 USD)
-   ▲ ETHUSDT: entry 2683.27 → ahora 2702.51 (+1.04 USD)
-   ▲ SOLUSDT: entry 121.58 → ahora 121.23 (-0.42 USD)
+💰 Equity: $970.13 | Cash: $961.82 | Retorno: -2.99%
+📈 Posiciones abiertas: 3 | Cerradas: 63 | PnL realizado: -37.74
+   ▲ LINKUSDT: entry 13.638 → ahora 14.1499 (+5.43 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.098 (+1.98 USD)
+   ▲ ETHUSDT: entry 2683.27 → ahora 2699.8 (+0.89 USD)
