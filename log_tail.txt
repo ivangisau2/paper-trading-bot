@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-04 22:21 UTC
+⏰ Ciclo — 2026-10-04 22:35 UTC
 ============================================================
-  [ejecución] ✅ CERRADO ETHUSDT @ 2719.1126888795247: +1.64 USD (take profit (wick entre ciclos))
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 40%): Indicadores mixtos, tendencia alcista, señal corta no confirmada
-
-🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 60%): RSI y BB indican sobrecompra, pero MACD bullish y tendencia bajista conflictiva; duda
+   → FLAT (confianza 70%): Trend bullish, mixed indicators, no clear short confirmation
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, riesgo de reversión pese a tendencia alcista
+   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, indica posible reversión
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio sobre BB, RSI sobrecomprado, señal poco confirmada
+   → FLAT (confianza 70%): Precio sobre Bollinger y RSI alto indican sobrecompra, riesgo de reversión
 
-💰 Equity: $972.16 | Cash: $970.10 | Retorno: -2.78%
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 60%): RSI overbought, price above Bollinger, but MACD still bullish; duda razonable
+
+💰 Equity: $972.02 | Cash: $970.10 | Retorno: -2.80%
 📈 Posiciones abiertas: 1 | Cerradas: 65 | PnL realizado: -29.76
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.104 (+2.06 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.093 (+1.92 USD)
