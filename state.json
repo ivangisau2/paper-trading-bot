@@ -1,5 +1,5 @@
 {
-  "balance": 964.5371547882887,
+  "balance": 962.0240855369276,
   "initial_balance": 1000.0,
   "positions": {
     "LINKUSDT": {
@@ -12,7 +12,7 @@
       "notional": 144.78913256574,
       "fee": 0.14478913256574,
       "note": "score 2 | IA: RSI oversold, price below Bollinger lower, bullish EMA trend; MACD still bearish.",
-      "checked_at": 1791113471.3732784
+      "checked_at": 1791114345.6805127
     },
     "AVAXUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791113471.3732784
+      "checked_at": 1791114345.6805127
     },
     "ETHUSDT": {
       "side": "long",
@@ -36,19 +36,7 @@
       "notional": 144.74569972790002,
       "fee": 0.14474569972790002,
       "note": "score 2 | IA: EMA bullish, MACD positive, price above Bollinger middle, RSI neutral; context supports LONG",
-      "checked_at": 1791113471.3732784
-    },
-    "LTCUSDT": {
-      "side": "short",
-      "qty": 2.07103588,
-      "entry": 69.88,
-      "sl": 71.02241346933204,
-      "tp": 67.5951730613359,
-      "opened_at": "2026-10-03T12:10:14+00:00",
-      "notional": 144.7239872944,
-      "fee": 0.1447239872944,
-      "note": "score -2 | IA: Bearish EMA, MACD, price near upper Bollinger; volume weak",
-      "checked_at": 1791113471.3732784
+      "checked_at": 1791114345.6805127
     },
     "BTCUSDT": {
       "side": "long",
@@ -60,10 +48,10 @@
       "notional": 144.702434927,
       "fee": 0.14470243492700002,
       "note": "score 2 | IA: EMA bullish, MACD positivo, volumen alto, RSI neutral, cerca banda superior",
-      "checked_at": 1791113471.3732784
+      "checked_at": 1791114345.6805127
     }
   },
-  "closed": 60,
-  "realized_pnl": -34.739116543034484,
+  "closed": 61,
+  "realized_pnl": -37.396909781690006,
   "started": "2026-09-23T21:38:36+00:00"
 }
