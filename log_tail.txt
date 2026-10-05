@@ -1,16 +1,16 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 09:58 UTC
+⏰ Ciclo — 2026-10-05 10:13 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, volume weak, price near upper Bollinger; signal lacks confirmation.
+   → FLAT (confianza 70%): RSI overbought, bajo volumen, precio cerca banda superior, señal débil
 
-💰 Equity: $961.23 | Cash: $959.92 | Retorno: -3.88%
+💰 Equity: $961.34 | Cash: $959.92 | Retorno: -3.87%
 📈 Posiciones abiertas: 3 | Cerradas: 69 | PnL realizado: -39.64
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.966 (+0.24 USD)
-   ▼ XRPUSDT: entry 1.52004 → ahora 1.51071 (+0.89 USD)
-   ▲ BTCUSDT: entry 85844.5 → ahora 85949.2 (+0.18 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.991 (+0.57 USD)
+   ▼ XRPUSDT: entry 1.52004 → ahora 1.51406 (+0.57 USD)
+   ▲ BTCUSDT: entry 85844.5 → ahora 86011 (+0.28 USD)
