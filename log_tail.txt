@@ -1,26 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 02:57 UTC
+⏰ Ciclo — 2026-10-05 03:11 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, low volume, price near upper Bollinger, bullish MACD insufficient
+   → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca de banda superior, riesgo de reversión
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → SHORT (confianza 65%): RSI overbought, price near upper Bollinger, bearish EMA trend outweighs slight MACD bullishness
-  [ejecución] ▼ SHORT XRPUSDT: 95.28787713 @ 1.52004 | SL 1.53142 | TP 1.49727 | score -1 | IA: RSI overbought, price near upper Bollinger, bearish EMA trend outweighs slight MACD bullishness
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 70%): Sobrecomprado, bajo volumen, cerca de banda superior, riesgo alto
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 70%): Baja confirmación: MACD negativo, volumen bajo, señal LONG débil.
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought y precio supera banda superior, riesgo de reversión
+   → FLAT (confianza 70%): RSI overbought, bajo volumen, precio en banda superior
 
-🤖 Analista IA evaluando DOGEUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI overbought, EMA bearish, but MACD bullish; low volume, ambiguous – stay flat
-
-💰 Equity: $967.71 | Cash: $965.46 | Retorno: -3.23%
+💰 Equity: $966.68 | Cash: $965.46 | Retorno: -3.33%
 📈 Posiciones abiertas: 3 | Cerradas: 67 | PnL realizado: -34.10
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.034 (+1.14 USD)
-   ▼ NEARUSDT: entry 4.9703 → ahora 4.9322 (+1.11 USD)
-   ▼ XRPUSDT: entry 1.52004 → ahora 1.52004 (+0.00 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.011 (+0.83 USD)
+   ▼ NEARUSDT: entry 4.9703 → ahora 4.9634 (+0.20 USD)
+   ▼ XRPUSDT: entry 1.52004 → ahora 1.51815 (+0.18 USD)
