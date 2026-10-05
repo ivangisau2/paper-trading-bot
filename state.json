@@ -1,5 +1,5 @@
 {
-  "balance": 958.4952660019768,
+  "balance": 954.4534096291526,
   "initial_balance": 1000.0,
   "positions": {
     "AVAXUSDT": {
@@ -12,19 +12,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791223851.5934372
-    },
-    "NEARUSDT": {
-      "side": "short",
-      "qty": 28.77479731,
-      "entry": 5.0138,
-      "sl": 5.149116039258969,
-      "tp": 4.743167921482061,
-      "opened_at": "2026-10-05T15:29:44+00:00",
-      "notional": 144.271078752878,
-      "fee": 0.144271078752878,
-      "note": "score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger, RSI neutral.",
-      "checked_at": 1791223851.5934372
+      "checked_at": 1791224725.2331712
     },
     "LTCUSDT": {
       "side": "long",
@@ -36,7 +24,7 @@
       "notional": 143.8390079,
       "fee": 0.1438390079,
       "note": "score 3 | IA: Precio cerca banda baja, RSI moderado, EMA bullish, volumen fuerte, confirma LONG",
-      "checked_at": 1791223851.5934372
+      "checked_at": 1791224725.2331712
     },
     "DOGEUSDT": {
       "side": "long",
@@ -48,7 +36,7 @@
       "notional": 143.8174318936917,
       "fee": 0.1438174318936917,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, EMA alcista, pero MACD negativo.",
-      "checked_at": 1791223851.5934372
+      "checked_at": 1791224725.2331712
     },
     "XRPUSDT": {
       "side": "long",
@@ -60,10 +48,10 @@
       "notional": 143.7958592856,
       "fee": 0.1437958592856,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, tendencia alcista, MACD negativo",
-      "checked_at": 1791223851.5934372
+      "checked_at": 1791224725.2331712
     }
   },
-  "closed": 72,
-  "realized_pnl": -40.78424320602936,
+  "closed": 73,
+  "realized_pnl": -44.970370657606416,
   "started": "2026-09-23T21:38:36+00:00"
 }
