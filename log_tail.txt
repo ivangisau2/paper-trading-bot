@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 15:59 UTC
+⏰ Ciclo — 2026-10-05 16:13 UTC
 ============================================================
-  [ejecución] ❌ CERRADO LTCUSDT @ 70.06156415314054: -1.91 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando LTCUSDT (long score 3)...
-   → LONG (confianza 70%): Precio cerca banda baja, RSI moderado, EMA bullish, volumen fuerte, confirma LONG
-  [ejecución] ▲ LONG LTCUSDT: 2.05484297 @ 70.0 | SL 69.07 | TP 71.8599 | score 3 | IA: Precio cerca banda baja, RSI moderado, EMA bullish, volumen fuerte, confirma LONG
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 60%): EMA bullish but MACD negative, low volume, near lower Bollinger; insufficient confirmation
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 55%): Precio cerca banda inferior, pero MACD negativo y volumen bajo; señal no confirmada
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 40%): Baja confirmación: volumen bajo, MACD negativo, señal larga poco respaldada
+
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 70%): Precio cerca banda baja, pero volumen bajo y MACD negativo; duda razonable
 
 🤖 Analista IA evaluando DOGEUSDT (long score 1)...
-   → FLAT (confianza 35%): Precio bajo banda, pero MACD y volumen débiles
+   → FLAT (confianza 30%): Mixed indicators, low volume y MACD negativo, mejor esperar.
 
-💰 Equity: $957.67 | Cash: $958.78 | Retorno: -4.23%
+💰 Equity: $958.46 | Cash: $958.78 | Retorno: -4.15%
 📈 Posiciones abiertas: 3 | Cerradas: 72 | PnL realizado: -40.78
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.86 (-1.16 USD)
-   ▼ NEARUSDT: entry 5.0138 → ahora 5.012 (+0.05 USD)
-   ▲ LTCUSDT: entry 70 → ahora 70 (+0.00 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.882 (-0.87 USD)
+   ▼ NEARUSDT: entry 5.0138 → ahora 4.9846 (+0.84 USD)
+   ▲ LTCUSDT: entry 70 → ahora 69.86 (-0.29 USD)
