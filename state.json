@@ -12,7 +12,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791204850.8948243
+      "checked_at": 1791205727.2999918
     },
     "XRPUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 144.8413847526852,
       "fee": 0.1448413847526852,
       "note": "score -1 | IA: RSI overbought, price near upper Bollinger, bearish EMA trend outweighs slight MACD bullishness",
-      "checked_at": 1791204850.8948243
+      "checked_at": 1791205727.2999918
     },
     "BTCUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 144.8196715,
       "fee": 0.1448196715,
       "note": "score 2 | IA: Indicadores mayormente alcistas, RSI neutro, bajo riesgo",
-      "checked_at": 1791204850.8948243
+      "checked_at": 1791205727.2999918
     },
     "LTCUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 143.9886558858,
       "fee": 0.1439886558858,
       "note": "score 3 | IA: Bullish EMA, positive MACD, high volume, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1791204850.8948243
+      "checked_at": 1791205727.2999918
     }
   },
   "closed": 69,
