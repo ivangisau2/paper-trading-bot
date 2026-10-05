@@ -12,7 +12,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791161147.1466637
+      "checked_at": 1791162024.9527395
     },
     "XRPUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 145.51487729403001,
       "fee": 0.14551487729403,
       "note": "score -2 | IA: RSI overbought, price above upper Bollinger, bearish EMA trend, low volume supports short.",
-      "checked_at": 1791161147.1466637
+      "checked_at": 1791162024.9527395
     },
     "ADAUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 145.49305006774378,
       "fee": 0.1454930500677438,
       "note": "score -2 | IA: RSI overbought, price near upper Bollinger, bearish EMA, low volume",
-      "checked_at": 1791161147.1466637
+      "checked_at": 1791162024.9527395
     }
   },
   "closed": 65,
