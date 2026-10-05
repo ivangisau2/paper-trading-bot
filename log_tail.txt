@@ -1,19 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 11:40 UTC
+⏰ Ciclo — 2026-10-05 11:55 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen bajo y poca fuerza, señal no confirmada
+🤖 Analista IA evaluando LTCUSDT (long score 3)...
+   → LONG (confianza 78%): Bullish EMA, positive MACD, high volume, RSI neutral, price near upper Bollinger.
+  [ejecución] ▲ LONG LTCUSDT: 2.03201603 @ 70.86 | SL 70.0616 | TP 72.4569 | score 3 | IA: Bullish EMA, positive MACD, high volume, RSI neutral, price near upper Bollinger.
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, low volume, price near upper Bollinger, weak signal
+   → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca de banda superior, duda razonable
 
-💰 Equity: $961.46 | Cash: $959.92 | Retorno: -3.85%
-📈 Posiciones abiertas: 3 | Cerradas: 69 | PnL realizado: -39.64
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.009 (+0.81 USD)
-   ▼ XRPUSDT: entry 1.52004 → ahora 1.5166 (+0.33 USD)
-   ▲ BTCUSDT: entry 85844.5 → ahora 86080.6 (+0.40 USD)
+💰 Equity: $961.05 | Cash: $959.78 | Retorno: -3.89%
+📈 Posiciones abiertas: 4 | Cerradas: 69 | PnL realizado: -39.64
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.997 (+0.65 USD)
+   ▼ XRPUSDT: entry 1.52004 → ahora 1.51691 (+0.30 USD)
+   ▲ BTCUSDT: entry 85844.5 → ahora 86039.1 (+0.33 USD)
+   ▲ LTCUSDT: entry 70.86 → ahora 70.86 (+0.00 USD)
