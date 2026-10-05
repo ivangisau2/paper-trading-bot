@@ -12,7 +12,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791181135.330508
+      "checked_at": 1791182011.6730206
     },
     "NEARUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 144.863114216877,
       "fee": 0.144863114216877,
       "note": "score -3 | IA: Bajista EMA, MACD negativo, precio cerca banda superior, RSI no sobrecomprado, duda moderada",
-      "checked_at": 1791181135.330508
+      "checked_at": 1791182011.6730206
     },
     "XRPUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 144.8413847526852,
       "fee": 0.1448413847526852,
       "note": "score -1 | IA: RSI overbought, price near upper Bollinger, bearish EMA trend outweighs slight MACD bullishness",
-      "checked_at": 1791181135.330508
+      "checked_at": 1791182011.6730206
     },
     "BTCUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 144.8196715,
       "fee": 0.1448196715,
       "note": "score 2 | IA: Indicadores mayormente alcistas, RSI neutro, bajo riesgo",
-      "checked_at": 1791181135.330508
+      "checked_at": 1791182011.6730206
     },
     "DOGEUSDT": {
       "side": "short",
@@ -59,7 +59,8 @@
       "opened_at": "2026-10-05T06:19:01+00:00",
       "notional": 144.79793559612364,
       "fee": 0.14479793559612364,
-      "note": "score -2 | IA: EMA bajista, MACD negativo, RSI sobrecompra, bajo volumen"
+      "note": "score -2 | IA: EMA bajista, MACD negativo, RSI sobrecompra, bajo volumen",
+      "checked_at": 1791182011.6730206
     }
   },
   "closed": 67,
