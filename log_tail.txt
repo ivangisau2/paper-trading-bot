@@ -1,25 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 04:10 UTC
+⏰ Ciclo — 2026-10-05 04:24 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen, indicadores mixtos; duda razonable, mejor no operar
+   → LONG (confianza 65%): Indicadores mayormente alcistas, RSI neutro, bajo riesgo
+  [ejecución] ▲ LONG BTCUSDT: 0.001687 @ 85844.5 | SL 85354 | TP 86825.4 | score 2 | IA: Indicadores mayormente alcistas, RSI neutro, bajo riesgo
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja confirmación de volumen y señal débil
+   → FLAT (confianza 60%): Baja confirmación: volumen bajo, precio cerca medio Bollinger, ligera caída, señal no robusta.
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 65%): Baja confirmación: volumen débil, MACD negativo, RSI no sobrevendido
+   → FLAT (confianza 65%): Señal contradice momentum y volumen bajo.
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI overbought, low volume, price near upper Bollinger; insufficient confirmation.
+   → FLAT (confianza 70%): RSI overbought, price near upper Bollinger, risk outweighs bullish signals
 
-💰 Equity: $969.58 | Cash: $965.46 | Retorno: -3.04%
-📈 Posiciones abiertas: 3 | Cerradas: 67 | PnL realizado: -34.10
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.935 (-0.17 USD)
-   ▼ NEARUSDT: entry 4.9703 → ahora 4.8541 (+3.39 USD)
-   ▼ XRPUSDT: entry 1.52004 → ahora 1.51061 (+0.90 USD)
+💰 Equity: $970.06 | Cash: $965.32 | Retorno: -2.99%
+📈 Posiciones abiertas: 4 | Cerradas: 67 | PnL realizado: -34.10
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.955 (+0.09 USD)
+   ▼ NEARUSDT: entry 4.9703 → ahora 4.8476 (+3.58 USD)
+   ▼ XRPUSDT: entry 1.52004 → ahora 1.50883 (+1.07 USD)
+   ▲ BTCUSDT: entry 85844.5 → ahora 85843.9 (-0.00 USD)
