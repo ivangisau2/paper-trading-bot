@@ -1,27 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 22:12 UTC
+⏰ Ciclo — 2026-10-05 22:27 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
-
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen, precio cerca de banda superior
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen, precio cerca banda superior, señal poco robusta
+   → FLAT (confianza 65%): Precio cerca de banda superior, volumen bajo, señal insuficiente
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación, volumen débil, precio cerca de resistencia Bollinger
+   → FLAT (confianza 60%): Precio cerca de banda superior, volumen bajo, señal poco confirmada
 
-🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 55%): Trend bullish, MACD bearish insufficient confirmation
+🤖 Analista IA evaluando ADAUSDT (short score -2)...
+   → FLAT (confianza 45%): EMA bullish, price rising; MACD negative but insufficient confirmation for short
 
-💰 Equity: $962.12 | Cash: $954.31 | Retorno: -3.79%
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 70%): Volumen bajo y RSI sobrecomprado, señal poco fiable
+
+💰 Equity: $962.16 | Cash: $954.31 | Retorno: -3.78%
 📈 Posiciones abiertas: 5 | Cerradas: 73 | PnL realizado: -44.97
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.04 (+1.22 USD)
-   ▲ LTCUSDT: entry 70 → ahora 70.44 (+0.90 USD)
-   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0960057 (+3.36 USD)
-   ▲ XRPUSDT: entry 1.49118 → ahora 1.51473 (+2.27 USD)
-   ▼ LINKUSDT: entry 13.9512 → ahora 13.9457 (+0.06 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.057 (+1.44 USD)
+   ▲ LTCUSDT: entry 70 → ahora 70.29 (+0.60 USD)
+   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0960162 (+3.38 USD)
+   ▲ XRPUSDT: entry 1.49118 → ahora 1.51269 (+2.07 USD)
+   ▼ LINKUSDT: entry 13.9512 → ahora 13.9162 (+0.36 USD)
