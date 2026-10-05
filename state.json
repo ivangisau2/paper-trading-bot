@@ -1,5 +1,5 @@
 {
-  "balance": 965.1747727062514,
+  "balance": 961.6822357870676,
   "initial_balance": 1000.0,
   "positions": {
     "AVAXUSDT": {
@@ -12,19 +12,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791182954.3418815
-    },
-    "NEARUSDT": {
-      "side": "short",
-      "qty": 29.14574859,
-      "entry": 4.9703,
-      "sl": 5.085045018991854,
-      "tp": 4.740809962016292,
-      "opened_at": "2026-10-05T02:42:46+00:00",
-      "notional": 144.863114216877,
-      "fee": 0.144863114216877,
-      "note": "score -3 | IA: Bajista EMA, MACD negativo, precio cerca banda superior, RSI no sobrecomprado, duda moderada",
-      "checked_at": 1791182954.3418815
+      "checked_at": 1791183825.4986746
     },
     "XRPUSDT": {
       "side": "short",
@@ -36,7 +24,7 @@
       "notional": 144.8413847526852,
       "fee": 0.1448413847526852,
       "note": "score -1 | IA: RSI overbought, price near upper Bollinger, bearish EMA trend outweighs slight MACD bullishness",
-      "checked_at": 1791182954.3418815
+      "checked_at": 1791183825.4986746
     },
     "BTCUSDT": {
       "side": "long",
@@ -48,7 +36,7 @@
       "notional": 144.8196715,
       "fee": 0.1448196715,
       "note": "score 2 | IA: Indicadores mayormente alcistas, RSI neutro, bajo riesgo",
-      "checked_at": 1791182954.3418815
+      "checked_at": 1791183825.4986746
     },
     "DOGEUSDT": {
       "side": "short",
@@ -60,10 +48,10 @@
       "notional": 144.79793559612364,
       "fee": 0.14479793559612364,
       "note": "score -2 | IA: EMA bajista, MACD negativo, RSI sobrecompra, bajo volumen",
-      "checked_at": 1791182954.3418815
+      "checked_at": 1791183825.4986746
     }
   },
-  "closed": 67,
-  "realized_pnl": -34.10113777352125,
+  "closed": 68,
+  "realized_pnl": -37.73853780692186,
   "started": "2026-09-23T21:38:36+00:00"
 }
