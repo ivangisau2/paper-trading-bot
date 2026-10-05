@@ -1,20 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 07:03 UTC
+⏰ Ciclo — 2026-10-05 07:18 UTC
 ============================================================
-  [ejecución] ❌ CERRADO NEARUSDT @ 5.085045018991854: -3.64 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 65%): Banda superior, bajo volumen, señal poco confirmada
+   → FLAT (confianza 45%): Banda superior, bajo volumen, señal insuficiente
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
    → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca de banda superior, riesgo de reversión
 
-💰 Equity: $962.77 | Cash: $961.68 | Retorno: -3.72%
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos, falta confirmación bajista
+
+💰 Equity: $962.58 | Cash: $961.68 | Retorno: -3.74%
 📈 Posiciones abiertas: 4 | Cerradas: 68 | PnL realizado: -37.74
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.999 (+0.67 USD)
-   ▼ XRPUSDT: entry 1.52004 → ahora 1.51843 (+0.15 USD)
-   ▲ BTCUSDT: entry 85844.5 → ahora 86236.1 (+0.66 USD)
-   ▼ DOGEUSDT: entry 0.0958459 → ahora 0.0961081 (-0.40 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.022 (+0.98 USD)
+   ▼ XRPUSDT: entry 1.52004 → ahora 1.52132 (-0.12 USD)
+   ▲ BTCUSDT: entry 85844.5 → ahora 86390.5 (+0.92 USD)
+   ▼ DOGEUSDT: entry 0.0958459 → ahora 0.0964262 (-0.88 USD)
