@@ -12,7 +12,7 @@
       "notional": 144.76741416228,
       "fee": 0.14476741416228,
       "note": "score 3 | IA: Precio cerca media Bollinger, RSI neutro, EMA bullish, volumen alto, confirma LONG",
-      "checked_at": 1791225597.2000065
+      "checked_at": 1791226479.656831
     },
     "LTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 143.8390079,
       "fee": 0.1438390079,
       "note": "score 3 | IA: Precio cerca banda baja, RSI moderado, EMA bullish, volumen fuerte, confirma LONG",
-      "checked_at": 1791225597.2000065
+      "checked_at": 1791226479.656831
     },
     "DOGEUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 143.8174318936917,
       "fee": 0.1438174318936917,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, EMA alcista, pero MACD negativo.",
-      "checked_at": 1791225597.2000065
+      "checked_at": 1791226479.656831
     },
     "XRPUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 143.7958592856,
       "fee": 0.1437958592856,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, tendencia alcista, MACD negativo",
-      "checked_at": 1791225597.2000065
+      "checked_at": 1791226479.656831
     }
   },
   "closed": 73,
