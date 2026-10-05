@@ -1,20 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 08:31 UTC
+⏰ Ciclo — 2026-10-05 08:45 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO DOGEUSDT @ 0.09691256652489588: -1.90 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
-
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen bajo y RSI cerca de sobrecompra, riesgo limitado
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, low volume, price near upper Bollinger; signal weak, prefer flat.
+   → FLAT (confianza 70%): RSI overbought, low volume, price near upper Bollinger, risk of pullback
 
-💰 Equity: $963.02 | Cash: $961.68 | Retorno: -3.70%
-📈 Posiciones abiertas: 4 | Cerradas: 68 | PnL realizado: -37.74
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.038 (+1.19 USD)
-   ▼ XRPUSDT: entry 1.52004 → ahora 1.52001 (+0.00 USD)
-   ▲ BTCUSDT: entry 85844.5 → ahora 86432.7 (+0.99 USD)
-   ▼ DOGEUSDT: entry 0.0958459 → ahora 0.0964093 (-0.85 USD)
+🤖 Analista IA evaluando DOGEUSDT (long score 1)...
+   → FLAT (confianza 65%): RSI near overbought, price at Bollinger upper, risk reversal
+
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA200 bearish y precio cerca de banda superior, señal poco clara
+
+💰 Equity: $961.72 | Cash: $959.92 | Retorno: -3.83%
+📈 Posiciones abiertas: 3 | Cerradas: 69 | PnL realizado: -39.64
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.004 (+0.74 USD)
+   ▼ XRPUSDT: entry 1.52004 → ahora 1.51576 (+0.41 USD)
+   ▲ BTCUSDT: entry 85844.5 → ahora 86228.8 (+0.65 USD)
