@@ -1,27 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 15:29 UTC
+⏰ Ciclo — 2026-10-05 15:44 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO BTCUSDT @ 85354.0380067912: -1.12 USD (stop loss (wick entre ciclos))
 
 📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → SHORT (confianza 65%): EMA bearish, MACD negative, price near upper Bollinger, RSI neutral.
-  [ejecución] ▼ SHORT NEARUSDT: 28.77479731 @ 5.0138 | SL 5.14912 | TP 4.74317 | score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger, RSI neutral.
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 30%): MACD bearish, price below Bollinger lower, RSI neutral; insufficient confirmation for LONG.
+
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 70%): Precio cerca soporte, pero momentum bajista y bajo volumen.
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 55%): Precio en banda inferior, RSI bajo, MACD negativo, señal poco clara
-
-🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 60%): Indicadores mixtos, MACD bajista y bajo volumen
+   → FLAT (confianza 60%): MACD negativo, precio bajo banda inferior, señal conflictiva; mejor esperar
 
 🤖 Analista IA evaluando DOGEUSDT (long score 1)...
-   → FLAT (confianza 30%): Baja confirmación, volumen débil y MACD negativo
+   → FLAT (confianza 70%): Precio bajo banda, pero volumen bajo y MACD negativo; señal poco confirmada.
 
-💰 Equity: $962.04 | Cash: $961.66 | Retorno: -3.80%
-📈 Posiciones abiertas: 4 | Cerradas: 70 | PnL realizado: -37.76
-   ▲ AVAXUSDT: entry 10.948 → ahora 10.932 (-0.21 USD)
-   ▲ BTCUSDT: entry 85844.5 → ahora 85528.1 (-0.53 USD)
-   ▲ LTCUSDT: entry 70.86 → ahora 71.41 (+1.12 USD)
-   ▼ NEARUSDT: entry 5.0138 → ahora 5.0138 (+0.00 USD)
+💰 Equity: $959.13 | Cash: $960.69 | Retorno: -4.09%
+📈 Posiciones abiertas: 3 | Cerradas: 71 | PnL realizado: -38.88
+   ▲ AVAXUSDT: entry 10.948 → ahora 10.897 (-0.67 USD)
+   ▲ LTCUSDT: entry 70.86 → ahora 70.23 (-1.28 USD)
+   ▼ NEARUSDT: entry 5.0138 → ahora 5.0001 (+0.39 USD)
