@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-05 02:27 UTC
+⏰ Ciclo — 2026-10-05 02:42 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA downtrend y MACD bajista, pero RSI y precio no confirman
+   → SHORT (confianza 65%): Bajista EMA, MACD negativo, precio cerca banda superior, RSI no sobrecomprado, duda moderada
+  [ejecución] ▼ SHORT NEARUSDT: 29.14574859 @ 4.9703 | SL 5.08505 | TP 4.74081 | score -3 | IA: Bajista EMA, MACD negativo, precio cerca banda superior, RSI no sobrecomprado, duda moderada
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Indicadores mixtos, sobrecompra pero momentum débil
+   → FLAT (confianza 60%): RSI overbought, precio cerca de banda superior, tendencia bajista, pero MACD positivo.
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, low volume, price near upper Bollinger, insufficient confirmation.
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 70%): RSI overbought, price above upper Bollinger, likely pullback despite bullish EMA.
 
 🤖 Analista IA evaluando DOGEUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI overbought, EMA bearish, but MACD bullish, low volume; mejor esperar
+   → FLAT (confianza 70%): RSI overbought, EMA bearish, but MACD bullish; insufficient confirmation.
 
-💰 Equity: $966.61 | Cash: $965.75 | Retorno: -3.34%
-📈 Posiciones abiertas: 1 | Cerradas: 67 | PnL realizado: -34.10
+💰 Equity: $966.47 | Cash: $965.61 | Retorno: -3.35%
+📈 Posiciones abiertas: 2 | Cerradas: 67 | PnL realizado: -34.10
    ▲ AVAXUSDT: entry 10.948 → ahora 11.013 (+0.86 USD)
+   ▼ NEARUSDT: entry 4.9703 → ahora 4.9703 (+0.00 USD)
