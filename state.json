@@ -12,7 +12,7 @@
       "notional": 143.8174318936917,
       "fee": 0.1438174318936917,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, EMA alcista, pero MACD negativo.",
-      "checked_at": 1791289799.0236363
+      "checked_at": 1791290694.6195161
     },
     "XRPUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 143.7958592856,
       "fee": 0.1437958592856,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, tendencia alcista, MACD negativo",
-      "checked_at": 1791289799.0236363
+      "checked_at": 1791290694.6195161
     },
     "LINKUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 143.1680113901238,
       "fee": 0.1431680113901238,
       "note": "score -2 | IA: Bearish EMA, MACD, price below median, but RSI neutral.",
-      "checked_at": 1791289799.0236363
+      "checked_at": 1791290694.6195161
     },
     "BTCUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 143.45591403,
       "fee": 0.14345591403,
       "note": "score 1 | IA: Bullish EMA, MACD, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1791289799.0236363
+      "checked_at": 1791290694.6195161
     }
   },
   "closed": 76,
