@@ -1,27 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 14:57 UTC
+⏰ Ciclo — 2026-10-06 15:12 UTC
 ============================================================
-  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO DOGEUSDT @ 0.09634915774812507: +3.60 USD (take profit (wick entre ciclos))
+  [ejecución] ✅ CERRADO XRPUSDT @ 1.5232675114241454: +2.80 USD (take profit (wick entre ciclos))
+  [ejecución] ❌ CERRADO LINKUSDT @ 14.117061562560467: -1.99 USD (stop loss (wick entre ciclos))
 
-📊 5 candidatos tras filtros
-
-🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 45%): Precio cerca de resistencia, RSI neutral, riesgo de retroceso
-
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio sobre banda superior, RSI no sobrecomprado, pero riesgo de reversión
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y RSI neutro generan incertidumbre
+   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutral, riesgo limitado
+
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 60%): Volumen bajo y precio cerca de resistencia, señal poco confirmada
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 70%): Precio sobre Bollinger, RSI alto, volumen bajo, señal débil
 
 🤖 Analista IA evaluando AVAXUSDT (long score 1)...
-   → FLAT (confianza 55%): RSI overbought, price near upper Bollinger, trend bullish but uncertain
+   → FLAT (confianza 70%): Sobrecompra, bajo volumen, señal débil
 
-💰 Equity: $962.47 | Cash: $956.09 | Retorno: -3.75%
-📈 Posiciones abiertas: 5 | Cerradas: 76 | PnL realizado: -43.19
-   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0961586 (+3.60 USD)
-   ▲ XRPUSDT: entry 1.49118 → ahora 1.52038 (+2.82 USD)
-   ▼ LINKUSDT: entry 13.9512 → ahora 14.0608 (-1.12 USD)
-   ▲ BTCUSDT: entry 85963 → ahora 86512.8 (+0.92 USD)
-   ▲ ADAUSDT: entry 0.275521 → ahora 0.275861 (+0.18 USD)
+💰 Equity: $961.53 | Cash: $960.93 | Retorno: -3.85%
+📈 Posiciones abiertas: 2 | Cerradas: 79 | PnL realizado: -38.78
+   ▲ BTCUSDT: entry 85963 → ahora 86605.3 (+1.07 USD)
+   ▲ ADAUSDT: entry 0.275521 → ahora 0.274616 (-0.47 USD)
