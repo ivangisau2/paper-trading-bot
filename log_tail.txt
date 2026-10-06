@@ -1,24 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 16:44 UTC
+⏰ Ciclo — 2026-10-06 16:59 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ETHUSDT @ 2697.966534702994: -1.21 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 60%): Volumen bajo y RSI neutro debilitan confirmación; tendencia alcista pero señal poco robusta
-
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → LONG (confianza 60%): Precio cerca banda baja, EMA bullish, RSI neutral
-  [ejecución] ▲ LONG XRPUSDT: 95.76473719 @ 1.50054 | SL 1.48577 | TP 1.53008 | score 2 | IA: Precio cerca banda baja, EMA bullish, RSI neutral
+   → FLAT (confianza 45%): Bullish EMA, MACD, but low volume and neutral RSI; insufficient confirmation.
 
 🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 60%): Precio cerca de banda superior, RSI alto, volumen bajo, señal poco robusta
+   → FLAT (confianza 60%): Precio cerca de banda superior, RSI alto, volumen bajo, señal débil
 
-💰 Equity: $954.72 | Cash: $957.85 | Retorno: -4.53%
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 60%): Precio bajo banda, pero MACD y volumen débiles
+
+💰 Equity: $954.83 | Cash: $957.85 | Retorno: -4.52%
 📈 Posiciones abiertas: 4 | Cerradas: 81 | PnL realizado: -41.58
-   ▲ BTCUSDT: entry 85963 → ahora 85678.5 (-0.47 USD)
-   ▲ ADAUSDT: entry 0.275521 → ahora 0.27173 (-1.97 USD)
-   ▲ LTCUSDT: entry 70.01 → ahora 69.68 (-0.68 USD)
-   ▲ XRPUSDT: entry 1.50054 → ahora 1.50054 (+0.00 USD)
+   ▲ BTCUSDT: entry 85963 → ahora 85589 (-0.62 USD)
+   ▲ ADAUSDT: entry 0.275521 → ahora 0.272507 (-1.57 USD)
+   ▲ LTCUSDT: entry 70.01 → ahora 69.54 (-0.97 USD)
+   ▲ XRPUSDT: entry 1.50054 → ahora 1.50203 (+0.14 USD)

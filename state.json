@@ -12,7 +12,7 @@
       "notional": 143.45591403,
       "fee": 0.14345591403,
       "note": "score 1 | IA: Bullish EMA, MACD, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1791305075.7396355
+      "checked_at": 1791305959.432428
     },
     "ADAUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 143.4347976287726,
       "fee": 0.1434347976287726,
       "note": "score 3 | IA: EMA bullish, MACD positive, volume high; price near upper Bollinger, RSI modestly overbought",
-      "checked_at": 1791305075.7396355
+      "checked_at": 1791305959.432428
     },
     "LTCUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 144.09633225000002,
       "fee": 0.14409633225000001,
       "note": "score 3 | IA: Bullish EMA, MACD, volume; RSI neutral, price near lower Bollinger.",
-      "checked_at": 1791305075.7396355
+      "checked_at": 1791305959.432428
     },
     "XRPUSDT": {
       "side": "long",
@@ -47,7 +47,8 @@
       "opened_at": "2026-10-06T16:44:40+00:00",
       "notional": 143.6988187430826,
       "fee": 0.1436988187430826,
-      "note": "score 2 | IA: Precio cerca banda baja, EMA bullish, RSI neutral"
+      "note": "score 2 | IA: Precio cerca banda baja, EMA bullish, RSI neutral",
+      "checked_at": 1791305959.432428
     }
   },
   "closed": 81,
