@@ -1,27 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 09:48 UTC
+⏰ Ciclo — 2026-10-06 10:03 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
+📊 3 candidatos tras filtros
+
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, riesgo de retroceso
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y volatilidad, señal no suficientemente robusta
+   → FLAT (confianza 65%): Volumen muy bajo, precio cerca banda superior, señal poco confirmada
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → LONG (confianza 60%): Bullish EMA, MACD, RSI neutral, price near upper Bollinger.
-  [ejecución] ▲ LONG BTCUSDT: 0.00166881 @ 85963.0 | SL 85423.5 | TP 87042 | score 1 | IA: Bullish EMA, MACD, RSI neutral, price near upper Bollinger.
+🤖 Analista IA evaluando AVAXUSDT (long score 1)...
+   → FLAT (confianza 70%): Bajo volumen y RSI alto indican sobrecompra, señal poco confirmada
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 30%): Indicadores mixtos, tendencia alcista contradice señal corta
-
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): Trend bullish, price near support, short signal weak
-
-💰 Equity: $958.81 | Cash: $956.23 | Retorno: -4.12%
+💰 Equity: $959.08 | Cash: $956.23 | Retorno: -4.09%
 📈 Posiciones abiertas: 4 | Cerradas: 76 | PnL realizado: -43.19
-   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.09484 (+1.58 USD)
-   ▲ XRPUSDT: entry 1.49118 → ahora 1.5017 (+1.01 USD)
-   ▼ LINKUSDT: entry 13.9512 → ahora 13.9528 (-0.02 USD)
-   ▲ BTCUSDT: entry 85963 → ahora 85963 (+0.00 USD)
+   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0949977 (+1.82 USD)
+   ▲ XRPUSDT: entry 1.49118 → ahora 1.50395 (+1.23 USD)
+   ▼ LINKUSDT: entry 13.9512 → ahora 13.9809 (-0.30 USD)
+   ▲ BTCUSDT: entry 85963 → ahora 86027.4 (+0.11 USD)
