@@ -1,5 +1,5 @@
 {
-  "balance": 956.2319841890794,
+  "balance": 956.0885493914507,
   "initial_balance": 1000.0,
   "positions": {
     "DOGEUSDT": {
@@ -12,7 +12,7 @@
       "notional": 143.8174318936917,
       "fee": 0.1438174318936917,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, EMA alcista, pero MACD negativo.",
-      "checked_at": 1791293372.4270184
+      "checked_at": 1791294249.3134732
     },
     "XRPUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 143.7958592856,
       "fee": 0.1437958592856,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, tendencia alcista, MACD negativo",
-      "checked_at": 1791293372.4270184
+      "checked_at": 1791294249.3134732
     },
     "LINKUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 143.1680113901238,
       "fee": 0.1431680113901238,
       "note": "score -2 | IA: Bearish EMA, MACD, price below median, but RSI neutral.",
-      "checked_at": 1791293372.4270184
+      "checked_at": 1791294249.3134732
     },
     "BTCUSDT": {
       "side": "long",
@@ -48,7 +48,18 @@
       "notional": 143.45591403,
       "fee": 0.14345591403,
       "note": "score 1 | IA: Bullish EMA, MACD, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1791293372.4270184
+      "checked_at": 1791294249.3134732
+    },
+    "ADAUSDT": {
+      "side": "long",
+      "qty": 520.59479179,
+      "entry": 0.275521,
+      "sl": 0.26979927189806013,
+      "tp": 0.28696445620387984,
+      "opened_at": "2026-10-06T13:44:12+00:00",
+      "notional": 143.4347976287726,
+      "fee": 0.1434347976287726,
+      "note": "score 3 | IA: EMA bullish, MACD positive, volume high; price near upper Bollinger, RSI modestly overbought"
     }
   },
   "closed": 76,
