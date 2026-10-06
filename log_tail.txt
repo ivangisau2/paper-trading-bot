@@ -1,17 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 07:48 UTC
+⏰ Ciclo — 2026-10-06 08:02 UTC
 ============================================================
   [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (long score 1)...
-   → FLAT (confianza 65%): RSI overbought, bajo volumen, cerca de banda superior, riesgo de retroceso
+   → FLAT (confianza 30%): RSI overbought, volume negligible, bullish EMA insufficient; mejor no operar
 
-💰 Equity: $960.16 | Cash: $957.70 | Retorno: -3.98%
+💰 Equity: $960.46 | Cash: $957.70 | Retorno: -3.95%
 📈 Posiciones abiertas: 4 | Cerradas: 75 | PnL realizado: -41.73
-   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0946896 (+1.34 USD)
-   ▲ XRPUSDT: entry 1.49118 → ahora 1.50046 (+0.89 USD)
-   ▼ LINKUSDT: entry 13.9512 → ahora 13.9499 (+0.01 USD)
-   ▲ SOLUSDT: entry 120.02 → ahora 120.2 (+0.21 USD)
+   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.094715 (+1.38 USD)
+   ▲ XRPUSDT: entry 1.49118 → ahora 1.50116 (+0.96 USD)
+   ▼ LINKUSDT: entry 13.9512 → ahora 13.9409 (+0.11 USD)
+   ▲ SOLUSDT: entry 120.02 → ahora 120.28 (+0.31 USD)
