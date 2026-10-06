@@ -1,5 +1,5 @@
 {
-  "balance": 957.6972799418893,
+  "balance": 956.3754401031094,
   "initial_balance": 1000.0,
   "positions": {
     "DOGEUSDT": {
@@ -12,7 +12,7 @@
       "notional": 143.8174318936917,
       "fee": 0.1438174318936917,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, EMA alcista, pero MACD negativo.",
-      "checked_at": 1791278384.4612837
+      "checked_at": 1791279262.993991
     },
     "XRPUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 143.7958592856,
       "fee": 0.1437958592856,
       "note": "score 1 | IA: Precio bajo banda, RSI bajo, tendencia alcista, MACD negativo",
-      "checked_at": 1791278384.4612837
+      "checked_at": 1791279262.993991
     },
     "LINKUSDT": {
       "side": "short",
@@ -36,22 +36,10 @@
       "notional": 143.1680113901238,
       "fee": 0.1431680113901238,
       "note": "score -2 | IA: Bearish EMA, MACD, price below median, but RSI neutral.",
-      "checked_at": 1791278384.4612837
-    },
-    "SOLUSDT": {
-      "side": "long",
-      "qty": 1.19012341,
-      "entry": 120.02,
-      "sl": 119.02835375675858,
-      "tp": 122.00329248648285,
-      "opened_at": "2026-10-06T03:53:56+00:00",
-      "notional": 142.8386116682,
-      "fee": 0.1428386116682,
-      "note": "score 3 | IA: Precio cerca banda baja, MACD y EMA bullish, volumen alto",
-      "checked_at": 1791278384.4612837
+      "checked_at": 1791279262.993991
     }
   },
-  "closed": 75,
-  "realized_pnl": -41.72910014387365,
+  "closed": 76,
+  "realized_pnl": -43.1937785943217,
   "started": "2026-09-23T21:38:36+00:00"
 }
