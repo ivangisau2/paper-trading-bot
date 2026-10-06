@@ -1,30 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 15:42 UTC
+⏰ Ciclo — 2026-10-06 15:56 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 3)...
-   → LONG (confianza 75%): Precio cerca de banda superior, RSI neutral, MACD positivo, tendencia alcista
-  [ejecución] ▲ LONG XRPUSDT: 95.08029034 @ 1.51575 | SL 1.50213 | TP 1.54298 | score 3 | IA: Precio cerca de banda superior, RSI neutral, MACD positivo, tendencia alcista
-
-🤖 Analista IA evaluando LTCUSDT (long score 3)...
-   → LONG (confianza 70%): Bullish EMA, MACD, volume; RSI neutral, price near lower Bollinger.
-  [ejecución] ▲ LONG LTCUSDT: 2.058225 @ 70.01 | SL 69.3135 | TP 71.4029 | score 3 | IA: Bullish EMA, MACD, volume; RSI neutral, price near lower Bollinger.
-
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → LONG (confianza 70%): EMA bullish, MACD positive, RSI neutral, price near upper Bollinger
+🤖 Analista IA evaluando SOLUSDT (long score 3)...
+   → LONG (confianza 70%): Bullish MACD, EMA trend, volume surge, price near Bollinger middle
   [riesgo] No se abre SOLUSDT: máximo 5 posiciones
 
 🤖 Analista IA evaluando AVAXUSDT (long score 1)...
-   → FLAT (confianza 55%): RSI near overbought, price near upper Bollinger, bullish trend but risk high
+   → FLAT (confianza 35%): RSI overbought, price near upper Bollinger, signal weak
 
-💰 Equity: $959.47 | Cash: $960.50 | Retorno: -4.05%
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 65%): Precio bajo banda inferior, pero MACD negativo y bajo volumen; señal poco confirmada
+
+💰 Equity: $956.78 | Cash: $960.50 | Retorno: -4.32%
 📈 Posiciones abiertas: 5 | Cerradas: 79 | PnL realizado: -38.78
-   ▲ BTCUSDT: entry 85963 → ahora 86175.7 (+0.35 USD)
-   ▲ ADAUSDT: entry 0.275521 → ahora 0.272998 (-1.31 USD)
-   ▲ ETHUSDT: entry 2715.4 → ahora 2714.01 (-0.07 USD)
-   ▲ XRPUSDT: entry 1.51575 → ahora 1.51575 (+0.00 USD)
-   ▲ LTCUSDT: entry 70.01 → ahora 70.01 (+0.00 USD)
+   ▲ BTCUSDT: entry 85963 → ahora 85876 (-0.15 USD)
+   ▲ ADAUSDT: entry 0.275521 → ahora 0.272009 (-1.83 USD)
+   ▲ ETHUSDT: entry 2715.4 → ahora 2704.78 (-0.56 USD)
+   ▲ XRPUSDT: entry 1.51575 → ahora 1.50437 (-1.08 USD)
+   ▲ LTCUSDT: entry 70.01 → ahora 69.96 (-0.10 USD)
