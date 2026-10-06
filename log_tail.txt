@@ -1,26 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 15:12 UTC
+⏰ Ciclo — 2026-10-06 15:27 UTC
 ============================================================
-  [ejecución] ✅ CERRADO DOGEUSDT @ 0.09634915774812507: +3.60 USD (take profit (wick entre ciclos))
-  [ejecución] ✅ CERRADO XRPUSDT @ 1.5232675114241454: +2.80 USD (take profit (wick entre ciclos))
-  [ejecución] ❌ CERRADO LINKUSDT @ 14.117061562560467: -1.99 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → LONG (confianza 65%): Bullish EMA, MACD, RSI neutral, price near upper Bollinger
+  [ejecución] ▲ LONG ETHUSDT: 0.05308226 @ 2715.4 | SL 2697.97 | TP 2750.27 | score 2 | IA: Bullish EMA, MACD, RSI neutral, price near upper Bollinger
+
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 60%): Precio cerca de resistencia, señal poco fuerte
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutral, riesgo limitado
-
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 60%): Volumen bajo y precio cerca de resistencia, señal poco confirmada
+   → FLAT (confianza 55%): Volumen bajo y RSI neutro generan duda
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio sobre Bollinger, RSI alto, volumen bajo, señal débil
+   → FLAT (confianza 55%): Baja confirmación de volumen y cerca de resistencia
 
-🤖 Analista IA evaluando AVAXUSDT (long score 1)...
-   → FLAT (confianza 70%): Sobrecompra, bajo volumen, señal débil
-
-💰 Equity: $961.53 | Cash: $960.93 | Retorno: -3.85%
-📈 Posiciones abiertas: 2 | Cerradas: 79 | PnL realizado: -38.78
-   ▲ BTCUSDT: entry 85963 → ahora 86605.3 (+1.07 USD)
-   ▲ ADAUSDT: entry 0.275521 → ahora 0.274616 (-0.47 USD)
+💰 Equity: $960.35 | Cash: $960.79 | Retorno: -3.97%
+📈 Posiciones abiertas: 3 | Cerradas: 79 | PnL realizado: -38.78
+   ▲ BTCUSDT: entry 85963 → ahora 86247.7 (+0.48 USD)
+   ▲ ADAUSDT: entry 0.275521 → ahora 0.273819 (-0.89 USD)
+   ▲ ETHUSDT: entry 2715.4 → ahora 2714.92 (-0.03 USD)
