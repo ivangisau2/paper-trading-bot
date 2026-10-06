@@ -1,19 +1,7 @@
 {
-  "balance": 956.2722930758787,
+  "balance": 955.2294432772441,
   "initial_balance": 1000.0,
   "positions": {
-    "BTCUSDT": {
-      "side": "long",
-      "qty": 0.00166881,
-      "entry": 85963.0,
-      "sl": 85423.51726752392,
-      "tp": 87041.96546495218,
-      "opened_at": "2026-10-06T09:49:02+00:00",
-      "notional": 143.45591403,
-      "fee": 0.14345591403,
-      "note": "score 1 | IA: Bullish EMA, MACD, RSI neutral, price near upper Bollinger.",
-      "checked_at": 1791313035.8352609
-    },
     "ADAUSDT": {
       "side": "long",
       "qty": 520.59479179,
@@ -24,7 +12,7 @@
       "notional": 143.4347976287726,
       "fee": 0.1434347976287726,
       "note": "score 3 | IA: EMA bullish, MACD positive, volume high; price near upper Bollinger, RSI modestly overbought",
-      "checked_at": 1791313035.8352609
+      "checked_at": 1791313917.634122
     },
     "XRPUSDT": {
       "side": "long",
@@ -36,10 +24,10 @@
       "notional": 143.6988187430826,
       "fee": 0.1436988187430826,
       "note": "score 2 | IA: Precio cerca banda baja, EMA bullish, RSI neutral",
-      "checked_at": 1791313035.8352609
+      "checked_at": 1791313917.634122
     }
   },
-  "closed": 82,
-  "realized_pnl": -43.297117393719816,
+  "closed": 83,
+  "realized_pnl": -44.48342310638445,
   "started": "2026-09-23T21:38:36+00:00"
 }
