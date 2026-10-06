@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 03:24 UTC
+⏰ Ciclo — 2026-10-06 03:39 UTC
 ============================================================
-  [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO LTCUSDT @ 69.07004915590667: -2.20 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen, señal débil
+🤖 Analista IA evaluando LTCUSDT (long score 2)...
+   → FLAT (confianza 55%): Mixed indicators, bullish trend but bearish momentum; better wait.
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen y precio cerca de banda superior
+   → FLAT (confianza 65%): Baja volatilidad y volumen, RSI alto, precio cerca de banda superior
 
-💰 Equity: $960.16 | Cash: $954.31 | Retorno: -3.98%
-📈 Posiciones abiertas: 5 | Cerradas: 73 | PnL realizado: -44.97
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.211 (+3.48 USD)
-   ▲ LTCUSDT: entry 70 → ahora 69.33 (-1.38 USD)
-   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0946718 (+1.32 USD)
-   ▲ XRPUSDT: entry 1.49118 → ahora 1.49858 (+0.71 USD)
-   ▼ LINKUSDT: entry 13.9512 → ahora 13.7835 (+1.72 USD)
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 55%): Conflicto indicadores, bajo volumen y MACD negativo pese a EMA alcista
+
+💰 Equity: $958.24 | Cash: $952.26 | Retorno: -4.18%
+📈 Posiciones abiertas: 4 | Cerradas: 74 | PnL realizado: -47.17
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.147 (+2.63 USD)
+   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0943444 (+0.82 USD)
+   ▲ XRPUSDT: entry 1.49118 → ahora 1.49447 (+0.32 USD)
+   ▼ LINKUSDT: entry 13.9512 → ahora 13.7351 (+2.22 USD)
