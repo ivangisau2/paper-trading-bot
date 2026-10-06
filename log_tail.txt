@@ -1,23 +1,28 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 03:39 UTC
+⏰ Ciclo — 2026-10-06 03:53 UTC
 ============================================================
-  [ejecución] ❌ CERRADO LTCUSDT @ 69.07004915590667: -2.20 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Mixed indicators, bullish trend but bearish momentum; better wait.
+🤖 Analista IA evaluando SOLUSDT (long score 3)...
+   → LONG (confianza 70%): Precio cerca banda baja, MACD y EMA bullish, volumen alto
+  [ejecución] ▲ LONG SOLUSDT: 1.19012341 @ 120.02 | SL 119.028 | TP 122.003 | score 3 | IA: Precio cerca banda baja, MACD y EMA bullish, volumen alto
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen, RSI alto, precio cerca de banda superior
+   → FLAT (confianza 60%): Baja confirmación de volumen y precio cerca de resistencia
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 55%): Conflicto indicadores, bajo volumen y MACD negativo pese a EMA alcista
+   → FLAT (confianza 40%): MACD bearish, low volume, RSI neutral, insufficient confirmation
 
-💰 Equity: $958.24 | Cash: $952.26 | Retorno: -4.18%
-📈 Posiciones abiertas: 4 | Cerradas: 74 | PnL realizado: -47.17
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.147 (+2.63 USD)
-   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0943444 (+0.82 USD)
-   ▲ XRPUSDT: entry 1.49118 → ahora 1.49447 (+0.32 USD)
-   ▼ LINKUSDT: entry 13.9512 → ahora 13.7351 (+2.22 USD)
+🤖 Analista IA evaluando LTCUSDT (long score 1)...
+   → FLAT (confianza 55%): Mixed indicators; MACD negative, RSI low, price near lower Bollinger.
+
+💰 Equity: $959.02 | Cash: $952.11 | Retorno: -4.10%
+📈 Posiciones abiertas: 5 | Cerradas: 74 | PnL realizado: -47.17
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.191 (+3.21 USD)
+   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0945889 (+1.19 USD)
+   ▲ XRPUSDT: entry 1.49118 → ahora 1.49785 (+0.64 USD)
+   ▼ LINKUSDT: entry 13.9512 → ahora 13.7703 (+1.86 USD)
+   ▲ SOLUSDT: entry 120.02 → ahora 120.02 (+0.00 USD)
