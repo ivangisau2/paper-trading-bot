@@ -1,18 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-06 04:52 UTC
+⏰ Ciclo — 2026-10-06 05:06 UTC
 ============================================================
   [salida] wicks 1m revisados: 5 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen bajo y señal débil, mejor esperar
-
-💰 Equity: $960.13 | Cash: $952.11 | Retorno: -3.99%
+💰 Equity: $960.23 | Cash: $952.11 | Retorno: -3.98%
 📈 Posiciones abiertas: 5 | Cerradas: 74 | PnL realizado: -47.17
-   ▲ AVAXUSDT: entry 10.948 → ahora 11.279 (+4.38 USD)
-   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.0948005 (+1.51 USD)
-   ▲ XRPUSDT: entry 1.49118 → ahora 1.49896 (+0.75 USD)
-   ▼ LINKUSDT: entry 13.9512 → ahora 13.8299 (+1.25 USD)
-   ▲ SOLUSDT: entry 120.02 → ahora 120.13 (+0.13 USD)
+   ▲ AVAXUSDT: entry 10.948 → ahora 11.246 (+3.94 USD)
+   ▲ DOGEUSDT: entry 0.0938124 → ahora 0.094962 (+1.76 USD)
+   ▲ XRPUSDT: entry 1.49118 → ahora 1.50228 (+1.07 USD)
+   ▼ LINKUSDT: entry 13.9512 → ahora 13.8345 (+1.20 USD)
+   ▲ SOLUSDT: entry 120.02 → ahora 120.14 (+0.14 USD)
