@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-07 21:07 UTC
+⏰ Ciclo — 2026-10-07 21:21 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 10 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen muy bajo, señal insuficiente
+   → FLAT (confianza 55%): Baja confirmación: volumen débil y tendencia incierta pese a RSI bajo y EMA alcista
 
 🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+   → FLAT (confianza 45%): Baja confirmación de volumen y precio cerca de banda superior
+
+🤖 Analista IA evaluando NEARUSDT (long score 2)...
+   → FLAT (confianza 60%): Baja volumen y precio cerca de banda superior, riesgo de retroceso
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 65%): Baja confirmación: volumen débil, tendencia bajista, RSI sobrevendido
+   → FLAT (confianza 30%): Baja confirmación, tendencia bajista, volumen débil
 
-🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 70%): Volumen muy bajo, tendencia bajista, señal poco confiable
-
-💰 Equity: $957.39 | Cash: $957.34 | Retorno: -4.26%
+💰 Equity: $957.43 | Cash: $957.34 | Retorno: -4.26%
 📈 Posiciones abiertas: 1 | Cerradas: 87 | PnL realizado: -42.52
-   ▲ BTCUSDT: entry 83289.9 → ahora 83320.3 (+0.05 USD)
+   ▲ BTCUSDT: entry 83289.9 → ahora 83339.8 (+0.09 USD)
