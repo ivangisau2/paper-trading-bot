@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-07 03:30 UTC
+⏰ Ciclo — 2026-10-07 03:45 UTC
 ============================================================
 
 📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Mixed signals; bullish trend but bearish momentum, prefer flat.
+   → FLAT (confianza 55%): Señal mixta, MACD negativo y precio bajo banda inferior
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 65%): MACD negativo, bajo volumen y precio bajo banda inferior; señal no confirmada
+   → LONG (confianza 65%): RSI oversold, EMA bullish, price below lower Bollinger suggests rebound
+  [ejecución] ▲ LONG SOLUSDT: 1.20587833 @ 118.24 | SL 116.993 | TP 120.734 | score 2 | IA: RSI oversold, EMA bullish, price below lower Bollinger suggests rebound
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 45%): Precio bajo banda, RSI oversold, pero MACD negativo y bajo volumen; duda razonable
+   → FLAT (confianza 55%): Señal conflictiva: RSI bajo, EMA alcista, pero MACD negativo y bajo volumen.
 
-🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio bajo banda, RSI oversold, pero MACD negativo y bajo volumen; duda razonable.
+🤖 Analista IA evaluando LTCUSDT (long score 2)...
+   → FLAT (confianza 55%): RSI oversold y EMA bullish, pero MACD negativo y volumen bajo, duda razonable
 
-💰 Equity: $950.55 | Cash: $950.55 | Retorno: -4.94%
-📈 Posiciones abiertas: 0 | Cerradas: 85 | PnL realizado: -49.45
+💰 Equity: $950.36 | Cash: $950.41 | Retorno: -4.96%
+📈 Posiciones abiertas: 1 | Cerradas: 85 | PnL realizado: -49.45
+   ▲ SOLUSDT: entry 118.24 → ahora 118.2 (-0.05 USD)
