@@ -1,20 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-07 01:48 UTC
+⏰ Ciclo — 2026-10-07 02:03 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO XRPUSDT @ 1.4857714040201435: -1.70 USD (stop loss (wick entre ciclos))
 
-📊 3 candidatos tras filtros
+📊 9 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 2)...
-   → FLAT (confianza 55%): Señal mixta, falta confirmación de volumen y MACD
+   → FLAT (confianza 55%): Mixed indicators; oversold but bearish momentum and low volume create doubt.
+
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 45%): Mixed indicators, bearish MACD outweighs oversold signals
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 45%): Señal mixta, bajo volumen y MACD negativo
+   → FLAT (confianza 55%): MACD negativo contradice sobreventa; tendencia incierta
 
-🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 70%): Precio bajo BB, RSI oversold, señal corta no confirmada
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 65%): MACD negativo y precio bajo banda inferior, señal conflictiva; mejor esperar
 
-💰 Equity: $951.40 | Cash: $952.11 | Retorno: -4.86%
-📈 Posiciones abiertas: 1 | Cerradas: 84 | PnL realizado: -47.75
-   ▲ XRPUSDT: entry 1.50054 → ahora 1.49316 (-0.71 USD)
+💰 Equity: $950.55 | Cash: $950.55 | Retorno: -4.94%
+📈 Posiciones abiertas: 0 | Cerradas: 85 | PnL realizado: -49.45
