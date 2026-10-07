@@ -1,25 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-07 09:59 UTC
+⏰ Ciclo — 2026-10-07 10:13 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO SOLUSDT @ 116.99311620314579: -1.79 USD (stop loss (wick entre ciclos))
 
 📊 9 candidatos tras filtros
 
-🤖 Analista IA evaluando LINKUSDT (short score -3)...
-   → FLAT (confianza 60%): Bearish trend confirmed, but RSI near oversold; slight doubt, recommend FLAT
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 55%): Bearish trend but RSI oversold; mixed signals, better stay flat
 
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): RSI oversold, pero precio cerca banda baja, señal poco clara
+🤖 Analista IA evaluando LINKUSDT (short score -2)...
+   → FLAT (confianza 70%): Precio cerca banda baja, RSI bajo, volumen débil, señal corta no confirmada
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, bearish trend, uncertain
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 40%): RSI oversold but MACD bearish, low volume; insufficient confirmation.
 
-🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → LONG (confianza 65%): Precio cerca banda baja, EMA bullish, MACD positivo; RSI no sobrevendido, duda moderada.
-  [ejecución] ▲ LONG NEARUSDT: 28.69598753 @ 4.968 | SL 4.81098 | TP 5.28204 | score 2 | IA: Precio cerca banda baja, EMA bullish, MACD positivo; RSI no sobrevendido, duda moderada.
+🤖 Analista IA evaluando UNIUSDT (short score -1)...
+   → FLAT (confianza 60%): RSI oversold, volume low, signal weak
 
-💰 Equity: $949.64 | Cash: $950.27 | Retorno: -5.04%
-📈 Posiciones abiertas: 2 | Cerradas: 85 | PnL realizado: -49.45
-   ▲ SOLUSDT: entry 118.24 → ahora 117.67 (-0.69 USD)
-   ▲ NEARUSDT: entry 4.968 → ahora 4.9702 (+0.06 USD)
+💰 Equity: $949.71 | Cash: $948.62 | Retorno: -5.03%
+📈 Posiciones abiertas: 1 | Cerradas: 86 | PnL realizado: -51.23
+   ▲ NEARUSDT: entry 4.968 → ahora 5.006 (+1.09 USD)

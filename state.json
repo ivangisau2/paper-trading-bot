@@ -1,19 +1,7 @@
 {
-  "balance": 950.268545391062,
+  "balance": 948.6238757768189,
   "initial_balance": 1000.0,
   "positions": {
-    "SOLUSDT": {
-      "side": "long",
-      "qty": 1.20587833,
-      "entry": 118.24,
-      "sl": 116.99311620314579,
-      "tp": 120.73376759370841,
-      "opened_at": "2026-10-07T03:45:31+00:00",
-      "notional": 142.58305373919998,
-      "fee": 0.1425830537392,
-      "note": "score 2 | IA: RSI oversold, EMA bullish, price below lower Bollinger suggests rebound",
-      "checked_at": 1791367148.8871613
-    },
     "NEARUSDT": {
       "side": "long",
       "qty": 28.69598753,
@@ -23,10 +11,11 @@
       "opened_at": "2026-10-07T09:59:15+00:00",
       "notional": 142.56166604903999,
       "fee": 0.14256166604904,
-      "note": "score 2 | IA: Precio cerca banda baja, EMA bullish, MACD positivo; RSI no sobrevendido, duda moderada."
+      "note": "score 2 | IA: Precio cerca banda baja, EMA bullish, MACD positivo; RSI no sobrevendido, duda moderada.",
+      "checked_at": 1791368026.709523
     }
   },
-  "closed": 85,
-  "realized_pnl": -49.44630988915021,
+  "closed": 86,
+  "realized_pnl": -51.233562557132565,
   "started": "2026-09-23T21:38:36+00:00"
 }
