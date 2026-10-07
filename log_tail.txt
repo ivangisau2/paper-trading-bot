@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-07 15:20 UTC
+⏰ Ciclo — 2026-10-07 15:35 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 8 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio cerca de soporte, RSI sobrevendido, señal corta no confirmada
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 65%): RSI oversold, price near lower Bollinger, trend unclear
+
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 55%): RSI oversold, bullish EMA, but MACD negative and price still falling; uncertain
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, low volume, price near lower Bollinger; short not confirmed
+   → FLAT (confianza 70%): RSI oversold y bajo volumen contradicen señal corta
 
 🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, bearish trend unclear
+   → FLAT (confianza 70%): RSI oversold, price near lower Bollinger, low volume; signal not confirmed
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold, but low volume and near Bollinger lower band create reversal uncertainty
-
-💰 Equity: $950.29 | Cash: $948.62 | Retorno: -4.97%
+💰 Equity: $951.94 | Cash: $948.62 | Retorno: -4.81%
 📈 Posiciones abiertas: 1 | Cerradas: 86 | PnL realizado: -51.23
-   ▲ NEARUSDT: entry 4.968 → ahora 5.0261 (+1.67 USD)
+   ▲ NEARUSDT: entry 4.968 → ahora 5.0837 (+3.32 USD)
