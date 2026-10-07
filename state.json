@@ -11,7 +11,8 @@
       "opened_at": "2026-10-07T03:45:31+00:00",
       "notional": 142.58305373919998,
       "fee": 0.1425830537392,
-      "note": "score 2 | IA: RSI oversold, EMA bullish, price below lower Bollinger suggests rebound"
+      "note": "score 2 | IA: RSI oversold, EMA bullish, price below lower Bollinger suggests rebound",
+      "checked_at": 1791345607.2829409
     }
   },
   "closed": 85,
