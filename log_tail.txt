@@ -1,24 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 08:27 UTC
+⏰ Ciclo — 2026-10-08 08:41 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 60%): Señal conflictiva, tendencia bajista y bajo volumen.
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 65%): Volumen bajo y tendencia bajista pese a RSI oversold
+   → FLAT (confianza 65%): Baja confirmación, tendencia bajista y volumen débil
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI oversold but EMA bearish, low volume, ambiguous; mejor esperar
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 45%): Baja confirmación, tendencia bajista y volumen débil
 
 🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold, low volume, weak bearish confirmation
+   → FLAT (confianza 45%): RSI oversold, low volume, bearish EMA, MACD negative, ambiguous signal
 
-🤖 Analista IA evaluando LTCUSDT (short score -1)...
-   → FLAT (confianza 30%): RSI oversold, precio cerca de soporte, volumen bajo
-
-💰 Equity: $958.49 | Cash: $955.88 | Retorno: -4.15%
+💰 Equity: $956.54 | Cash: $955.88 | Retorno: -4.35%
 📈 Posiciones abiertas: 2 | Cerradas: 88 | PnL realizado: -43.83
-   ▲ NEARUSDT: entry 5.2831 → ahora 5.3611 (+2.12 USD)
-   ▲ ADAUSDT: entry 0.251299 → ahora 0.252155 (+0.49 USD)
+   ▲ NEARUSDT: entry 5.2831 → ahora 5.2973 (+0.39 USD)
+   ▲ ADAUSDT: entry 0.251299 → ahora 0.251767 (+0.27 USD)
