@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 04:30 UTC
+⏰ Ciclo — 2026-10-08 04:45 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 10 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 3)...
-   → FLAT (confianza 60%): EMA200 bearish outweighs bullish RSI/MACD, insufficient confirmation
+   → FLAT (confianza 65%): RSI oversold, MACD bullish but EMA trend bearish, duda razonable
 
-🤖 Analista IA evaluando DOGEUSDT (long score 3)...
-   → FLAT (confianza 55%): EMA bajista y precio bajo banda inferior, señales mixtas; mejor esperar.
+🤖 Analista IA evaluando SOLUSDT (long score 3)...
+   → FLAT (confianza 55%): RSI oversold, volume high, but EMA trend bearish and price below lower Bollinger
 
-🤖 Analista IA evaluando LTCUSDT (long score 3)...
-   → FLAT (confianza 55%): RSI oversold, but EMA trend bearish; mixed signals, better wait
+🤖 Analista IA evaluando XRPUSDT (long score 3)...
+   → FLAT (confianza 45%): Señal conflict: EMA bajista pese a RSI bajo y volumen alto
 
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): EMA bajista y precio cerca de soporte, señal larga poco confirmada
+🤖 Analista IA evaluando ADAUSDT (long score 3)...
+   → LONG (confianza 70%): Precio bajo banda inferior, RSI bajo, tendencia alcista, MACD positivo, volumen ligeramente alto.
+  [ejecución] ▲ LONG ADAUSDT: 570.65151647 @ 0.251299 | SL 0.246594 | TP 0.260709 | score 3 | IA: Precio bajo banda inferior, RSI bajo, tendencia alcista, MACD positivo, volumen ligeramente alto.
 
-💰 Equity: $959.06 | Cash: $956.03 | Retorno: -4.09%
-📈 Posiciones abiertas: 1 | Cerradas: 88 | PnL realizado: -43.83
-   ▲ NEARUSDT: entry 5.2831 → ahora 5.3946 (+3.03 USD)
+💰 Equity: $956.90 | Cash: $955.88 | Retorno: -4.31%
+📈 Posiciones abiertas: 2 | Cerradas: 88 | PnL realizado: -43.83
+   ▲ NEARUSDT: entry 5.2831 → ahora 5.3166 (+0.91 USD)
+   ▲ ADAUSDT: entry 0.251299 → ahora 0.251481 (+0.10 USD)
