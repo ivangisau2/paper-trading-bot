@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 14:26 UTC
+⏰ Ciclo — 2026-10-08 14:40 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 70%): RSI oversold, bajo volumen, precio cerca de soporte
-
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 60%): EMA bajista contradice señal; indicadores mixtos, mejor esperar
+   → FLAT (confianza 45%): RSI oversold, volume high, but EMA trend bearish and price near lower Bollinger
+
+🤖 Analista IA evaluando AVAXUSDT (short score -1)...
+   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, low volume; bearish trend not conclusive.
 
 🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold y bajo volumen, señal corta no confirmada
+   → FLAT (confianza 60%): RSI oversold, but trend bearish and low volume; señal poco confiable
 
 🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 55%): Indicadores mixtos, señal débil, mejor esperar
+   → FLAT (confianza 45%): Indicadores mixtos, tendencia larga pero momentum bajista
 
-💰 Equity: $948.71 | Cash: $947.88 | Retorno: -5.13%
+💰 Equity: $948.38 | Cash: $947.88 | Retorno: -5.16%
 📈 Posiciones abiertas: 1 | Cerradas: 90 | PnL realizado: -51.98
-   ▲ ADAUSDT: entry 0.246708 → ahora 0.248146 (+0.83 USD)
+   ▲ ADAUSDT: entry 0.246708 → ahora 0.247576 (+0.50 USD)
