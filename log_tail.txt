@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 12:51 UTC
+⏰ Ciclo — 2026-10-08 13:06 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ADAUSDT @ 0.24659406406939655: -2.97 USD (stop loss (wick entre ciclos))
 
-📊 9 candidatos tras filtros
+📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (long score 3)...
-   → FLAT (confianza 60%): EMA50/200 bajista y precio bajo banda inferior, señal poco confirmada
-
-🤖 Analista IA evaluando ETHUSDT (long score 3)...
-   → FLAT (confianza 65%): Señal conflictiva: RSI bajo, pero tendencia bajista y precio bajo BB.
-
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio bajo banda, RSI oversold, posible rebote, señal corta no confirmada
+🤖 Analista IA evaluando ADAUSDT (long score 2)...
+   → FLAT (confianza 45%): Precio bajo Bollinger, RSI oversold, pero MACD negativo y volumen bajo; duda razonable.
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 45%): Señal conflictiva, tendencia bajista predomina
+   → FLAT (confianza 70%): Baja confirmación, tendencia bajista, volumen débil
+
+🤖 Analista IA evaluando LTCUSDT (short score -1)...
+   → FLAT (confianza 60%): Volumen muy bajo y RSI sobrevendido indican posible rebote
+
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 30%): Volumen bajo y MACD negativo, señal poco confirmada
 
 💰 Equity: $948.02 | Cash: $948.02 | Retorno: -5.20%
 📈 Posiciones abiertas: 0 | Cerradas: 90 | PnL realizado: -51.98
