@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 14:55 UTC
+⏰ Ciclo — 2026-10-08 15:10 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 70%): Precio cerca de banda inferior, RSI neutro; riesgo de rebote, mejor esperar
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio en banda baja, RSI sobrevendido, señal corta no confirmada
 
-🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Señal conflictiva, EMA bajista pese a RSI bajo y volumen alto
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 60%): Precio cerca de soporte, tendencia bajista y volumen débil
+
+🤖 Analista IA evaluando DOGEUSDT (long score 1)...
+   → FLAT (confianza 65%): Baja volatilidad, tendencia bajista y volumen débil, señal poco fiable
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold but trend bearish; uncertain signal
+   → FLAT (confianza 60%): RSI oversold, pero volumen bajo y señal débil
 
-🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, price near lower Bollinger, bearish trend but risk of bounce; stay flat
-
-💰 Equity: $948.17 | Cash: $947.88 | Retorno: -5.18%
+💰 Equity: $947.05 | Cash: $947.88 | Retorno: -5.29%
 📈 Posiciones abiertas: 1 | Cerradas: 90 | PnL realizado: -51.98
-   ▲ ADAUSDT: entry 0.246708 → ahora 0.247207 (+0.29 USD)
+   ▲ ADAUSDT: entry 0.246708 → ahora 0.245268 (-0.83 USD)
