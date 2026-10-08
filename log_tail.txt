@@ -1,23 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 15:10 UTC
+⏰ Ciclo — 2026-10-08 15:25 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ADAUSDT @ 0.24205968877173986: -2.96 USD (stop loss (wick entre ciclos))
 
-📊 6 candidatos tras filtros
+📊 11 candidatos tras filtros
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda, RSI oversold, indica posible rebote
+
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 65%): Precio bajo banda inferior, RSI muy bajo; riesgo de rebote, señal poco fiable
+
+🤖 Analista IA evaluando UNIUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda inferior, RSI oversold, señal corta no confirmada
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): Precio en banda baja, RSI sobrevendido, señal corta no confirmada
+   → FLAT (confianza 60%): Precio bajo banda inferior, RSI sobrevendido, riesgo de rebote
 
-🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 60%): Precio cerca de soporte, tendencia bajista y volumen débil
-
-🤖 Analista IA evaluando DOGEUSDT (long score 1)...
-   → FLAT (confianza 65%): Baja volatilidad, tendencia bajista y volumen débil, señal poco fiable
-
-🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, pero volumen bajo y señal débil
-
-💰 Equity: $947.05 | Cash: $947.88 | Retorno: -5.29%
-📈 Posiciones abiertas: 1 | Cerradas: 90 | PnL realizado: -51.98
-   ▲ ADAUSDT: entry 0.246708 → ahora 0.245268 (-0.83 USD)
+💰 Equity: $945.06 | Cash: $945.06 | Retorno: -5.49%
+📈 Posiciones abiertas: 0 | Cerradas: 91 | PnL realizado: -54.94
