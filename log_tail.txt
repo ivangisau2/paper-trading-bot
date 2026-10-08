@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 15:25 UTC
+⏰ Ciclo — 2026-10-08 15:39 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ADAUSDT @ 0.24205968877173986: -2.96 USD (stop loss (wick entre ciclos))
 
 📊 11 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 70%): Precio bajo banda, RSI oversold, indica posible rebote
+   → FLAT (confianza 60%): Precio bajo banda inferior, RSI oversold, señal corta no confirmada
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 65%): Precio bajo banda inferior, RSI muy bajo; riesgo de rebote, señal poco fiable
+   → FLAT (confianza 60%): Precio bajo banda, RSI oversold, señal corta no confirmada
 
 🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 70%): Precio bajo banda inferior, RSI oversold, señal corta no confirmada
+   → FLAT (confianza 60%): Precio bajo banda, RSI oversold, posible rebote, señal corta dudosa
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): Precio bajo banda inferior, RSI sobrevendido, riesgo de rebote
+   → FLAT (confianza 30%): Precio bajo Bollinger, RSI oversold, tendencia bajista, señal poco clara
 
 💰 Equity: $945.06 | Cash: $945.06 | Retorno: -5.49%
 📈 Posiciones abiertas: 0 | Cerradas: 91 | PnL realizado: -54.94
