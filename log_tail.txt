@@ -1,25 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 04:45 UTC
+⏰ Ciclo — 2026-10-08 05:00 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 10 candidatos tras filtros
+📊 7 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (long score 3)...
-   → FLAT (confianza 65%): RSI oversold, MACD bullish but EMA trend bearish, duda razonable
+🤖 Analista IA evaluando BTCUSDT (long score 2)...
+   → FLAT (confianza 60%): EMA bajista y volumen bajo generan duda; señal no confirmada
 
-🤖 Analista IA evaluando SOLUSDT (long score 3)...
-   → FLAT (confianza 55%): RSI oversold, volume high, but EMA trend bearish and price below lower Bollinger
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista domina
 
-🤖 Analista IA evaluando XRPUSDT (long score 3)...
-   → FLAT (confianza 45%): Señal conflict: EMA bajista pese a RSI bajo y volumen alto
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 45%): Mixed indicators, low volume and bearish EMA outweigh oversold RSI; mejor esperar
 
-🤖 Analista IA evaluando ADAUSDT (long score 3)...
-   → LONG (confianza 70%): Precio bajo banda inferior, RSI bajo, tendencia alcista, MACD positivo, volumen ligeramente alto.
-  [ejecución] ▲ LONG ADAUSDT: 570.65151647 @ 0.251299 | SL 0.246594 | TP 0.260709 | score 3 | IA: Precio bajo banda inferior, RSI bajo, tendencia alcista, MACD positivo, volumen ligeramente alto.
+🤖 Analista IA evaluando DOGEUSDT (long score 2)...
+   → FLAT (confianza 40%): Señal conflictiva, bajo volumen y tendencia bajista
 
-💰 Equity: $956.90 | Cash: $955.88 | Retorno: -4.31%
+💰 Equity: $958.50 | Cash: $955.88 | Retorno: -4.15%
 📈 Posiciones abiertas: 2 | Cerradas: 88 | PnL realizado: -43.83
-   ▲ NEARUSDT: entry 5.2831 → ahora 5.3166 (+0.91 USD)
-   ▲ ADAUSDT: entry 0.251299 → ahora 0.251481 (+0.10 USD)
+   ▲ NEARUSDT: entry 5.2831 → ahora 5.3566 (+2.00 USD)
+   ▲ ADAUSDT: entry 0.251299 → ahora 0.25238 (+0.62 USD)
