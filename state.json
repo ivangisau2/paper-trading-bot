@@ -11,7 +11,8 @@
       "opened_at": "2026-10-08T13:35:50+00:00",
       "notional": 142.20366250543992,
       "fee": 0.14220366250543992,
-      "note": "score 1 | IA: Precio bajo banda inferior, RSI oversold, EMA bullish; MACD still negativo"
+      "note": "score 1 | IA: Precio bajo banda inferior, RSI oversold, EMA bullish; MACD still negativo",
+      "checked_at": 1791466929.6588805
     }
   },
   "closed": 90,
