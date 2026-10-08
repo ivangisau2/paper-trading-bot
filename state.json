@@ -1,19 +1,7 @@
 {
-  "balance": 955.8842987595117,
+  "balance": 950.8500147976537,
   "initial_balance": 1000.0,
   "positions": {
-    "NEARUSDT": {
-      "side": "long",
-      "qty": 27.18125195,
-      "entry": 5.2831,
-      "sl": 5.1029913619963345,
-      "tp": 5.6433172760073305,
-      "opened_at": "2026-10-07T21:36:31+00:00",
-      "notional": 143.601272177045,
-      "fee": 0.143601272177045,
-      "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume weak",
-      "checked_at": 1791458611.1880312
-    },
     "ADAUSDT": {
       "side": "long",
       "qty": 570.65151647,
@@ -24,10 +12,10 @@
       "notional": 143.40415543739454,
       "fee": 0.14340415543739454,
       "note": "score 3 | IA: Precio bajo banda inferior, RSI bajo, tendencia alcista, MACD positivo, volumen ligeramente alto.",
-      "checked_at": 1791458611.1880312
+      "checked_at": 1791459490.9674537
     }
   },
-  "closed": 88,
-  "realized_pnl": -43.82869581287435,
+  "closed": 89,
+  "realized_pnl": -49.006581046909474,
   "started": "2026-09-23T21:38:36+00:00"
 }
