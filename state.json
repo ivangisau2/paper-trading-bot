@@ -12,7 +12,7 @@
       "notional": 143.601272177045,
       "fee": 0.143601272177045,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume weak",
-      "checked_at": 1791439989.0429385
+      "checked_at": 1791440143.0156496
     },
     "ADAUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 143.40415543739454,
       "fee": 0.14340415543739454,
       "note": "score 3 | IA: Precio bajo banda inferior, RSI bajo, tendencia alcista, MACD positivo, volumen ligeramente alto.",
-      "checked_at": 1791439989.0429385
+      "checked_at": 1791440143.0156496
     }
   },
   "closed": 88,
