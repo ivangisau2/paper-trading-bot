@@ -12,7 +12,7 @@
       "notional": 142.293298059,
       "fee": 0.14229329805899998,
       "note": "score 1 | IA: RSI oversold, price near lower Bollinger, bullish EMA; MACD still negative, moderate confidence.",
-      "checked_at": 1791426828.8112228
+      "checked_at": 1791427710.10373
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 143.601272177045,
       "fee": 0.143601272177045,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, volume weak",
-      "checked_at": 1791426828.8112228
+      "checked_at": 1791427710.10373
     }
   },
   "closed": 87,
