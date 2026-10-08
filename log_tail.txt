@@ -1,18 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-08 02:48 UTC
+⏰ Ciclo — 2026-10-08 03:02 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 70%): Baja confirmación de volumen y RSI neutro, precio cerca de banda superior
+   → FLAT (confianza 70%): Baja volatilidad y volumen insuficiente, señal poco confirmada
+
+🤖 Analista IA evaluando LINKUSDT (long score 1)...
+   → FLAT (confianza 30%): Baja confirmación, tendencia bajista y volumen débil
 
 🤖 Analista IA evaluando LTCUSDT (long score 1)...
-   → FLAT (confianza 65%): Low volume and bearish EMA outweigh oversold RSI; insufficient confirmation
+   → FLAT (confianza 30%): Baja confirmación, volumen muy bajo y tendencia bajista
 
-💰 Equity: $960.45 | Cash: $957.20 | Retorno: -3.96%
+💰 Equity: $959.11 | Cash: $957.20 | Retorno: -4.09%
 📈 Posiciones abiertas: 2 | Cerradas: 87 | PnL realizado: -42.52
-   ▲ BTCUSDT: entry 83289.9 → ahora 83184.3 (-0.18 USD)
-   ▲ NEARUSDT: entry 5.2831 → ahora 5.4093 (+3.43 USD)
+   ▲ BTCUSDT: entry 83289.9 → ahora 83069.8 (-0.38 USD)
+   ▲ NEARUSDT: entry 5.2831 → ahora 5.3673 (+2.29 USD)
