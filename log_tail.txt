@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-09 23:39 UTC
+⏰ Ciclo — 2026-10-09 23:53 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil y RSI neutro
+   → FLAT (confianza 60%): Volumen bajo y RSI neutro debilitan señal bajista
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 45%): Indicadores mixtos, bajo volumen y RSI neutro
+   → FLAT (confianza 45%): Mixed indicators, low volume, insufficient confirmation
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
