@@ -1,23 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-09 01:08 UTC
+⏰ Ciclo — 2026-10-09 01:22 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
-
-🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 60%): Baja volatilidad y RSI bajo contradicen señal corta
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Indicadores mixtos, bajo volumen y tendencia bajista, mejor esperar
+   → FLAT (confianza 70%): EMA bajista, bajo volumen, tendencia negativa pese a sobreventa; mejor esperar
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, volume extremely low, insufficient confirmation despite bearish EMA trend
+   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, RSI indica sobreventa
 
 🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 70%): Bajo volumen y RSI sobrevendido contradicen señal corta
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI sobrevendido
 
-💰 Equity: $944.20 | Cash: $944.92 | Retorno: -5.58%
+💰 Equity: $944.18 | Cash: $944.92 | Retorno: -5.58%
 📈 Posiciones abiertas: 1 | Cerradas: 91 | PnL realizado: -54.94
-   ▼ LINKUSDT: entry 12.6467 → ahora 12.7114 (-0.72 USD)
+   ▼ LINKUSDT: entry 12.6467 → ahora 12.7127 (-0.74 USD)
