@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-09 16:29 UTC
+⏰ Ciclo — 2026-10-09 16:44 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
+   → FLAT (confianza 60%): Precio cerca banda baja, volumen bajo, señal poco robusta
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
