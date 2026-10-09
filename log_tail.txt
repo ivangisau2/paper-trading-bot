@@ -1,15 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-09 14:33 UTC
+⏰ Ciclo — 2026-10-09 14:47 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
+
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 55%): EMA50/200 bajista y precio cerca de banda superior, señal conflictiva
 
 🤖 Analista IA evaluando DOGEUSDT (long score 1)...
-   → FLAT (confianza 60%): EMA bajista y RSI neutral, señal poco confirmada
+   → FLAT (confianza 55%): EMA bajista y RSI neutro, señal insuficiente
 
 🤖 Analista IA evaluando LTCUSDT (long score 1)...
-   → FLAT (confianza 60%): EMA200 bearish, señal débil, mejor esperar.
+   → FLAT (confianza 65%): EMA trend bajista contradice señal, duda razonable
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
