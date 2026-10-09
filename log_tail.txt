@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-09 14:04 UTC
+⏰ Ciclo — 2026-10-09 14:18 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando DOGEUSDT (long score 1)...
-   → FLAT (confianza 45%): EMA bajista y RSI neutro, señal poco confirmada
+   → FLAT (confianza 30%): EMA bajista y tendencia general negativa
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
