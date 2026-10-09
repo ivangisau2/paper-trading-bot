@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-09 11:45 UTC
+⏰ Ciclo — 2026-10-09 12:00 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA200 bearish, insufficient confirmation
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 55%): Mixed indicators, low volume, insufficient confirmation
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
