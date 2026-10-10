@@ -1,18 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-10 10:21 UTC
+⏰ Ciclo — 2026-10-10 10:35 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 30%): Señal corta no confirmada, indicadores mixtos y bajo volumen
-
-🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 55%): Sobrecompra y EMA bajista, pero bajo volumen y MACD positivo generan incertidumbre
+   → FLAT (confianza 65%): Indicadores mixtos, bajo volumen, no confirma señal corta
 
 🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 30%): Baja confirmación, volumen bajo y RSI alto
+   → FLAT (confianza 70%): Low volume, overbought RSI, price near upper Bollinger; signal weak.
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
