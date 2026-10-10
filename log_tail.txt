@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-10 14:43 UTC
+⏰ Ciclo — 2026-10-10 14:57 UTC
 ============================================================
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → SHORT (confianza 55%): EMA bearish, MACD negative, price near upper Bollinger
+  [ejecución] ▼ SHORT XRPUSDT: 100.41390173 @ 1.40684 | SL 1.41724 | TP 1.38603 | score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger
+
+🤖 Analista IA evaluando NEARUSDT (long score 2)...
+   → FLAT (confianza 55%): RSI overbought, price near Bollinger top, risk reversal
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed indicators; bearish EMA but bullish MACD and low volume, insufficient confirmation.
+   → FLAT (confianza 60%): Mixed indicators, insufficient confirmation for short
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): EMA bajista, pero MACD positivo y RSI neutro; señal corta poco confirmada
+   → FLAT (confianza 70%): MACD bullish, RSI neutral, trend bearish, insufficient confirmation
 
-🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 65%): Indicadores mixtos, RSI alto y EMA bajista, pero MACD positivo y bajo volumen
-
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought y precio cerca de banda superior, riesgo de reversión
-
-💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
-📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
+💰 Equity: $941.63 | Cash: $941.63 | Retorno: -5.84%
+📈 Posiciones abiertas: 1 | Cerradas: 92 | PnL realizado: -58.22
+   ▼ XRPUSDT: entry 1.40684 → ahora 1.40684 (+0.00 USD)
