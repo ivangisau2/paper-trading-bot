@@ -12,7 +12,7 @@
       "notional": 141.26629350983322,
       "fee": 0.14126629350983322,
       "note": "score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger",
-      "checked_at": 1791651375.3703964
+      "checked_at": 1791652264.2547774
     },
     "ADAUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 141.24510356535768,
       "fee": 0.1412451035653577,
       "note": "score -3 | IA: RSI overbought, bearish EMA, MACD negative; volume weak",
-      "checked_at": 1791651375.3703964
+      "checked_at": 1791652264.2547774
     }
   },
   "closed": 92,
