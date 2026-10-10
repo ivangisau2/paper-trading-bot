@@ -1,18 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-10 05:33 UTC
+⏰ Ciclo — 2026-10-10 05:47 UTC
 ============================================================
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y bajo volumen; no hay confirmación clara
+   → FLAT (confianza 55%): Mixed indicators; overbought RSI and price above Bollinger suggest short, but MACD bullish, low volume
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 30%): Indicadores mixtos, bajo volumen, señal corta no confirmada
+   → FLAT (confianza 65%): EMA bajista, pero indicadores mixtos, mejor esperar
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 55%): Volumen bajo y MACD positivo contradicen señal corta
+   → FLAT (confianza 55%): Mixed indicators, low volume, insufficient confirmation
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
