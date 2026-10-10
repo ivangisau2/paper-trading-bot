@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-10 16:26 UTC
+⏰ Ciclo — 2026-10-10 16:41 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (short score -3)...
-   → FLAT (confianza 55%): Baja confirmación de volumen pese a indicadores bajistas
+   → SHORT (confianza 65%): RSI overbought, bearish EMA, MACD negative; volume weak
+  [ejecución] ▼ SHORT ADAUSDT: 552.30393436 @ 0.255738 | SL 0.260002 | TP 0.247211 | score -3 | IA: RSI overbought, bearish EMA, MACD negative; volume weak
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 65%): EMA bearish but low volume and RSI neutral, insufficient short confirmation.
+   → FLAT (confianza 60%): EMA bajista, pero RSI neutro y precio cerca banda superior
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista no confirmada
+   → FLAT (confianza 60%): Indicadores mixtos, tendencia bajista pero señal corta no confirmada
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): EMA bearish but MACD bullish, low volume, price near upper Bollinger; insufficient confirmation.
+   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen, señal corta no confirmada
 
-💰 Equity: $941.89 | Cash: $941.63 | Retorno: -5.81%
-📈 Posiciones abiertas: 1 | Cerradas: 92 | PnL realizado: -58.22
-   ▼ XRPUSDT: entry 1.40684 → ahora 1.40432 (+0.25 USD)
+💰 Equity: $941.64 | Cash: $941.49 | Retorno: -5.84%
+📈 Posiciones abiertas: 2 | Cerradas: 92 | PnL realizado: -58.22
+   ▼ XRPUSDT: entry 1.40684 → ahora 1.40534 (+0.15 USD)
+   ▼ ADAUSDT: entry 0.255738 → ahora 0.255738 (+0.00 USD)
