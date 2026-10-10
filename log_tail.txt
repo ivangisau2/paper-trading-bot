@@ -1,15 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-10 07:58 UTC
+⏰ Ciclo — 2026-10-10 08:13 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, falta de confirmación clara
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 70%): Indicadores mixtos, falta de confirmación clara
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI overbought, price near upper Bollinger, bearish EMA but low volume; uncertain
+   → FLAT (confianza 65%): Indicadores mixtos, sobrecompra pero momentum positivo; mejor esperar
+
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 45%): Indicadores mixtos, bajo volumen, duda razonable
 
 💰 Equity: $941.78 | Cash: $941.78 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 92 | PnL realizado: -58.22
