@@ -1,23 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-11 15:50 UTC
+⏰ Ciclo — 2026-10-11 16:05 UTC
 ============================================================
-  [ejecución] ❌ CERRADO BTCUSDT @ 83276.21464815119: -0.68 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO XRPUSDT @ 1.4172438326225918: -1.33 USD (stop loss (wick entre ciclos))
 
-📊 4 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 30%): RSI overbought, price above BB, but MACD bullish; trend ambiguous, no clear short.
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → FLAT (confianza 55%): RSI y Bollinger confirman, pero MACD y bajo volumen generan duda
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed indicators; overbought RSI and upper BB suggest short but MACD bullish, uncertain.
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 60%): Conflicting indicators, insufficient confirmation
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 55%): Señal corta, pero MACD bullish y duda razonable
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish; mejor esperar
 
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior, riesgo de retroceso
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 55%): Señal corta, pero indicadores mixtos, mejor esperar
 
-💰 Equity: $944.67 | Cash: $945.39 | Retorno: -5.53%
-📈 Posiciones abiertas: 1 | Cerradas: 94 | PnL realizado: -54.47
-   ▼ XRPUSDT: entry 1.40684 → ahora 1.41401 (-0.72 USD)
+💰 Equity: $944.20 | Cash: $944.20 | Retorno: -5.58%
+📈 Posiciones abiertas: 0 | Cerradas: 95 | PnL realizado: -55.80
