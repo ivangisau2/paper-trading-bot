@@ -1,13 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-11 21:09 UTC
+⏰ Ciclo — 2026-10-11 21:24 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO XRPUSDT @ 1.3976920984617163: +1.89 USD (take profit (wick entre ciclos))
 
-📊 0 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-💰 Equity: $945.55 | Cash: $943.78 | Retorno: -5.44%
-📈 Posiciones abiertas: 3 | Cerradas: 95 | PnL realizado: -55.80
-   ▼ AVAXUSDT: entry 10.914 → ahora 10.89 (+0.31 USD)
-   ▼ XRPUSDT: entry 1.41943 → ahora 1.40771 (+1.17 USD)
-   ▲ NEARUSDT: entry 5.6342 → ahora 5.6459 (+0.29 USD)
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 45%): EMA200 bearish, price near upper Bollinger, mixed indicators; mejor esperar
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 70%): EMA200 downtrend contradicts bullish MACD, mejor esperar.
+
+💰 Equity: $946.03 | Cash: $945.81 | Retorno: -5.40%
+📈 Posiciones abiertas: 2 | Cerradas: 96 | PnL realizado: -53.91
+   ▼ AVAXUSDT: entry 10.914 → ahora 10.781 (+1.73 USD)
+   ▲ NEARUSDT: entry 5.6342 → ahora 5.5745 (-1.50 USD)
