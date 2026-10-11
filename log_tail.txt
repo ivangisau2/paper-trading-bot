@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-11 16:48 UTC
+⏰ Ciclo — 2026-10-11 17:03 UTC
 ============================================================
 
-📊 7 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos; RSI sobrecomprado y BB superior roto, pero MACD bullish, duda razonable.
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → FLAT (confianza 60%): Mixed indicators, bullish MACD vs overbought RSI; mejor esperar
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI y BB sobrecomprados, EMA bajista, MACD contradictorio
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 55%): Mixed indicators, insufficient confirmation for short
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): Conflicto entre impulso alcista y sobrecompra; mejor esperar
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 55%): EMA bajista, pero RSI alto y MACD positivo, volumen bajo
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos; sobrecompra y tendencia bajista, pero MACD positivo, mejor esperar.
+🤖 Analista IA evaluando AVAXUSDT (short score -2)...
+   → SHORT (confianza 65%): Overbought, price above BB, bearish EMA, low volume suggests reversal
+  [ejecución] ▼ SHORT AVAXUSDT: 12.97694076 @ 10.914 | SL 11.0574 | TP 10.6271 | score -2 | IA: Overbought, price above BB, bearish EMA, low volume suggests reversal
 
-💰 Equity: $944.20 | Cash: $944.20 | Retorno: -5.58%
-📈 Posiciones abiertas: 0 | Cerradas: 95 | PnL realizado: -55.80
+💰 Equity: $944.06 | Cash: $944.06 | Retorno: -5.59%
+📈 Posiciones abiertas: 1 | Cerradas: 95 | PnL realizado: -55.80
+   ▼ AVAXUSDT: entry 10.914 → ahora 10.914 (+0.00 USD)
