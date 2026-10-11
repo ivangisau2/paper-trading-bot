@@ -1,16 +1,13 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-11 19:42 UTC
+⏰ Ciclo — 2026-10-11 19:57 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators, insufficient confirmation for short.
-
-💰 Equity: $946.80 | Cash: $943.78 | Retorno: -5.32%
+💰 Equity: $946.53 | Cash: $943.78 | Retorno: -5.35%
 📈 Posiciones abiertas: 3 | Cerradas: 95 | PnL realizado: -55.80
-   ▼ AVAXUSDT: entry 10.914 → ahora 10.852 (+0.80 USD)
-   ▼ XRPUSDT: entry 1.41943 → ahora 1.40811 (+1.13 USD)
-   ▲ NEARUSDT: entry 5.6342 → ahora 5.6776 (+1.09 USD)
+   ▼ AVAXUSDT: entry 10.914 → ahora 10.864 (+0.65 USD)
+   ▼ XRPUSDT: entry 1.41943 → ahora 1.40833 (+1.11 USD)
+   ▲ NEARUSDT: entry 5.6342 → ahora 5.674 (+1.00 USD)
