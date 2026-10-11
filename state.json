@@ -1,5 +1,5 @@
 {
-  "balance": 945.923878279752,
+  "balance": 945.3892103734005,
   "initial_balance": 1000.0,
   "positions": {
     "XRPUSDT": {
@@ -12,22 +12,10 @@
       "notional": 141.26629350983322,
       "fee": 0.14126629350983322,
       "note": "score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger",
-      "checked_at": 1791732962.5323064
-    },
-    "BTCUSDT": {
-      "side": "short",
-      "qty": 0.0017088,
-      "entry": 83046.6,
-      "sl": 83276.21464815119,
-      "tp": 82587.37070369764,
-      "opened_at": "2026-10-11T02:46:03+00:00",
-      "notional": 141.91003008,
-      "fee": 0.14191003008000003,
-      "note": "score -3 | IA: EMA bearish, MACD negative, price near upper Bollinger, RSI slightly high",
-      "checked_at": 1791732962.5323064
+      "checked_at": 1791733840.0448027
     }
   },
-  "closed": 93,
-  "realized_pnl": -53.792945396658794,
+  "closed": 94,
+  "realized_pnl": -54.469523333090294,
   "started": "2026-09-23T21:38:36+00:00"
 }
