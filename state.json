@@ -1,5 +1,5 @@
 {
-  "balance": 943.9189705454872,
+  "balance": 943.7773826999098,
   "initial_balance": 1000.0,
   "positions": {
     "AVAXUSDT": {
@@ -12,7 +12,7 @@
       "notional": 141.63033145464,
       "fee": 0.14163033145464,
       "note": "score -2 | IA: Overbought, price above BB, bearish EMA, low volume suggests reversal",
-      "checked_at": 1791741726.20918
+      "checked_at": 1791742604.5787861
     },
     "XRPUSDT": {
       "side": "short",
@@ -24,7 +24,18 @@
       "notional": 141.6090869419479,
       "fee": 0.1416090869419479,
       "note": "score -2 | IA: RSI overbought, price above Bollinger, bearish EMA, low volume",
-      "checked_at": 1791741726.20918
+      "checked_at": 1791742604.5787861
+    },
+    "NEARUSDT": {
+      "side": "long",
+      "qty": 25.13007092,
+      "entry": 5.6342,
+      "sl": 5.449880290865195,
+      "tp": 6.002839418269609,
+      "opened_at": "2026-10-11T18:16:48+00:00",
+      "notional": 141.587845577464,
+      "fee": 0.141587845577464,
+      "note": "score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk"
     }
   },
   "closed": 95,

@@ -1,24 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-11 18:02 UTC
+⏰ Ciclo — 2026-10-11 18:16 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
+🤖 Analista IA evaluando NEARUSDT (long score 3)...
+   → LONG (confianza 70%): Bullish indicators, price near upper Bollinger, moderate risk
+  [ejecución] ▲ LONG NEARUSDT: 25.13007092 @ 5.6342 | SL 5.44988 | TP 6.00284 | score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk
+
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed indicators, insufficient confirmation for short
+   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra pero momentum alcista, mejor esperar
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed signals, low volume, bullish MACD vs bearish EMA; better stay flat
+   → FLAT (confianza 60%): Mixed indicators, no clear confirmation
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed indicators; bearish trend but bullish MACD and low volume, so stay flat
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 55%): Indicadores mixtos, señal corta no suficientemente confirmada
 
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 65%): RSI overbought, volume muy bajo, señal poco confiable
-
-💰 Equity: $945.47 | Cash: $943.92 | Retorno: -5.45%
-📈 Posiciones abiertas: 2 | Cerradas: 95 | PnL realizado: -55.80
-   ▼ AVAXUSDT: entry 10.914 → ahora 10.844 (+0.91 USD)
-   ▼ XRPUSDT: entry 1.41943 → ahora 1.41294 (+0.65 USD)
+💰 Equity: $945.26 | Cash: $943.78 | Retorno: -5.47%
+📈 Posiciones abiertas: 3 | Cerradas: 95 | PnL realizado: -55.80
+   ▼ AVAXUSDT: entry 10.914 → ahora 10.847 (+0.87 USD)
+   ▼ XRPUSDT: entry 1.41943 → ahora 1.41326 (+0.62 USD)
+   ▲ NEARUSDT: entry 5.6342 → ahora 5.6342 (+0.00 USD)
