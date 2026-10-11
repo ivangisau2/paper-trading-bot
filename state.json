@@ -12,7 +12,7 @@
       "notional": 141.63033145464,
       "fee": 0.14163033145464,
       "note": "score -2 | IA: Overbought, price above BB, bearish EMA, low volume suggests reversal",
-      "checked_at": 1791742604.5787861
+      "checked_at": 1791743483.1486223
     },
     "XRPUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 141.6090869419479,
       "fee": 0.1416090869419479,
       "note": "score -2 | IA: RSI overbought, price above Bollinger, bearish EMA, low volume",
-      "checked_at": 1791742604.5787861
+      "checked_at": 1791743483.1486223
     },
     "NEARUSDT": {
       "side": "long",
@@ -35,7 +35,8 @@
       "opened_at": "2026-10-11T18:16:48+00:00",
       "notional": 141.587845577464,
       "fee": 0.141587845577464,
-      "note": "score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk"
+      "note": "score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk",
+      "checked_at": 1791743483.1486223
     }
   },
   "closed": 95,
