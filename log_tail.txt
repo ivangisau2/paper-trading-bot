@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-11 02:31 UTC
+⏰ Ciclo — 2026-10-11 02:45 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI neutro y precio cerca banda media
-
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 45%): Baja confirmación: volumen bajo, RSI neutro, señal corta débil.
+   → SHORT (confianza 70%): EMA bearish, MACD negative, price near upper Bollinger, RSI slightly high
+  [ejecución] ▼ SHORT BTCUSDT: 0.0017088 @ 83046.6 | SL 83276.2 | TP 82587.4 | score -3 | IA: EMA bearish, MACD negative, price near upper Bollinger, RSI slightly high
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación, volumen débil y precio cerca de banda inferior
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutro
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 70%): Precio cerca banda baja, RSI neutro, volumen bajo, señal poco fiable
+   → FLAT (confianza 60%): Precio cerca de soporte, señal corta no confirmada
 
-💰 Equity: $946.71 | Cash: $946.07 | Retorno: -5.33%
-📈 Posiciones abiertas: 1 | Cerradas: 93 | PnL realizado: -53.79
-   ▼ XRPUSDT: entry 1.40684 → ahora 1.40039 (+0.65 USD)
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 70%): Indicadores mixtos, señal corta no confirmada
+
+💰 Equity: $946.53 | Cash: $945.92 | Retorno: -5.35%
+📈 Posiciones abiertas: 2 | Cerradas: 93 | PnL realizado: -53.79
+   ▼ XRPUSDT: entry 1.40684 → ahora 1.40081 (+0.61 USD)
+   ▼ BTCUSDT: entry 83046.6 → ahora 83046.6 (+0.00 USD)
