@@ -12,7 +12,7 @@
       "notional": 141.63033145464,
       "fee": 0.14163033145464,
       "note": "score -2 | IA: Overbought, price above BB, bearish EMA, low volume suggests reversal",
-      "checked_at": 1791772994.4064496
+      "checked_at": 1791773873.2480087
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 141.587845577464,
       "fee": 0.141587845577464,
       "note": "score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk",
-      "checked_at": 1791772994.4064496
+      "checked_at": 1791773873.2480087
     }
   },
   "closed": 96,
