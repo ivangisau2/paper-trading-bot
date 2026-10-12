@@ -1,5 +1,5 @@
 {
-  "balance": 943.5186449173979,
+  "balance": 945.0641520588193,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,19 +12,7 @@
       "notional": 141.587845577464,
       "fee": 0.141587845577464,
       "note": "score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk",
-      "checked_at": 1791810400.096179
-    },
-    "BTCUSDT": {
-      "side": "short",
-      "qty": 0.00169476,
-      "entry": 83534.0,
-      "sl": 84031.23613710202,
-      "tp": 82539.52772579595,
-      "opened_at": "2026-10-12T08:48:15+00:00",
-      "notional": 141.57008184,
-      "fee": 0.14157008184,
-      "note": "score -2 | IA: EMA bearish, MACD negative, volume up; RSI neutral, price near middle band.",
-      "checked_at": 1791810400.096179
+      "checked_at": 1791811275.405411
     },
     "AVAXUSDT": {
       "side": "short",
@@ -36,10 +24,10 @@
       "notional": 141.54902908812,
       "fee": 0.14154902908812,
       "note": "score -3 | IA: RSI overbought, bearish EMA, negative MACD, price near upper Bollinger, low volume",
-      "checked_at": 1791810400.096179
+      "checked_at": 1791811275.405411
     }
   },
-  "closed": 97,
-  "realized_pnl": -56.056648126097386,
+  "closed": 98,
+  "realized_pnl": -54.652711066515906,
   "started": "2026-09-23T21:38:36+00:00"
 }
