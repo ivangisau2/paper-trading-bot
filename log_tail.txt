@@ -1,24 +1,26 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-12 09:31 UTC
+⏰ Ciclo — 2026-10-12 09:41 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
+🤖 Analista IA evaluando AVAXUSDT (short score -3)...
+   → SHORT (confianza 70%): RSI overbought, bearish EMA, negative MACD, price near upper Bollinger, low volume
+  [ejecución] ▼ SHORT AVAXUSDT: 12.82611717 @ 11.036 | SL 11.1852 | TP 10.7376 | score -3 | IA: RSI overbought, bearish EMA, negative MACD, price near upper Bollinger, low volume
+
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Volumen bajo y RSI neutro; señal corta sin confirmación clara
+   → FLAT (confianza 65%): Baja volatilidad y volumen, precio cerca banda baja, señal corta sin confirmación
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente para confirmar corto
+   → FLAT (confianza 70%): Precio cerca banda inferior, RSI neutral, bajo volumen, señal corta no confirmada
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja volatilidad y volumen, señal corta no confirmada
+   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente, señal corta no confirmada
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI no sobrecomprado
-
-💰 Equity: $948.84 | Cash: $943.66 | Retorno: -5.12%
-📈 Posiciones abiertas: 2 | Cerradas: 97 | PnL realizado: -56.06
-   ▲ NEARUSDT: entry 5.6342 → ahora 5.8304 (+4.93 USD)
-   ▼ BTCUSDT: entry 83534 → ahora 83389.4 (+0.25 USD)
+💰 Equity: $948.01 | Cash: $943.52 | Retorno: -5.20%
+📈 Posiciones abiertas: 3 | Cerradas: 97 | PnL realizado: -56.06
+   ▲ NEARUSDT: entry 5.6342 → ahora 5.8002 (+4.17 USD)
+   ▼ BTCUSDT: entry 83534 → ahora 83342.6 (+0.32 USD)
+   ▼ AVAXUSDT: entry 11.036 → ahora 11.036 (+0.00 USD)
