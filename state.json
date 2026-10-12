@@ -12,7 +12,7 @@
       "notional": 141.587845577464,
       "fee": 0.141587845577464,
       "note": "score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk",
-      "checked_at": 1791794891.8033125
+      "checked_at": 1791795765.361261
     },
     "BTCUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-10-12T08:48:15+00:00",
       "notional": 141.57008184,
       "fee": 0.14157008184,
-      "note": "score -2 | IA: EMA bearish, MACD negative, volume up; RSI neutral, price near middle band."
+      "note": "score -2 | IA: EMA bearish, MACD negative, volume up; RSI neutral, price near middle band.",
+      "checked_at": 1791795765.361261
     }
   },
   "closed": 97,
