@@ -1,17 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-12 07:49 UTC
+⏰ Ciclo — 2026-10-12 08:04 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 55%): EMA50/200 bajista, pero MACD positivo y RSI alto; señal poco confirmada
+🤖 Analista IA evaluando AVAXUSDT (short score -3)...
+   → FLAT (confianza 55%): Baja volumen genera duda pese a indicadores bajistas
 
-🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI overbought, EMA bearish, but low volume and positive MACD create doubt
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → FLAT (confianza 45%): EMA bajista, MACD negativo, pero bajo volumen y RSI neutro
 
-💰 Equity: $949.47 | Cash: $943.80 | Retorno: -5.05%
+💰 Equity: $948.81 | Cash: $943.80 | Retorno: -5.12%
 📈 Posiciones abiertas: 1 | Cerradas: 97 | PnL realizado: -56.06
-   ▲ NEARUSDT: entry 5.6342 → ahora 5.8599 (+5.67 USD)
+   ▲ NEARUSDT: entry 5.6342 → ahora 5.8333 (+5.00 USD)
