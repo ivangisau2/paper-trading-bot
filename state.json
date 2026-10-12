@@ -12,7 +12,7 @@
       "notional": 141.587845577464,
       "fee": 0.141587845577464,
       "note": "score 3 | IA: Bullish indicators, price near upper Bollinger, moderate risk",
-      "checked_at": 1791802474.7195556
+      "checked_at": 1791803356.8939943
     },
     "BTCUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 141.57008184,
       "fee": 0.14157008184,
       "note": "score -2 | IA: EMA bearish, MACD negative, volume up; RSI neutral, price near middle band.",
-      "checked_at": 1791802474.7195556
+      "checked_at": 1791803356.8939943
     },
     "AVAXUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 141.54902908812,
       "fee": 0.14154902908812,
       "note": "score -3 | IA: RSI overbought, bearish EMA, negative MACD, price near upper Bollinger, low volume",
-      "checked_at": 1791802474.7195556
+      "checked_at": 1791803356.8939943
     }
   },
   "closed": 97,
