@@ -1,14 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-13 12:39 UTC
+⏰ Ciclo — 2026-10-13 12:53 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y RSI bajo indican incertidumbre, mejor esperar
+   → FLAT (confianza 55%): Baja confirmación, volumen débil, tendencia bajista incierta
 
-💰 Equity: $942.87 | Cash: $941.68 | Retorno: -5.71%
+💰 Equity: $942.91 | Cash: $941.68 | Retorno: -5.71%
 📈 Posiciones abiertas: 1 | Cerradas: 101 | PnL realizado: -58.18
-   ▼ BTCUSDT: entry 83944.4 → ahora 83236.3 (+1.19 USD)
+   ▼ BTCUSDT: entry 83944.4 → ahora 83213 (+1.23 USD)
