@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-13 02:19 UTC
+⏰ Ciclo — 2026-10-13 02:34 UTC
 ============================================================
 
 📊 8 candidatos tras filtros
 
+🤖 Analista IA evaluando AVAXUSDT (short score -3)...
+   → FLAT (confianza 55%): Mixed indicators; bearish trend but price still rising, recommend flat
+
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente para confirmar corto.
+   → FLAT (confianza 45%): Indicadores mixtos, bajo volumen, señal insuficiente
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, riesgo de rebote
+   → SHORT (confianza 65%): EMA bearish, MACD negative, price below mid Bollinger, RSI neutral
+  [ejecución] ▼ SHORT ETHUSDT: 0.05718302 @ 2476.22 | SL 2509.11 | TP 2410.44 | score -2 | IA: EMA bearish, MACD negative, price below mid Bollinger, RSI neutral
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen y RSI cercano a sobreventa
+   → FLAT (confianza 60%): RSI oversold, precio cerca banda baja, señal corta no confirmada
 
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil y precio sube; mejor esperar
-
-💰 Equity: $943.98 | Cash: $943.98 | Retorno: -5.60%
-📈 Posiciones abiertas: 0 | Cerradas: 100 | PnL realizado: -56.02
+💰 Equity: $943.84 | Cash: $943.84 | Retorno: -5.62%
+📈 Posiciones abiertas: 1 | Cerradas: 100 | PnL realizado: -56.02
+   ▼ ETHUSDT: entry 2476.22 → ahora 2476.22 (+0.00 USD)

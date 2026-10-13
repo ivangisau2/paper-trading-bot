@@ -1,7 +1,19 @@
 {
-  "balance": 943.9849270806698,
+  "balance": 943.8433293428853,
   "initial_balance": 1000.0,
-  "positions": {},
+  "positions": {
+    "ETHUSDT": {
+      "side": "short",
+      "qty": 0.05718302,
+      "entry": 2476.22,
+      "sl": 2509.1115872328755,
+      "tp": 2410.4368255342483,
+      "opened_at": "2026-10-13T02:34:13+00:00",
+      "notional": 141.59773778439998,
+      "fee": 0.1415977377844,
+      "note": "score -2 | IA: EMA bearish, MACD negative, price below mid Bollinger, RSI neutral"
+    }
+  },
   "closed": 100,
   "realized_pnl": -56.015072919331,
   "started": "2026-09-23T21:38:36+00:00"
