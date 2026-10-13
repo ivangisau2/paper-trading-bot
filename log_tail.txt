@@ -1,11 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-13 15:05 UTC
+⏰ Ciclo — 2026-10-13 15:19 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $942.39 | Cash: $941.68 | Retorno: -5.76%
+💰 Equity: $942.58 | Cash: $941.68 | Retorno: -5.74%
 📈 Posiciones abiertas: 1 | Cerradas: 101 | PnL realizado: -58.18
-   ▼ BTCUSDT: entry 83944.4 → ahora 83523.2 (+0.71 USD)
+   ▼ BTCUSDT: entry 83944.4 → ahora 83408.1 (+0.90 USD)
