@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-13 03:32 UTC
+⏰ Ciclo — 2026-10-13 03:47 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ETHUSDT @ 2509.1115872328755: -2.17 USD (stop loss (wick entre ciclos))
 
 📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (short score -3)...
-   → FLAT (confianza 55%): Indicadores bajistas, pero precio sube y RSI neutro, duda razonable
+   → FLAT (confianza 55%): EMA bearish, MACD negative, but price up and RSI neutral; uncertainty, stay flat.
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 60%): Señal corta, pero RSI neutro y volumen bajo generan duda; mejor permanecer flat.
+   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista pero sin confirmación clara
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Volumen bajo y RSI neutro, señal no suficientemente confirmada
+   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI y volumen no confirman
 
 🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 55%): Volumen bajo y precio al alza debilitan señal bajista
+   → FLAT (confianza 55%): Indicadores mixtos, falta de confirmación clara
 
 💰 Equity: $941.82 | Cash: $941.82 | Retorno: -5.82%
 📈 Posiciones abiertas: 0 | Cerradas: 101 | PnL realizado: -58.18
