@@ -1,15 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-13 07:55 UTC
+⏰ Ciclo — 2026-10-13 08:09 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y RSI no suficientemente bajo; señal dudosa
+   → FLAT (confianza 35%): Bajo volumen y señal débil, contexto no confirma suficientemente la tendencia alcista.
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista pero momentum alcista, mejor esperar
+   → SHORT (confianza 65%): Precio cerca banda superior, RSI alto, EMA bajista, pero MACD positivo; corto moderado.
+  [ejecución] ▼ SHORT BTCUSDT: 0.00168293 @ 83944.4 | SL 84637.4 | TP 82558.4 | score -1 | IA: Precio cerca banda superior, RSI alto, EMA bajista, pero MACD positivo; corto moderado.
 
-💰 Equity: $941.82 | Cash: $941.82 | Retorno: -5.82%
-📈 Posiciones abiertas: 0 | Cerradas: 101 | PnL realizado: -58.18
+💰 Equity: $941.66 | Cash: $941.68 | Retorno: -5.83%
+📈 Posiciones abiertas: 1 | Cerradas: 101 | PnL realizado: -58.18
+   ▼ BTCUSDT: entry 83944.4 → ahora 83952 (-0.01 USD)
