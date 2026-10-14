@@ -1,14 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-14 02:45 UTC
+⏰ Ciclo — 2026-10-14 03:00 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (long score 2)...
-   → FLAT (confianza 45%): Precio cerca de banda superior, volumen bajo, señal débil, mejor esperar
+   → FLAT (confianza 70%): Baja volatilidad y volumen insuficiente, precio cerca de resistencia
 
-💰 Equity: $942.68 | Cash: $941.68 | Retorno: -5.73%
+💰 Equity: $942.28 | Cash: $941.68 | Retorno: -5.77%
 📈 Posiciones abiertas: 1 | Cerradas: 101 | PnL realizado: -58.18
-   ▼ BTCUSDT: entry 83944.4 → ahora 83347.4 (+1.00 USD)
+   ▼ BTCUSDT: entry 83944.4 → ahora 83585.2 (+0.60 USD)
