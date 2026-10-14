@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-14 15:26 UTC
+⏰ Ciclo — 2026-10-14 15:41 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): Indicadores mixtos, precio bajo banda inferior y RSI bajo; tendencia bajista no clara.
+   → FLAT (confianza 55%): Mixed: bearish trend but oversold; insufficient confirmation for short.
 
 🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed bearish bias, but RSI oversold and low volume create uncertainty
+   → FLAT (confianza 65%): Precio bajo banda inferior, RSI no sobrevendido, volumen bajo, señal corta no confirmada
 
 💰 Equity: $946.36 | Cash: $946.36 | Retorno: -5.36%
 📈 Posiciones abiertas: 0 | Cerradas: 103 | PnL realizado: -53.64
