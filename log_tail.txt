@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-15 10:52 UTC
+⏰ Ciclo — 2026-10-15 11:06 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (short score -3)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI bajo, tendencia bajista pero posible rebote
+🤖 Analista IA evaluando ADAUSDT (short score -2)...
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, posible rebote
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Precio cerca banda inferior, RSI oversold, bajo volumen, tendencia bajista, duda razonable
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 60%): Baja volatilidad, volumen débil, tendencia bajista, señal poco confirmada
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, weak volume; short not confirmed
+   → FLAT (confianza 55%): Low volume, RSI oversold, insufficient confirmation for short
 
 🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 65%): Precio cerca de soporte, bajo volumen y RSI bajo; señal corta no confirmada
+   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente para confirmar corto
 
-💰 Equity: $947.60 | Cash: $946.21 | Retorno: -5.24%
+💰 Equity: $947.78 | Cash: $946.21 | Retorno: -5.22%
 📈 Posiciones abiertas: 1 | Cerradas: 103 | PnL realizado: -53.64
-   ▼ SOLUSDT: entry 103.11 → ahora 102.1 (+1.39 USD)
+   ▼ SOLUSDT: entry 103.11 → ahora 101.97 (+1.57 USD)
