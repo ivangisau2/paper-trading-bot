@@ -1,19 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-15 15:15 UTC
+⏰ Ciclo — 2026-10-15 15:18 UTC
 ============================================================
-  [ejecución] ❌ CERRADO SOLUSDT @ 104.95689036182083: -2.83 USD (stop loss (wick entre ciclos))
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 65%): Indicadores mixtos, tendencia bajista EMA pero MACD y RSI no lo respaldan
+   → FLAT (confianza 40%): Indicadores mixtos, precio en banda superior, MACD bullish, EMA bearish; mejor esperar.
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 45%): EMA downtrend, but MACD bullish, low volume; insufficient confirmation.
+   → FLAT (confianza 55%): Mixed signals; EMA bearish but MACD bullish, low volume, near upper Bollinger; stay flat
 
 🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 55%): Conflicto entre indicadores, señal no suficientemente confirmada
+   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista pero MACD positivo; mejor esperar
 
 💰 Equity: $943.53 | Cash: $943.53 | Retorno: -5.65%
 📈 Posiciones abiertas: 0 | Cerradas: 104 | PnL realizado: -56.47
