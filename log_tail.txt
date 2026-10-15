@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-15 13:47 UTC
+⏰ Ciclo — 2026-10-15 14:02 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 8 candidatos tras filtros
+📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 60%): RSI oversold, price near support, bearish trend ambiguous
+   → FLAT (confianza 65%): Bajo volumen y RSI cerca de sobreventa, señal corta no confirmada
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI oversold y precio en banda inferior, tendencia bajista incierta
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI cercano a sobreventa
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 60%): Precio cerca banda baja, RSI bajo, señal corta no confirmada
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio cerca soporte, RSI bajo, volumen insuficiente para confirmar short
 
-🤖 Analista IA evaluando LINKUSDT (short score -2)...
-   → FLAT (confianza 60%): Precio cerca banda baja, RSI sobrevendido, señal corta no confirmada
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): Baja volatilidad y RSI sobrevendido debilitan señal corta
 
-💰 Equity: $948.53 | Cash: $946.21 | Retorno: -5.15%
+💰 Equity: $948.26 | Cash: $946.21 | Retorno: -5.17%
 📈 Posiciones abiertas: 1 | Cerradas: 103 | PnL realizado: -53.64
-   ▼ SOLUSDT: entry 103.11 → ahora 101.43 (+2.31 USD)
+   ▼ SOLUSDT: entry 103.11 → ahora 101.62 (+2.05 USD)
