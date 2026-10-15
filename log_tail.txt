@@ -1,13 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-15 19:59 UTC
+⏰ Ciclo — 2026-10-15 20:13 UTC
 ============================================================
-  [ejecución] ❌ CERRADO NEARUSDT @ 5.43425178008559: -5.76 USD (stop loss (wick entre ciclos))
 
 📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio sobre Bollinger, RSI alto, pero MACD bullish; tendencia bajista, duda razonable.
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 65%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD positivo; mejor esperar.
 
 💰 Equity: $937.76 | Cash: $937.76 | Retorno: -6.22%
 📈 Posiciones abiertas: 0 | Cerradas: 105 | PnL realizado: -62.24
