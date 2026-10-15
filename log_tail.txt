@@ -1,15 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-15 17:29 UTC
+⏰ Ciclo — 2026-10-15 17:44 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 70%): Indicadores mixtos, señal corta no confirmada
+   → SHORT (confianza 60%): RSI high, price above BB, EMA bearish; MACD bullish, low volume, cautious
+  [ejecución] ▼ SHORT NEARUSDT: 27.0511488 @ 5.2319 | SL 5.43425 | TP 4.8272 | score -2 | IA: RSI high, price above BB, EMA bearish; MACD bullish, low volume, cautious
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): Conflicto entre indicadores, señal corta débil
+   → FLAT (confianza 60%): Indicadores mixtos, señal corta no confirmada
 
-💰 Equity: $943.53 | Cash: $943.53 | Retorno: -5.65%
-📈 Posiciones abiertas: 0 | Cerradas: 104 | PnL realizado: -56.47
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 40%): Indicadores mixtos, bajo volumen, no confirma señal corta
+
+💰 Equity: $943.42 | Cash: $943.38 | Retorno: -5.66%
+📈 Posiciones abiertas: 1 | Cerradas: 104 | PnL realizado: -56.47
+   ▼ NEARUSDT: entry 5.2319 → ahora 5.2306 (+0.04 USD)
