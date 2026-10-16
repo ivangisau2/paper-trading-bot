@@ -12,7 +12,7 @@
       "notional": 140.664548429585,
       "fee": 0.140664548429585,
       "note": "score -2 | IA: Baja volatilidad, EMA bajista, precio cerca banda superior",
-      "checked_at": 1792162749.7918315
+      "checked_at": 1792163626.455755
     },
     "NEARUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 140.643448771368,
       "fee": 0.14064344877136803,
       "note": "score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger band",
-      "checked_at": 1792162749.7918315
+      "checked_at": 1792163626.455755
     },
     "ADAUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 140.62235225634043,
       "fee": 0.14062235225634043,
       "note": "score -3 | IA: EMA bajista, MACD negativo, precio cerca banda inferior",
-      "checked_at": 1792162749.7918315
+      "checked_at": 1792163626.455755
     },
     "BTCUSDT": {
       "side": "short",
@@ -48,7 +48,7 @@
       "notional": 140.60150081400002,
       "fee": 0.14060150081400002,
       "note": "score -2 | IA: EMA bajista, MACD negativo, volumen ligeramente alto",
-      "checked_at": 1792162749.7918315
+      "checked_at": 1792163626.455755
     }
   },
   "closed": 105,
