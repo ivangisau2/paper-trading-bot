@@ -1,5 +1,5 @@
 {
-  "balance": 937.6229918269347,
+  "balance": 937.4823483781634,
   "initial_balance": 1000.0,
   "positions": {
     "UNIUSDT": {
@@ -12,7 +12,18 @@
       "notional": 140.664548429585,
       "fee": 0.140664548429585,
       "note": "score -2 | IA: Baja volatilidad, EMA bajista, precio cerca banda superior",
-      "checked_at": 1792147122.6286476
+      "checked_at": 1792147997.193765
+    },
+    "NEARUSDT": {
+      "side": "short",
+      "qty": 26.66580376,
+      "entry": 5.2743,
+      "sl": 5.432074732582634,
+      "tp": 4.958750534834733,
+      "opened_at": "2026-10-16T10:53:22+00:00",
+      "notional": 140.643448771368,
+      "fee": 0.14064344877136803,
+      "note": "score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger band"
     }
   },
   "closed": 105,
