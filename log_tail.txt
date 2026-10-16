@@ -1,24 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-16 11:37 UTC
+⏰ Ciclo — 2026-10-16 11:51 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen, falta de confirmación clara
-
-🤖 Analista IA evaluando LINKUSDT (short score -2)...
-   → FLAT (confianza 60%): Mixed signals; overbought price, low volume, bullish MACD, but bearish EMA; stay flat
+   → FLAT (confianza 60%): Mixed indicators, low volume, insufficient confirmation
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio sobre banda superior, RSI alto, EMA bajista, pero MACD bullish, duda razonable
+   → FLAT (confianza 55%): Señales mixtas, precio sobre BB superior pero MACD bullish; mejor esperar
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 55%): Sobrecompra y tendencia bajista, pero MACD bullish genera duda
+   → FLAT (confianza 60%): Mixed indicators, bullish MACD vs overbought RSI; mejor esperar
 
-💰 Equity: $935.75 | Cash: $937.48 | Retorno: -6.43%
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 70%): EMA200 bearish, price near Bollinger top, insufficient confirmation.
+
+💰 Equity: $936.55 | Cash: $937.48 | Retorno: -6.34%
 📈 Posiciones abiertas: 2 | Cerradas: 105 | PnL realizado: -62.24
-   ▼ UNIUSDT: entry 7.4785 → ahora 7.4959 (-0.33 USD)
-   ▼ NEARUSDT: entry 5.2743 → ahora 5.327 (-1.41 USD)
+   ▼ UNIUSDT: entry 7.4785 → ahora 7.4807 (-0.04 USD)
+   ▼ NEARUSDT: entry 5.2743 → ahora 5.3076 (-0.89 USD)
