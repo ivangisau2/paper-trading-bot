@@ -1,18 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-16 09:02 UTC
+⏰ Ciclo — 2026-10-16 09:17 UTC
 ============================================================
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente para confirmar corto
+   → SHORT (confianza 65%): Baja volatilidad, EMA bajista, precio cerca banda superior
+  [ejecución] ▼ SHORT UNIUSDT: 18.80919281 @ 7.4785 | SL 7.63524 | TP 7.16502 | score -2 | IA: Baja volatilidad, EMA bajista, precio cerca banda superior
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación de volumen y RSI no sobrecomprado
+   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutral, riesgo de falso corto
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed indicators, low volume, insufficient confirmation
+   → FLAT (confianza 70%): Indicadores mixtos, bajo volumen, no confirma señal corta
 
-💰 Equity: $937.76 | Cash: $937.76 | Retorno: -6.22%
-📈 Posiciones abiertas: 0 | Cerradas: 105 | PnL realizado: -62.24
+💰 Equity: $937.62 | Cash: $937.62 | Retorno: -6.24%
+📈 Posiciones abiertas: 1 | Cerradas: 105 | PnL realizado: -62.24
+   ▼ UNIUSDT: entry 7.4785 → ahora 7.4785 (+0.00 USD)
