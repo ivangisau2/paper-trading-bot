@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-16 08:03 UTC
+⏰ Ciclo — 2026-10-16 08:18 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación: volumen nulo, RSI neutro, tendencia bajista insuficiente.
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutral
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen, señal bajista débil
+   → FLAT (confianza 55%): Baja confirmación, volumen débil y RSI neutral
 
 💰 Equity: $937.76 | Cash: $937.76 | Retorno: -6.22%
 📈 Posiciones abiertas: 0 | Cerradas: 105 | PnL realizado: -62.24
