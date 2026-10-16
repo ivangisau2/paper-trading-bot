@@ -1,28 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-16 14:44 UTC
+⏰ Ciclo — 2026-10-16 14:59 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (short score -3)...
-   → SHORT (confianza 60%): EMA bajista, MACD negativo, precio cerca banda inferior
-  [ejecución] ▼ SHORT ADAUSDT: 611.74996305 @ 0.229869 | SL 0.233323 | TP 0.222962 | score -3 | IA: EMA bajista, MACD negativo, precio cerca banda inferior
-
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → SHORT (confianza 60%): EMA bajista, MACD negativo, volumen ligeramente alto
-  [ejecución] ▼ SHORT BTCUSDT: 0.00170958 @ 82243.3 | SL 82946.9 | TP 80836.1 | score -2 | IA: EMA bajista, MACD negativo, volumen ligeramente alto
-
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 45%): Señal corta sin confirmación clara del momentum
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio cerca banda inferior, RSI neutro, posible rebote; tendencia bajista no clara
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 40%): EMA bajista, pero RSI neutro y precio cerca de media Bollinger
+   → FLAT (confianza 70%): Precio bajo banda inferior, posible rebote, señal corta no confirmada
 
-💰 Equity: $938.36 | Cash: $937.20 | Retorno: -6.16%
+💰 Equity: $942.99 | Cash: $937.20 | Retorno: -5.70%
 📈 Posiciones abiertas: 4 | Cerradas: 105 | PnL realizado: -62.24
-   ▼ UNIUSDT: entry 7.4785 → ahora 7.4299 (+0.91 USD)
-   ▼ NEARUSDT: entry 5.2743 → ahora 5.2654 (+0.24 USD)
-   ▼ ADAUSDT: entry 0.229869 → ahora 0.229869 (+0.00 USD)
-   ▼ BTCUSDT: entry 82243.3 → ahora 82241.6 (+0.00 USD)
+   ▼ UNIUSDT: entry 7.4785 → ahora 7.3571 (+2.28 USD)
+   ▼ NEARUSDT: entry 5.2743 → ahora 5.2141 (+1.61 USD)
+   ▼ ADAUSDT: entry 0.229869 → ahora 0.227778 (+1.28 USD)
+   ▼ BTCUSDT: entry 82243.3 → ahora 81879 (+0.62 USD)
