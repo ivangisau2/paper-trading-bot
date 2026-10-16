@@ -1,20 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-16 09:17 UTC
+⏰ Ciclo — 2026-10-16 09:31 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
-
-🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → SHORT (confianza 65%): Baja volatilidad, EMA bajista, precio cerca banda superior
-  [ejecución] ▼ SHORT UNIUSDT: 18.80919281 @ 7.4785 | SL 7.63524 | TP 7.16502 | score -2 | IA: Baja volatilidad, EMA bajista, precio cerca banda superior
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutral, riesgo de falso corto
+   → FLAT (confianza 55%): Baja volatilidad, volumen muy bajo, RSI neutro; señal corta no suficientemente confirmada
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): Indicadores mixtos, bajo volumen, no confirma señal corta
+   → FLAT (confianza 55%): Mixed indicators; bearish EMA and overbought RSI, but MACD bullish and low volume; stay flat.
 
-💰 Equity: $937.62 | Cash: $937.62 | Retorno: -6.24%
+💰 Equity: $938.29 | Cash: $937.62 | Retorno: -6.17%
 📈 Posiciones abiertas: 1 | Cerradas: 105 | PnL realizado: -62.24
-   ▼ UNIUSDT: entry 7.4785 → ahora 7.4785 (+0.00 USD)
+   ▼ UNIUSDT: entry 7.4785 → ahora 7.4429 (+0.67 USD)
