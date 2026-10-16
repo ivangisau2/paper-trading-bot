@@ -12,7 +12,7 @@
       "notional": 140.664548429585,
       "fee": 0.140664548429585,
       "note": "score -2 | IA: Baja volatilidad, EMA bajista, precio cerca banda superior",
-      "checked_at": 1792151499.290655
+      "checked_at": 1792152374.0180373
     },
     "NEARUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 140.643448771368,
       "fee": 0.14064344877136803,
       "note": "score -2 | IA: EMA bearish, MACD negative, price near upper Bollinger band",
-      "checked_at": 1792151499.290655
+      "checked_at": 1792152374.0180373
     }
   },
   "closed": 105,
