@@ -12,7 +12,7 @@
       "notional": 140.5801713225,
       "fee": 0.1405801713225,
       "note": "score -3 | IA: Bearish trend, MACD negative, but price near lower Bollinger; moderate confidence.",
-      "checked_at": 1792244464.9727092
+      "checked_at": 1792245343.8287897
     },
     "NEARUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-10-17T13:41:10+00:00",
       "notional": 143.619129918486,
       "fee": 0.14361912991848602,
-      "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda media"
+      "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda media",
+      "checked_at": 1792245343.8287897
     }
   },
   "closed": 109,
