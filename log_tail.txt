@@ -1,18 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-18 01:23 UTC
+⏰ Ciclo — 2026-10-18 01:37 UTC
 ============================================================
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 40%): Indicadores mixtos, bajo volumen, señal no suficientemente confirmada
+   → FLAT (confianza 55%): Baja confirmación, volumen débil y precio cerca banda inferior
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
    → FLAT (confianza 55%): Baja confirmación, volumen débil y RSI neutro
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 70%): Indicadores mixtos, bajo volumen y RSI cerca de sobreventa; duda razonable
+   → FLAT (confianza 60%): EMA bajista, pero volumen bajo y RSI neutro, duda razonable
 
 💰 Equity: $967.43 | Cash: $967.43 | Retorno: -3.26%
 📈 Posiciones abiertas: 0 | Cerradas: 111 | PnL realizado: -32.57
