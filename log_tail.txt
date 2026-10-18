@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-18 20:40 UTC
+⏰ Ciclo — 2026-10-18 20:55 UTC
 ============================================================
 
 📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, RSI bajo y cerca banda baja sugiere duda
+🤖 Analista IA evaluando BTCUSDT (short score -3)...
+   → FLAT (confianza 60%): Mixed bearish trend but price near oversold support; insufficient confirmation for short
+
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 45%): Precio cerca banda baja, RSI sobrevendido, señal corta no confirmada
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed indicators; bearish trend but RSI oversold, better no position
+   → FLAT (confianza 65%): Señal corta contradice sobreventa y soporte cercano.
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold, price at lower Bollinger; bearish EMA/MACD but reversal possible
-
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, price at lower Bollinger, bearish trend, mixed signals
+   → FLAT (confianza 55%): RSI oversold, price near lower Bollinger, trend bearish but reversal possible
 
 💰 Equity: $967.43 | Cash: $967.43 | Retorno: -3.26%
 📈 Posiciones abiertas: 0 | Cerradas: 111 | PnL realizado: -32.57
