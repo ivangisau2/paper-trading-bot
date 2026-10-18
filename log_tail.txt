@@ -1,13 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-18 23:14 UTC
+⏰ Ciclo — 2026-10-18 23:28 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ETHUSDT @ 2409.407455630369: -1.88 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO BTCUSDT @ 81883.81192361173: -1.09 USD (stop loss (wick entre ciclos))
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $965.22 | Cash: $966.99 | Retorno: -3.48%
-📈 Posiciones abiertas: 3 | Cerradas: 111 | PnL realizado: -32.57
-   ▼ ETHUSDT: entry 2383.28 → ahora 2388.72 (-0.33 USD)
-   ▼ SOLUSDT: entry 102.96 → ahora 103.68 (-1.01 USD)
-   ▼ BTCUSDT: entry 81437.9 → ahora 81674.2 (-0.42 USD)
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA200 bearish, MACD bullish, señal conflict, mejor esperar.
+
+💰 Equity: $962.74 | Cash: $964.31 | Retorno: -3.73%
+📈 Posiciones abiertas: 1 | Cerradas: 113 | PnL realizado: -35.54
+   ▼ SOLUSDT: entry 102.96 → ahora 104.08 (-1.58 USD)
