@@ -1,7 +1,41 @@
 {
-  "balance": 967.4263525404457,
+  "balance": 966.9910761745369,
   "initial_balance": 1000.0,
-  "positions": {},
+  "positions": {
+    "ETHUSDT": {
+      "side": "short",
+      "qty": 0.06088834,
+      "entry": 2383.28,
+      "sl": 2409.407455630369,
+      "tp": 2331.025088739262,
+      "opened_at": "2026-10-18T22:15:52+00:00",
+      "notional": 145.1139629552,
+      "fee": 0.14511396295520002,
+      "note": "score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle."
+    },
+    "SOLUSDT": {
+      "side": "short",
+      "qty": 1.40920926,
+      "entry": 102.96,
+      "sl": 104.25835549721677,
+      "tp": 100.36328900556644,
+      "opened_at": "2026-10-18T22:15:53+00:00",
+      "notional": 145.09218540959998,
+      "fee": 0.14509218540959998,
+      "note": "score -3 | IA: MACD negativo, EMA bajista, alto volumen, RSI neutro, precio cerca banda media."
+    },
+    "BTCUSDT": {
+      "side": "short",
+      "qty": 0.00178136,
+      "entry": 81437.9,
+      "sl": 81883.81192361173,
+      "tp": 80546.07615277653,
+      "opened_at": "2026-10-18T22:15:55+00:00",
+      "notional": 145.070217544,
+      "fee": 0.145070217544,
+      "note": "score -2 | IA: Bearish trend, MACD down, but RSI neutral; cautious short."
+    }
+  },
   "closed": 111,
   "realized_pnl": -32.57364745955477,
   "started": "2026-09-23T21:38:36+00:00"
