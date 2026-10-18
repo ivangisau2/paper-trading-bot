@@ -11,7 +11,8 @@
       "opened_at": "2026-10-18T22:15:52+00:00",
       "notional": 145.1139629552,
       "fee": 0.14511396295520002,
-      "note": "score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle."
+      "note": "score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle.",
+      "checked_at": 1792362625.6502888
     },
     "SOLUSDT": {
       "side": "short",
@@ -22,7 +23,8 @@
       "opened_at": "2026-10-18T22:15:53+00:00",
       "notional": 145.09218540959998,
       "fee": 0.14509218540959998,
-      "note": "score -3 | IA: MACD negativo, EMA bajista, alto volumen, RSI neutro, precio cerca banda media."
+      "note": "score -3 | IA: MACD negativo, EMA bajista, alto volumen, RSI neutro, precio cerca banda media.",
+      "checked_at": 1792362625.6502888
     },
     "BTCUSDT": {
       "side": "short",
@@ -33,7 +35,8 @@
       "opened_at": "2026-10-18T22:15:55+00:00",
       "notional": 145.070217544,
       "fee": 0.145070217544,
-      "note": "score -2 | IA: Bearish trend, MACD down, but RSI neutral; cautious short."
+      "note": "score -2 | IA: Bearish trend, MACD down, but RSI neutral; cautious short.",
+      "checked_at": 1792362625.6502888
     }
   },
   "closed": 111,

@@ -1,27 +1,16 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-18 22:15 UTC
+⏰ Ciclo — 2026-10-18 22:30 UTC
 ============================================================
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → SHORT (confianza 70%): EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle.
-  [ejecución] ▼ SHORT ETHUSDT: 0.06088834 @ 2383.28 | SL 2409.41 | TP 2331.03 | score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle.
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 70%): EMA200 bearish, price near Bollinger upper, insufficient bullish confirmation.
 
-🤖 Analista IA evaluando SOLUSDT (short score -3)...
-   → SHORT (confianza 65%): MACD negativo, EMA bajista, alto volumen, RSI neutro, precio cerca banda media.
-  [ejecución] ▼ SHORT SOLUSDT: 1.40920926 @ 102.96 | SL 104.258 | TP 100.363 | score -3 | IA: MACD negativo, EMA bajista, alto volumen, RSI neutro, precio cerca banda media.
-
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → SHORT (confianza 65%): Bearish trend, MACD down, but RSI neutral; cautious short.
-  [ejecución] ▼ SHORT BTCUSDT: 0.00178136 @ 81437.9 | SL 81883.8 | TP 80546.1 | score -2 | IA: Bearish trend, MACD down, but RSI neutral; cautious short.
-
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 60%): EMA bajista, MACD negativo, pero RSI neutro y bajo volumen
-
-💰 Equity: $966.99 | Cash: $966.99 | Retorno: -3.30%
+💰 Equity: $966.68 | Cash: $966.99 | Retorno: -3.33%
 📈 Posiciones abiertas: 3 | Cerradas: 111 | PnL realizado: -32.57
-   ▼ ETHUSDT: entry 2383.28 → ahora 2383.47 (-0.01 USD)
-   ▼ SOLUSDT: entry 102.96 → ahora 102.96 (+0.00 USD)
-   ▼ BTCUSDT: entry 81437.9 → ahora 81430 (+0.01 USD)
+   ▼ ETHUSDT: entry 2383.28 → ahora 2384.56 (-0.08 USD)
+   ▼ SOLUSDT: entry 102.96 → ahora 103.08 (-0.17 USD)
+   ▼ BTCUSDT: entry 81437.9 → ahora 81472.9 (-0.06 USD)
