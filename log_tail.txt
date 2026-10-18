@@ -1,9 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-18 08:52 UTC
+⏰ Ciclo — 2026-10-18 09:07 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 60%): Baja confirmación, indicadores mixtos, volumen bajo
 
 💰 Equity: $967.43 | Cash: $967.43 | Retorno: -3.26%
 📈 Posiciones abiertas: 0 | Cerradas: 111 | PnL realizado: -32.57
