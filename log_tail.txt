@@ -1,9 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-18 07:40 UTC
+⏰ Ciclo — 2026-10-18 07:54 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 30%): Bajista EMA, señal débil, duda razonable
 
 💰 Equity: $967.43 | Cash: $967.43 | Retorno: -3.26%
 📈 Posiciones abiertas: 0 | Cerradas: 111 | PnL realizado: -32.57
