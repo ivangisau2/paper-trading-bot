@@ -1,14 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-19 01:11 UTC
+⏰ Ciclo — 2026-10-19 01:25 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → SHORT (confianza 70%): Precio near upper Bollinger, overbought RSI, bearish EMA, high volume supports short
-  [ejecución] ▼ SHORT BTCUSDT: 0.00175301 @ 82344.3 | SL 82834.9 | TP 81363.1 | score -1 | IA: Precio near upper Bollinger, overbought RSI, bearish EMA, high volume supports short
-
-💰 Equity: $962.19 | Cash: $962.19 | Retorno: -3.78%
+💰 Equity: $962.15 | Cash: $962.19 | Retorno: -3.79%
 📈 Posiciones abiertas: 1 | Cerradas: 114 | PnL realizado: -37.66
-   ▼ BTCUSDT: entry 82344.3 → ahora 82344.3 (+0.00 USD)
+   ▼ BTCUSDT: entry 82344.3 → ahora 82368.8 (-0.04 USD)
