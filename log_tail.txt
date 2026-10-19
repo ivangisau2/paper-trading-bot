@@ -1,21 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-19 14:27 UTC
+⏰ Ciclo — 2026-10-19 14:42 UTC
 ============================================================
 
 📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores bajistas pero precio cerca banda inferior, riesgo de rebote
+🤖 Analista IA evaluando BTCUSDT (short score -3)...
+   → SHORT (confianza 65%): EMA bearish, MACD negative, volume high; price near Bollinger middle, RSI neutral.
+  [ejecución] ▼ SHORT BTCUSDT: 0.00176037 @ 81902.1 | SL 82500.9 | TP 80704.6 | score -3 | IA: EMA bearish, MACD negative, volume high; price near Bollinger middle, RSI neutral.
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 45%): EMA bearish, MACD negative, but RSI not oversold; insufficient confirmation.
+🤖 Analista IA evaluando ETHUSDT (short score -3)...
+   → SHORT (confianza 60%): EMA bearish, MACD negative, RSI neutral, moderate confidence
+  [ejecución] ▼ SHORT ETHUSDT: 0.06022453 @ 2393.65 | SL 2418.99 | TP 2342.97 | score -3 | IA: EMA bearish, MACD negative, RSI neutral, moderate confidence
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Señal corta, pero indicadores mixtos, mejor esperar
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → SHORT (confianza 70%): EMA bearish, MACD negative, RSI below 50, volume high, supports short
+  [ejecución] ▼ SHORT SOLUSDT: 1.38791355 @ 103.85 | SL 105.108 | TP 101.334 | score -3 | IA: EMA bearish, MACD negative, RSI below 50, volume high, supports short
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores bajistas débiles, RSI neutro y volumen bajo; duda razonable
+   → FLAT (confianza 60%): EMA bajista y MACD negativo, pero RSI neutro y señal débil
 
-💰 Equity: $961.19 | Cash: $961.19 | Retorno: -3.88%
-📈 Posiciones abiertas: 0 | Cerradas: 115 | PnL realizado: -38.81
+💰 Equity: $960.78 | Cash: $960.75 | Retorno: -3.92%
+📈 Posiciones abiertas: 3 | Cerradas: 115 | PnL realizado: -38.81
+   ▼ BTCUSDT: entry 81902.1 → ahora 81902.1 (+0.00 USD)
+   ▼ ETHUSDT: entry 2393.65 → ahora 2393.65 (+0.00 USD)
+   ▼ SOLUSDT: entry 103.85 → ahora 103.83 (+0.03 USD)
