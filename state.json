@@ -1,7 +1,19 @@
 {
-  "balance": 962.3367433115211,
+  "balance": 962.1923929301781,
   "initial_balance": 1000.0,
-  "positions": {},
+  "positions": {
+    "BTCUSDT": {
+      "side": "short",
+      "qty": 0.00175301,
+      "entry": 82344.3,
+      "sl": 82834.90312374283,
+      "tp": 81363.09375251435,
+      "opened_at": "2026-10-19T01:11:31+00:00",
+      "notional": 144.350381343,
+      "fee": 0.14435038134300002,
+      "note": "score -1 | IA: Precio near upper Bollinger, overbought RSI, bearish EMA, high volume supports short"
+    }
+  },
   "closed": 114,
   "realized_pnl": -37.66325668847943,
   "started": "2026-09-23T21:38:36+00:00"

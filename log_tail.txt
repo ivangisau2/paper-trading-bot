@@ -1,16 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-19 00:56 UTC
+⏰ Ciclo — 2026-10-19 01:11 UTC
 ============================================================
-  [ejecución] ❌ CERRADO SOLUSDT @ 104.25835549721677: -2.12 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 60%): EMA50/200 bearish, price near upper Bollinger, RSI neutral, mixed signals, prefer flat
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → SHORT (confianza 70%): Precio near upper Bollinger, overbought RSI, bearish EMA, high volume supports short
+  [ejecución] ▼ SHORT BTCUSDT: 0.00175301 @ 82344.3 | SL 82834.9 | TP 81363.1 | score -1 | IA: Precio near upper Bollinger, overbought RSI, bearish EMA, high volume supports short
 
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA50/200 indica tendencia bajista, supera señal bullish; mejor esperar
-
-💰 Equity: $962.34 | Cash: $962.34 | Retorno: -3.77%
-📈 Posiciones abiertas: 0 | Cerradas: 114 | PnL realizado: -37.66
+💰 Equity: $962.19 | Cash: $962.19 | Retorno: -3.78%
+📈 Posiciones abiertas: 1 | Cerradas: 114 | PnL realizado: -37.66
+   ▼ BTCUSDT: entry 82344.3 → ahora 82344.3 (+0.00 USD)
