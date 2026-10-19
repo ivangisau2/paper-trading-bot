@@ -12,7 +12,7 @@
       "notional": 144.17799977700003,
       "fee": 0.14417799977700002,
       "note": "score -3 | IA: EMA bearish, MACD negative, volume high; price near Bollinger middle, RSI neutral.",
-      "checked_at": 1792449828.461718
+      "checked_at": 1792450706.4663835
     },
     "ETHUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 143.86242308750002,
       "fee": 0.14386242308750002,
       "note": "score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle",
-      "checked_at": 1792449828.461718
+      "checked_at": 1792450706.4663835
     },
     "SOLUSDT": {
       "side": "short",
@@ -35,7 +35,8 @@
       "opened_at": "2026-10-19T22:43:53+00:00",
       "notional": 143.55710985,
       "fee": 0.14355710985,
-      "note": "score -2 | IA: EMA bearish, MACD negative, price near lower Bollinger, low volume supports short."
+      "note": "score -2 | IA: EMA bearish, MACD negative, price near lower Bollinger, low volume supports short.",
+      "checked_at": 1792450706.4663835
     }
   },
   "closed": 117,
