@@ -1,11 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-19 00:13 UTC
+⏰ Ciclo — 2026-10-19 00:27 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $962.68 | Cash: $964.31 | Retorno: -3.73%
+💰 Equity: $962.96 | Cash: $964.31 | Retorno: -3.70%
 📈 Posiciones abiertas: 1 | Cerradas: 113 | PnL realizado: -35.54
-   ▼ SOLUSDT: entry 102.96 → ahora 104.12 (-1.63 USD)
+   ▼ SOLUSDT: entry 102.96 → ahora 103.92 (-1.35 USD)
