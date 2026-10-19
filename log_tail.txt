@@ -1,19 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-19 07:38 UTC
+⏰ Ciclo — 2026-10-19 07:39 UTC
 ============================================================
-  [ejecución] ❌ CERRADO BTCUSDT @ 82834.90312374283: -1.15 USD (stop loss (wick entre ciclos))
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI overbought but MACD bullish, señal conflictiva
+   → FLAT (confianza 70%): Señal corta contradicha por MACD y volumen, mejor esperar
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, volumen bajo, duda razonable
+   → FLAT (confianza 60%): Indicadores mixtos, volumen bajo, señal corta no confirmada
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, volumen bajo, duda razonable
+   → FLAT (confianza 60%): Precio cerca de banda superior, RSI alto, pero MACD positivo y bajo volumen
 
 💰 Equity: $961.19 | Cash: $961.19 | Retorno: -3.88%
 📈 Posiciones abiertas: 0 | Cerradas: 115 | PnL realizado: -38.81
