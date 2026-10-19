@@ -12,7 +12,7 @@
       "notional": 144.17799977700003,
       "fee": 0.14417799977700002,
       "note": "score -3 | IA: EMA bearish, MACD negative, volume high; price near Bollinger middle, RSI neutral.",
-      "checked_at": 1792431219.417719
+      "checked_at": 1792432108.2265122
     },
     "ETHUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 143.86242308750002,
       "fee": 0.14386242308750002,
       "note": "score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle",
-      "checked_at": 1792431219.417719
+      "checked_at": 1792432108.2265122
     }
   },
   "closed": 117,
