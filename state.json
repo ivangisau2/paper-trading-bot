@@ -1,5 +1,5 @@
 {
-  "balance": 956.9038422502989,
+  "balance": 956.7603066739631,
   "initial_balance": 1000.0,
   "positions": {
     "BTCUSDT": {
@@ -12,7 +12,7 @@
       "notional": 144.17799977700003,
       "fee": 0.14417799977700002,
       "note": "score -3 | IA: EMA bearish, MACD negative, volume high; price near Bollinger middle, RSI neutral.",
-      "checked_at": 1792504131.2692318
+      "checked_at": 1792505011.99943
     },
     "ETHUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 143.86242308750002,
       "fee": 0.14386242308750002,
       "note": "score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, price near Bollinger middle",
-      "checked_at": 1792504131.2692318
+      "checked_at": 1792505011.99943
     },
     "SOLUSDT": {
       "side": "short",
@@ -36,7 +36,18 @@
       "notional": 143.55710985,
       "fee": 0.14355710985,
       "note": "score -2 | IA: EMA bearish, MACD negative, price near lower Bollinger, low volume supports short.",
-      "checked_at": 1792504131.2692318
+      "checked_at": 1792505011.99943
+    },
+    "XRPUSDT": {
+      "side": "short",
+      "qty": 109.19238683,
+      "entry": 1.31452,
+      "sl": 1.3273306267365814,
+      "tp": 1.288898746526837,
+      "opened_at": "2026-10-20T14:03:39+00:00",
+      "notional": 143.5355763357716,
+      "fee": 0.1435355763357716,
+      "note": "score -2 | IA: EMA downtrend, RSI overbought, price above upper Bollinger suggests reversal."
     }
   },
   "closed": 117,
