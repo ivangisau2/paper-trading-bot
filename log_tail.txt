@@ -1,14 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-20 20:38 UTC
+⏰ Ciclo — 2026-10-20 20:52 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando LTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Bollinger break, bearish EMA, but MACD bullish and low volume; better flat.
+   → FLAT (confianza 55%): Indicadores mixtos, falta de confirmación clara para una posición corta
 
-💰 Equity: $950.83 | Cash: $950.21 | Retorno: -4.92%
+💰 Equity: $950.91 | Cash: $950.21 | Retorno: -4.91%
 📈 Posiciones abiertas: 1 | Cerradas: 121 | PnL realizado: -49.65
-   ▼ SOLUSDT: entry 107 → ahora 106.53 (+0.63 USD)
+   ▼ SOLUSDT: entry 107 → ahora 106.47 (+0.71 USD)
