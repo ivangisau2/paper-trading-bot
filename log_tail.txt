@@ -1,21 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-20 14:03 UTC
+⏰ Ciclo — 2026-10-20 14:18 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO BTCUSDT @ 82500.85928386173: -1.34 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO ETHUSDT @ 2432.1313560512986: -1.94 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO SOLUSDT @ 106.26351262900349: -2.02 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO XRPUSDT @ 1.3273306267365814: -1.69 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → SHORT (confianza 65%): EMA downtrend, RSI overbought, price above upper Bollinger suggests reversal.
-  [ejecución] ▼ SHORT XRPUSDT: 109.19238683 @ 1.31452 | SL 1.32733 | TP 1.2889 | score -2 | IA: EMA downtrend, RSI overbought, price above upper Bollinger suggests reversal.
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos, sobrecompra pero momentum aún positivo
 
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 70%): Señal corta débil, indicadores mixtos y bajo volumen
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 55%): Mixed indicators, overbought but bullish MACD; better wait
 
-💰 Equity: $954.26 | Cash: $956.76 | Retorno: -4.57%
-📈 Posiciones abiertas: 4 | Cerradas: 117 | PnL realizado: -42.66
-   ▼ BTCUSDT: entry 81902.1 → ahora 82227.6 (-0.57 USD)
-   ▼ ETHUSDT: entry 2404.55 → ahora 2416.61 (-0.72 USD)
-   ▼ SOLUSDT: entry 105 → ahora 105.85 (-1.16 USD)
-   ▼ XRPUSDT: entry 1.31452 → ahora 1.31494 (-0.05 USD)
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 60%): RSI overbought, but MACD bullish crea incertidumbre.
+
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): RSI overbought, price above Bollinger, but MACD still bullish; insufficient confirmation.
+
+💰 Equity: $950.35 | Cash: $950.35 | Retorno: -4.97%
+📈 Posiciones abiertas: 0 | Cerradas: 121 | PnL realizado: -49.65
