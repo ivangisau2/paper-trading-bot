@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-20 14:45 UTC
+⏰ Ciclo — 2026-10-20 15:00 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 6 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators; overbought RSI and price above Bollinger, but bullish MACD contradicts
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → FLAT (confianza 30%): Indicadores mixtos, volumen bajo, incertidumbre alta
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators, overbought but bullish MACD; better wait
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 70%): Indicadores mixtos; sobrecompra y precio sobre Bollinger, pero MACD bullish, mejor esperar
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → SHORT (confianza 70%): Overbought, price above Bollinger, bearish EMA, high volume supports short
-  [ejecución] ▼ SHORT SOLUSDT: 1.3322647 @ 107.0 | SL 108.394 | TP 104.213 | score -1 | IA: Overbought, price above Bollinger, bearish EMA, high volume supports short
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 55%): Mixed indicators, low volume; insufficient confirmation for short.
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Sobrecompra RSI, precio sobre BB, pero MACD bullish; contexto incierto, mejor FLAT.
+🤖 Analista IA evaluando LTCUSDT (short score -2)...
+   → FLAT (confianza 60%): Sobrecompra y bajo volumen, señal mixta, mejor esperar
 
-💰 Equity: $950.18 | Cash: $950.21 | Retorno: -4.98%
+💰 Equity: $949.25 | Cash: $950.21 | Retorno: -5.08%
 📈 Posiciones abiertas: 1 | Cerradas: 121 | PnL realizado: -49.65
-   ▼ SOLUSDT: entry 107 → ahora 107.02 (-0.03 USD)
+   ▼ SOLUSDT: entry 107 → ahora 107.72 (-0.96 USD)
