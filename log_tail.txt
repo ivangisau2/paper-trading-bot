@@ -1,15 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 02:13 UTC
+⏰ Ciclo — 2026-10-21 02:28 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando LTCUSDT (long score 2)...
-   → FLAT (confianza 55%): Volumen bajo y RSI cerca de sobrecompra, señal débil
+   → LONG (confianza 60%): EMA bullish, MACD positive, RSI neutral, but low volume
+  [ejecución] ▲ LONG LTCUSDT: 2.32478892 @ 61.3 | SL 60.3314 | TP 63.2372 | score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume
 
-💰 Equity: $950.99 | Cash: $950.06 | Retorno: -4.90%
-📈 Posiciones abiertas: 2 | Cerradas: 121 | PnL realizado: -49.65
-   ▼ SOLUSDT: entry 107 → ahora 106.16 (+1.12 USD)
-   ▲ BTCUSDT: entry 82866 → ahora 82754.6 (-0.19 USD)
+💰 Equity: $950.73 | Cash: $949.92 | Retorno: -4.93%
+📈 Posiciones abiertas: 3 | Cerradas: 121 | PnL realizado: -49.65
+   ▼ SOLUSDT: entry 107 → ahora 106.13 (+1.16 USD)
+   ▲ BTCUSDT: entry 82866 → ahora 82662.3 (-0.35 USD)
+   ▲ LTCUSDT: entry 61.3 → ahora 61.3 (+0.00 USD)
