@@ -1,19 +1,7 @@
 {
-  "balance": 949.722924279806,
+  "balance": 947.7218795069695,
   "initial_balance": 1000.0,
   "positions": {
-    "SOLUSDT": {
-      "side": "short",
-      "qty": 1.3322647,
-      "entry": 107.0,
-      "sl": 108.39359379117553,
-      "tp": 104.21281241764895,
-      "opened_at": "2026-10-20T14:46:06+00:00",
-      "notional": 142.5523229,
-      "fee": 0.1425523229,
-      "note": "score -1 | IA: Overbought, price above Bollinger, bearish EMA, high volume supports short",
-      "checked_at": 1792596178.0121062
-    },
     "LTCUSDT": {
       "side": "long",
       "qty": 2.32478892,
@@ -24,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792596178.0121062
+      "checked_at": 1792597056.7293448
     },
     "NEARUSDT": {
       "side": "long",
@@ -36,7 +24,7 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792596178.0121062
+      "checked_at": 1792597056.7293448
     },
     "ETHUSDT": {
       "side": "long",
@@ -48,10 +36,10 @@
       "notional": 142.2059191569,
       "fee": 0.1422059191569,
       "note": "score 2 | IA: Precio cerca de banda superior, RSI no sobrecomprado, tendencia alcista confirma",
-      "checked_at": 1792596178.0121062
+      "checked_at": 1792597056.7293448
     }
   },
-  "closed": 123,
-  "realized_pnl": -49.7075806574442,
+  "closed": 124,
+  "realized_pnl": -51.85117775318065,
   "started": "2026-09-23T21:38:36+00:00"
 }
