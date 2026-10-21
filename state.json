@@ -12,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792620772.1378798
+      "checked_at": 1792621643.7425005
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792620772.1378798
+      "checked_at": 1792621643.7425005
     },
     "ETHUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 142.5660167679,
       "fee": 0.1425660167679,
       "note": "score 1 | IA: Bullish trend, MACD, EMA; RSI high, near Bollinger upper.",
-      "checked_at": 1792620772.1378798
+      "checked_at": 1792621643.7425005
     },
     "UNIUSDT": {
       "side": "long",
@@ -48,7 +48,7 @@
       "notional": 142.544633239338,
       "fee": 0.142544633239338,
       "note": "score 3 | IA: EMA bullish, RSI neutral, volume strong, price near upper Bollinger",
-      "checked_at": 1792620772.1378798
+      "checked_at": 1792621643.7425005
     },
     "SOLUSDT": {
       "side": "long",
@@ -60,7 +60,7 @@
       "notional": 142.5232520222,
       "fee": 0.1425232520222,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI moderate, price near upper Bollinger",
-      "checked_at": 1792620772.1378798
+      "checked_at": 1792621643.7425005
     }
   },
   "closed": 125,
