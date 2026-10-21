@@ -1,19 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 01:30 UTC
+⏰ Ciclo — 2026-10-21 01:44 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
-
-🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → LONG (confianza 65%): Bullish EMA, MACD, price above middle band; volume weak, RSI high.
-  [ejecución] ▲ LONG BTCUSDT: 0.00172002 @ 82866.0 | SL 82293.3 | TP 84011.4 | score 2 | IA: Bullish EMA, MACD, price above middle band; volume weak, RSI high.
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando LTCUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators, low volume, insufficient confirmation
+   → FLAT (confianza 55%): Indicadores mixtos, MACD bullish, volumen bajo, duda razonable
 
-💰 Equity: $950.64 | Cash: $950.06 | Retorno: -4.94%
+💰 Equity: $950.71 | Cash: $950.06 | Retorno: -4.93%
 📈 Posiciones abiertas: 2 | Cerradas: 121 | PnL realizado: -49.65
-   ▼ SOLUSDT: entry 107 → ahora 106.55 (+0.60 USD)
-   ▲ BTCUSDT: entry 82866 → ahora 82854.2 (-0.02 USD)
+   ▼ SOLUSDT: entry 107 → ahora 106.56 (+0.59 USD)
+   ▲ BTCUSDT: entry 82866 → ahora 82902.3 (+0.06 USD)

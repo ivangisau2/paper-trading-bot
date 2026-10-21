@@ -12,7 +12,7 @@
       "notional": 142.5523229,
       "fee": 0.1425523229,
       "note": "score -1 | IA: Overbought, price above Bollinger, bearish EMA, high volume supports short",
-      "checked_at": 1792546214.331584
+      "checked_at": 1792547088.5757983
     },
     "BTCUSDT": {
       "side": "long",
@@ -23,7 +23,8 @@
       "opened_at": "2026-10-21T01:30:17+00:00",
       "notional": 142.53117732,
       "fee": 0.14253117732,
-      "note": "score 2 | IA: Bullish EMA, MACD, price above middle band; volume weak, RSI high."
+      "note": "score 2 | IA: Bullish EMA, MACD, price above middle band; volume weak, RSI high.",
+      "checked_at": 1792547088.5757983
     }
   },
   "closed": 121,
