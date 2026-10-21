@@ -1,17 +1,16 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 23:40 UTC
+⏰ Ciclo — 2026-10-21 23:54 UTC
 ============================================================
-  [ejecución] ❌ CERRADO UNIUSDT @ 7.446561956457506: -3.50 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO SOLUSDT @ 106.88141571510288: -2.05 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación, volumen débil y precio cerca de soporte
+   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI y volumen no confirman
 
-💰 Equity: $945.48 | Cash: $944.75 | Retorno: -5.45%
+💰 Equity: $945.67 | Cash: $944.75 | Retorno: -5.43%
 📈 Posiciones abiertas: 3 | Cerradas: 127 | PnL realizado: -54.82
-   ▲ LTCUSDT: entry 61.3 → ahora 61.36 (+0.14 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.2339 (+1.82 USD)
-   ▲ ETHUSDT: entry 2496.21 → ahora 2474.6 (-1.23 USD)
+   ▲ LTCUSDT: entry 61.3 → ahora 61.46 (+0.37 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.2396 (+1.98 USD)
+   ▲ ETHUSDT: entry 2496.21 → ahora 2471.19 (-1.43 USD)
