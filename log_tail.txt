@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 01:44 UTC
+⏰ Ciclo — 2026-10-21 01:59 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando LTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, MACD bullish, volumen bajo, duda razonable
+   → FLAT (confianza 45%): Señal corta débil, indicadores mixtos y bajo volumen
 
-💰 Equity: $950.71 | Cash: $950.06 | Retorno: -4.93%
+💰 Equity: $950.61 | Cash: $950.06 | Retorno: -4.94%
 📈 Posiciones abiertas: 2 | Cerradas: 121 | PnL realizado: -49.65
-   ▼ SOLUSDT: entry 107 → ahora 106.56 (+0.59 USD)
-   ▲ BTCUSDT: entry 82866 → ahora 82902.3 (+0.06 USD)
+   ▼ SOLUSDT: entry 107 → ahora 106.69 (+0.41 USD)
+   ▲ BTCUSDT: entry 82866 → ahora 82945.7 (+0.14 USD)
