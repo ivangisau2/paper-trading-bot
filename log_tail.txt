@@ -1,22 +1,29 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 20:30 UTC
+⏰ Ciclo — 2026-10-21 20:45 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
+
+🤖 Analista IA evaluando UNIUSDT (long score 3)...
+   → LONG (confianza 70%): EMA bullish, RSI neutral, volume strong, price near upper Bollinger
+  [ejecución] ▲ LONG UNIUSDT: 18.71008233 @ 7.6186 | SL 7.44656 | TP 7.96268 | score 3 | IA: EMA bullish, RSI neutral, volume strong, price near upper Bollinger
 
 🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 60%): Banda superior, RSI alto, volumen bajo, duda
+   → LONG (confianza 70%): EMA bullish, MACD positive, RSI moderate, price near upper Bollinger
+  [ejecución] ▲ LONG SOLUSDT: 1.31697701 @ 108.22 | SL 106.881 | TP 110.897 | score 2 | IA: EMA bullish, MACD positive, RSI moderate, price near upper Bollinger
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca banda superior, riesgo de reversión
+   → FLAT (confianza 70%): RSI overbought y precio cerca de banda superior, riesgo de reversión
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, bajo volumen y cerca de banda superior; señal LONG poco confirmada.
+   → FLAT (confianza 70%): RSI overbought, bajo volumen, cerca banda superior, riesgo de reversión
 
-💰 Equity: $954.02 | Cash: $950.30 | Retorno: -4.60%
-📈 Posiciones abiertas: 3 | Cerradas: 125 | PnL realizado: -49.28
-   ▲ LTCUSDT: entry 61.3 → ahora 61.9 (+1.39 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.2651 (+2.68 USD)
-   ▲ ETHUSDT: entry 2496.21 → ahora 2489.99 (-0.36 USD)
+💰 Equity: $955.25 | Cash: $950.01 | Retorno: -4.47%
+📈 Posiciones abiertas: 5 | Cerradas: 125 | PnL realizado: -49.28
+   ▲ LTCUSDT: entry 61.3 → ahora 62.06 (+1.77 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.2987 (+3.60 USD)
+   ▲ ETHUSDT: entry 2496.21 → ahora 2493.72 (-0.14 USD)
+   ▲ UNIUSDT: entry 7.6186 → ahora 7.6186 (+0.00 USD)
+   ▲ SOLUSDT: entry 108.22 → ahora 108.23 (+0.01 USD)
