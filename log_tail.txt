@@ -1,19 +1,19 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 11:44 UTC
+⏰ Ciclo — 2026-10-21 11:59 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 40%): EMA downtrend but bullish MACD, insufficient confirmation.
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 55%): EMA downtrend supports short, but MACD bullish and price above BB cause uncertainty
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 55%): RSI overbought, price above Bollinger upper; bullish trend but risk of pullback
+   → FLAT (confianza 70%): RSI overbought, price at upper Bollinger, despite bullish trend
 
-💰 Equity: $950.09 | Cash: $948.18 | Retorno: -4.99%
+💰 Equity: $950.23 | Cash: $948.18 | Retorno: -4.98%
 📈 Posiciones abiertas: 3 | Cerradas: 122 | PnL realizado: -51.39
-   ▼ SOLUSDT: entry 107 → ahora 106.71 (+0.39 USD)
-   ▲ BTCUSDT: entry 82866 → ahora 83375.2 (+0.88 USD)
-   ▲ LTCUSDT: entry 61.3 → ahora 61.58 (+0.65 USD)
+   ▼ SOLUSDT: entry 107 → ahora 106.8 (+0.27 USD)
+   ▲ BTCUSDT: entry 82866 → ahora 83427.8 (+0.97 USD)
+   ▲ LTCUSDT: entry 61.3 → ahora 61.65 (+0.81 USD)
