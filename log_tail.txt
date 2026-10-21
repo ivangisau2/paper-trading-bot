@@ -1,17 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 14:40 UTC
+⏰ Ciclo — 2026-10-21 14:55 UTC
 ============================================================
-  [ejecución] ✅ CERRADO BTCUSDT @ 84011.40888162835: +1.68 USD (take profit (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 60%): Sobrecomprado, precio sobre banda superior, riesgo de reversión
+   → FLAT (confianza 70%): RSI overbought y precio sobre banda superior indica posible reversión
 
-💰 Equity: $951.04 | Cash: $949.72 | Retorno: -4.90%
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 70%): RSI overbought, price above Bollinger, risk of reversal
+
+💰 Equity: $954.37 | Cash: $949.72 | Retorno: -4.56%
 📈 Posiciones abiertas: 4 | Cerradas: 123 | PnL realizado: -49.71
-   ▼ SOLUSDT: entry 107 → ahora 106.95 (+0.07 USD)
-   ▲ LTCUSDT: entry 61.3 → ahora 61.38 (+0.19 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.1911 (+0.64 USD)
-   ▲ ETHUSDT: entry 2465.37 → ahora 2472.77 (+0.43 USD)
+   ▼ SOLUSDT: entry 107 → ahora 107.74 (-0.99 USD)
+   ▲ LTCUSDT: entry 61.3 → ahora 61.78 (+1.12 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.2752 (+2.96 USD)
+   ▲ ETHUSDT: entry 2465.37 → ahora 2492.48 (+1.56 USD)
