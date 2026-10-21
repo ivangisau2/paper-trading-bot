@@ -1,5 +1,5 @@
 {
-  "balance": 948.1817325777864,
+  "balance": 947.8972993987321,
   "initial_balance": 1000.0,
   "positions": {
     "SOLUSDT": {
@@ -12,7 +12,7 @@
       "notional": 142.5523229,
       "fee": 0.1425523229,
       "note": "score -1 | IA: Overbought, price above Bollinger, bearish EMA, high volume supports short",
-      "checked_at": 1792589242.8479967
+      "checked_at": 1792590131.8942008
     },
     "BTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 142.53117732,
       "fee": 0.14253117732,
       "note": "score 2 | IA: Bullish EMA, MACD, price above middle band; volume weak, RSI high.",
-      "checked_at": 1792589242.8479967
+      "checked_at": 1792590131.8942008
     },
     "LTCUSDT": {
       "side": "long",
@@ -36,7 +36,29 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792589242.8479967
+      "checked_at": 1792590131.8942008
+    },
+    "NEARUSDT": {
+      "side": "long",
+      "qty": 27.52181971,
+      "entry": 5.1678,
+      "sl": 5.0145665810380295,
+      "tp": 5.474266837923941,
+      "opened_at": "2026-10-21T13:42:31+00:00",
+      "notional": 142.227259897338,
+      "fee": 0.142227259897338,
+      "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought"
+    },
+    "ETHUSDT": {
+      "side": "long",
+      "qty": 0.05768137,
+      "entry": 2465.37,
+      "sl": 2440.549937285446,
+      "tp": 2515.0101254291076,
+      "opened_at": "2026-10-21T13:42:32+00:00",
+      "notional": 142.2059191569,
+      "fee": 0.1422059191569,
+      "note": "score 2 | IA: Precio cerca de banda superior, RSI no sobrecomprado, tendencia alcista confirma"
     }
   },
   "closed": 122,
