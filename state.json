@@ -12,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792610243.133252
+      "checked_at": 1792611121.939891
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792610243.133252
+      "checked_at": 1792611121.939891
     },
     "ETHUSDT": {
       "side": "long",
@@ -35,7 +35,8 @@
       "opened_at": "2026-10-21T19:17:30+00:00",
       "notional": 142.5660167679,
       "fee": 0.1425660167679,
-      "note": "score 1 | IA: Bullish trend, MACD, EMA; RSI high, near Bollinger upper."
+      "note": "score 1 | IA: Bullish trend, MACD, EMA; RSI high, near Bollinger upper.",
+      "checked_at": 1792611121.939891
     }
   },
   "closed": 125,
