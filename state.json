@@ -1,5 +1,5 @@
 {
-  "balance": 947.7218795069695,
+  "balance": 950.4401207190936,
   "initial_balance": 1000.0,
   "positions": {
     "LTCUSDT": {
@@ -12,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792600569.5896208
+      "checked_at": 1792601448.1295898
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,22 +24,10 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792600569.5896208
-    },
-    "ETHUSDT": {
-      "side": "long",
-      "qty": 0.05768137,
-      "entry": 2465.37,
-      "sl": 2440.549937285446,
-      "tp": 2515.0101254291076,
-      "opened_at": "2026-10-21T13:42:32+00:00",
-      "notional": 142.2059191569,
-      "fee": 0.1422059191569,
-      "note": "score 2 | IA: Precio cerca de banda superior, RSI no sobrecomprado, tendencia alcista confirma",
-      "checked_at": 1792600569.5896208
+      "checked_at": 1792601448.1295898
     }
   },
-  "closed": 124,
-  "realized_pnl": -51.85117775318065,
+  "closed": 125,
+  "realized_pnl": -49.2751424602134,
   "started": "2026-09-23T21:38:36+00:00"
 }

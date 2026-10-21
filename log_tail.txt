@@ -1,19 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-21 16:36 UTC
+⏰ Ciclo — 2026-10-21 16:50 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO ETHUSDT @ 2515.0101254291076: +2.58 USD (take profit (wick entre ciclos))
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 70%): RSI overbought, near upper Bollinger, low volume; risk of reversal.
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 70%): Precio sobre Bollinger y RSI sobrecomprado, riesgo de retroceso
 
-🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista pero momentum alcista
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 70%): RSI overbought y precio supera banda superior, indica posible retroceso
 
-💰 Equity: $956.09 | Cash: $947.72 | Retorno: -4.39%
-📈 Posiciones abiertas: 3 | Cerradas: 124 | PnL realizado: -51.85
-   ▲ LTCUSDT: entry 61.3 → ahora 62.06 (+1.77 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.3274 (+4.39 USD)
-   ▲ ETHUSDT: entry 2465.37 → ahora 2503.63 (+2.21 USD)
+💰 Equity: $956.21 | Cash: $950.44 | Retorno: -4.38%
+📈 Posiciones abiertas: 2 | Cerradas: 125 | PnL realizado: -49.28
+   ▲ LTCUSDT: entry 61.3 → ahora 62.01 (+1.65 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.3175 (+4.12 USD)
