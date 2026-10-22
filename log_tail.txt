@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 07:41 UTC
+⏰ Ciclo — 2026-10-22 07:55 UTC
 ============================================================
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 55%): RSI oversold, but MACD bearish and low volume; mixed, stay flat.
+   → FLAT (confianza 55%): EMA bullish, RSI oversold, but MACD negative and low volume; better wait
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI oversold but MACD negative, low volume, weak confirmation; mejor esperar
+   → FLAT (confianza 40%): Mixed indicators, low volume, MACD bearish; better wait.
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, low volume, price near lower Bollinger; signal not confirmed
+   → FLAT (confianza 65%): RSI oversold, price near lower Bollinger, low volume; bearish trend insufficient for short.
 
 🤖 Analista IA evaluando LTCUSDT (long score 1)...
-   → FLAT (confianza 65%): Precio bajo banda inferior, RSI oversold, pero MACD negativo y tendencia incierta.
+   → LONG (confianza 65%): RSI oversold, bullish EMA, volume surge, price below lower Bollinger
+  [ejecución] ▲ LONG LTCUSDT: 2.37054376 @ 59.72 | SL 58.8551 | TP 61.4498 | score 1 | IA: RSI oversold, bullish EMA, volume surge, price below lower Bollinger
 
-💰 Equity: $943.79 | Cash: $943.79 | Retorno: -5.62%
-📈 Posiciones abiertas: 0 | Cerradas: 132 | PnL realizado: -56.21
+💰 Equity: $943.65 | Cash: $943.65 | Retorno: -5.63%
+📈 Posiciones abiertas: 1 | Cerradas: 132 | PnL realizado: -56.21
+   ▲ LTCUSDT: entry 59.72 → ahora 59.72 (+0.00 USD)
