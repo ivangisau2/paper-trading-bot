@@ -1,5 +1,5 @@
 {
-  "balance": 944.7506699747613,
+  "balance": 944.6089573742573,
   "initial_balance": 1000.0,
   "positions": {
     "LTCUSDT": {
@@ -12,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792630395.7579107
+      "checked_at": 1792630665.185697
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792630395.7579107
+      "checked_at": 1792630665.185697
     },
     "ETHUSDT": {
       "side": "long",
@@ -36,7 +36,18 @@
       "notional": 142.5660167679,
       "fee": 0.1425660167679,
       "note": "score 1 | IA: Bullish trend, MACD, EMA; RSI high, near Bollinger upper.",
-      "checked_at": 1792630395.7579107
+      "checked_at": 1792630665.185697
+    },
+    "AVAXUSDT": {
+      "side": "short",
+      "qty": 14.64275682,
+      "entry": 9.678,
+      "sl": 9.82921732054269,
+      "tp": 9.375565358914626,
+      "opened_at": "2026-10-22T00:57:50+00:00",
+      "notional": 141.71260050396,
+      "fee": 0.14171260050396,
+      "note": "score -2 | IA: EMA bajista, MACD negativo, RSI bajo, soporte cercano"
     }
   },
   "closed": 127,

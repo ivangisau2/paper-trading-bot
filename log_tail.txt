@@ -1,19 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 00:53 UTC
+⏰ Ciclo — 2026-10-22 00:57 UTC
 ============================================================
   [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI neutral and price near Bollinger middle; cautious
+   → FLAT (confianza 60%): Precio cerca banda inferior, señal corta pero riesgo rebote
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 60%): Señal bajista pero precio sube y volumen bajo, contexto no confirma plenamente
+   → SHORT (confianza 60%): EMA bajista, MACD negativo, RSI bajo, soporte cercano
+  [ejecución] ▼ SHORT AVAXUSDT: 14.64275682 @ 9.678 | SL 9.82922 | TP 9.37557 | score -2 | IA: EMA bajista, MACD negativo, RSI bajo, soporte cercano
 
-💰 Equity: $948.11 | Cash: $944.75 | Retorno: -5.19%
-📈 Posiciones abiertas: 3 | Cerradas: 127 | PnL realizado: -54.82
-   ▲ LTCUSDT: entry 61.3 → ahora 61.74 (+1.02 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.3005 (+3.65 USD)
-   ▲ ETHUSDT: entry 2496.21 → ahora 2473.2 (-1.31 USD)
+💰 Equity: $948.04 | Cash: $944.61 | Retorno: -5.20%
+📈 Posiciones abiertas: 4 | Cerradas: 127 | PnL realizado: -54.82
+   ▲ LTCUSDT: entry 61.3 → ahora 61.72 (+0.98 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.3038 (+3.74 USD)
+   ▲ ETHUSDT: entry 2496.21 → ahora 2473.69 (-1.29 USD)
+   ▼ AVAXUSDT: entry 9.678 → ahora 9.678 (+0.00 USD)
