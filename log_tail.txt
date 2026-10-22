@@ -1,18 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 01:12 UTC
+⏰ Ciclo — 2026-10-22 01:26 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ETHUSDT @ 2468.412388270776: -1.87 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (short score -3)...
-   → SHORT (confianza 60%): EMA bearish, MACD negative, volume high; RSI neutral, price near middle, modest confidence.
-  [ejecución] ▼ SHORT ADAUSDT: 625.10577158 @ 0.226253 | SL 0.22917 | TP 0.220418 | score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, price near middle, modest confidence.
-
-💰 Equity: $947.43 | Cash: $942.74 | Retorno: -5.26%
+💰 Equity: $947.46 | Cash: $942.74 | Retorno: -5.25%
 📈 Posiciones abiertas: 4 | Cerradas: 128 | PnL realizado: -56.69
-   ▲ LTCUSDT: entry 61.3 → ahora 61.81 (+1.19 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.3064 (+3.81 USD)
-   ▼ AVAXUSDT: entry 9.678 → ahora 9.699 (-0.31 USD)
-   ▼ ADAUSDT: entry 0.226253 → ahora 0.226253 (+0.00 USD)
+   ▲ LTCUSDT: entry 61.3 → ahora 61.77 (+1.09 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.3056 (+3.79 USD)
+   ▼ AVAXUSDT: entry 9.678 → ahora 9.692 (-0.20 USD)
+   ▼ ADAUSDT: entry 0.226253 → ahora 0.226188 (+0.04 USD)
