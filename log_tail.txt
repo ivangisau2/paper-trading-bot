@@ -1,15 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 05:20 UTC
+⏰ Ciclo — 2026-10-22 05:34 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO LTCUSDT @ 60.3314191057803: -2.53 USD (stop loss (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 60%): Precio cerca banda inferior, RSI bajo, pero MACD negativo y volumen débil
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 55%): Baja volatilidad y RSI indica sobreventa; tendencia bajista incierta
+   → FLAT (confianza 60%): RSI oversold, low volume, near lower Bollinger; short not confirmed
 
-💰 Equity: $946.04 | Cash: $950.54 | Retorno: -5.40%
-📈 Posiciones abiertas: 2 | Cerradas: 130 | PnL realizado: -49.18
-   ▲ LTCUSDT: entry 61.3 → ahora 60.61 (-1.60 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.0625 (-2.90 USD)
+💰 Equity: $944.55 | Cash: $948.15 | Retorno: -5.54%
+📈 Posiciones abiertas: 1 | Cerradas: 131 | PnL realizado: -51.71
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.0372 (-3.59 USD)
