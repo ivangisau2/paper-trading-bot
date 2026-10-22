@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 11:05 UTC
+⏰ Ciclo — 2026-10-22 11:20 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 60%): Señal conflictiva, bajo volumen y MACD negativo pese a RSI bajo
+   → FLAT (confianza 40%): RSI oversold but MACD bearish, low volume; señal poco confirmada
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 60%): Baja confirmación de volumen y MACD negativo
+   → FLAT (confianza 30%): RSI oversold but MACD negative, low volume, weak confirmation.
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 60%): Baja confirmación: volumen débil, MACD negativo, aunque RSI sobrevendido y EMA alcista
+   → FLAT (confianza 55%): Baja volatilidad y volumen, MACD negativo pese a EMA alcista; señal poco confiable.
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, bajo volumen, precio cerca banda inferior
+   → FLAT (confianza 60%): RSI oversold y volumen bajo debilitan señal corta
 
-💰 Equity: $942.63 | Cash: $943.65 | Retorno: -5.74%
+💰 Equity: $942.70 | Cash: $943.65 | Retorno: -5.73%
 📈 Posiciones abiertas: 1 | Cerradas: 132 | PnL realizado: -56.21
-   ▲ LTCUSDT: entry 59.72 → ahora 59.29 (-1.02 USD)
+   ▲ LTCUSDT: entry 59.72 → ahora 59.32 (-0.95 USD)
