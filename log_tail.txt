@@ -1,17 +1,19 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 05:34 UTC
+⏰ Ciclo — 2026-10-22 05:49 UTC
 ============================================================
-  [ejecución] ❌ CERRADO LTCUSDT @ 60.3314191057803: -2.53 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO NEARUSDT @ 5.0145665810380295: -4.50 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 60%): Precio cerca banda inferior, RSI bajo, pero MACD negativo y volumen débil
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 55%): Mixed indicators; bullish trend but weak momentum and low volume
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, low volume, near lower Bollinger; short not confirmed
+   → FLAT (confianza 55%): Bajista tendencia, pero RSI sobrevendido y bajo volumen generan duda.
 
-💰 Equity: $944.55 | Cash: $948.15 | Retorno: -5.54%
-📈 Posiciones abiertas: 1 | Cerradas: 131 | PnL realizado: -51.71
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.0372 (-3.59 USD)
+🤖 Analista IA evaluando NEARUSDT (long score 1)...
+   → FLAT (confianza 45%): Precio bajo banda, RSI bajo, pero volumen débil y MACD negativo
+
+💰 Equity: $943.79 | Cash: $943.79 | Retorno: -5.62%
+📈 Posiciones abiertas: 0 | Cerradas: 132 | PnL realizado: -56.21
