@@ -12,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792639409.7526762
+      "checked_at": 1792640284.2101302
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792639409.7526762
+      "checked_at": 1792640284.2101302
     }
   },
   "closed": 130,
