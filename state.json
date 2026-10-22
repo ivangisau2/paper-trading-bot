@@ -11,7 +11,8 @@
       "opened_at": "2026-10-22T07:55:58+00:00",
       "notional": 141.5688733472,
       "fee": 0.1415688733472,
-      "note": "score 1 | IA: RSI oversold, bullish EMA, volume surge, price below lower Bollinger"
+      "note": "score 1 | IA: RSI oversold, bullish EMA, volume surge, price below lower Bollinger",
+      "checked_at": 1792656625.3017712
     }
   },
   "closed": 132,
