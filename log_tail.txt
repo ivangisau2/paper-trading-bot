@@ -1,18 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 05:59 UTC
+⏰ Ciclo — 2026-10-22 06:13 UTC
 ============================================================
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 55%): Mixed signals; bullish trend but momentum bearish, volume low.
+   → FLAT (confianza 60%): RSI oversold but MACD negative, low volume, trend bullish; señal poco confirmada
 
 🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 60%): Tendencia bajista, pero RSI bajo y bajo volumen generan duda.
+   → FLAT (confianza 60%): Volumen muy bajo y RSI indica sobreventa, señal corta no confirmada
 
 🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 60%): Mixed indicators; bullish EMA vs bearish MACD, low volume, price below Bollinger.
+   → FLAT (confianza 70%): Baja confirmación: volumen bajo, MACD negativo, RSI no sobrevendido
 
 💰 Equity: $943.79 | Cash: $943.79 | Retorno: -5.62%
 📈 Posiciones abiertas: 0 | Cerradas: 132 | PnL realizado: -56.21
