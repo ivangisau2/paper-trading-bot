@@ -1,17 +1,13 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 02:10 UTC
+⏰ Ciclo — 2026-10-22 02:25 UTC
 ============================================================
-  [salida] wicks 1m revisados: 4 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO AVAXUSDT @ 9.375565358914626: +4.15 USD (take profit (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): EMA bullish, price near lower Bollinger, MACD bearish, inconclusive
-
-💰 Equity: $948.67 | Cash: $942.74 | Retorno: -5.13%
-📈 Posiciones abiertas: 4 | Cerradas: 128 | PnL realizado: -56.69
-   ▲ LTCUSDT: entry 61.3 → ahora 61.18 (-0.28 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.2108 (+1.18 USD)
-   ▼ AVAXUSDT: entry 9.678 → ahora 9.48 (+2.90 USD)
-   ▼ ADAUSDT: entry 0.226253 → ahora 0.222854 (+2.12 USD)
+💰 Equity: $948.90 | Cash: $947.03 | Retorno: -5.11%
+📈 Posiciones abiertas: 3 | Cerradas: 129 | PnL realizado: -52.54
+   ▲ LTCUSDT: entry 61.3 → ahora 61 (-0.70 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.1504 (-0.48 USD)
+   ▼ ADAUSDT: entry 0.226253 → ahora 0.221379 (+3.05 USD)

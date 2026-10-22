@@ -1,5 +1,5 @@
 {
-  "balance": 942.7389421853578,
+  "balance": 947.0301349651144,
   "initial_balance": 1000.0,
   "positions": {
     "LTCUSDT": {
@@ -12,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792635038.7250912
+      "checked_at": 1792635910.537497
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,19 +24,7 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792635038.7250912
-    },
-    "AVAXUSDT": {
-      "side": "short",
-      "qty": 14.64275682,
-      "entry": 9.678,
-      "sl": 9.82921732054269,
-      "tp": 9.375565358914626,
-      "opened_at": "2026-10-22T00:57:50+00:00",
-      "notional": 141.71260050396,
-      "fee": 0.14171260050396,
-      "note": "score -2 | IA: EMA bajista, MACD negativo, RSI bajo, soporte cercano",
-      "checked_at": 1792635038.7250912
+      "checked_at": 1792635910.537497
     },
     "ADAUSDT": {
       "side": "short",
@@ -48,10 +36,10 @@
       "notional": 141.43205613728975,
       "fee": 0.14143205613728976,
       "note": "score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, price near middle, modest confidence.",
-      "checked_at": 1792635038.7250912
+      "checked_at": 1792635910.537497
     }
   },
-  "closed": 128,
-  "realized_pnl": -56.69317633730788,
+  "closed": 129,
+  "realized_pnl": -52.54369615805532,
   "started": "2026-09-23T21:38:36+00:00"
 }
