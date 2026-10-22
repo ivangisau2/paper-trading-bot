@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 17:03 UTC
+⏰ Ciclo — 2026-10-22 17:17 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ETHUSDT @ 2361.3237997499045: -1.71 USD (stop loss (wick entre ciclos))
 
 📊 7 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 60%): Mixed indicators, low volume, bearish momentum; mejor esperar.
+   → FLAT (confianza 70%): MACD bearish, low volume, despite oversold RSI; mejor esperar
 
 🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI oversold but MACD negative, low volume, ambiguous
+   → FLAT (confianza 60%): Mixed indicators; oversold RSI vs bearish MACD, low volume, uncertain bounce.
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 60%): Baja confirmación: volumen débil, MACD negativo, aunque RSI bajo y EMA alcista.
+   → FLAT (confianza 60%): Mixed indicators, low volume, MACD bearish; no clear confirmation.
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 65%): Bajo volumen y MACD negativo generan incertidumbre
+   → FLAT (confianza 65%): Bajo volumen y MACD negativo generan duda
 
 💰 Equity: $939.75 | Cash: $939.75 | Retorno: -6.02%
 📈 Posiciones abiertas: 0 | Cerradas: 134 | PnL realizado: -60.25
