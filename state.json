@@ -11,7 +11,8 @@
       "opened_at": "2026-10-22T16:33:57+00:00",
       "notional": 141.21917350959998,
       "fee": 0.14121917350959998,
-      "note": "score 1 | IA: Precio cerca de banda inferior, RSI sobrevendido, EMA bullish, soporte probable"
+      "note": "score 1 | IA: Precio cerca de banda inferior, RSI sobrevendido, EMA bullish, soporte probable",
+      "checked_at": 1792687709.7809937
     }
   },
   "closed": 133,
