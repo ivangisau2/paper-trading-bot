@@ -1,13 +1,16 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 02:25 UTC
+⏰ Ciclo — 2026-10-22 02:39 UTC
 ============================================================
-  [ejecución] ✅ CERRADO AVAXUSDT @ 9.375565358914626: +4.15 USD (take profit (wick entre ciclos))
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $948.90 | Cash: $947.03 | Retorno: -5.11%
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): EMA bullish, RSI oversold, price near lower Bollinger; short not justified
+
+💰 Equity: $948.72 | Cash: $947.03 | Retorno: -5.13%
 📈 Posiciones abiertas: 3 | Cerradas: 129 | PnL realizado: -52.54
-   ▲ LTCUSDT: entry 61.3 → ahora 61 (-0.70 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.1504 (-0.48 USD)
-   ▼ ADAUSDT: entry 0.226253 → ahora 0.221379 (+3.05 USD)
+   ▲ LTCUSDT: entry 61.3 → ahora 61.06 (-0.56 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.1335 (-0.94 USD)
+   ▼ ADAUSDT: entry 0.226253 → ahora 0.221151 (+3.19 USD)
