@@ -1,5 +1,5 @@
 {
-  "balance": 947.0301349651144,
+  "balance": 950.5397642106304,
   "initial_balance": 1000.0,
   "positions": {
     "LTCUSDT": {
@@ -12,7 +12,7 @@
       "notional": 142.509560796,
       "fee": 0.142509560796,
       "note": "score 2 | IA: EMA bullish, MACD positive, RSI neutral, but low volume",
-      "checked_at": 1792638538.3500075
+      "checked_at": 1792639409.7526762
     },
     "NEARUSDT": {
       "side": "long",
@@ -24,22 +24,10 @@
       "notional": 142.227259897338,
       "fee": 0.142227259897338,
       "note": "score 3 | IA: Bullish indicators align, volume strong, price near upper Bollinger but not overbought",
-      "checked_at": 1792638538.3500075
-    },
-    "ADAUSDT": {
-      "side": "short",
-      "qty": 625.10577158,
-      "entry": 0.226253,
-      "sl": 0.2291704373790747,
-      "tp": 0.22041812524185064,
-      "opened_at": "2026-10-22T01:12:21+00:00",
-      "notional": 141.43205613728975,
-      "fee": 0.14143205613728976,
-      "note": "score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, price near middle, modest confidence.",
-      "checked_at": 1792638538.3500075
+      "checked_at": 1792639409.7526762
     }
   },
-  "closed": 129,
-  "realized_pnl": -52.54369615805532,
+  "closed": 130,
+  "realized_pnl": -49.17549896867651,
   "started": "2026-09-23T21:38:36+00:00"
 }

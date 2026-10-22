@@ -1,19 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-22 03:08 UTC
+⏰ Ciclo — 2026-10-22 03:23 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO ADAUSDT @ 0.22041812524185064: +3.37 USD (take profit (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 60%): Mixed signals, low volume, MACD bearish; better wait.
+   → FLAT (confianza 60%): Mixed signals; low volume and bearish MACD outweigh bullish EMA
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 60%): Mixed signals: oversold RSI, bullish EMA, but negative MACD and low volume; stay flat
+   → FLAT (confianza 55%): Precio cerca de banda inferior, RSI bajo, pero MACD negativo y bajo volumen
 
-💰 Equity: $948.26 | Cash: $947.03 | Retorno: -5.17%
-📈 Posiciones abiertas: 3 | Cerradas: 129 | PnL realizado: -52.54
-   ▲ LTCUSDT: entry 61.3 → ahora 60.74 (-1.30 USD)
-   ▲ NEARUSDT: entry 5.1678 → ahora 5.1399 (-0.77 USD)
-   ▼ ADAUSDT: entry 0.226253 → ahora 0.220979 (+3.30 USD)
+🤖 Analista IA evaluando ADAUSDT (short score -1)...
+   → FLAT (confianza 65%): Precio bajo banda, RSI oversold, bajo volumen, señal corta no confirmada
+
+💰 Equity: $947.45 | Cash: $950.54 | Retorno: -5.26%
+📈 Posiciones abiertas: 2 | Cerradas: 130 | PnL realizado: -49.18
+   ▲ LTCUSDT: entry 61.3 → ahora 60.76 (-1.26 USD)
+   ▲ NEARUSDT: entry 5.1678 → ahora 5.1011 (-1.84 USD)
