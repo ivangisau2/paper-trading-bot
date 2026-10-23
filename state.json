@@ -1,5 +1,5 @@
 {
-  "balance": 939.6120443128113,
+  "balance": 939.4711025059632,
   "initial_balance": 1000.0,
   "positions": {
     "ETHUSDT": {
@@ -12,7 +12,18 @@
       "notional": 140.9629513855,
       "fee": 0.1409629513855,
       "note": "score 1 | IA: RSI oversold, price near lower Bollinger, bullish EMA suggest rebound.",
-      "checked_at": 1792714262.0359604
+      "checked_at": 1792715139.386362
+    },
+    "LTCUSDT": {
+      "side": "long",
+      "qty": 2.40802677,
+      "entry": 58.53,
+      "sl": 57.761817739119486,
+      "tp": 60.06636452176103,
+      "opened_at": "2026-10-23T00:25:44+00:00",
+      "notional": 140.94180684810001,
+      "fee": 0.1409418068481,
+      "note": "score 3 | IA: RSI oversold, bullish EMA, near lower Bollinger; volume weak, slight downtrend."
     }
   },
   "closed": 134,
