@@ -1,14 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-23 23:15 UTC
+⏰ Ciclo — 2026-10-23 23:30 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → LONG (confianza 60%): RSI oversold, price below Bollinger, but MACD negative; moderate confidence LONG
-  [ejecución] ▲ LONG XRPUSDT: 108.57055468 @ 1.28617 | SL 1.271 | TP 1.31652 | score 2 | IA: RSI oversold, price below Bollinger, but MACD negative; moderate confidence LONG
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda inferior, RSI oversold, volumen débil; señal corta no confirmada
 
-💰 Equity: $930.75 | Cash: $930.79 | Retorno: -6.93%
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda inferior y RSI oversold; posible rebote, señal corta no confirmada
+
+💰 Equity: $931.12 | Cash: $930.79 | Retorno: -6.89%
 📈 Posiciones abiertas: 1 | Cerradas: 139 | PnL realizado: -69.07
-   ▲ XRPUSDT: entry 1.28617 → ahora 1.28574 (-0.05 USD)
+   ▲ XRPUSDT: entry 1.28617 → ahora 1.28915 (+0.32 USD)
