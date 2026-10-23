@@ -12,7 +12,7 @@
       "notional": 140.9629513855,
       "fee": 0.1409629513855,
       "note": "score 1 | IA: RSI oversold, price near lower Bollinger, bullish EMA suggest rebound.",
-      "checked_at": 1792722019.1437924
+      "checked_at": 1792722896.2553446
     },
     "LTCUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 140.94180684810001,
       "fee": 0.1409418068481,
       "note": "score 3 | IA: RSI oversold, bullish EMA, near lower Bollinger; volume weak, slight downtrend.",
-      "checked_at": 1792722019.1437924
+      "checked_at": 1792722896.2553446
     },
     "BTCUSDT": {
       "side": "long",
@@ -36,7 +36,7 @@
       "notional": 140.920761349,
       "fee": 0.140920761349,
       "note": "score 3 | IA: RSI oversold, bullish EMA, MACD, price near lower Bollinger; volume weak",
-      "checked_at": 1792722019.1437924
+      "checked_at": 1792722896.2553446
     }
   },
   "closed": 134,
