@@ -1,45 +1,8 @@
 {
-  "balance": 935.3737931823965,
+  "balance": 930.9346021060685,
   "initial_balance": 1000.0,
-  "positions": {
-    "ETHUSDT": {
-      "side": "long",
-      "qty": 0.05932909,
-      "entry": 2375.95,
-      "sl": 2351.069164176342,
-      "tp": 2425.711671647315,
-      "opened_at": "2026-10-22T20:55:36+00:00",
-      "notional": 140.9629513855,
-      "fee": 0.1409629513855,
-      "note": "score 1 | IA: RSI oversold, price near lower Bollinger, bullish EMA suggest rebound.",
-      "checked_at": 1792795613.47125
-    },
-    "BTCUSDT": {
-      "side": "long",
-      "qty": 0.00173483,
-      "entry": 81230.3,
-      "sl": 80672.96307008932,
-      "tp": 82344.97385982137,
-      "opened_at": "2026-10-23T00:40:21+00:00",
-      "notional": 140.920761349,
-      "fee": 0.140920761349,
-      "note": "score 3 | IA: RSI oversold, bullish EMA, MACD, price near lower Bollinger; volume weak",
-      "checked_at": 1792795613.47125
-    },
-    "XRPUSDT": {
-      "side": "long",
-      "qty": 108.13259775,
-      "entry": 1.30283,
-      "sl": 1.2882422875105572,
-      "tp": 1.332005424978885,
-      "opened_at": "2026-10-23T14:17:16+00:00",
-      "notional": 140.8783923266325,
-      "fee": 0.14087839232663252,
-      "note": "score 2 | IA: Precio cerca banda inferior, EMA alcista, RSI bajo, MACD positivo, volumen suficiente.",
-      "checked_at": 1792795613.47125
-    }
-  },
-  "closed": 136,
-  "realized_pnl": -64.20344471254249,
+  "positions": {},
+  "closed": 139,
+  "realized_pnl": -69.0653978939316,
   "started": "2026-09-23T21:38:36+00:00"
 }
