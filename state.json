@@ -1,5 +1,5 @@
 {
-  "balance": 939.4711025059632,
+  "balance": 939.3301817446143,
   "initial_balance": 1000.0,
   "positions": {
     "ETHUSDT": {
@@ -12,7 +12,7 @@
       "notional": 140.9629513855,
       "fee": 0.1409629513855,
       "note": "score 1 | IA: RSI oversold, price near lower Bollinger, bullish EMA suggest rebound.",
-      "checked_at": 1792715139.386362
+      "checked_at": 1792716017.6007147
     },
     "LTCUSDT": {
       "side": "long",
@@ -23,7 +23,19 @@
       "opened_at": "2026-10-23T00:25:44+00:00",
       "notional": 140.94180684810001,
       "fee": 0.1409418068481,
-      "note": "score 3 | IA: RSI oversold, bullish EMA, near lower Bollinger; volume weak, slight downtrend."
+      "note": "score 3 | IA: RSI oversold, bullish EMA, near lower Bollinger; volume weak, slight downtrend.",
+      "checked_at": 1792716017.6007147
+    },
+    "BTCUSDT": {
+      "side": "long",
+      "qty": 0.00173483,
+      "entry": 81230.3,
+      "sl": 80672.96307008932,
+      "tp": 82344.97385982137,
+      "opened_at": "2026-10-23T00:40:21+00:00",
+      "notional": 140.920761349,
+      "fee": 0.140920761349,
+      "note": "score 3 | IA: RSI oversold, bullish EMA, MACD, price near lower Bollinger; volume weak"
     }
   },
   "closed": 134,
