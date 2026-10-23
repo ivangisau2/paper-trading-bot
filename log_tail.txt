@@ -1,15 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-23 23:01 UTC
+⏰ Ciclo — 2026-10-23 23:15 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ETHUSDT @ 2351.069164176342: -1.76 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO BTCUSDT @ 80672.96307008932: -1.25 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO XRPUSDT @ 1.2882422875105572: -1.86 USD (stop loss (wick entre ciclos))
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 65%): Baja confirmación: bajo volumen y MACD negativo
+   → LONG (confianza 60%): RSI oversold, price below Bollinger, but MACD negative; moderate confidence LONG
+  [ejecución] ▲ LONG XRPUSDT: 108.57055468 @ 1.28617 | SL 1.271 | TP 1.31652 | score 2 | IA: RSI oversold, price below Bollinger, but MACD negative; moderate confidence LONG
 
-💰 Equity: $930.93 | Cash: $930.93 | Retorno: -6.91%
-📈 Posiciones abiertas: 0 | Cerradas: 139 | PnL realizado: -69.07
+💰 Equity: $930.75 | Cash: $930.79 | Retorno: -6.93%
+📈 Posiciones abiertas: 1 | Cerradas: 139 | PnL realizado: -69.07
+   ▲ XRPUSDT: entry 1.28617 → ahora 1.28574 (-0.05 USD)
