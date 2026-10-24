@@ -1,11 +1,13 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-24 23:30 UTC
+⏰ Ciclo — 2026-10-24 23:41 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ETHUSDT @ 2356.009161302568: -1.74 USD (stop loss (wick entre ciclos))
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $928.19 | Cash: $928.87 | Retorno: -7.18%
-📈 Posiciones abiertas: 1 | Cerradas: 140 | PnL realizado: -70.99
-   ▼ ETHUSDT: entry 2331.64 → ahora 2342.98 (-0.68 USD)
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 45%): EMA bearish, but MACD and RSI lack clear sell pressure.
+
+💰 Equity: $927.27 | Cash: $927.27 | Retorno: -7.27%
+📈 Posiciones abiertas: 0 | Cerradas: 141 | PnL realizado: -72.73
