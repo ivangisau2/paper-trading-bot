@@ -1,21 +1,8 @@
 {
-  "balance": 930.7949619157557,
+  "balance": 929.009593211941,
   "initial_balance": 1000.0,
-  "positions": {
-    "XRPUSDT": {
-      "side": "long",
-      "qty": 108.57055468,
-      "entry": 1.28617,
-      "sl": 1.2709966788887024,
-      "tp": 1.3165166422225951,
-      "opened_at": "2026-10-23T23:16:09+00:00",
-      "notional": 139.64019031277562,
-      "fee": 0.1396401903127756,
-      "note": "score 2 | IA: RSI oversold, price below Bollinger, but MACD negative; moderate confidence LONG",
-      "checked_at": 1792851313.8518085
-    }
-  },
-  "closed": 139,
-  "realized_pnl": -69.0653978939316,
+  "positions": {},
+  "closed": 140,
+  "realized_pnl": -70.9904067880591,
   "started": "2026-09-23T21:38:36+00:00"
 }
