@@ -11,7 +11,8 @@
       "opened_at": "2026-10-24T21:15:35+00:00",
       "notional": 139.3514438888,
       "fee": 0.1393514438888,
-      "note": "score -3 | IA: Bearish trend, negative MACD, price near lower Bollinger, RSI not oversold."
+      "note": "score -3 | IA: Bearish trend, negative MACD, price near lower Bollinger, RSI not oversold.",
+      "checked_at": 1792877406.795026
     }
   },
   "closed": 140,
