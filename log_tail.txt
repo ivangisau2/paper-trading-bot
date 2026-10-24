@@ -1,9 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-24 21:00 UTC
+⏰ Ciclo — 2026-10-24 21:15 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $929.01 | Cash: $929.01 | Retorno: -7.10%
-📈 Posiciones abiertas: 0 | Cerradas: 140 | PnL realizado: -70.99
+🤖 Analista IA evaluando ETHUSDT (short score -3)...
+   → SHORT (confianza 65%): Bearish trend, negative MACD, price near lower Bollinger, RSI not oversold.
+  [ejecución] ▼ SHORT ETHUSDT: 0.05976542 @ 2331.64 | SL 2356.01 | TP 2282.9 | score -3 | IA: Bearish trend, negative MACD, price near lower Bollinger, RSI not oversold.
+
+💰 Equity: $928.85 | Cash: $928.87 | Retorno: -7.12%
+📈 Posiciones abiertas: 1 | Cerradas: 140 | PnL realizado: -70.99
+   ▼ ETHUSDT: entry 2331.64 → ahora 2332.02 (-0.02 USD)
