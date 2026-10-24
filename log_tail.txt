@@ -1,11 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-24 23:15 UTC
+⏰ Ciclo — 2026-10-24 23:30 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $928.30 | Cash: $928.87 | Retorno: -7.17%
+💰 Equity: $928.19 | Cash: $928.87 | Retorno: -7.18%
 📈 Posiciones abiertas: 1 | Cerradas: 140 | PnL realizado: -70.99
-   ▼ ETHUSDT: entry 2331.64 → ahora 2341.2 (-0.57 USD)
+   ▼ ETHUSDT: entry 2331.64 → ahora 2342.98 (-0.68 USD)
