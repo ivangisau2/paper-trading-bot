@@ -1,15 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-25 16:45 UTC
+⏰ Ciclo — 2026-10-25 17:00 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutro
-
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, MACD bullish y precio sobre BB, pero EMA bajista; duda razonable
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 55%): Conflicto entre impulso alcista y tendencia bajista, volumen insuficiente
 
 💰 Equity: $927.27 | Cash: $927.27 | Retorno: -7.27%
 📈 Posiciones abiertas: 0 | Cerradas: 141 | PnL realizado: -72.73
