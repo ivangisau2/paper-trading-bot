@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-26 09:48 UTC
+⏰ Ciclo — 2026-10-26 10:03 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $932.72 | Cash: $934.40 | Retorno: -6.73%
+💰 Equity: $933.34 | Cash: $934.40 | Retorno: -6.67%
 📈 Posiciones abiertas: 2 | Cerradas: 143 | PnL realizado: -65.32
-   ▼ XRPUSDT: entry 1.29504 → ahora 1.28937 (+0.61 USD)
-   ▼ NEARUSDT: entry 4.4748 → ahora 4.5479 (-2.29 USD)
+   ▼ XRPUSDT: entry 1.29504 → ahora 1.28842 (+0.71 USD)
+   ▼ NEARUSDT: entry 4.4748 → ahora 4.5314 (-1.77 USD)
