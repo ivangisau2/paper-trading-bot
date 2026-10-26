@@ -1,12 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-26 11:41 UTC
+⏰ Ciclo — 2026-10-26 11:56 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO NEARUSDT @ 4.591125224698565: -3.93 USD (stop loss (wick entre ciclos))
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $931.62 | Cash: $934.40 | Retorno: -6.84%
-📈 Posiciones abiertas: 2 | Cerradas: 143 | PnL realizado: -65.32
-   ▼ XRPUSDT: entry 1.29504 → ahora 1.28985 (+0.56 USD)
-   ▼ NEARUSDT: entry 4.4748 → ahora 4.5815 (-3.34 USD)
+💰 Equity: $930.75 | Cash: $930.62 | Retorno: -6.92%
+📈 Posiciones abiertas: 1 | Cerradas: 144 | PnL realizado: -69.25
+   ▼ XRPUSDT: entry 1.29504 → ahora 1.29375 (+0.14 USD)
