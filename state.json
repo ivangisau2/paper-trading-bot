@@ -12,7 +12,7 @@
       "notional": 139.0492259940288,
       "fee": 0.1390492259940288,
       "note": "score -3 | IA: EMA bearish, MACD negative, volume high, RSI neutral",
-      "checked_at": 1792989960.1603448
+      "checked_at": 1792990638.0158982
     },
     "NEARUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 140.181582765312,
       "fee": 0.14018158276531198,
       "note": "score -2 | IA: Bajista EMA, MACD negativo, precio descendiendo, RSI neutro, confirma se\u00f1al",
-      "checked_at": 1792989960.1603448
+      "checked_at": 1792990638.0158982
     }
   },
   "closed": 143,
