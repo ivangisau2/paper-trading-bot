@@ -6,6 +6,6 @@
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $930.14 | Cash: $930.62 | Retorno: -6.99%
+💰 Equity: $930.13 | Cash: $930.62 | Retorno: -6.99%
 📈 Posiciones abiertas: 1 | Cerradas: 144 | PnL realizado: -69.25
-   ▼ XRPUSDT: entry 1.29504 → ahora 1.29943 (-0.47 USD)
+   ▼ XRPUSDT: entry 1.29504 → ahora 1.29955 (-0.48 USD)
