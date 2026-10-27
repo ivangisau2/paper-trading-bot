@@ -1,18 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-26 23:52 UTC
+⏰ Ciclo — 2026-10-27 00:06 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO XRPUSDT @ 1.3075777889527156: -1.63 USD (stop loss (wick entre ciclos))
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 45%): Baja confirmación: volumen bajo, RSI neutro, cerca banda inferior, riesgo de rebote.
-
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI neutro y cerca banda baja
+   → FLAT (confianza 65%): Baja confirmación, volumen muy bajo, precio cerca soporte
 
-💰 Equity: $930.36 | Cash: $930.48 | Retorno: -6.96%
-📈 Posiciones abiertas: 2 | Cerradas: 144 | PnL realizado: -69.25
-   ▼ XRPUSDT: entry 1.29504 → ahora 1.29867 (-0.39 USD)
-   ▼ NEARUSDT: entry 4.4987 → ahora 4.4898 (+0.28 USD)
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 60%): Mixed indicators; downtrend vs bullish momentum, insufficient confirmation.
+
+💰 Equity: $928.75 | Cash: $928.99 | Retorno: -7.12%
+📈 Posiciones abiertas: 1 | Cerradas: 145 | PnL realizado: -70.87
+   ▼ NEARUSDT: entry 4.4987 → ahora 4.5063 (-0.24 USD)
