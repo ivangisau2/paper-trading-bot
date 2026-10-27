@@ -1,18 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-27 19:41 UTC
+⏰ Ciclo — 2026-10-27 19:55 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators; bearish EMA but bullish MACD and low volume, not enough confirmation.
+   → FLAT (confianza 65%): EMA bajista, pero MACD y RSI no confirman, volumen bajo
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): Indicadores mixtos, tendencia bajista pero momentum alcista; mejor esperar
-
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, volumen bajo, duda razonable
+   → FLAT (confianza 45%): Indicadores mixtos, falta confirmación bajista
 
 💰 Equity: $925.39 | Cash: $925.39 | Retorno: -7.46%
 📈 Posiciones abiertas: 0 | Cerradas: 146 | PnL realizado: -74.61
