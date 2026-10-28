@@ -7,13 +7,13 @@
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI alto y volumen bajo generan incertidumbre
+   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI high and low volume; uncertain, stay flat.
 
 🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y MACD positivo generan duda
+   → FLAT (confianza 55%): Mixed indicators; overbought RSI and bearish EMA support short, but MACD bullish and low volume.
 
-💰 Equity: $924.66 | Cash: $927.48 | Retorno: -7.53%
+💰 Equity: $924.55 | Cash: $927.48 | Retorno: -7.55%
 📈 Posiciones abiertas: 3 | Cerradas: 149 | PnL realizado: -72.10
-   ▼ NEARUSDT: entry 4.66 → ahora 4.7237 (-1.90 USD)
-   ▼ BTCUSDT: entry 81017.5 → ahora 81301.2 (-0.49 USD)
-   ▼ SOLUSDT: entry 102.15 → ahora 102.47 (-0.44 USD)
+   ▼ NEARUSDT: entry 4.66 → ahora 4.7258 (-1.96 USD)
+   ▼ BTCUSDT: entry 81017.5 → ahora 81307 (-0.50 USD)
+   ▼ SOLUSDT: entry 102.15 → ahora 102.5 (-0.48 USD)
