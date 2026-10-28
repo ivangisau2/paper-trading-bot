@@ -1,20 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-28 18:05 UTC
+⏰ Ciclo — 2026-10-28 18:20 UTC
 ============================================================
-  [ejecución] ❌ CERRADO BTCUSDT @ 80883.0898175683: -1.15 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
+🤖 Analista IA evaluando ETHUSDT (short score -3)...
+   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI neutral and price near Bollinger middle; duda
+
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → FLAT (confianza 55%): EMA bearish, MACD down, but price near lower Bollinger; risk of bounce.
+
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 60%): EMA bajista y MACD negativo, pero RSI neutral y precio cerca de media Bollinger
+   → FLAT (confianza 55%): Banda inferior cerca, RSI neutro, señal no clara
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 65%): Bearish trend but neutral RSI, low volume, price near lower Bollinger; insufficient confirmation
-
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): EMA bearish, MACD negative, pero RSI neutro y precio cerca de media Bollinger
-
-💰 Equity: $928.33 | Cash: $927.76 | Retorno: -7.17%
+💰 Equity: $929.72 | Cash: $927.76 | Retorno: -7.03%
 📈 Posiciones abiertas: 1 | Cerradas: 149 | PnL realizado: -72.10
-   ▼ NEARUSDT: entry 4.66 → ahora 4.6409 (+0.57 USD)
+   ▼ NEARUSDT: entry 4.66 → ahora 4.5941 (+1.96 USD)
