@@ -12,7 +12,7 @@
       "notional": 138.8080498527,
       "fee": 0.1388080498527,
       "note": "score -2 | IA: RSI overbought, price above upper Bollinger, EMA downtrend; MACD still bullish but weakening.",
-      "checked_at": 1793184949.7247622
+      "checked_at": 1793185823.1362443
     },
     "BTCUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 138.78758865999998,
       "fee": 0.13878758866,
       "note": "score -2 | IA: RSI overbought, price above BB, bearish EMA, low volume",
-      "checked_at": 1793184949.7247622
+      "checked_at": 1793185823.1362443
     }
   },
   "closed": 146,
