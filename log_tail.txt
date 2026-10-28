@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-28 14:20 UTC
+⏰ Ciclo — 2026-10-28 14:25 UTC
 ============================================================
-  [ejecución] ✅ CERRADO SOLUSDT @ 100.60044207216576: +2.31 USD (take profit (wick entre ciclos))
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 70%): Precio cerca banda baja, RSI no sobrevendido, señal corta no confirmada
-
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 30%): Señal corta no confirmada, indicadores mixtos y precio bajo BB.
+   → FLAT (confianza 40%): Baja confirmación, volumen débil y precio bajo banda inferior
+
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio cerca banda baja, RSI bajo, riesgo de rebote
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 60%): Baja confirmación: MACD negativo, volumen débil, RSI neutro, duda razonable
+   → FLAT (confianza 45%): Precio bajo banda, pero volumen bajo y MACD negativo
 
-💰 Equity: $931.65 | Cash: $928.77 | Retorno: -6.84%
+💰 Equity: $932.07 | Cash: $928.77 | Retorno: -6.79%
 📈 Posiciones abiertas: 2 | Cerradas: 148 | PnL realizado: -70.95
-   ▼ NEARUSDT: entry 4.66 → ahora 4.5579 (+3.04 USD)
-   ▼ BTCUSDT: entry 80380.1 → ahora 80474.5 (-0.16 USD)
+   ▼ NEARUSDT: entry 4.66 → ahora 4.5486 (+3.32 USD)
+   ▼ BTCUSDT: entry 80380.1 → ahora 80387.7 (-0.01 USD)
