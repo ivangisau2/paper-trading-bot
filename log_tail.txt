@@ -1,17 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-28 22:00 UTC
+⏰ Ciclo — 2026-10-28 22:15 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 30%): Bajo volumen y poca confirmación, mejor permanecer flat
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal poco confirmada
 
 🤖 Analista IA evaluando LTCUSDT (short score -1)...
-   → FLAT (confianza 70%): Precio sobre Bollinger superior, RSI alto, EMA bajista, pero MACD positivo y sin volumen.
+   → FLAT (confianza 60%): Mixed indicators, low volume, insufficient confirmation for short
 
-💰 Equity: $920.35 | Cash: $921.72 | Retorno: -7.96%
+💰 Equity: $920.69 | Cash: $921.72 | Retorno: -7.93%
 📈 Posiciones abiertas: 1 | Cerradas: 152 | PnL realizado: -78.14
-   ▼ NEARUSDT: entry 4.7034 → ahora 4.7501 (-1.37 USD)
+   ▼ NEARUSDT: entry 4.7034 → ahora 4.7385 (-1.03 USD)
