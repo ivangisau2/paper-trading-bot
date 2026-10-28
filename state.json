@@ -1,7 +1,19 @@
 {
-  "balance": 925.3869982446821,
+  "balance": 925.2481901948294,
   "initial_balance": 1000.0,
-  "positions": {},
+  "positions": {
+    "SOLUSDT": {
+      "side": "short",
+      "qty": 1.35409277,
+      "entry": 102.51,
+      "sl": 103.46477896391713,
+      "tp": 100.60044207216576,
+      "opened_at": "2026-10-28T08:58:33+00:00",
+      "notional": 138.8080498527,
+      "fee": 0.1388080498527,
+      "note": "score -2 | IA: RSI overbought, price above upper Bollinger, EMA downtrend; MACD still bullish but weakening."
+    }
+  },
   "closed": 146,
   "realized_pnl": -74.6130017553182,
   "started": "2026-09-23T21:38:36+00:00"
