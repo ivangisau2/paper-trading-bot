@@ -1,20 +1,27 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-28 18:34 UTC
+⏰ Ciclo — 2026-10-28 18:49 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -3)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI neutro, señal poco confirmada
+   → SHORT (confianza 65%): MACD y EMA bajista, volumen alto, precio cerca banda media.
+  [ejecución] ▼ SHORT BTCUSDT: 0.0017177 @ 81017.5 | SL 81565.9 | TP 79920.8 | score -3 | IA: MACD y EMA bajista, volumen alto, precio cerca banda media.
 
 🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → FLAT (confianza 65%): EMA bearish, MACD negative, high volume, but RSI neutral and price mid‑Bollinger
+   → FLAT (confianza 55%): MACD y EMA bajista, pero RSI neutro y precio cerca de media
 
 🤖 Analista IA evaluando SOLUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI neutral near lower Bollinger.
+   → SHORT (confianza 65%): EMA bearish, MACD negative, volume high, price near upper Bollinger
+  [ejecución] ▼ SHORT SOLUSDT: 1.36214512 @ 102.15 | SL 103.25 | TP 99.9505 | score -3 | IA: EMA bearish, MACD negative, volume high, price near upper Bollinger
 
-💰 Equity: $928.49 | Cash: $927.76 | Retorno: -7.15%
-📈 Posiciones abiertas: 1 | Cerradas: 149 | PnL realizado: -72.10
-   ▼ NEARUSDT: entry 4.66 → ahora 4.6354 (+0.73 USD)
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 65%): EMA bullish, price near Bollinger middle, signal weak
+
+💰 Equity: $927.04 | Cash: $927.48 | Retorno: -7.30%
+📈 Posiciones abiertas: 3 | Cerradas: 149 | PnL realizado: -72.10
+   ▼ NEARUSDT: entry 4.66 → ahora 4.6727 (-0.38 USD)
+   ▼ BTCUSDT: entry 81017.5 → ahora 81030 (-0.02 USD)
+   ▼ SOLUSDT: entry 102.15 → ahora 102.18 (-0.04 USD)
