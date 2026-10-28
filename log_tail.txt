@@ -1,16 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-28 22:58 UTC
+⏰ Ciclo — 2026-10-28 23:13 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 3)...
-   → LONG (confianza 65%): EMA bullish, MACD positive, volume above average, RSI neutral, price near Bollinger middle
-  [ejecución] ▲ LONG XRPUSDT: 104.22429708 @ 1.32655 | SL 1.3118 | TP 1.35606 | score 3 | IA: EMA bullish, MACD positive, volume above average, RSI neutral, price near Bollinger middle
-
-💰 Equity: $920.52 | Cash: $921.59 | Retorno: -7.95%
+💰 Equity: $920.22 | Cash: $921.59 | Retorno: -7.98%
 📈 Posiciones abiertas: 2 | Cerradas: 152 | PnL realizado: -78.14
-   ▼ NEARUSDT: entry 4.7034 → ahora 4.7416 (-1.12 USD)
-   ▲ XRPUSDT: entry 1.32655 → ahora 1.32711 (+0.06 USD)
+   ▼ NEARUSDT: entry 4.7034 → ahora 4.7449 (-1.22 USD)
+   ▲ XRPUSDT: entry 1.32655 → ahora 1.32514 (-0.15 USD)
