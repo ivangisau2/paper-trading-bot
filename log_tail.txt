@@ -1,24 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-28 20:03 UTC
+⏰ Ciclo — 2026-10-28 20:17 UTC
 ============================================================
-  [ejecución] ❌ CERRADO NEARUSDT @ 4.75255860757813: -3.04 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO BTCUSDT @ 81565.86597928581: -1.22 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO SOLUSDT @ 103.24976017654046: -1.78 USD (stop loss (wick entre ciclos))
 
-📊 6 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Señal corta, pero MACD bullish y bajo volumen generan duda
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 45%): EMA bullish, RSI neutral, volume above avg, price flat; moderate confidence
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed indicators, no clear confirmation for short
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → SHORT (confianza 60%): EMA bajista, MACD negativo, precio cerca banda superior, RSI neutro
+  [ejecución] ▼ SHORT NEARUSDT: 29.39989863 @ 4.7034 | SL 4.80896 | TP 4.49229 | score -2 | IA: EMA bajista, MACD negativo, precio cerca banda superior, RSI neutro
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed indicators; overbought and bearish EMA, but MACD bullish, low volume; stay flat.
+🤖 Analista IA evaluando LTCUSDT (short score -1)...
+   → FLAT (confianza 55%): Mixed indicators; bearish EMA, overbought RSI vs bullish MACD, unclear direction
 
-🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 60%): Mixed indicators; overbought RSI & price above Bollinger, but bullish MACD and low volume.
-
-💰 Equity: $921.86 | Cash: $921.86 | Retorno: -7.81%
-📈 Posiciones abiertas: 0 | Cerradas: 152 | PnL realizado: -78.14
+💰 Equity: $921.72 | Cash: $921.72 | Retorno: -7.83%
+📈 Posiciones abiertas: 1 | Cerradas: 152 | PnL realizado: -78.14
+   ▼ NEARUSDT: entry 4.7034 → ahora 4.7034 (+0.00 USD)
