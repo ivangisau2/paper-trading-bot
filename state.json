@@ -1,5 +1,5 @@
 {
-  "balance": 925.2481901948294,
+  "balance": 925.1094026061694,
   "initial_balance": 1000.0,
   "positions": {
     "SOLUSDT": {
@@ -12,7 +12,18 @@
       "notional": 138.8080498527,
       "fee": 0.1388080498527,
       "note": "score -2 | IA: RSI overbought, price above upper Bollinger, EMA downtrend; MACD still bullish but weakening.",
-      "checked_at": 1793179664.3337893
+      "checked_at": 1793180539.2530046
+    },
+    "BTCUSDT": {
+      "side": "short",
+      "qty": 0.0017059,
+      "entry": 81357.4,
+      "sl": 81833.81842722373,
+      "tp": 80404.56314555253,
+      "opened_at": "2026-10-28T09:42:22+00:00",
+      "notional": 138.78758865999998,
+      "fee": 0.13878758866,
+      "note": "score -2 | IA: RSI overbought, price above BB, bearish EMA, low volume"
     }
   },
   "closed": 146,
