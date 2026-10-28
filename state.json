@@ -11,7 +11,8 @@
       "opened_at": "2026-10-28T20:18:07+00:00",
       "notional": 138.27948321634202,
       "fee": 0.138279483216342,
-      "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda superior, RSI neutro"
+      "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda superior, RSI neutro",
+      "checked_at": 1793219559.6864452
     }
   },
   "closed": 152,
