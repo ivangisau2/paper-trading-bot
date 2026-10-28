@@ -1,19 +1,7 @@
 {
-  "balance": 926.3199492866423,
+  "balance": 928.7694455393502,
   "initial_balance": 1000.0,
   "positions": {
-    "SOLUSDT": {
-      "side": "short",
-      "qty": 1.35409277,
-      "entry": 102.51,
-      "sl": 103.46477896391713,
-      "tp": 100.60044207216576,
-      "opened_at": "2026-10-28T08:58:33+00:00",
-      "notional": 138.8080498527,
-      "fee": 0.1388080498527,
-      "note": "score -2 | IA: RSI overbought, price above upper Bollinger, EMA downtrend; MACD still bullish but weakening.",
-      "checked_at": 1793196354.9119055
-    },
     "NEARUSDT": {
       "side": "short",
       "qty": 29.77819965,
@@ -24,7 +12,7 @@
       "notional": 138.766410369,
       "fee": 0.138766410369,
       "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda inferior",
-      "checked_at": 1793196354.9119055
+      "checked_at": 1793197234.3836596
     },
     "BTCUSDT": {
       "side": "short",
@@ -36,10 +24,10 @@
       "notional": 138.96915489,
       "fee": 0.13896915489,
       "note": "score -2 | IA: Bearish EMA, negative MACD, price near lower Bollinger, RSI neutral",
-      "checked_at": 1793196354.9119055
+      "checked_at": 1793197234.3836596
     }
   },
-  "closed": 147,
-  "realized_pnl": -73.26350709824627,
+  "closed": 148,
+  "realized_pnl": -70.95281889539116,
   "started": "2026-09-23T21:38:36+00:00"
 }
