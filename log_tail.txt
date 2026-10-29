@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-29 04:53 UTC
+⏰ Ciclo — 2026-10-29 05:08 UTC
 ============================================================
 
 📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 45%): Baja confirmación, RSI cerca de sobreventa y precio en banda inferior
+   → FLAT (confianza 60%): Baja confirmación, volumen muy bajo, precio cerca de soporte
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 60%): RSI near oversold, low volume, price near lower Bollinger; bearish trend unclear
+   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal corta no confirmada
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación, RSI cerca de sobreventa y volumen débil
+   → FLAT (confianza 45%): Baja confirmación de volumen y RSI neutro, señal poco robusta
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio cerca de banda inferior, bajo volumen, señal poco confirmada
+   → FLAT (confianza 70%): Baja volatilidad y volumen insuficiente para confirmar short
 
 💰 Equity: $925.99 | Cash: $925.99 | Retorno: -7.40%
 📈 Posiciones abiertas: 0 | Cerradas: 154 | PnL realizado: -74.01
