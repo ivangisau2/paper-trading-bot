@@ -1,12 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-29 00:23 UTC
+⏰ Ciclo — 2026-10-29 00:37 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $921.12 | Cash: $921.59 | Retorno: -7.89%
+🤖 Analista IA evaluando LTCUSDT (short score -1)...
+   → FLAT (confianza 60%): Señal corta, pero volumen bajo y MACD positivo generan incertidumbre
+
+💰 Equity: $921.03 | Cash: $921.59 | Retorno: -7.90%
 📈 Posiciones abiertas: 2 | Cerradas: 152 | PnL realizado: -78.14
-   ▼ NEARUSDT: entry 4.7034 → ahora 4.7015 (+0.06 USD)
-   ▲ XRPUSDT: entry 1.32655 → ahora 1.32157 (-0.52 USD)
+   ▼ NEARUSDT: entry 4.7034 → ahora 4.7042 (-0.02 USD)
+   ▲ XRPUSDT: entry 1.32655 → ahora 1.32148 (-0.53 USD)
