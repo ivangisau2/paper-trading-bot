@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-29 03:40 UTC
+⏰ Ciclo — 2026-10-29 03:54 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Precio bajo banda, RSI oversold, pero MACD negativo y tendencia incierta
-
 🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 60%): Precio cerca de soporte, indicadores mixtos, mejor esperar
+   → FLAT (confianza 60%): Precio cerca banda baja, RSI bajo, volumen débil, señal corta no confirmada
+
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 45%): Mixed signals, MACD bearish, insufficient confirmation
 
 💰 Equity: $925.99 | Cash: $925.99 | Retorno: -7.40%
 📈 Posiciones abiertas: 0 | Cerradas: 154 | PnL realizado: -74.01
