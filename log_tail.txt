@@ -1,21 +1,9 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-29 14:55 UTC
+⏰ Ciclo — 2026-10-29 15:09 UTC
 ============================================================
 
-📊 5 candidatos tras filtros
-
-🤖 Analista IA evaluando LTCUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but price near lower Bollinger, RSI neutral.
-
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA200 bearish, price near resistance, mixed indicators
-
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 45%): EMA50/200 indica tendencia bajista, contradice señal LONG
-
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA50/200 bajista y precio bajo banda media, señal LONG no confirmada
+📊 0 candidatos tras filtros
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
