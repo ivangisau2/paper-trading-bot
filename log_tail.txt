@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 19:29 UTC
+⏰ Ciclo — 2026-10-30 19:37 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, RSI oversold y volumen débil
+   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen y RSI sobrevendido, mejor esperar
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, weak short signal.
+   → FLAT (confianza 55%): RSI oversold, price near lower Bollinger; bearish EMA but possible bounce, uncertainty.
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
