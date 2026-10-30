@@ -1,18 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 15:21 UTC
+⏰ Ciclo — 2026-10-30 15:35 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
-
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, RSI cerca de sobreventa y volumen débil
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen bajo y RSI neutro
+   → FLAT (confianza 55%): Indicadores mixtos, RSI bajo sugiere rebote
 
-🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 60%): Precio cerca de resistencia, indicadores mixtos; mejor esperar
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 55%): Precio cerca banda baja, RSI oversold, tendencia bajista, pero señal corta débil
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
