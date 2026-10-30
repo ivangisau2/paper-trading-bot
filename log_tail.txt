@@ -1,18 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 15:50 UTC
+⏰ Ciclo — 2026-10-30 16:04 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
-
-🤖 Analista IA evaluando AVAXUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI near neutral and price near lower Bollinger; doubt.
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI oversold, pero tendencia bajista y precio cerca banda inferior
+   → FLAT (confianza 65%): Baja volatilidad, RSI bajo, volumen escaso, soporte Bollinger
 
-🤖 Analista IA evaluando LINKUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA50/200 bajista, precio cerca banda superior, señal insuficiente
+🤖 Analista IA evaluando AVAXUSDT (short score -2)...
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutro
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
