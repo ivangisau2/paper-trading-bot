@@ -1,6 +1,6 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 02:48 UTC
+⏰ Ciclo — 2026-10-30 03:05 UTC
 ============================================================
   [datos] ticker Kraken BTCUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
   [datos] ticker Kraken ETHUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
@@ -10,14 +10,6 @@
   [datos] ticker Kraken ADAUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
   [datos] ticker Kraken DOGEUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
   [datos] ticker Kraken AVAXUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken LINKUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken DOTUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken LTCUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken ATOMUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken NEARUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken APTUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken ARBUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken OPUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
   [datos] BTCUSDT: sin ticker — se omite
   [datos] ETHUSDT: sin ticker — se omite
   [datos] UNIUSDT: sin ticker — se omite
@@ -26,16 +18,17 @@
   [datos] ADAUSDT: sin ticker — se omite
   [datos] DOGEUSDT: sin ticker — se omite
   [datos] AVAXUSDT: sin ticker — se omite
-  [datos] LINKUSDT: sin ticker — se omite
-  [datos] DOTUSDT: sin ticker — se omite
-  [datos] LTCUSDT: sin ticker — se omite
-  [datos] ATOMUSDT: sin ticker — se omite
-  [datos] NEARUSDT: sin ticker — se omite
-  [datos] APTUSDT: sin ticker — se omite
-  [datos] ARBUSDT: sin ticker — se omite
-  [datos] OPUSDT: sin ticker — se omite
 
-📊 0 candidatos tras filtros
+📊 3 candidatos tras filtros
+
+🤖 Analista IA evaluando LTCUSDT (short score -2)...
+   → FLAT (confianza 70%): RSI oversold, price near lower Bollinger, no volume confirmation; trend unclear.
+
+🤖 Analista IA evaluando LINKUSDT (short score -1)...
+   → FLAT (confianza 55%): Baja confirmación, RSI oversold, volumen insuficiente
+
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 55%): RSI oversold, pero falta volumen y señal corta débil
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
