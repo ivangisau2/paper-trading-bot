@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 13:08 UTC
+⏰ Ciclo — 2026-10-30 13:23 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 60%): RSI near oversold, low volume, trend unclear
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → FLAT (confianza 70%): Precio cerca banda baja, RSI bajo, volumen débil, señal corta no confirmada
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, low volume, near lower Bollinger; bearish trend weak—prefer flat.
+🤖 Analista IA evaluando AVAXUSDT (short score -2)...
+   → FLAT (confianza 55%): Baja confirmación, volumen débil y RSI cercano a sobreventa
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
