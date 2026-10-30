@@ -1,24 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 08:02 UTC
+⏰ Ciclo — 2026-10-30 08:17 UTC
 ============================================================
-  [datos] ticker Kraken BTCUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken ETHUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken UNIUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken SOLUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken XRPUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken ADAUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] BTCUSDT: sin ticker — se omite
-  [datos] ETHUSDT: sin ticker — se omite
-  [datos] UNIUSDT: sin ticker — se omite
-  [datos] SOLUSDT: sin ticker — se omite
-  [datos] XRPUSDT: sin ticker — se omite
-  [datos] ADAUSDT: sin ticker — se omite
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen insuficiente para confirmar short
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → FLAT (confianza 60%): Volumen bajo y RSI cerca de sobreventa, contexto no confirma short
+
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 65%): RSI oversold, low volume, price near lower Bollinger, bearish trend unclear
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
