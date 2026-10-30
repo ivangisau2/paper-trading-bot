@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 12:25 UTC
+⏰ Ciclo — 2026-10-30 12:39 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja volatilidad y volumen, RSI cerca de sobreventa, señal corta poco confirmada
+   → FLAT (confianza 65%): RSI bajo y volumen débil generan incertidumbre
 
 🤖 Analista IA evaluando AVAXUSDT (long score 1)...
-   → FLAT (confianza 45%): EMA200 bearish, trend unclear; bullish signs insufficient for confident LONG
+   → FLAT (confianza 55%): EMA bajista contradice señal; RSI bajo sugiere rebote incierto
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
