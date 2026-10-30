@@ -1,34 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 03:05 UTC
+⏰ Ciclo — 2026-10-30 03:21 UTC
 ============================================================
-  [datos] ticker Kraken BTCUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken ETHUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken UNIUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken SOLUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken XRPUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken ADAUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken DOGEUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] ticker Kraken AVAXUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
-  [datos] BTCUSDT: sin ticker — se omite
-  [datos] ETHUSDT: sin ticker — se omite
-  [datos] UNIUSDT: sin ticker — se omite
-  [datos] SOLUSDT: sin ticker — se omite
-  [datos] XRPUSDT: sin ticker — se omite
-  [datos] ADAUSDT: sin ticker — se omite
-  [datos] DOGEUSDT: sin ticker — se omite
-  [datos] AVAXUSDT: sin ticker — se omite
 
-📊 3 candidatos tras filtros
+📊 10 candidatos tras filtros
+
+🤖 Analista IA evaluando UNIUSDT (short score -2)...
+   → FLAT (confianza 60%): Baja confirmación: bajo volumen y RSI cerca de sobreventa
+
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 70%): RSI oversold, low volume, ambiguous; better no trade.
+
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → FLAT (confianza 45%): Indicadores mixtos, bajo volumen y RSI cerca de sobreventa
 
 🤖 Analista IA evaluando LTCUSDT (short score -2)...
-   → FLAT (confianza 70%): RSI oversold, price near lower Bollinger, no volume confirmation; trend unclear.
-
-🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 55%): Baja confirmación, RSI oversold, volumen insuficiente
-
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold, pero falta volumen y señal corta débil
+   → FLAT (confianza 45%): Baja volatilidad y volumen insuficiente, señal no confirmada
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
