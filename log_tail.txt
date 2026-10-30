@@ -1,21 +1,41 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 02:16 UTC
+⏰ Ciclo — 2026-10-30 02:31 UTC
 ============================================================
+  [datos] ticker Kraken BTCUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken ETHUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken UNIUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken SOLUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken XRPUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken ADAUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken DOGEUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken AVAXUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken LINKUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken DOTUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken LTCUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken ATOMUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken NEARUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken APTUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken ARBUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] ticker Kraken OPUSDT: Kraken /0/public/Ticker: ['EGeneral:No data']
+  [datos] BTCUSDT: sin ticker — se omite
+  [datos] ETHUSDT: sin ticker — se omite
+  [datos] UNIUSDT: sin ticker — se omite
+  [datos] SOLUSDT: sin ticker — se omite
+  [datos] XRPUSDT: sin ticker — se omite
+  [datos] ADAUSDT: sin ticker — se omite
+  [datos] DOGEUSDT: sin ticker — se omite
+  [datos] AVAXUSDT: sin ticker — se omite
+  [datos] LINKUSDT: sin ticker — se omite
+  [datos] DOTUSDT: sin ticker — se omite
+  [datos] LTCUSDT: sin ticker — se omite
+  [datos] ATOMUSDT: sin ticker — se omite
+  [datos] NEARUSDT: sin ticker — se omite
+  [datos] APTUSDT: sin ticker — se omite
+  [datos] ARBUSDT: sin ticker — se omite
+  [datos] OPUSDT: sin ticker — se omite
 
-📊 9 candidatos tras filtros
-
-🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 45%): Indicadores mixtos, volumen bajo, duda razonable
-
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 45%): Indicadores mixtos, RSI bajo y soporte Bollinger generan duda.
-
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, weak volume, ambiguous
-
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold, pero volumen bajo y cerca banda inferior
+📊 0 candidatos tras filtros
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
