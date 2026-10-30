@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-30 23:16 UTC
+⏰ Ciclo — 2026-10-30 23:17 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, señal corta no confirmada
+   → FLAT (confianza 60%): Indicadores mixtos, precio en banda superior, tendencia bajista pero MACD positivo; mejor esperar.
 
 🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed indicators, low volume, insufficient confirmation
+   → FLAT (confianza 55%): Indicadores mixtos, bajo volumen, falta de confirmación clara
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
