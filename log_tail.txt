@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-31 02:31 UTC
+⏰ Ciclo — 2026-10-31 02:46 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, volumen bajo, duda razonable
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos, volumen bajo, duda razonable
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
