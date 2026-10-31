@@ -1,18 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-31 00:30 UTC
+⏰ Ciclo — 2026-10-31 00:44 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
-
-🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 60%): Indicadores mixtos y bajo volumen; no hay confirmación clara para short
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando LINKUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI high, price above BB, but MACD bullish; mixed, choose FLAT.
+   → FLAT (confianza 55%): EMA bajista y RSI alto, pero MACD positivo genera duda; mejor esperar
+
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 30%): Indicadores mixtos, volumen bajo, RSI neutral, no confirma short
+
+🤖 Analista IA evaluando UNIUSDT (short score -1)...
+   → FLAT (confianza 55%): Mixed indicators, overbought but MACD bullish; better wait
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed indicators, low volume, insufficient confirmation
+   → FLAT (confianza 60%): EMA bajista, pero MACD positivo y bajo volumen; duda razonable
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
