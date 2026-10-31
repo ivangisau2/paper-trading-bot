@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-31 11:00 UTC
+⏰ Ciclo — 2026-10-31 11:14 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación de volumen, señal corta no respaldada
+   → FLAT (confianza 40%): Baja volatilidad y volumen insuficiente, señal corta no confirmada
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación, volumen escaso y RSI neutro
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
