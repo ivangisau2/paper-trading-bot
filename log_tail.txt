@@ -1,9 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-31 21:10 UTC
+⏰ Ciclo — 2026-10-31 21:24 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
+
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 70%): Baja confirmación, indicadores mixtos y volumen bajo
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
