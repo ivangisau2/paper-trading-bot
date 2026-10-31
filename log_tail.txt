@@ -1,15 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-31 16:04 UTC
+⏰ Ciclo — 2026-10-31 16:18 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 70%): Baja confirmación, volumen bajo y MACD bullish, duda razonable
-
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed indicators; bearish trend but bullish MACD and low volume, insufficient confirmation.
+   → FLAT (confianza 70%): EMA bearish but momentum bullish, insufficient confirmation
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
