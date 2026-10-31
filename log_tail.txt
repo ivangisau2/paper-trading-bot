@@ -1,18 +1,9 @@
 
 ============================================================
-⏰ Ciclo — 2026-10-31 06:53 UTC
+⏰ Ciclo — 2026-10-31 07:08 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
-
-🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 45%): Baja confirmación: volumen débil, RSI neutro, precio cerca banda superior
-
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 70%): Indicadores mixtos, falta de confirmación clara para short
-
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 45%): Indicadores mixtos, bajo volumen, tendencia bajista pero señal poco robusta
+📊 0 candidatos tras filtros
 
 💰 Equity: $924.17 | Cash: $924.17 | Retorno: -7.58%
 📈 Posiciones abiertas: 0 | Cerradas: 155 | PnL realizado: -75.83
