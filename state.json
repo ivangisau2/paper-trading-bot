@@ -12,7 +12,7 @@
       "notional": 138.62530394581302,
       "fee": 0.13862530394581302,
       "note": "score -3 | IA: Bearish EMA, negative MACD, price near lower Bollinger, high volume supports short",
-      "checked_at": 1793576653.3438656
+      "checked_at": 1793577528.185605
     },
     "ETHUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 138.6045196368,
       "fee": 0.1386045196368,
       "note": "score -3 | IA: EMA bearish, MACD negative, price near upper Bollinger",
-      "checked_at": 1793576653.3438656
+      "checked_at": 1793577528.185605
     },
     "XRPUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 138.58371946624482,
       "fee": 0.13858371946624481,
       "note": "score -3 | IA: EMA bearish, MACD negative, high volume supports short",
-      "checked_at": 1793576653.3438656
+      "checked_at": 1793577528.185605
     },
     "BTCUSDT": {
       "side": "short",
@@ -47,7 +47,8 @@
       "opened_at": "2026-11-01T23:44:18+00:00",
       "notional": 138.44112642,
       "fee": 0.13844112642,
-      "note": "score -4 | IA: Precio sobre banda superior, MACD negativo, EMA bajista, volumen alto, RSI no extremo"
+      "note": "score -4 | IA: Precio sobre banda superior, MACD negativo, EMA bajista, volumen alto, RSI no extremo",
+      "checked_at": 1793577528.185605
     }
   },
   "closed": 156,
