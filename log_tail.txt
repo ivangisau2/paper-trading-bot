@@ -1,17 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-01 14:37 UTC
+⏰ Ciclo — 2026-11-01 14:51 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 65%): Indicadores mixtos, falta confirmación bajista
+🤖 Analista IA evaluando ETHUSDT (short score -3)...
+   → SHORT (confianza 60%): EMA bearish, MACD negative, price near upper Bollinger
+  [ejecución] ▼ SHORT ETHUSDT: 0.06110556 @ 2268.28 | SL 2280.7 | TP 2243.44 | score -3 | IA: EMA bearish, MACD negative, price near upper Bollinger
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación: RSI neutro, volumen débil, precio cerca banda inferior, riesgo de rebote
+   → FLAT (confianza 55%): Banda inferior, bajo volumen, señal poco confirmada
 
-💰 Equity: $923.62 | Cash: $924.03 | Retorno: -7.64%
-📈 Posiciones abiertas: 1 | Cerradas: 155 | PnL realizado: -75.83
-   ▼ NEARUSDT: entry 4.3727 → ahora 4.3857 (-0.41 USD)
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 60%): Señal corta no confirmada por RSI y MACD
+
+💰 Equity: $923.84 | Cash: $923.89 | Retorno: -7.62%
+📈 Posiciones abiertas: 2 | Cerradas: 155 | PnL realizado: -75.83
+   ▼ NEARUSDT: entry 4.3727 → ahora 4.3744 (-0.05 USD)
+   ▼ ETHUSDT: entry 2268.28 → ahora 2268.29 (-0.00 USD)

@@ -1,5 +1,5 @@
 {
-  "balance": 924.0300675876556,
+  "balance": 923.8914630680188,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,7 +12,18 @@
       "notional": 138.62530394581302,
       "fee": 0.13862530394581302,
       "note": "score -3 | IA: Bearish EMA, negative MACD, price near lower Bollinger, high volume supports short",
-      "checked_at": 1793543831.7037885
+      "checked_at": 1793544706.926654
+    },
+    "ETHUSDT": {
+      "side": "short",
+      "qty": 0.06110556,
+      "entry": 2268.28,
+      "sl": 2280.6987298551,
+      "tp": 2243.4425402898014,
+      "opened_at": "2026-11-01T14:51:50+00:00",
+      "notional": 138.6045196368,
+      "fee": 0.1386045196368,
+      "note": "score -3 | IA: EMA bearish, MACD negative, price near upper Bollinger"
     }
   },
   "closed": 155,
