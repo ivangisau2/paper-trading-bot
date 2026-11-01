@@ -12,7 +12,7 @@
       "notional": 138.62530394581302,
       "fee": 0.13862530394581302,
       "note": "score -3 | IA: Bearish EMA, negative MACD, price near lower Bollinger, high volume supports short",
-      "checked_at": 1793544706.926654
+      "checked_at": 1793545230.1614103
     },
     "ETHUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-11-01T14:51:50+00:00",
       "notional": 138.6045196368,
       "fee": 0.1386045196368,
-      "note": "score -3 | IA: EMA bearish, MACD negative, price near upper Bollinger"
+      "note": "score -3 | IA: EMA bearish, MACD negative, price near upper Bollinger",
+      "checked_at": 1793545230.1614103
     }
   },
   "closed": 155,
