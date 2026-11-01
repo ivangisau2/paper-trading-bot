@@ -1,17 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-01 11:12 UTC
+⏰ Ciclo — 2026-11-01 11:27 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (long score 2)...
-   → FLAT (confianza 40%): EMA200 bearish, price near lower band, insufficient confirmation
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 60%): Precio cerca de soporte, RSI neutro, riesgo de rebote
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 70%): Volumen bajo y MACD positivo contradicen señal corta
+   → FLAT (confianza 70%): Baja confirmación, volumen débil y MACD positivo
 
-💰 Equity: $923.87 | Cash: $924.03 | Retorno: -7.61%
+💰 Equity: $923.69 | Cash: $924.03 | Retorno: -7.63%
 📈 Posiciones abiertas: 1 | Cerradas: 155 | PnL realizado: -75.83
-   ▼ NEARUSDT: entry 4.3727 → ahora 4.3776 (-0.16 USD)
+   ▼ NEARUSDT: entry 4.3727 → ahora 4.3834 (-0.34 USD)
