@@ -1,14 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-02 07:43 UTC
+⏰ Ciclo — 2026-11-02 07:57 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → SHORT (confianza 65%): MACD y EMA bajista, RSI neutro, volumen bajo
-  [ejecución] ▼ SHORT BTCUSDT: 0.00177796 @ 77942.2 | SL 78347.5 | TP 77131.6 | score -2 | IA: MACD y EMA bajista, RSI neutro, volumen bajo
-
-💰 Equity: $923.71 | Cash: $923.71 | Retorno: -7.63%
+💰 Equity: $923.54 | Cash: $923.71 | Retorno: -7.65%
 📈 Posiciones abiertas: 1 | Cerradas: 161 | PnL realizado: -76.15
-   ▼ BTCUSDT: entry 77942.2 → ahora 77942.3 (-0.00 USD)
+   ▼ BTCUSDT: entry 77942.2 → ahora 78042 (-0.18 USD)
