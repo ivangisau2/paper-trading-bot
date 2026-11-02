@@ -12,7 +12,7 @@
       "notional": 138.578113912,
       "fee": 0.138578113912,
       "note": "score -2 | IA: MACD y EMA bajista, RSI neutro, volumen bajo",
-      "checked_at": 1793622916.656675
+      "checked_at": 1793623796.8291607
     },
     "ETHUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 138.557089486,
       "fee": 0.13855708948599998,
       "note": "score -2 | IA: MACD y EMA bajistas, precio cerca banda superior, volumen bajo",
-      "checked_at": 1793622916.656675
+      "checked_at": 1793623796.8291607
     }
   },
   "closed": 161,
