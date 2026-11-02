@@ -1,11 +1,13 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-02 06:00 UTC
+⏰ Ciclo — 2026-11-02 06:15 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO NEARUSDT @ 4.210558845499523: +4.87 USD (take profit (wick entre ciclos))
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $923.19 | Cash: $918.85 | Retorno: -7.68%
-📈 Posiciones abiertas: 1 | Cerradas: 160 | PnL realizado: -81.02
-   ▼ NEARUSDT: entry 4.3727 → ahora 4.2358 (+4.34 USD)
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, low volume; short risk.
+
+💰 Equity: $923.85 | Cash: $923.85 | Retorno: -7.61%
+📈 Posiciones abiertas: 0 | Cerradas: 161 | PnL realizado: -76.15
