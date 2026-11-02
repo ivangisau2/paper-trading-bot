@@ -1,17 +1,13 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-02 01:40 UTC
+⏰ Ciclo — 2026-11-02 01:55 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → SHORT (confianza 70%): RSI overbought, price above Bollinger, bearish EMA, volume high
-  [ejecución] ▼ SHORT ETHUSDT: 0.06025062 @ 2292.62 | SL 2308.82 | TP 2260.22 | score -1 | IA: RSI overbought, price above Bollinger, bearish EMA, volume high
-
-💰 Equity: $921.81 | Cash: $920.74 | Retorno: -7.82%
+💰 Equity: $922.98 | Cash: $920.74 | Retorno: -7.70%
 📈 Posiciones abiertas: 3 | Cerradas: 158 | PnL realizado: -78.84
-   ▼ NEARUSDT: entry 4.3727 → ahora 4.3274 (+1.44 USD)
-   ▼ BTCUSDT: entry 78214 → ahora 78445 (-0.41 USD)
-   ▼ ETHUSDT: entry 2292.62 → ahora 2291.97 (+0.04 USD)
+   ▼ NEARUSDT: entry 4.3727 → ahora 4.3066 (+2.10 USD)
+   ▼ BTCUSDT: entry 78214 → ahora 78344.3 (-0.23 USD)
+   ▼ ETHUSDT: entry 2292.62 → ahora 2286.45 (+0.37 USD)
