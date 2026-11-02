@@ -1,16 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-02 01:11 UTC
+⏰ Ciclo — 2026-11-02 01:26 UTC
 ============================================================
-  [ejecución] ❌ CERRADO ETHUSDT @ 2280.6987298551: -1.04 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO XRPUSDT @ 1.2571462639995752: -1.16 USD (stop loss (wick entre ciclos))
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, falta confirmación clara
+   → FLAT (confianza 55%): RSI overbought but MACD bullish, EMA bearish, ambiguous
 
-💰 Equity: $923.57 | Cash: $921.90 | Retorno: -7.64%
-📈 Posiciones abiertas: 3 | Cerradas: 157 | PnL realizado: -77.68
-   ▼ NEARUSDT: entry 4.3727 → ahora 4.2975 (+2.38 USD)
-   ▼ XRPUSDT: entry 1.24916 → ahora 1.25452 (-0.59 USD)
-   ▼ BTCUSDT: entry 78214 → ahora 78281.7 (-0.12 USD)
+💰 Equity: $921.60 | Cash: $920.88 | Retorno: -7.84%
+📈 Posiciones abiertas: 2 | Cerradas: 158 | PnL realizado: -78.84
+   ▼ NEARUSDT: entry 4.3727 → ahora 4.334 (+1.23 USD)
+   ▼ BTCUSDT: entry 78214 → ahora 78499.9 (-0.51 USD)
