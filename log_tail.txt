@@ -1,15 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-03 14:20 UTC
+⏰ Ciclo — 2026-11-03 14:34 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 65%): Indicadores mixtos, MACD bullish y precio en banda superior, duda razonable, no operar.
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → SHORT (confianza 60%): Precio sobre BB superior, RSI alto, EMA bajista; MACD contradictorio, pero tendencia bajista prevalece.
+  [ejecución] ▼ SHORT ETHUSDT: 0.06061383 @ 2289.03 | SL 2311.25 | TP 2244.6 | score -2 | IA: Precio sobre BB superior, RSI alto, EMA bajista; MACD contradictorio, pero tendencia bajista prevalece.
 
-💰 Equity: $925.66 | Cash: $924.98 | Retorno: -7.43%
-📈 Posiciones abiertas: 2 | Cerradas: 164 | PnL realizado: -74.74
-   ▼ XRPUSDT: entry 1.28138 → ahora 1.27758 (+0.41 USD)
-   ▼ SOLUSDT: entry 93.14 → ahora 92.96 (+0.27 USD)
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 65%): Momentum alcista y bajo volumen contradicen señal corta; mejor esperar
+
+💰 Equity: $924.74 | Cash: $924.84 | Retorno: -7.53%
+📈 Posiciones abiertas: 3 | Cerradas: 164 | PnL realizado: -74.74
+   ▼ XRPUSDT: entry 1.28138 → ahora 1.27944 (+0.21 USD)
+   ▼ SOLUSDT: entry 93.14 → ahora 93.37 (-0.34 USD)
+   ▼ ETHUSDT: entry 2289.03 → ahora 2288.55 (+0.03 USD)
