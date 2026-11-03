@@ -1,21 +1,20 @@
 {
-  "balance": 926.6589745473631,
+  "balance": 925.1179584283354,
   "initial_balance": 1000.0,
   "positions": {
-    "ETHUSDT": {
+    "XRPUSDT": {
       "side": "short",
-      "qty": 0.0616468,
-      "entry": 2255.1,
-      "sl": 2275.5705834258697,
-      "tp": 2214.1588331482603,
-      "opened_at": "2026-11-03T07:47:23+00:00",
-      "notional": 139.01969868,
-      "fee": 0.13901969868,
-      "note": "score -2 | IA: MACD negativo, EMA bajista, RSI bajo 50, precio cerca banda media, ligera duda",
-      "checked_at": 1793707713.9987204
+      "qty": 108.31175143,
+      "entry": 1.28138,
+      "sl": 1.2938993871769078,
+      "tp": 1.2563412256461843,
+      "opened_at": "2026-11-03T12:23:17+00:00",
+      "notional": 138.7885120473734,
+      "fee": 0.13878851204737339,
+      "note": "score -1 | IA: RSI overbought, price above BB, bearish EMA, volume strong"
     }
   },
-  "closed": 163,
-  "realized_pnl": -73.2020057539572,
+  "closed": 164,
+  "realized_pnl": -74.74325305961744,
   "started": "2026-09-23T21:38:36+00:00"
 }
