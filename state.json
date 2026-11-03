@@ -12,7 +12,7 @@
       "notional": 138.7885120473734,
       "fee": 0.13878851204737339,
       "note": "score -1 | IA: RSI overbought, price above BB, bearish EMA, volume strong",
-      "checked_at": 1793738436.345521
+      "checked_at": 1793739325.0145757
     },
     "SOLUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 138.767693306,
       "fee": 0.13876769330600003,
       "note": "score -1 | IA: EMA bajista, precio sobre BB superior, se\u00f1al corta respaldada",
-      "checked_at": 1793738436.345521
+      "checked_at": 1793739325.0145757
     },
     "ETHUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 138.7468752849,
       "fee": 0.1387468752849,
       "note": "score -2 | IA: Precio sobre BB superior, RSI alto, EMA bajista; MACD contradictorio, pero tendencia bajista prevalece.",
-      "checked_at": 1793738436.345521
+      "checked_at": 1793739325.0145757
     }
   },
   "closed": 164,
