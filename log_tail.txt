@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-04 16:34 UTC
+⏰ Ciclo — 2026-11-04 16:49 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 8 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio sobre Bollinger y RSI alto, pero MACD bullish; incertidumbre, no operar.
+   → FLAT (confianza 60%): Señal contradice momentum alcista y sobrecompra.
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): RSI overbought, price near upper Bollinger, bullish trend but risk of pullback
+   → FLAT (confianza 60%): Precio cerca de banda superior, RSI alto, riesgo de retroceso
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 55%): Sobrecompra y tendencia bajista, pero MACD bullish y bajo volumen
+   → FLAT (confianza 60%): RSI overbought, price above Bollinger, but low volume y MACD positivo
 
 🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra pero MACD bullish, mejor esperar
+   → FLAT (confianza 60%): RSI overbought, price above Bollinger, but MACD bullish and low volume cause doubt
 
-💰 Equity: $930.64 | Cash: $930.42 | Retorno: -6.94%
+💰 Equity: $930.29 | Cash: $930.42 | Retorno: -6.97%
 📈 Posiciones abiertas: 1 | Cerradas: 168 | PnL realizado: -69.44
-   ▼ SOLUSDT: entry 96.68 → ahora 96.53 (+0.22 USD)
+   ▼ SOLUSDT: entry 96.68 → ahora 96.77 (-0.13 USD)
