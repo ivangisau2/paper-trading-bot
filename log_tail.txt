@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-04 15:50 UTC
+⏰ Ciclo — 2026-11-04 16:05 UTC
 ============================================================
 
 📊 7 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI overbought, price above BB, but MACD bullish; insufficient confirmation.
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → FLAT (confianza 60%): Indicadores mixtos, sobrecompra pero falta confirmación
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio sobre Bollinger y RSI sobrecomprado, riesgo de reversión
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → SHORT (confianza 65%): RSI overbought, price above upper Bollinger, bearish EMA; MACD bullish but weak volume
+  [ejecución] ▼ SHORT SOLUSDT: 1.44377688 @ 96.68 | SL 98.2877 | TP 93.4645 | score -2 | IA: RSI overbought, price above upper Bollinger, bearish EMA; MACD bullish but weak volume
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 65%): Indicadores mixtos, MACD bullish y precio sobre BB, duda razonable, mejor FLAT
+🤖 Analista IA evaluando ADAUSDT (short score -2)...
+   → FLAT (confianza 55%): Mixed indicators; overbought price, bearish trend, but low volume and bullish MACD.
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos, RSI sobrecomprado y precio sobre Bollinger, MACD bullish; mejor esperar
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → FLAT (confianza 60%): RSI overbought, price above upper Bollinger, EMA bearish; MACD bullish, volume weak.
 
-💰 Equity: $930.56 | Cash: $930.56 | Retorno: -6.94%
-📈 Posiciones abiertas: 0 | Cerradas: 168 | PnL realizado: -69.44
+💰 Equity: $930.47 | Cash: $930.42 | Retorno: -6.95%
+📈 Posiciones abiertas: 1 | Cerradas: 168 | PnL realizado: -69.44
+   ▼ SOLUSDT: entry 96.68 → ahora 96.65 (+0.04 USD)
