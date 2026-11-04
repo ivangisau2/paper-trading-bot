@@ -1,19 +1,7 @@
 {
-  "balance": 924.8404438597445,
+  "balance": 927.4163608451233,
   "initial_balance": 1000.0,
   "positions": {
-    "XRPUSDT": {
-      "side": "short",
-      "qty": 108.31175143,
-      "entry": 1.28138,
-      "sl": 1.2938993871769078,
-      "tp": 1.2563412256461843,
-      "opened_at": "2026-11-03T12:23:17+00:00",
-      "notional": 138.7885120473734,
-      "fee": 0.13878851204737339,
-      "note": "score -1 | IA: RSI overbought, price above BB, bearish EMA, volume strong",
-      "checked_at": 1793751396.53165
-    },
     "SOLUSDT": {
       "side": "short",
       "qty": 1.4898829,
@@ -24,7 +12,7 @@
       "notional": 138.767693306,
       "fee": 0.13876769330600003,
       "note": "score -1 | IA: EMA bajista, precio sobre BB superior, se\u00f1al corta respaldada",
-      "checked_at": 1793751396.53165
+      "checked_at": 1793752265.8882976
     },
     "ETHUSDT": {
       "side": "short",
@@ -36,10 +24,10 @@
       "notional": 138.7468752849,
       "fee": 0.1387468752849,
       "note": "score -2 | IA: Precio sobre BB superior, RSI alto, EMA bajista; MACD contradictorio, pero tendencia bajista prevalece.",
-      "checked_at": 1793751396.53165
+      "checked_at": 1793752265.8882976
     }
   },
-  "closed": 164,
-  "realized_pnl": -74.74325305961744,
+  "closed": 165,
+  "realized_pnl": -72.30612458628593,
   "started": "2026-09-23T21:38:36+00:00"
 }
