@@ -1,15 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-04 00:30 UTC
+⏰ Ciclo — 2026-11-04 00:45 UTC
 ============================================================
-  [ejecución] ✅ CERRADO XRPUSDT @ 1.2563412256461843: +2.44 USD (take profit (wick entre ciclos))
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 45%): Bajista débil, RSI neutral, volumen moderado; señal corta no suficientemente confirmada
+🤖 Analista IA evaluando XRPUSDT (short score -3)...
+   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI neutral and near lower Bollinger suggests caution
 
-💰 Equity: $930.38 | Cash: $927.42 | Retorno: -6.96%
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 70%): EMA200 bearish, despite bullish MACD; señal no confirmada
+
+💰 Equity: $930.73 | Cash: $927.42 | Retorno: -6.93%
 📈 Posiciones abiertas: 2 | Cerradas: 165 | PnL realizado: -72.31
-   ▼ SOLUSDT: entry 93.14 → ahora 92.08 (+1.58 USD)
-   ▼ ETHUSDT: entry 2289.03 → ahora 2266.26 (+1.38 USD)
+   ▼ SOLUSDT: entry 93.14 → ahora 91.98 (+1.73 USD)
+   ▼ ETHUSDT: entry 2289.03 → ahora 2262.8 (+1.59 USD)
