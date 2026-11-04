@@ -1,19 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-04 07:52 UTC
+⏰ Ciclo — 2026-11-04 08:06 UTC
 ============================================================
-  [ejecución] ❌ CERRADO LINKUSDT @ 11.144061140511168: -2.58 USD (stop loss (wick entre ciclos))
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 30%): Baja confirmación, volumen débil y RSI neutral
+   → FLAT (confianza 70%): Bajo volumen y RSI neutral, señal corta no confirmada
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 60%): EMA200 bearish, price near upper Bollinger, overbought
-
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed signals: overbought, price above Bollinger, but MACD bullish; better stay flat.
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 55%): Mixed signals; price overbought, low volume, bearish EMA, but MACD bullish; stay flat
 
 💰 Equity: $930.56 | Cash: $930.56 | Retorno: -6.94%
 📈 Posiciones abiertas: 0 | Cerradas: 168 | PnL realizado: -69.44
