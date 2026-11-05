@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-05 17:59 UTC
+⏰ Ciclo — 2026-11-05 18:13 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 9 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → FLAT (confianza 60%): Mixed signals; oversold but low volume and bearish MACD, mejor esperar
+🤖 Analista IA evaluando BTCUSDT (long score 2)...
+   → FLAT (confianza 60%): MACD bearish, low volume pese a RSI sobrevendido
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 55%): MACD negativo y precio bajo banda inferior pese a RSI bajo; incertidumbre, no operar
-
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → LONG (confianza 70%): RSI oversold, price below BB, bullish EMA, volume surge
-  [ejecución] ▲ LONG ETHUSDT: 0.06251749 @ 2250.02 | SL 2209.67 | TP 2330.73 | score 1 | IA: RSI oversold, price below BB, bullish EMA, volume surge
+🤖 Analista IA evaluando XRPUSDT (long score 2)...
+   → FLAT (confianza 65%): Precio bajo Bollinger, RSI oversold, pero MACD y volumen débiles
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI oversold but MACD negative, low volume, signal weak
+   → FLAT (confianza 65%): Volumen bajo y MACD negativo pese a RSI sobrevendido; mejor esperar.
 
-💰 Equity: $937.68 | Cash: $937.63 | Retorno: -6.23%
+🤖 Analista IA evaluando ADAUSDT (short score -1)...
+   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, low volume; signal unclear.
+
+💰 Equity: $937.88 | Cash: $937.63 | Retorno: -6.21%
 📈 Posiciones abiertas: 1 | Cerradas: 170 | PnL realizado: -62.23
-   ▲ ETHUSDT: entry 2250.02 → ahora 2250.81 (+0.05 USD)
+   ▲ ETHUSDT: entry 2250.02 → ahora 2254.07 (+0.25 USD)
