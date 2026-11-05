@@ -1,23 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-05 22:57 UTC
+⏰ Ciclo — 2026-11-05 23:12 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ETHUSDT @ 2209.666704067: -2.80 USD (stop loss (wick entre ciclos))
 
-📊 8 candidatos tras filtros
+📊 9 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 60%): Mixed signals; oversold but bearish momentum and low volume, better stay flat.
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 65%): Precio cerca de soporte, RSI muy bajo, volumen débil, duda razonable
+
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 70%): Momentum bajista y bajo volumen contradicen señal oversold; mejor esperar
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 55%): Mixed signals; oversold RSI but weak MACD and low volume, not enough confirmation
+   → FLAT (confianza 70%): Señal contradictoria: RSI bajo, pero MACD negativo y volumen muy bajo.
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos, sobreventa sugiere reversión, tendencia bajista no clara
+   → FLAT (confianza 55%): RSI oversold, pero tendencia bajista y bajo volumen; duda razonable
 
-🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 45%): RSI oversold y precio cerca de banda baja, pero MACD negativo y bajo volumen
-
-💰 Equity: $936.35 | Cash: $937.63 | Retorno: -6.36%
-📈 Posiciones abiertas: 1 | Cerradas: 170 | PnL realizado: -62.23
-   ▲ ETHUSDT: entry 2250.02 → ahora 2229.56 (-1.28 USD)
+💰 Equity: $934.97 | Cash: $934.97 | Retorno: -6.50%
+📈 Posiciones abiertas: 0 | Cerradas: 171 | PnL realizado: -65.03
