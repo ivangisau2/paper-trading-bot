@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-05 17:00 UTC
+⏰ Ciclo — 2026-11-05 17:15 UTC
 ============================================================
 
-📊 5 candidatos tras filtros
+📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 60%): Baja confirmación, MACD negativo y volumen muy bajo
+   → FLAT (confianza 55%): RSI oversold, price below Bollinger, but MACD bearish, low volume; duda razonable
 
 🤖 Analista IA evaluando ETHUSDT (long score 2)...
-   → FLAT (confianza 45%): Volumen muy bajo y MACD negativo pese a RSI sobrevendido
+   → FLAT (confianza 55%): Señal conflictiva, bajo volumen y MACD negativo pese a RSI sobrevendido.
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 70%): Baja confirmación de volumen y MACD negativo pese a RSI bajo
+   → FLAT (confianza 55%): Low volume and negative MACD outweigh oversold RSI; better wait
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): RSI sobrevendido y precio bajo BB, pero MACD negativo y volumen nulo generan duda
+   → FLAT (confianza 55%): Indicadores mixtos, tendencia alcista pero momentum y volumen débiles; mejor esperar
 
 💰 Equity: $937.77 | Cash: $937.77 | Retorno: -6.22%
 📈 Posiciones abiertas: 0 | Cerradas: 170 | PnL realizado: -62.23
