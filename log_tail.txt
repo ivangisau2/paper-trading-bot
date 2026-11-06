@@ -1,14 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-06 22:16 UTC
+⏰ Ciclo — 2026-11-06 22:30 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI oversold but bearish EMA, low volume, trend down; insufficient confirmation.
-
-💰 Equity: $935.20 | Cash: $934.83 | Retorno: -6.48%
+💰 Equity: $935.33 | Cash: $934.83 | Retorno: -6.47%
 📈 Posiciones abiertas: 1 | Cerradas: 171 | PnL realizado: -65.03
-   ▲ ETHUSDT: entry 2230.72 → ahora 2236.69 (+0.38 USD)
+   ▲ ETHUSDT: entry 2230.72 → ahora 2238.68 (+0.50 USD)
