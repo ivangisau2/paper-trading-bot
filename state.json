@@ -11,7 +11,8 @@
       "opened_at": "2026-11-06T07:42:18+00:00",
       "notional": 140.2453440928,
       "fee": 0.1402453440928,
-      "note": "score 3 | IA: RSI oversold, bullish EMA/MACD, price near lower Bollinger; volume weak, cautious LONG."
+      "note": "score 3 | IA: RSI oversold, bullish EMA/MACD, price near lower Bollinger; volume weak, cautious LONG.",
+      "checked_at": 1793951817.3988285
     }
   },
   "closed": 171,
