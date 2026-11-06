@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-06 02:49 UTC
+⏰ Ciclo — 2026-11-06 03:04 UTC
 ============================================================
 
-📊 9 candidatos tras filtros
+📊 6 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 2)...
-   → FLAT (confianza 55%): Baja confirmación de volumen, aunque indicadores bullish
+   → FLAT (confianza 60%): Baja confirmación de volumen, señal insuficiente
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, RSI bajo y bajo volumen no confirman corto
-
-🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación: bajo volumen, RSI neutro, precio aún por encima banda inferior.
+   → FLAT (confianza 70%): Baja volatilidad y volumen insuficiente, señal poco confiable
 
 🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 65%): Volumen bajo y RSI no confirma sobreventa; tendencia incierta.
+   → FLAT (confianza 65%): Baja volatilidad y volumen insuficiente, señal corta no confirmada
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 30%): Indicadores mixtos, bajo volumen, señal corta no confirmada
 
 💰 Equity: $934.97 | Cash: $934.97 | Retorno: -6.50%
 📈 Posiciones abiertas: 0 | Cerradas: 171 | PnL realizado: -65.03
