@@ -1,5 +1,5 @@
 {
-  "balance": 934.8287761108928,
+  "balance": 934.6885517947388,
   "initial_balance": 1000.0,
   "positions": {
     "ETHUSDT": {
@@ -12,7 +12,18 @@
       "notional": 140.2453440928,
       "fee": 0.1402453440928,
       "note": "score 3 | IA: RSI oversold, bullish EMA/MACD, price near lower Bollinger; volume weak, cautious LONG.",
-      "checked_at": 1794094815.020756
+      "checked_at": 1794095689.5384207
+    },
+    "SOLUSDT": {
+      "side": "short",
+      "qty": 1.56325882,
+      "entry": 89.7,
+      "sl": 90.44510882258736,
+      "tp": 88.2097823548253,
+      "opened_at": "2026-11-07T23:54:53+00:00",
+      "notional": 140.224316154,
+      "fee": 0.14022431615400002,
+      "note": "score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, limited downside"
     }
   },
   "closed": 171,
