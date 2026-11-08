@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-08 00:09 UTC
+⏰ Ciclo — 2026-11-08 00:23 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $935.16 | Cash: $934.69 | Retorno: -6.48%
+💰 Equity: $935.30 | Cash: $934.69 | Retorno: -6.47%
 📈 Posiciones abiertas: 2 | Cerradas: 171 | PnL realizado: -65.03
-   ▲ ETHUSDT: entry 2230.72 → ahora 2235.7 (+0.31 USD)
-   ▼ SOLUSDT: entry 89.7 → ahora 89.6 (+0.16 USD)
+   ▲ ETHUSDT: entry 2230.72 → ahora 2235.8 (+0.32 USD)
+   ▼ SOLUSDT: entry 89.7 → ahora 89.51 (+0.30 USD)
