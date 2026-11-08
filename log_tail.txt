@@ -1,12 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-08 23:02 UTC
+⏰ Ciclo — 2026-11-08 23:17 UTC
 ============================================================
 
-📊 1 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
+🤖 Analista IA evaluando NEARUSDT (short score -3)...
+   → FLAT (confianza 55%): EMA bearish, MACD negative, but price near lower Bollinger; risk of bounce
+
+🤖 Analista IA evaluando BTCUSDT (short score -2)...
+   → SHORT (confianza 65%): Bearish EMA, negative MACD, RSI near 50, price near lower Bollinger.
+  [ejecución] ▼ SHORT BTCUSDT: 0.00186724 @ 75465.0 | SL 76083.1 | TP 74228.8 | score -2 | IA: Bearish EMA, negative MACD, RSI near 50, price near lower Bollinger.
+
+🤖 Analista IA evaluando ETHUSDT (short score -2)...
+   → FLAT (confianza 55%): RSI oversold near lower Bollinger, bearish EMA but possible bounce; signal uncertain.
+
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
    → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
 
-💰 Equity: $939.41 | Cash: $939.41 | Retorno: -6.06%
-📈 Posiciones abiertas: 0 | Cerradas: 174 | PnL realizado: -60.59
+💰 Equity: $939.33 | Cash: $939.27 | Retorno: -6.07%
+📈 Posiciones abiertas: 1 | Cerradas: 174 | PnL realizado: -60.59
+   ▼ BTCUSDT: entry 75465 → ahora 75430.1 (+0.07 USD)
