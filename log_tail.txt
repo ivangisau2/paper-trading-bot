@@ -1,25 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-08 23:32 UTC
+⏰ Ciclo — 2026-11-08 23:46 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
-
-🤖 Analista IA evaluando SOLUSDT (short score -3)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI no sobrevendido, tendencia bajista, pero posible rebote
-
-🤖 Analista IA evaluando NEARUSDT (short score -3)...
-   → SHORT (confianza 65%): EMA bearish, MACD negative, high volume, price near lower Bollinger, RSI neutral.
-  [ejecución] ▼ SHORT NEARUSDT: 38.77419266 @ 3.6336 | SL 3.72463 | TP 3.45155 | score -3 | IA: EMA bearish, MACD negative, high volume, price near lower Bollinger, RSI neutral.
-
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Precio cerca de soporte, RSI bajo, señal corta débil
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold y cerca banda baja, tendencia bajista pero posible rebote
+   → FLAT (confianza 70%): Precio bajo banda, RSI oversold, señal corta no confirmada
 
-💰 Equity: $939.48 | Cash: $939.13 | Retorno: -6.05%
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 60%): RSI oversold, price at lower Bollinger, bearish trend but risk high
+
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): Precio bajo banda, RSI oversold, posible rebote, señal corta no confirmada
+
+💰 Equity: $942.07 | Cash: $939.13 | Retorno: -5.79%
 📈 Posiciones abiertas: 2 | Cerradas: 174 | PnL realizado: -60.59
-   ▼ BTCUSDT: entry 75465 → ahora 75264.7 (+0.37 USD)
-   ▼ NEARUSDT: entry 3.6336 → ahora 3.6342 (-0.02 USD)
+   ▼ BTCUSDT: entry 75465 → ahora 74807.6 (+1.23 USD)
+   ▼ NEARUSDT: entry 3.6336 → ahora 3.5894 (+1.71 USD)
