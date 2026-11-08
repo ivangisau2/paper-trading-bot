@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-08 04:10 UTC
+⏰ Ciclo — 2026-11-08 04:25 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Señal contradice indicadores clave y volumen muy bajo
+   → FLAT (confianza 65%): EMA bajista, MACD bullish, bajo volumen, señal poco clara
 
-💰 Equity: $935.75 | Cash: $934.69 | Retorno: -6.43%
+💰 Equity: $935.67 | Cash: $934.69 | Retorno: -6.43%
 📈 Posiciones abiertas: 2 | Cerradas: 171 | PnL realizado: -65.03
-   ▲ ETHUSDT: entry 2230.72 → ahora 2234.9 (+0.26 USD)
-   ▼ SOLUSDT: entry 89.7 → ahora 89.19 (+0.80 USD)
+   ▲ ETHUSDT: entry 2230.72 → ahora 2235.13 (+0.28 USD)
+   ▼ SOLUSDT: entry 89.7 → ahora 89.25 (+0.70 USD)
