@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-08 23:17 UTC
+⏰ Ciclo — 2026-11-08 23:32 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
+📊 4 candidatos tras filtros
+
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio cerca banda baja, RSI no sobrevendido, tendencia bajista, pero posible rebote
 
 🤖 Analista IA evaluando NEARUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but price near lower Bollinger; risk of bounce
+   → SHORT (confianza 65%): EMA bearish, MACD negative, high volume, price near lower Bollinger, RSI neutral.
+  [ejecución] ▼ SHORT NEARUSDT: 38.77419266 @ 3.6336 | SL 3.72463 | TP 3.45155 | score -3 | IA: EMA bearish, MACD negative, high volume, price near lower Bollinger, RSI neutral.
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → SHORT (confianza 65%): Bearish EMA, negative MACD, RSI near 50, price near lower Bollinger.
-  [ejecución] ▼ SHORT BTCUSDT: 0.00186724 @ 75465.0 | SL 76083.1 | TP 74228.8 | score -2 | IA: Bearish EMA, negative MACD, RSI near 50, price near lower Bollinger.
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 60%): Precio cerca de soporte, RSI bajo, señal corta débil
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI oversold near lower Bollinger, bearish EMA but possible bounce; signal uncertain.
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 55%): RSI oversold y cerca banda baja, tendencia bajista pero posible rebote
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
-
-💰 Equity: $939.33 | Cash: $939.27 | Retorno: -6.07%
-📈 Posiciones abiertas: 1 | Cerradas: 174 | PnL realizado: -60.59
-   ▼ BTCUSDT: entry 75465 → ahora 75430.1 (+0.07 USD)
+💰 Equity: $939.48 | Cash: $939.13 | Retorno: -6.05%
+📈 Posiciones abiertas: 2 | Cerradas: 174 | PnL realizado: -60.59
+   ▼ BTCUSDT: entry 75465 → ahora 75264.7 (+0.37 USD)
+   ▼ NEARUSDT: entry 3.6336 → ahora 3.6342 (-0.02 USD)
