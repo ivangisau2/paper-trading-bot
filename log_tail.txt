@@ -1,19 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-07 23:54 UTC
+⏰ Ciclo — 2026-11-08 00:09 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -3)...
-   → SHORT (confianza 70%): EMA bearish, MACD negative, volume high; RSI neutral, limited downside
-  [ejecución] ▼ SHORT SOLUSDT: 1.56325882 @ 89.7 | SL 90.4451 | TP 88.2098 | score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, limited downside
-
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 30%): EMA200 bearish, price near upper Bollinger, weak signal
-
-💰 Equity: $935.00 | Cash: $934.69 | Retorno: -6.50%
+💰 Equity: $935.16 | Cash: $934.69 | Retorno: -6.48%
 📈 Posiciones abiertas: 2 | Cerradas: 171 | PnL realizado: -65.03
-   ▲ ETHUSDT: entry 2230.72 → ahora 2235.71 (+0.31 USD)
-   ▼ SOLUSDT: entry 89.7 → ahora 89.7 (+0.00 USD)
+   ▲ ETHUSDT: entry 2230.72 → ahora 2235.7 (+0.31 USD)
+   ▼ SOLUSDT: entry 89.7 → ahora 89.6 (+0.16 USD)

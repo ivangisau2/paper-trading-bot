@@ -12,7 +12,7 @@
       "notional": 140.2453440928,
       "fee": 0.1402453440928,
       "note": "score 3 | IA: RSI oversold, bullish EMA/MACD, price near lower Bollinger; volume weak, cautious LONG.",
-      "checked_at": 1794095689.5384207
+      "checked_at": 1794096558.7617576
     },
     "SOLUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-11-07T23:54:53+00:00",
       "notional": 140.224316154,
       "fee": 0.14022431615400002,
-      "note": "score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, limited downside"
+      "note": "score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, limited downside",
+      "checked_at": 1794096558.7617576
     }
   },
   "closed": 171,
