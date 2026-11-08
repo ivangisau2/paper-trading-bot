@@ -1,45 +1,8 @@
 {
-  "balance": 934.5483485119665,
+  "balance": 939.406954201744,
   "initial_balance": 1000.0,
-  "positions": {
-    "ETHUSDT": {
-      "side": "long",
-      "qty": 0.06286999,
-      "entry": 2230.72,
-      "sl": 2197.9123073210153,
-      "tp": 2296.3353853579683,
-      "opened_at": "2026-11-06T07:42:18+00:00",
-      "notional": 140.2453440928,
-      "fee": 0.1402453440928,
-      "note": "score 3 | IA: RSI oversold, bullish EMA/MACD, price near lower Bollinger; volume weak, cautious LONG.",
-      "checked_at": 1794174084.650598
-    },
-    "SOLUSDT": {
-      "side": "short",
-      "qty": 1.56325882,
-      "entry": 89.7,
-      "sl": 90.44510882258736,
-      "tp": 88.2097823548253,
-      "opened_at": "2026-11-07T23:54:53+00:00",
-      "notional": 140.224316154,
-      "fee": 0.14022431615400002,
-      "note": "score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, limited downside",
-      "checked_at": 1794174084.650598
-    },
-    "NEARUSDT": {
-      "side": "short",
-      "qty": 38.42343796,
-      "entry": 3.6489,
-      "sl": 3.7140022814380194,
-      "tp": 3.5186954371239607,
-      "opened_at": "2026-11-08T18:21:28+00:00",
-      "notional": 140.203282772244,
-      "fee": 0.140203282772244,
-      "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda inferior, volumen bajo",
-      "checked_at": 1794174084.650598
-    }
-  },
-  "closed": 171,
-  "realized_pnl": -65.03097854501468,
+  "positions": {},
+  "closed": 174,
+  "realized_pnl": -60.59304579825622,
   "started": "2026-09-23T21:38:36+00:00"
 }
