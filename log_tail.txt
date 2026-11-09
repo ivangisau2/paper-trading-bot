@@ -1,6 +1,6 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-09 21:17 UTC
+⏰ Ciclo — 2026-11-09 21:35 UTC
 ============================================================
   [datos] ticker Kraken BTCUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=XBTUSD
   [datos] ticker Kraken ETHUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=ETHUSD
@@ -13,11 +13,6 @@
   [datos] ticker Kraken LINKUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=LINKUSD
   [datos] ticker Kraken DOTUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=DOTUSD
   [datos] ticker Kraken LTCUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=LTCUSD
-  [datos] ticker Kraken ATOMUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=ATOMUSD
-  [datos] ticker Kraken NEARUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=NEARUSD
-  [datos] ticker Kraken APTUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=APTUSD
-  [datos] ticker Kraken ARBUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=ARBUSD
-  [datos] ticker Kraken OPUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=OPUSD
   [salida] velas 1m de NEARUSDT: HTTPSConnectionPool(host='api.kraken.com', port=443): Read timed out. (read timeout=15)
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
   [datos] BTCUSDT: sin ticker — se omite
@@ -31,14 +26,9 @@
   [datos] LINKUSDT: sin ticker — se omite
   [datos] DOTUSDT: sin ticker — se omite
   [datos] LTCUSDT: sin ticker — se omite
-  [datos] ATOMUSDT: sin ticker — se omite
-  [datos] NEARUSDT: sin ticker — se omite
-  [datos] APTUSDT: sin ticker — se omite
-  [datos] ARBUSDT: sin ticker — se omite
-  [datos] OPUSDT: sin ticker — se omite
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $941.29 | Cash: $941.29 | Retorno: -5.87%
+💰 Equity: $940.72 | Cash: $941.29 | Retorno: -5.93%
 📈 Posiciones abiertas: 1 | Cerradas: 175 | PnL realizado: -58.56
-   ▼ NEARUSDT: entry 3.6336 → ahora 3.6336 (+0.00 USD)
+   ▼ NEARUSDT: entry 3.6336 → ahora 3.6484 (-0.57 USD)
