@@ -1,11 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-09 16:57 UTC
+⏰ Ciclo — 2026-11-09 17:11 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $942.38 | Cash: $941.29 | Retorno: -5.76%
+🤖 Analista IA evaluando AVAXUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen, duda razonable
+
+💰 Equity: $942.15 | Cash: $941.29 | Retorno: -5.78%
 📈 Posiciones abiertas: 1 | Cerradas: 175 | PnL realizado: -58.56
-   ▼ NEARUSDT: entry 3.6336 → ahora 3.6057 (+1.08 USD)
+   ▼ NEARUSDT: entry 3.6336 → ahora 3.6115 (+0.86 USD)
