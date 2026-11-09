@@ -1,34 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-09 21:35 UTC
+⏰ Ciclo — 2026-11-09 21:53 UTC
 ============================================================
-  [datos] ticker Kraken BTCUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=XBTUSD
-  [datos] ticker Kraken ETHUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=ETHUSD
-  [datos] ticker Kraken UNIUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=UNIUSD
-  [datos] ticker Kraken SOLUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=SOLUSD
-  [datos] ticker Kraken XRPUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=XRPUSD
-  [datos] ticker Kraken ADAUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=ADAUSD
-  [datos] ticker Kraken DOGEUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=XDGUSD
-  [datos] ticker Kraken AVAXUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=AVAXUSD
-  [datos] ticker Kraken LINKUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=LINKUSD
-  [datos] ticker Kraken DOTUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=DOTUSD
-  [datos] ticker Kraken LTCUSDT: 503 Server Error: Service Unavailable for url: https://api.kraken.com/0/public/Ticker?pair=LTCUSD
-  [salida] velas 1m de NEARUSDT: HTTPSConnectionPool(host='api.kraken.com', port=443): Read timed out. (read timeout=15)
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
-  [datos] BTCUSDT: sin ticker — se omite
-  [datos] ETHUSDT: sin ticker — se omite
-  [datos] UNIUSDT: sin ticker — se omite
-  [datos] SOLUSDT: sin ticker — se omite
-  [datos] XRPUSDT: sin ticker — se omite
-  [datos] ADAUSDT: sin ticker — se omite
-  [datos] DOGEUSDT: sin ticker — se omite
-  [datos] AVAXUSDT: sin ticker — se omite
-  [datos] LINKUSDT: sin ticker — se omite
-  [datos] DOTUSDT: sin ticker — se omite
-  [datos] LTCUSDT: sin ticker — se omite
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $940.72 | Cash: $941.29 | Retorno: -5.93%
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA bajista contradice impulso MACD, mejor esperar
+
+💰 Equity: $940.34 | Cash: $941.29 | Retorno: -5.97%
 📈 Posiciones abiertas: 1 | Cerradas: 175 | PnL realizado: -58.56
-   ▼ NEARUSDT: entry 3.6336 → ahora 3.6484 (-0.57 USD)
+   ▼ NEARUSDT: entry 3.6336 → ahora 3.6583 (-0.96 USD)
