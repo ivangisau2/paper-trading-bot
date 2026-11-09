@@ -1,24 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-09 05:30 UTC
+⏰ Ciclo — 2026-11-09 05:45 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO BTCUSDT @ 74228.75421930786: +2.03 USD (take profit (wick entre ciclos))
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación: RSI bajo, volumen débil, precio cerca banda inferior
+   → FLAT (confianza 65%): Baja confirmación, RSI bajo y precio cerca banda inferior indican posible rebote
 
 🤖 Analista IA evaluando DOGEUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volumen y RSI cercano a sobreventa generan incertidumbre; no confirmar short
+   → FLAT (confianza 65%): Baja volumen y precio cerca banda inferior, señal corta no confirmada
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos, RSI bajo y precio en banda inferior, duda razonable
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, price near lower Bollinger, low volume; short not supported
+   → FLAT (confianza 70%): RSI oversold, price near lower Bollinger, low volume; short lacks confirmation
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold, precio cerca banda baja, volumen débil
-
-💰 Equity: $943.75 | Cash: $939.13 | Retorno: -5.63%
-📈 Posiciones abiertas: 2 | Cerradas: 174 | PnL realizado: -60.59
-   ▼ BTCUSDT: entry 75465 → ahora 74460.8 (+1.88 USD)
-   ▼ NEARUSDT: entry 3.6336 → ahora 3.5628 (+2.75 USD)
+💰 Equity: $943.66 | Cash: $941.29 | Retorno: -5.63%
+📈 Posiciones abiertas: 1 | Cerradas: 175 | PnL realizado: -58.56
+   ▼ NEARUSDT: entry 3.6336 → ahora 3.5726 (+2.37 USD)
