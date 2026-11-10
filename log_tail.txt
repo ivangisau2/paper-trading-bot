@@ -1,18 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-10 16:21 UTC
+⏰ Ciclo — 2026-11-10 16:35 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (short score -3)...
-   → FLAT (confianza 55%): Indicadores mixtos, precio cerca banda baja, duda razonable
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 70%): Precio bajo banda inferior y RSI bajo indican posible rebote, no confirma short
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI no sobrevendido
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 60%): Precio bajo banda inferior, RSI oversold; bearish trend pero riesgo de reversión, prefiero flat
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI bajo, volumen débil, señal corta dudosa
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 40%): Precio bajo banda inferior, RSI oversold; tendencia bajista pero posible rebote, duda.
+
+🤖 Analista IA evaluando AVAXUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen y RSI cerca de sobreventa; mejor esperar
 
 💰 Equity: $937.62 | Cash: $937.62 | Retorno: -6.24%
 📈 Posiciones abiertas: 0 | Cerradas: 176 | PnL realizado: -62.38
