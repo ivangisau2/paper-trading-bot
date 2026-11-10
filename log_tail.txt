@@ -1,23 +1,22 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-10 14:38 UTC
+⏰ Ciclo — 2026-11-10 14:53 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO NEARUSDT @ 3.7246251388002936: -3.81 USD (stop loss (wick entre ciclos))
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Precio cerca banda baja, RSI neutro, tendencia bajista, pero riesgo rebote
-
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): RSI oversold, price near lower band, trend bearish but uncertain
+🤖 Analista IA evaluando BTCUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio cerca banda inferior, RSI no sobrevendido, tendencia bajista pero riesgo de rebote
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but low volume and neutral RSI
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
 
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 65%): Precio bajo banda inferior, RSI oversold; tendencia bajista pero señal corta no confirmada
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 40%): Mixed bearish trend but oversold RSI and price at lower Bollinger suggest caution
 
-💰 Equity: $939.21 | Cash: $941.29 | Retorno: -6.08%
-📈 Posiciones abiertas: 1 | Cerradas: 175 | PnL realizado: -58.56
-   ▼ NEARUSDT: entry 3.6336 → ahora 3.6873 (-2.08 USD)
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda, RSI oversold, posible rebote, no confirmar
+
+💰 Equity: $937.62 | Cash: $937.62 | Retorno: -6.24%
+📈 Posiciones abiertas: 0 | Cerradas: 176 | PnL realizado: -62.38
