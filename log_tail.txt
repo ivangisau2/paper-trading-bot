@@ -1,18 +1,17 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-11 11:39 UTC
+⏰ Ciclo — 2026-11-11 11:54 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO NEARUSDT @ 3.7362814926637355: -4.14 USD (stop loss (wick entre ciclos))
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, bajo volumen, precio cerca banda inferior, señal corta poco fiable
+🤖 Analista IA evaluando UNIUSDT (short score -2)...
+   → FLAT (confianza 60%): RSI oversold, low volume, trend unclear
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos y bajo volumen, no confirma señal corta
+   → FLAT (confianza 55%): Indicadores mixtos, bajo volumen, tendencia bajista, duda razonable
 
-💰 Equity: $937.45 | Cash: $937.34 | Retorno: -6.26%
-📈 Posiciones abiertas: 2 | Cerradas: 176 | PnL realizado: -62.38
-   ▼ AVAXUSDT: entry 8.618 → ahora 8.564 (+0.88 USD)
-   ▼ NEARUSDT: entry 3.6365 → ahora 3.6565 (-0.77 USD)
+💰 Equity: $933.60 | Cash: $933.34 | Retorno: -6.64%
+📈 Posiciones abiertas: 1 | Cerradas: 177 | PnL realizado: -66.52
+   ▼ AVAXUSDT: entry 8.618 → ahora 8.602 (+0.26 USD)
