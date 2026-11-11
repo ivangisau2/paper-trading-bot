@@ -1,9 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-11 02:54 UTC
+⏰ Ciclo — 2026-11-11 03:09 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
+
+🤖 Analista IA evaluando AVAXUSDT (short score -1)...
+   → FLAT (confianza 70%): Baja confirmación, volumen muy bajo, señal corta no fiable
 
 💰 Equity: $937.62 | Cash: $937.62 | Retorno: -6.24%
 📈 Posiciones abiertas: 0 | Cerradas: 176 | PnL realizado: -62.38
