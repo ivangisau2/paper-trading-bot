@@ -1,11 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-11 13:50 UTC
+⏰ Ciclo — 2026-11-11 14:05 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $934.63 | Cash: $933.34 | Retorno: -6.54%
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 70%): Señal corta no confirmada, indicadores mixtos y volumen extremadamente bajo
+
+💰 Equity: $934.41 | Cash: $933.34 | Retorno: -6.56%
 📈 Posiciones abiertas: 1 | Cerradas: 177 | PnL realizado: -66.52
-   ▼ AVAXUSDT: entry 8.618 → ahora 8.539 (+1.29 USD)
+   ▼ AVAXUSDT: entry 8.618 → ahora 8.552 (+1.08 USD)
