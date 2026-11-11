@@ -1,14 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-11 18:58 UTC
+⏰ Ciclo — 2026-11-11 19:13 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 65%): EMA bajista, pero momentum y RSI no confirman corto
-
-💰 Equity: $933.58 | Cash: $933.34 | Retorno: -6.64%
+💰 Equity: $934.17 | Cash: $933.34 | Retorno: -6.58%
 📈 Posiciones abiertas: 1 | Cerradas: 177 | PnL realizado: -66.52
-   ▼ AVAXUSDT: entry 8.618 → ahora 8.603 (+0.24 USD)
+   ▼ AVAXUSDT: entry 8.618 → ahora 8.567 (+0.83 USD)
