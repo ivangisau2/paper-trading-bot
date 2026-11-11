@@ -1,14 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-11 17:30 UTC
+⏰ Ciclo — 2026-11-11 17:45 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 60%): Señal corta, pero indicadores mixtos y bajo volumen.
+   → FLAT (confianza 60%): MACD positivo y RSI neutro contradicen señal bajista; mejor esperar
 
-💰 Equity: $932.00 | Cash: $933.34 | Retorno: -6.80%
+💰 Equity: $932.21 | Cash: $933.34 | Retorno: -6.78%
 📈 Posiciones abiertas: 1 | Cerradas: 177 | PnL realizado: -66.52
-   ▼ AVAXUSDT: entry 8.618 → ahora 8.7 (-1.34 USD)
+   ▼ AVAXUSDT: entry 8.618 → ahora 8.687 (-1.13 USD)
