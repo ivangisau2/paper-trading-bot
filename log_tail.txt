@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-11 03:09 UTC
+⏰ Ciclo — 2026-11-11 03:24 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 65%): Indicadores mixtos y volumen muy bajo, no confirma short
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 55%): Conflicto entre tendencia bajista y momentum alcista, volumen bajo
 
 💰 Equity: $937.62 | Cash: $937.62 | Retorno: -6.24%
 📈 Posiciones abiertas: 0 | Cerradas: 176 | PnL realizado: -62.38
