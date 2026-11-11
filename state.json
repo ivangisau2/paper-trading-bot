@@ -12,7 +12,7 @@
       "notional": 140.6431608112,
       "fee": 0.1406431608112,
       "note": "score -2 | IA: Precio sobre Bollinger superior, RSI overbought, EMA bajista, volumen d\u00e9bil, confirma short.",
-      "checked_at": 1794396295.877355
+      "checked_at": 1794397175.0888653
     },
     "NEARUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 140.62206432967,
       "fee": 0.14062206432967,
       "note": "score -2 | IA: Baja volatilidad y tendencia bajista respaldan corto, pero volumen escaso",
-      "checked_at": 1794396295.877355
+      "checked_at": 1794397175.0888653
     }
   },
   "closed": 176,
