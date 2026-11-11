@@ -1,12 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-11 08:29 UTC
+⏰ Ciclo — 2026-11-11 08:44 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (short score -1)...
-   → FLAT (confianza 60%): MACD positivo y volumen bajo debilitan señal corta; mejor esperar
+🤖 Analista IA evaluando AVAXUSDT (short score -2)...
+   → SHORT (confianza 65%): Precio sobre Bollinger superior, RSI overbought, EMA bajista, volumen débil, confirma short.
+  [ejecución] ▼ SHORT AVAXUSDT: 16.3196984 @ 8.618 | SL 8.77434 | TP 8.30532 | score -2 | IA: Precio sobre Bollinger superior, RSI overbought, EMA bajista, volumen débil, confirma short.
 
-💰 Equity: $937.62 | Cash: $937.62 | Retorno: -6.24%
-📈 Posiciones abiertas: 0 | Cerradas: 176 | PnL realizado: -62.38
+💰 Equity: $937.48 | Cash: $937.48 | Retorno: -6.25%
+📈 Posiciones abiertas: 1 | Cerradas: 176 | PnL realizado: -62.38
+   ▼ AVAXUSDT: entry 8.618 → ahora 8.618 (+0.00 USD)
