@@ -12,7 +12,7 @@
       "notional": 140.6431608112,
       "fee": 0.1406431608112,
       "note": "score -2 | IA: Precio sobre Bollinger superior, RSI overbought, EMA bajista, volumen d\u00e9bil, confirma short.",
-      "checked_at": 1794481715.7261279
+      "checked_at": 1794482593.4424067
     },
     "SOLUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 140.000522285,
       "fee": 0.14000052228499998,
       "note": "score -2 | IA: Baja tendencia, MACD negativo, pero volumen muy bajo",
-      "checked_at": 1794481715.7261279
+      "checked_at": 1794482593.4424067
     }
   },
   "closed": 177,
