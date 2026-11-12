@@ -1,15 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-12 13:05 UTC
+⏰ Ciclo — 2026-11-12 13:19 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO AVAXUSDT @ 8.305318032682962: +4.83 USD (take profit (wick entre ciclos))
+  [ejecución] ✅ CERRADO SOLUSDT @ 80.6614284633329: +3.37 USD (take profit (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 6 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI oversold y bajo volumen, tendencia bajista pero señal poco robusta
+🤖 Analista IA evaluando ADAUSDT (short score -2)...
+   → FLAT (confianza 55%): RSI oversold y precio cerca banda baja, incertidumbre
 
-💰 Equity: $938.63 | Cash: $933.20 | Retorno: -6.14%
-📈 Posiciones abiertas: 2 | Cerradas: 177 | PnL realizado: -66.52
-   ▼ AVAXUSDT: entry 8.618 → ahora 8.375 (+3.97 USD)
-   ▼ SOLUSDT: entry 82.82 → ahora 81.95 (+1.47 USD)
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 55%): RSI oversold, pero tendencia bajista y señal incierta
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda inferior y RSI oversold; posible rebote, no confirma short
+
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 60%): Precio bajo banda, RSI oversold, tendencia bajista pero señal poco fiable
+
+💰 Equity: $941.68 | Cash: $941.68 | Retorno: -5.83%
+📈 Posiciones abiertas: 0 | Cerradas: 179 | PnL realizado: -58.32
