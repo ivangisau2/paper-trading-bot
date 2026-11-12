@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-12 01:18 UTC
+⏰ Ciclo — 2026-11-12 01:32 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente para confirmar short
+   → FLAT (confianza 55%): Baja volatilidad y volumen, precio cerca soporte Bollinger, señal corta no confirmada
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja volatilidad y volumen insuficiente, señal bajista no suficientemente confirmada
+   → FLAT (confianza 45%): Volumen bajo y precio cerca banda inferior, señal poco robusta
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación de volumen, señal corta débil
+   → FLAT (confianza 55%): Baja confirmación de volumen y RSI neutro
 
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación, volumen bajo y RSI neutro
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 60%): Baja confirmación: volumen débil, RSI no sobrevendido, precio cerca banda inferior.
 
-💰 Equity: $934.79 | Cash: $933.34 | Retorno: -6.52%
+💰 Equity: $934.50 | Cash: $933.34 | Retorno: -6.55%
 📈 Posiciones abiertas: 1 | Cerradas: 177 | PnL realizado: -66.52
-   ▼ AVAXUSDT: entry 8.618 → ahora 8.529 (+1.45 USD)
+   ▼ AVAXUSDT: entry 8.618 → ahora 8.547 (+1.16 USD)
