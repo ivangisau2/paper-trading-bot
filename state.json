@@ -1,5 +1,5 @@
 {
-  "balance": 933.33681413524,
+  "balance": 933.196813612955,
   "initial_balance": 1000.0,
   "positions": {
     "AVAXUSDT": {
@@ -12,7 +12,18 @@
       "notional": 140.6431608112,
       "fee": 0.1406431608112,
       "note": "score -2 | IA: Precio sobre Bollinger superior, RSI overbought, EMA bajista, volumen d\u00e9bil, confirma short.",
-      "checked_at": 1794470807.1931949
+      "checked_at": 1794471193.7521515
+    },
+    "SOLUSDT": {
+      "side": "short",
+      "qty": 1.69041925,
+      "entry": 82.82,
+      "sl": 83.89928576833354,
+      "tp": 80.6614284633329,
+      "opened_at": "2026-11-12T08:13:19+00:00",
+      "notional": 140.000522285,
+      "fee": 0.14000052228499998,
+      "note": "score -2 | IA: Baja tendencia, MACD negativo, pero volumen muy bajo"
     }
   },
   "closed": 177,
