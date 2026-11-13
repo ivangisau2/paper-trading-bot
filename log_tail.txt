@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-13 07:05 UTC
+⏰ Ciclo — 2026-11-13 07:20 UTC
 ============================================================
-  [ejecución] ❌ CERRADO NEARUSDT @ 3.4972246604318107: -3.83 USD (stop loss (wick entre ciclos))
 
 📊 8 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (short score -2)...
-   → FLAT (confianza 45%): Baja RSI y tendencia bajista, pero volumen muy bajo y señal débil; mejor FLAT.
+   → FLAT (confianza 60%): RSI oversold, bajo volumen, señal corta no confirmada
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Volumen bajo y RSI no confirma fuerza bajista
-
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación: volumen bajo, RSI neutro, precio cerca media Bollinger.
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutro
 
 🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja confirmación, volumen muy bajo y RSI neutro
+   → FLAT (confianza 40%): Baja confirmación, volumen débil y RSI neutro
+
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → FLAT (confianza 55%): Bajista trend but price near lower Bollinger, low volume, RSI neutral; duda razonable.
 
 💰 Equity: $937.85 | Cash: $937.85 | Retorno: -6.22%
 📈 Posiciones abiertas: 0 | Cerradas: 180 | PnL realizado: -62.15
