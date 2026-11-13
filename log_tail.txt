@@ -1,17 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-13 11:47 UTC
+⏰ Ciclo — 2026-11-13 12:02 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → SHORT (confianza 70%): EMA bearish, MACD negative, volume high, RSI not oversold
-  [ejecución] ▼ SHORT ETHUSDT: 0.07180356 @ 1959.19 | SL 1990.14 | TP 1897.29 | score -3 | IA: EMA bearish, MACD negative, volume high, RSI not oversold
-
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 60%): EMA50/200 bearish, price near upper Bollinger, mixed indicators; better stay flat
-
-💰 Equity: $937.66 | Cash: $937.70 | Retorno: -6.23%
+💰 Equity: $937.55 | Cash: $937.70 | Retorno: -6.24%
 📈 Posiciones abiertas: 1 | Cerradas: 180 | PnL realizado: -62.15
-   ▼ ETHUSDT: entry 1959.19 → ahora 1959.75 (-0.04 USD)
+   ▼ ETHUSDT: entry 1959.19 → ahora 1961.28 (-0.15 USD)
