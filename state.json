@@ -12,7 +12,7 @@
       "notional": 140.6768167164,
       "fee": 0.1406768167164,
       "note": "score -3 | IA: EMA bearish, MACD negative, volume high, RSI not oversold",
-      "checked_at": 1794594500.689253
+      "checked_at": 1794595373.0223114
     },
     "AVAXUSDT": {
       "side": "long",
@@ -24,7 +24,7 @@
       "notional": 140.65572289782997,
       "fee": 0.14065572289783,
       "note": "score 2 | IA: MACD y EMA bullish, RSI neutro, precio cerca banda media",
-      "checked_at": 1794594500.689253
+      "checked_at": 1794595373.0223114
     }
   },
   "closed": 180,
