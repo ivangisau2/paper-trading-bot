@@ -1,19 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-13 16:24 UTC
+⏰ Ciclo — 2026-11-13 16:39 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 2 candidatos tras filtros
-
-🤖 Analista IA evaluando AVAXUSDT (long score 2)...
-   → LONG (confianza 60%): MACD y EMA bullish, RSI neutro, precio cerca banda media
-  [ejecución] ▲ LONG AVAXUSDT: 16.90370423 @ 8.321 | SL 8.14154 | TP 8.67992 | score 2 | IA: MACD y EMA bullish, RSI neutro, precio cerca banda media
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 70%): Baja tendencia, volumen bajo, señal poco confirmada
+   → FLAT (confianza 65%): Tendencia bajista, bajo volumen y señal mixta; mejor esperar
 
-💰 Equity: $940.06 | Cash: $937.56 | Retorno: -5.99%
+💰 Equity: $939.45 | Cash: $937.56 | Retorno: -6.06%
 📈 Posiciones abiertas: 2 | Cerradas: 180 | PnL realizado: -62.15
-   ▼ ETHUSDT: entry 1959.19 → ahora 1923.5 (+2.56 USD)
-   ▲ AVAXUSDT: entry 8.321 → ahora 8.317 (-0.07 USD)
+   ▼ ETHUSDT: entry 1959.19 → ahora 1928.48 (+2.21 USD)
+   ▲ AVAXUSDT: entry 8.321 → ahora 8.302 (-0.32 USD)
