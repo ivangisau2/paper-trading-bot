@@ -1,20 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-13 13:44 UTC
+⏰ Ciclo — 2026-11-13 13:58 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA200 bearish, señal no confirmada
+   → FLAT (confianza 70%): EMA trend bearish, señal contradictoria, mejor esperar
+
+🤖 Analista IA evaluando ADAUSDT (long score 1)...
+   → FLAT (confianza 60%): EMA bajista y precio cerca de banda superior, señal poco confirmada
 
 🤖 Analista IA evaluando DOGEUSDT (long score 1)...
-   → FLAT (confianza 30%): EMA bajista y RSI neutro, señal larga no confirmada
+   → FLAT (confianza 70%): EMA50/200 bearish, weak signal, mixed indicators, prefer flat
 
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 65%): Mixed indicators, insufficient confirmation for short
+🤖 Analista IA evaluando LINKUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA200 bearish, mixed signals, mejor esperar.
 
-💰 Equity: $936.31 | Cash: $937.70 | Retorno: -6.37%
+💰 Equity: $937.16 | Cash: $937.70 | Retorno: -6.28%
 📈 Posiciones abiertas: 1 | Cerradas: 180 | PnL realizado: -62.15
-   ▼ ETHUSDT: entry 1959.19 → ahora 1978.57 (-1.39 USD)
+   ▼ ETHUSDT: entry 1959.19 → ahora 1966.81 (-0.55 USD)
