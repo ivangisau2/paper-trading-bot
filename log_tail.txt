@@ -1,14 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-13 04:10 UTC
+⏰ Ciclo — 2026-11-13 04:25 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando LINKUSDT (short score -1)...
-   → FLAT (confianza 30%): Precio bajo banda inferior, RSI oversold, tendencia bajista, señal débil
+   → FLAT (confianza 70%): Precio bajo banda inferior, RSI sobrevendido, señal corta no confirmada
 
-💰 Equity: $944.76 | Cash: $941.54 | Retorno: -5.52%
+💰 Equity: $946.24 | Cash: $941.54 | Retorno: -5.38%
 📈 Posiciones abiertas: 1 | Cerradas: 179 | PnL realizado: -58.32
-   ▼ NEARUSDT: entry 3.4116 → ahora 3.3338 (+3.22 USD)
+   ▼ NEARUSDT: entry 3.4116 → ahora 3.2979 (+4.71 USD)
