@@ -1,12 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-14 16:19 UTC
+⏰ Ciclo — 2026-11-14 16:34 UTC
 ============================================================
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold contradicts short, trend unclear
+   → FLAT (confianza 70%): Precio bajo banda Bollinger y RSI oversold, contradice señal corta
+
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda inferior, RSI oversold, señal corta no confirmada
 
 💰 Equity: $938.70 | Cash: $938.70 | Retorno: -6.13%
 📈 Posiciones abiertas: 0 | Cerradas: 182 | PnL realizado: -61.30
