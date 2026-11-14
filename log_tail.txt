@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-14 02:29 UTC
+⏰ Ciclo — 2026-11-14 02:43 UTC
 ============================================================
-  [ejecución] ✅ CERRADO ETHUSDT @ 1897.2855080408117: +4.17 USD (take profit (wick entre ciclos))
 
-📊 7 candidatos tras filtros
+📊 9 candidatos tras filtros
+
+🤖 Analista IA evaluando BTCUSDT (long score 3)...
+   → FLAT (confianza 45%): EMA50/200 bearish contradicts bullish indicators; insufficient confirmation
+
+🤖 Analista IA evaluando ETHUSDT (long score 3)...
+   → FLAT (confianza 55%): Precio bajo Bollinger, RSI bajo, pero EMA bajista sugiere cautela
+
+🤖 Analista IA evaluando LINKUSDT (short score -2)...
+   → FLAT (confianza 60%): Precio bajo banda inferior, RSI bajo; tendencia bajista pero posible rebote, duda razonable.
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio bajo banda inferior y RSI bajo, pero tendencia bajista; duda razonable
-
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 70%): Precio bajo banda inferior, RSI oversold, señal corta no confirmada
-
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 65%): Precio bajo banda inferior, RSI sobrevendido, riesgo de rebote
-
-🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio bajo banda inferior, RSI oversold; tendencia bajista, señal conflictiva, mejor FLAT.
+   → FLAT (confianza 55%): Mixed signals; bearish trend but price below lower Bollinger suggests possible reversal
 
 💰 Equity: $938.70 | Cash: $938.70 | Retorno: -6.13%
 📈 Posiciones abiertas: 0 | Cerradas: 182 | PnL realizado: -61.30
