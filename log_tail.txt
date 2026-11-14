@@ -1,18 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-14 04:22 UTC
+⏰ Ciclo — 2026-11-14 04:37 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 40%): Low volume, RSI near oversold, price near lower Bollinger; insufficient confirmation for short.
-
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold y cerca banda baja, volumen débil, duda razonable
-
-🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 45%): RSI oversold, bajo volumen, señal corta no confirmada
+   → FLAT (confianza 60%): RSI near oversold, low volume, trend unclear
 
 💰 Equity: $938.70 | Cash: $938.70 | Retorno: -6.13%
 📈 Posiciones abiertas: 0 | Cerradas: 182 | PnL realizado: -61.30
