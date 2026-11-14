@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-14 16:05 UTC
+⏰ Ciclo — 2026-11-14 16:19 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, price near lower Bollinger, low volume; signal not confirmed
+   → FLAT (confianza 60%): RSI oversold contradicts short, trend unclear
 
 💰 Equity: $938.70 | Cash: $938.70 | Retorno: -6.13%
 📈 Posiciones abiertas: 0 | Cerradas: 182 | PnL realizado: -61.30
