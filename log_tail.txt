@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-14 04:51 UTC
+⏰ Ciclo — 2026-11-14 05:06 UTC
 ============================================================
 
-📊 6 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 55%): Bearish trend, RSI oversold, but price near lower Bollinger; insufficient confirmation
+   → FLAT (confianza 65%): Baja volatilidad y precio cerca banda inferior, señal corta no confirmada
+
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 70%): Baja volatilidad y sobreventa indican incertidumbre, mejor esperar
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 55%): Precio cerca soporte, RSI bajo, señal corta no confirmada
+   → FLAT (confianza 60%): Baja volatilidad y RSI sobrevendido generan incertidumbre
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, price near lower Bollinger, signal weak
-
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 60%): Precio cerca de soporte, RSI bajo, señal corta no confirmada
+   → FLAT (confianza 60%): RSI oversold, low volume, near lower Bollinger; short risk high
 
 💰 Equity: $938.70 | Cash: $938.70 | Retorno: -6.13%
 📈 Posiciones abiertas: 0 | Cerradas: 182 | PnL realizado: -61.30
