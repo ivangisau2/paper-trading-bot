@@ -1,14 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-15 04:39 UTC
+⏰ Ciclo — 2026-11-15 04:54 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando AVAXUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, RSI bajo y volumen débil
-
-💰 Equity: $937.52 | Cash: $938.56 | Retorno: -6.25%
+💰 Equity: $936.99 | Cash: $938.56 | Retorno: -6.30%
 📈 Posiciones abiertas: 1 | Cerradas: 182 | PnL realizado: -61.30
-   ▼ LINKUSDT: entry 9.04844 → ahora 9.11529 (-1.04 USD)
+   ▼ LINKUSDT: entry 9.04844 → ahora 9.14934 (-1.57 USD)
