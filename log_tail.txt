@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-15 02:42 UTC
+⏰ Ciclo — 2026-11-15 02:57 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 9 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → FLAT (confianza 70%): EMA bajista, MACD negativo, pero RSI neutro y precio aún por encima banda media
+   → FLAT (confianza 65%): Bearish indicators dominate but price near median; moderate doubt, stay flat
 
 🤖 Analista IA evaluando SOLUSDT (short score -3)...
-   → FLAT (confianza 45%): RSI no confirma sobrecompra; señal corta dudosa
+   → FLAT (confianza 55%): EMA bearish, MACD negative, pero RSI neutral y precio subiendo; mejor esperar.
 
-🤖 Analista IA evaluando LINKUSDT (short score -3)...
-   → SHORT (confianza 70%): EMA bearish, MACD negative, high volume, RSI neutral, supports short
-  [ejecución] ▼ SHORT LINKUSDT: 15.56127526 @ 9.04844 | SL 9.32788 | TP 8.48956 | score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, supports short
+🤖 Analista IA evaluando XRPUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio al alza, RSI neutro y tendencia mixta; mejor esperar
 
 🤖 Analista IA evaluando LTCUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bajista, MACD negativo, pero RSI cerca de sobreventa y precio en banda inferior
+   → FLAT (confianza 60%): EMA bajista y MACD negativo, pero RSI y Bollinger indican posible rebote
 
-💰 Equity: $938.56 | Cash: $938.56 | Retorno: -6.14%
+💰 Equity: $937.85 | Cash: $938.56 | Retorno: -6.21%
 📈 Posiciones abiertas: 1 | Cerradas: 182 | PnL realizado: -61.30
-   ▼ LINKUSDT: entry 9.04844 → ahora 9.04844 (+0.00 USD)
+   ▼ LINKUSDT: entry 9.04844 → ahora 9.09399 (-0.71 USD)
