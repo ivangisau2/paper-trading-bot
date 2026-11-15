@@ -1,14 +1,10 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-15 12:46 UTC
+⏰ Ciclo — 2026-11-15 13:00 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO LINKUSDT @ 9.32787767791173: -4.63 USD (stop loss (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando UNIUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA bajista y precio cerca de banda superior, riesgo de reversión
-
-💰 Equity: $934.62 | Cash: $938.56 | Retorno: -6.54%
-📈 Posiciones abiertas: 1 | Cerradas: 182 | PnL realizado: -61.30
-   ▼ LINKUSDT: entry 9.04844 → ahora 9.30145 (-3.94 USD)
+💰 Equity: $934.07 | Cash: $934.07 | Retorno: -6.59%
+📈 Posiciones abiertas: 0 | Cerradas: 183 | PnL realizado: -65.93
