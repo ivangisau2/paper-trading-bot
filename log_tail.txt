@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-15 02:28 UTC
+⏰ Ciclo — 2026-11-15 02:42 UTC
 ============================================================
 
-📊 10 candidatos tras filtros
+📊 9 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → FLAT (confianza 55%): Precio cerca banda inferior, RSI no sobrevendido, tendencia bajista pero riesgo rebote
+   → FLAT (confianza 70%): EMA bajista, MACD negativo, pero RSI neutro y precio aún por encima banda media
+
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → FLAT (confianza 45%): RSI no confirma sobrecompra; señal corta dudosa
 
 🤖 Analista IA evaluando LINKUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, pero precio cerca banda baja y RSI no sobrevendido
+   → SHORT (confianza 70%): EMA bearish, MACD negative, high volume, RSI neutral, supports short
+  [ejecución] ▼ SHORT LINKUSDT: 15.56127526 @ 9.04844 | SL 9.32788 | TP 8.48956 | score -3 | IA: EMA bearish, MACD negative, high volume, RSI neutral, supports short
 
 🤖 Analista IA evaluando LTCUSDT (short score -3)...
-   → FLAT (confianza 60%): RSI oversold y cerca banda baja, tendencia bajista pero posible rebote, duda razonable
+   → FLAT (confianza 55%): EMA bajista, MACD negativo, pero RSI cerca de sobreventa y precio en banda inferior
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI bajo, volumen débil, señal corta no confirmada
-
-💰 Equity: $938.70 | Cash: $938.70 | Retorno: -6.13%
-📈 Posiciones abiertas: 0 | Cerradas: 182 | PnL realizado: -61.30
+💰 Equity: $938.56 | Cash: $938.56 | Retorno: -6.14%
+📈 Posiciones abiertas: 1 | Cerradas: 182 | PnL realizado: -61.30
+   ▼ LINKUSDT: entry 9.04844 → ahora 9.04844 (+0.00 USD)
