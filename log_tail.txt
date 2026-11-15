@@ -1,9 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-15 23:16 UTC
+⏰ Ciclo — 2026-11-15 23:31 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 2 candidatos tras filtros
+
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 55%): EMA200 bearish, price near upper Bollinger, signal uncertain
+
+🤖 Analista IA evaluando DOGEUSDT (short score -1)...
+   → FLAT (confianza 65%): Mixed indicators; bullish momentum outweighs short signal, better stay flat.
 
 💰 Equity: $934.07 | Cash: $934.07 | Retorno: -6.59%
 📈 Posiciones abiertas: 0 | Cerradas: 183 | PnL realizado: -65.93
