@@ -1,15 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-16 16:44 UTC
+⏰ Ciclo — 2026-11-16 16:59 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA y MACD bajistas, pero RSI neutro y cerca banda baja
+🤖 Analista IA evaluando NEARUSDT (short score -3)...
+   → SHORT (confianza 65%): EMA bajista, MACD negativo, volumen alto, RSI neutro
+  [ejecución] ▼ SHORT NEARUSDT: 43.77876845 @ 3.1908 | SL 3.28356 | TP 3.00527 | score -3 | IA: EMA bajista, MACD negativo, volumen alto, RSI neutro
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 60%): EMA trend bajista y RSI neutral, señal insuficiente
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA bajista y RSI neutro, señal insuficiente
+   → FLAT (confianza 65%): EMA bajista y tendencia general negativa pese a señal
 
-💰 Equity: $931.26 | Cash: $931.26 | Retorno: -6.87%
-📈 Posiciones abiertas: 0 | Cerradas: 184 | PnL realizado: -68.74
+💰 Equity: $931.12 | Cash: $931.12 | Retorno: -6.89%
+📈 Posiciones abiertas: 1 | Cerradas: 184 | PnL realizado: -68.74
+   ▼ NEARUSDT: entry 3.1908 → ahora 3.1908 (+0.00 USD)
