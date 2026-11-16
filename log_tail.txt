@@ -1,21 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-16 07:25 UTC
+⏰ Ciclo — 2026-11-16 07:40 UTC
 ============================================================
 
-📊 4 candidatos tras filtros
-
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y cerca banda baja
-
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 40%): Precio cerca banda inferior, bajo volumen, señal corta no confirmada
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 40%): Baja confirmación, volumen débil y precio cerca banda inferior
+   → FLAT (confianza 65%): Baja confirmación: RSI neutral, bajo volumen, precio cerca de media Bollinger
 
 🤖 Analista IA evaluando DOGEUSDT (long score 1)...
-   → FLAT (confianza 55%): EMA bajista y RSI neutro, señal larga no confirmada
+   → FLAT (confianza 45%): EMA bearish, price near lower Bollinger, RSI neutral, insufficient bullish confirmation
 
 💰 Equity: $934.07 | Cash: $934.07 | Retorno: -6.59%
 📈 Posiciones abiertas: 0 | Cerradas: 183 | PnL realizado: -65.93
