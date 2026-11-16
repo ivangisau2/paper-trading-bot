@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-16 16:30 UTC
+⏰ Ciclo — 2026-11-16 16:44 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -3)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI neutro, riesgo de rebote
+   → FLAT (confianza 55%): EMA y MACD bajistas, pero RSI neutro y cerca banda baja
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
    → FLAT (confianza 65%): EMA bajista y RSI neutro, señal insuficiente
