@@ -1,18 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-16 16:15 UTC
+⏰ Ciclo — 2026-11-16 16:30 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Banda inferior cercana, volumen bajo, señal corta no confirmada
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio cerca banda baja, RSI neutro, riesgo de rebote
 
-🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Precio cerca soporte, señal corta no confirmada
-
-🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja volatilidad y volumen insuficiente para confirmar short
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA bajista y RSI neutro, señal insuficiente
 
 💰 Equity: $931.26 | Cash: $931.26 | Retorno: -6.87%
 📈 Posiciones abiertas: 0 | Cerradas: 184 | PnL realizado: -68.74
