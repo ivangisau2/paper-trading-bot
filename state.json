@@ -11,7 +11,8 @@
       "opened_at": "2026-11-16T11:30:11+00:00",
       "notional": 140.11011068417122,
       "fee": 0.14011011068417123,
-      "note": "score -2 | IA: Bearish trend, MACD negative, volume up; RSI neutral, price near mid Bollinger."
+      "note": "score -2 | IA: Bearish trend, MACD negative, volume up; RSI neutral, price near mid Bollinger.",
+      "checked_at": 1794829479.86587
     }
   },
   "closed": 183,
