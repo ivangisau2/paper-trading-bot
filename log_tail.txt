@@ -1,18 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-16 11:15 UTC
+⏰ Ciclo — 2026-11-16 11:30 UTC
 ============================================================
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 60%): Precio cerca banda baja, volumen bajo, señal corta no confirmada
+   → FLAT (confianza 30%): Volumen bajo y precio cerca banda inferior, señal poco confirmada
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca banda inferior
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca de soporte
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación, volumen débil y RSI neutro
+   → SHORT (confianza 65%): Bearish trend, MACD negative, volume up; RSI neutral, price near mid Bollinger.
+  [ejecución] ▼ SHORT XRPUSDT: 146.70601303 @ 0.95504 | SL 0.972236 | TP 0.920649 | score -2 | IA: Bearish trend, MACD negative, volume up; RSI neutral, price near mid Bollinger.
 
-💰 Equity: $934.07 | Cash: $934.07 | Retorno: -6.59%
-📈 Posiciones abiertas: 0 | Cerradas: 183 | PnL realizado: -65.93
+💰 Equity: $933.90 | Cash: $933.93 | Retorno: -6.61%
+📈 Posiciones abiertas: 1 | Cerradas: 183 | PnL realizado: -65.93
+   ▼ XRPUSDT: entry 0.95504 → ahora 0.95525 (-0.03 USD)
