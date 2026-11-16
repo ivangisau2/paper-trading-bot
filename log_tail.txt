@@ -1,16 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-16 14:40 UTC
+⏰ Ciclo — 2026-11-16 15:46 UTC
 ============================================================
-  [ejecución] ❌ CERRADO XRPUSDT @ 0.9722356087636304: -2.81 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 4 candidatos tras filtros
+
+🤖 Analista IA evaluando XRPUSDT (short score -3)...
+   → FLAT (confianza 60%): Precio cerca banda baja, RSI neutro, riesgo de rebote
+
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 55%): Context mixed, bearish trend but price near lower Bollinger, insufficient confirmation.
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 40%): EMA bajista y precio cerca banda superior, señal poco confirmada
+   → FLAT (confianza 45%): EMA bajista y RSI neutro contradicen señal; mejor esperar
 
-🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 40%): EMA50/200 bajista y precio cerca de banda superior, señal poco confirmada
+🤖 Analista IA evaluando ETHUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA200 bearish, RSI neutral, MACD bullish insufficient consensus
 
 💰 Equity: $931.26 | Cash: $931.26 | Retorno: -6.87%
 📈 Posiciones abiertas: 0 | Cerradas: 184 | PnL realizado: -68.74
