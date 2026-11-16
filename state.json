@@ -11,7 +11,8 @@
       "opened_at": "2026-11-16T16:59:46+00:00",
       "notional": 139.68929437026,
       "fee": 0.13968929437026,
-      "note": "score -3 | IA: EMA bajista, MACD negativo, volumen alto, RSI neutro"
+      "note": "score -3 | IA: EMA bajista, MACD negativo, volumen alto, RSI neutro",
+      "checked_at": 1794848884.584428
     }
   },
   "closed": 184,
