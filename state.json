@@ -11,7 +11,8 @@
       "opened_at": "2026-11-17T21:53:11+00:00",
       "notional": 139.13367029199998,
       "fee": 0.13913367029199997,
-      "note": "score -3 | IA: Bearish MACD, EMA trend, high volume supports short"
+      "note": "score -3 | IA: Bearish MACD, EMA trend, high volume supports short",
+      "checked_at": 1794953269.7683363
     }
   },
   "closed": 187,
