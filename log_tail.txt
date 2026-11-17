@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-17 05:14 UTC
+⏰ Ciclo — 2026-11-17 05:28 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): Indicadores mixtos, bajo volumen y tendencia bajista sin confirmación clara
+   → FLAT (confianza 55%): Indicadores mixtos, falta de confirmación clara
 
 💰 Equity: $926.92 | Cash: $926.92 | Retorno: -7.31%
 📈 Posiciones abiertas: 0 | Cerradas: 185 | PnL realizado: -73.08
