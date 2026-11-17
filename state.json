@@ -1,21 +1,8 @@
 {
-  "balance": 931.1222731449094,
+  "balance": 926.9174526421971,
   "initial_balance": 1000.0,
-  "positions": {
-    "NEARUSDT": {
-      "side": "short",
-      "qty": 43.77876845,
-      "entry": 3.1908,
-      "sl": 3.2835634623354464,
-      "tp": 3.005273075329107,
-      "opened_at": "2026-11-16T16:59:46+00:00",
-      "notional": 139.68929437026,
-      "fee": 0.13968929437026,
-      "note": "score -3 | IA: EMA bajista, MACD negativo, volumen alto, RSI neutro",
-      "checked_at": 1794890701.0293255
-    }
-  },
-  "closed": 184,
-  "realized_pnl": -68.73803756072033,
+  "positions": {},
+  "closed": 185,
+  "realized_pnl": -73.08254735780287,
   "started": "2026-09-23T21:38:36+00:00"
 }
