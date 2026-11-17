@@ -1,20 +1,19 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-17 23:06 UTC
+⏰ Ciclo — 2026-11-17 23:20 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO ETHUSDT @ 1833.4679988957362: -2.72 USD (stop loss (wick entre ciclos))
 
 📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Mixed signals, insufficient confirmation for short
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 55%): Precio sobre banda superior, RSI alto, pero MACD bullish y bajo volumen; duda razonable
+
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos; sobrecompra y precio sobre banda superior, pero MACD positivo
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Señal corta, pero MACD positivo, RSI neutro y bajo volumen generan duda.
+   → FLAT (confianza 55%): Mixed indicators; overbought price, bearish EMA, but bullish MACD, so stay flat.
 
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 35%): Precio sobre banda superior, bajo volumen y MACD positivo; señal corta no confirmada
-
-💰 Equity: $926.07 | Cash: $927.42 | Retorno: -7.39%
-📈 Posiciones abiertas: 1 | Cerradas: 187 | PnL realizado: -72.44
-   ▼ ETHUSDT: entry 1801.84 → ahora 1819.3 (-1.35 USD)
+💰 Equity: $924.83 | Cash: $924.83 | Retorno: -7.52%
+📈 Posiciones abiertas: 0 | Cerradas: 188 | PnL realizado: -75.17
