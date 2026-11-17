@@ -1,14 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-17 01:49 UTC
+⏰ Ciclo — 2026-11-17 02:04 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando ADAUSDT (short score -2)...
-   → FLAT (confianza 65%): Bollinger near support, low volume, ambiguous; better flat
-
-💰 Equity: $933.22 | Cash: $931.12 | Retorno: -6.68%
+💰 Equity: $931.76 | Cash: $931.12 | Retorno: -6.82%
 📈 Posiciones abiertas: 1 | Cerradas: 184 | PnL realizado: -68.74
-   ▼ NEARUSDT: entry 3.1908 → ahora 3.1429 (+2.10 USD)
+   ▼ NEARUSDT: entry 3.1908 → ahora 3.1763 (+0.63 USD)
