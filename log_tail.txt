@@ -1,23 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-17 16:48 UTC
+⏰ Ciclo — 2026-11-17 17:03 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 5 candidatos tras filtros
-
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 45%): Precio bajo banda, RSI bajo, señal corta no confirmada
-
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio bajo banda inferior, RSI bajo, pero tendencia y MACD bajistas; mejor esperar
-
-🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → SHORT (confianza 65%): EMA bajista, MACD negativo, RSI neutral, precio cerca banda media
-  [ejecución] ▼ SHORT SOLUSDT: 1.93460094 @ 72.16 | SL 73.624 | TP 69.232 | score -2 | IA: EMA bajista, MACD negativo, RSI neutral, precio cerca banda media
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Mixed signals; bearish trend but price near lower Bollinger, insufficient confirmation
+   → FLAT (confianza 65%): Baja volatilidad y volumen insuficiente, precio cerca banda baja
 
-💰 Equity: $930.55 | Cash: $930.53 | Retorno: -6.94%
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 55%): Baja volatilidad y volumen, precio cerca banda inferior, señal corta no suficientemente confirmada
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda, RSI bajo, volumen débil, señal corta no confirmada
+
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo Bollinger, bajo volumen, señal corta no confirmada
+
+💰 Equity: $931.31 | Cash: $930.53 | Retorno: -6.87%
 📈 Posiciones abiertas: 1 | Cerradas: 186 | PnL realizado: -69.33
-   ▼ SOLUSDT: entry 72.16 → ahora 72.15 (+0.02 USD)
+   ▼ SOLUSDT: entry 72.16 → ahora 71.76 (+0.77 USD)
