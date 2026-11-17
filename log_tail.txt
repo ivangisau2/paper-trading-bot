@@ -1,15 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-17 13:39 UTC
+⏰ Ciclo — 2026-11-17 13:53 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero precio cerca banda inferior.
+   → SHORT (confianza 70%): EMA bearish, MACD negative, volume high; RSI neutral, price near lower band
+  [ejecución] ▼ SHORT ETHUSDT: 0.07627025 @ 1822.96 | SL 1849.37 | TP 1770.14 | score -3 | IA: EMA bearish, MACD negative, volume high; RSI neutral, price near lower band
+
+🤖 Analista IA evaluando SOLUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA bajista y precio cerca de banda superior, señal poco confirmada
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, señal corta no confirmada
+   → FLAT (confianza 60%): Indicadores mixtos, tendencia bajista pero momentum alcista, mejor esperar
 
-💰 Equity: $926.92 | Cash: $926.92 | Retorno: -7.31%
-📈 Posiciones abiertas: 0 | Cerradas: 185 | PnL realizado: -73.08
+💰 Equity: $926.77 | Cash: $926.78 | Retorno: -7.32%
+📈 Posiciones abiertas: 1 | Cerradas: 185 | PnL realizado: -73.08
+   ▼ ETHUSDT: entry 1822.96 → ahora 1823.07 (-0.01 USD)
