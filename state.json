@@ -1,7 +1,19 @@
 {
-  "balance": 924.8348042612834,
+  "balance": 924.6960790406432,
   "initial_balance": 1000.0,
-  "positions": {},
+  "positions": {
+    "XRPUSDT": {
+      "side": "short",
+      "qty": 140.84779694,
+      "entry": 0.98493,
+      "sl": 1.0016675636181902,
+      "tp": 0.9514548727636195,
+      "opened_at": "2026-11-17T23:35:39+00:00",
+      "notional": 138.7252206401142,
+      "fee": 0.1387252206401142,
+      "note": "score -1 | IA: Overbought, price above upper Bollinger, bearish EMA, high volume supports short"
+    }
+  },
   "closed": 188,
   "realized_pnl": -75.16519573871655,
   "started": "2026-09-23T21:38:36+00:00"
