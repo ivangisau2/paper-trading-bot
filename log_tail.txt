@@ -1,16 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-17 21:38 UTC
+⏰ Ciclo — 2026-11-17 21:53 UTC
 ============================================================
-  [ejecución] ❌ CERRADO SOLUSDT @ 73.62399226216371: -3.11 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 5 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bearish, MACD negative, but RSI neutral and price near Bollinger middle
+🤖 Analista IA evaluando BTCUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio cerca banda inferior, señal corta pero posible rebote
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Bearish indicators present but RSI neutral and price near Bollinger middle; insufficient confirmation
+🤖 Analista IA evaluando ETHUSDT (short score -3)...
+   → SHORT (confianza 75%): Bearish MACD, EMA trend, high volume supports short
+  [ejecución] ▼ SHORT ETHUSDT: 0.07721755 @ 1801.84 | SL 1833.47 | TP 1738.58 | score -3 | IA: Bearish MACD, EMA trend, high volume supports short
 
-💰 Equity: $927.56 | Cash: $927.56 | Retorno: -7.24%
-📈 Posiciones abiertas: 0 | Cerradas: 187 | PnL realizado: -72.44
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → FLAT (confianza 55%): Señal corta, pero indicadores mixtos, mejor esperar.
+
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA50/200 indica tendencia bajista, señales alcistas insuficientes; mejor mantenerse flat.
+
+💰 Equity: $927.42 | Cash: $927.42 | Retorno: -7.26%
+📈 Posiciones abiertas: 1 | Cerradas: 187 | PnL realizado: -72.44
+   ▼ ETHUSDT: entry 1801.84 → ahora 1801.85 (-0.00 USD)
