@@ -11,7 +11,8 @@
       "opened_at": "2026-11-17T23:35:39+00:00",
       "notional": 138.7252206401142,
       "fee": 0.1387252206401142,
-      "note": "score -1 | IA: Overbought, price above upper Bollinger, bearish EMA, high volume supports short"
+      "note": "score -1 | IA: Overbought, price above upper Bollinger, bearish EMA, high volume supports short",
+      "checked_at": 1794959409.1448789
     }
   },
   "closed": 188,

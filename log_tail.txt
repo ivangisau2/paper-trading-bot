@@ -1,23 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-17 23:35 UTC
+⏰ Ciclo — 2026-11-17 23:50 UTC
 ============================================================
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 4 candidatos tras filtros
+📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, señal corta no confirmada
+   → FLAT (confianza 55%): Mixed signals, low volume, bullish MACD; better flat
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI overbought, price above BB, bearish EMA, but MACD bullish; insufficient confirmation.
-
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → SHORT (confianza 70%): Overbought, price above upper Bollinger, bearish EMA, high volume supports short
-  [ejecución] ▼ SHORT XRPUSDT: 140.84779694 @ 0.98493 | SL 1.00167 | TP 0.951455 | score -1 | IA: Overbought, price above upper Bollinger, bearish EMA, high volume supports short
+   → FLAT (confianza 60%): Mixed indicators, MACD bullish, RSI overbought, insufficient confirmation.
 
 🤖 Analista IA evaluando ADAUSDT (long score 1)...
-   → FLAT (confianza 65%): Señal LONG contradicha por tendencia bajista y precio cerca de banda superior
+   → FLAT (confianza 30%): EMA bajista y precio en banda superior, señal LONG poco confirmada
 
-💰 Equity: $924.70 | Cash: $924.70 | Retorno: -7.53%
+💰 Equity: $924.93 | Cash: $924.70 | Retorno: -7.51%
 📈 Posiciones abiertas: 1 | Cerradas: 188 | PnL realizado: -75.17
-   ▼ XRPUSDT: entry 0.98493 → ahora 0.98493 (+0.00 USD)
+   ▼ XRPUSDT: entry 0.98493 → ahora 0.98324 (+0.24 USD)
