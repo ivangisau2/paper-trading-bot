@@ -12,7 +12,7 @@
       "notional": 138.7252206401142,
       "fee": 0.1387252206401142,
       "note": "score -1 | IA: Overbought, price above upper Bollinger, bearish EMA, high volume supports short",
-      "checked_at": 1794961157.9577467
+      "checked_at": 1794962045.6506095
     },
     "NEARUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-11-18T00:19:23+00:00",
       "notional": 138.704411845681,
       "fee": 0.138704411845681,
-      "note": "score -2 | IA: RSI overbought, price above BB, bearish EMA; MACD bullish, low volume."
+      "note": "score -2 | IA: RSI overbought, price above BB, bearish EMA; MACD bullish, low volume.",
+      "checked_at": 1794962045.6506095
     }
   },
   "closed": 188,
