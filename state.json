@@ -1,5 +1,5 @@
 {
-  "balance": 929.1298925260273,
+  "balance": 928.9905230421598,
   "initial_balance": 1000.0,
   "positions": {
     "SOLUSDT": {
@@ -12,7 +12,7 @@
       "notional": 138.3088263099,
       "fee": 0.13830882630990002,
       "note": "score -3 | IA: Bearish trend, MACD negative, but near lower Bollinger band, caution.",
-      "checked_at": 1795042871.876196
+      "checked_at": 1795043747.7857218
     },
     "XRPUSDT": {
       "side": "short",
@@ -24,7 +24,18 @@
       "notional": 138.2880801294954,
       "fee": 0.1382880801294954,
       "note": "score -3 | IA: Bearish EMA, negative MACD, high volume; price near lower Bollinger, RSI neutral.",
-      "checked_at": 1795042871.876196
+      "checked_at": 1795043747.7857218
+    },
+    "NEARUSDT": {
+      "side": "short",
+      "qty": 42.73957615,
+      "entry": 3.2609,
+      "sl": 3.3396962967625736,
+      "tp": 3.1033074064748525,
+      "opened_at": "2026-11-18T23:15:51+00:00",
+      "notional": 139.369483867535,
+      "fee": 0.139369483867535,
+      "note": "score -2 | IA: Baja tendencia, MACD negativo, pero volumen muy bajo"
     }
   },
   "closed": 190,
