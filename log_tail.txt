@@ -1,14 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-18 08:00 UTC
+⏰ Ciclo — 2026-11-18 08:15 UTC
 ============================================================
-  [ejecución] ❌ CERRADO XRPUSDT @ 1.0016675636181902: -2.64 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Volumen bajo y MACD positivo generan incertidumbre
+   → FLAT (confianza 55%): Indicadores mixtos, señal corta no confirmada
 
-💰 Equity: $922.45 | Cash: $922.06 | Retorno: -7.76%
+💰 Equity: $923.16 | Cash: $922.06 | Retorno: -7.68%
 📈 Posiciones abiertas: 1 | Cerradas: 189 | PnL realizado: -77.80
-   ▼ NEARUSDT: entry 3.3757 → ahora 3.3663 (+0.39 USD)
+   ▼ NEARUSDT: entry 3.3757 → ahora 3.349 (+1.10 USD)
