@@ -1,13 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-18 16:10 UTC
+⏰ Ciclo — 2026-11-18 16:24 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO NEARUSDT @ 3.1936839574693403: +7.21 USD (take profit (wick entre ciclos))
 
-📊 0 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-💰 Equity: $929.12 | Cash: $921.78 | Retorno: -7.09%
-📈 Posiciones abiertas: 3 | Cerradas: 189 | PnL realizado: -77.80
-   ▼ NEARUSDT: entry 3.3757 → ahora 3.2114 (+6.75 USD)
-   ▼ SOLUSDT: entry 73.73 → ahora 73.42 (+0.58 USD)
-   ▼ XRPUSDT: entry 0.97617 → ahora 0.97613 (+0.01 USD)
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 55%): Precio bajo banda inferior, RSI oversold, señal corta no confirmada
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio bajo banda inferior y RSI oversold, indica posible rebote, no confirma SHORT
+
+💰 Equity: $931.60 | Cash: $929.13 | Retorno: -6.84%
+📈 Posiciones abiertas: 2 | Cerradas: 190 | PnL realizado: -70.59
+   ▼ SOLUSDT: entry 73.73 → ahora 72.8 (+1.74 USD)
+   ▼ XRPUSDT: entry 0.97617 → ahora 0.97102 (+0.73 USD)
