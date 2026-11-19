@@ -1,12 +1,14 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-19 06:31 UTC
+⏰ Ciclo — 2026-11-19 06:45 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO SOLUSDT @ 74.94922775933017: -2.57 USD (stop loss (wick entre ciclos))
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
 
-💰 Equity: $923.06 | Cash: $925.48 | Retorno: -7.69%
-📈 Posiciones abiertas: 2 | Cerradas: 191 | PnL realizado: -74.24
-   ▼ SOLUSDT: entry 73.73 → ahora 74.84 (-2.08 USD)
-   ▼ XRPUSDT: entry 0.97617 → ahora 0.97859 (-0.34 USD)
+🤖 Analista IA evaluando SOLUSDT (short score -1)...
+   → FLAT (confianza 45%): EMA bajista, pero MACD y volumen no confirman
+
+💰 Equity: $922.31 | Cash: $923.05 | Retorno: -7.77%
+📈 Posiciones abiertas: 1 | Cerradas: 192 | PnL realizado: -76.81
+   ▼ XRPUSDT: entry 0.97617 → ahora 0.98141 (-0.74 USD)
