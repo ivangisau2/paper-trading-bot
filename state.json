@@ -1,7 +1,19 @@
 {
-  "balance": 920.5817972894617,
+  "balance": 920.4437100202341,
   "initial_balance": 1000.0,
-  "positions": {},
+  "positions": {
+    "SOLUSDT": {
+      "side": "short",
+      "qty": 1.87160842,
+      "entry": 73.78,
+      "sl": 74.97604230955477,
+      "tp": 71.38791538089046,
+      "opened_at": "2026-11-19T16:38:38+00:00",
+      "notional": 138.08726922760002,
+      "fee": 0.13808726922760003,
+      "note": "score -2 | IA: EMA bajista, MACD negativo, RSI neutro, cerca banda baja"
+    }
+  },
   "closed": 193,
   "realized_pnl": -79.41820271053814,
   "started": "2026-09-23T21:38:36+00:00"
