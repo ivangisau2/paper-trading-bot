@@ -1,9 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-19 14:12 UTC
+⏰ Ciclo — 2026-11-19 14:26 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 1 candidatos tras filtros
+
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 60%): Volumen bajo y precio cerca de banda superior, señal corta no confirmada
 
 💰 Equity: $920.58 | Cash: $920.58 | Retorno: -7.94%
 📈 Posiciones abiertas: 0 | Cerradas: 193 | PnL realizado: -79.42
