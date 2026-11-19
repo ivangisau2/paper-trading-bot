@@ -1,14 +1,11 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-19 07:00 UTC
+⏰ Ciclo — 2026-11-19 07:14 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): Mixed signals; overbought but MACD bullish, prefer flat
-
-💰 Equity: $922.07 | Cash: $923.05 | Retorno: -7.79%
+💰 Equity: $922.35 | Cash: $923.05 | Retorno: -7.77%
 📈 Posiciones abiertas: 1 | Cerradas: 192 | PnL realizado: -76.81
-   ▼ XRPUSDT: entry 0.97617 → ahora 0.98311 (-0.98 USD)
+   ▼ XRPUSDT: entry 0.97617 → ahora 0.98116 (-0.71 USD)
