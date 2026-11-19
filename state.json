@@ -12,7 +12,7 @@
       "notional": 138.3088263099,
       "fee": 0.13830882630990002,
       "note": "score -3 | IA: Bearish trend, MACD negative, but near lower Bollinger band, caution.",
-      "checked_at": 1795054683.9890404
+      "checked_at": 1795055560.7005177
     },
     "XRPUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 138.2880801294954,
       "fee": 0.1382880801294954,
       "note": "score -3 | IA: Bearish EMA, negative MACD, high volume; price near lower Bollinger, RSI neutral.",
-      "checked_at": 1795054683.9890404
+      "checked_at": 1795055560.7005177
     },
     "NEARUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 139.369483867535,
       "fee": 0.139369483867535,
       "note": "score -2 | IA: Baja tendencia, MACD negativo, pero volumen muy bajo",
-      "checked_at": 1795054683.9890404
+      "checked_at": 1795055560.7005177
     }
   },
   "closed": 190,
