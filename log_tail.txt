@@ -1,20 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-20 12:05 UTC
+⏰ Ciclo — 2026-11-20 12:20 UTC
 ============================================================
-  [ejecución] ✅ CERRADO SOLUSDT @ 71.38791538089046: +4.21 USD (take profit (wick entre ciclos))
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
+
+🤖 Analista IA evaluando ADAUSDT (short score -3)...
+   → FLAT (confianza 55%): Precio cerca de soporte, RSI bajo, señal contradictoria
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): RSI oversold, low volume, near lower Bollinger; signal not confirmed
+   → FLAT (confianza 70%): Indicadores mixtos, RSI bajo y precio bajo banda inferior contradicen corto
 
 🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 65%): Baja confirmación de volumen y RSI no sobrevendido
+   → FLAT (confianza 60%): Precio bajo banda, RSI oversold, volumen débil, señal corta no confirmada
 
 🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 65%): Precio bajo, RSI sobrevendido, tendencia bajista pero volumen débil
+   → FLAT (confianza 55%): RSI oversold, pero tendencia bajista y bajo volumen generan duda
 
-💰 Equity: $927.49 | Cash: $924.65 | Retorno: -7.25%
+💰 Equity: $927.40 | Cash: $924.65 | Retorno: -7.26%
 📈 Posiciones abiertas: 1 | Cerradas: 194 | PnL realizado: -75.21
-   ▼ ETHUSDT: entry 1772.19 → ahora 1735.67 (+2.85 USD)
+   ▼ ETHUSDT: entry 1772.19 → ahora 1736.92 (+2.75 USD)
