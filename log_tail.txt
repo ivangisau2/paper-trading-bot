@@ -1,21 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-20 04:26 UTC
+⏰ Ciclo — 2026-11-20 04:40 UTC
 ============================================================
   [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, RSI bajo y volumen débil, riesgo de rebote
+   → FLAT (confianza 55%): Precio cerca de banda baja, RSI sobrevendido, volumen bajo, señal corta no confirmada.
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 70%): Baja volatilidad, volumen débil, precio cerca banda inferior, señal poco confirmada
+   → FLAT (confianza 60%): EMA bajista, pero precio cerca banda inferior y bajo volumen, duda
 
 🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 70%): RSI oversold, precio cerca banda inferior, volumen bajo, indica posible rebote
+   → FLAT (confianza 60%): RSI oversold, precio cerca de soporte, señal corta no confirmada
 
-💰 Equity: $926.07 | Cash: $920.31 | Retorno: -7.39%
+💰 Equity: $927.68 | Cash: $920.31 | Retorno: -7.23%
 📈 Posiciones abiertas: 2 | Cerradas: 193 | PnL realizado: -79.42
-   ▼ SOLUSDT: entry 73.78 → ahora 72.43 (+2.53 USD)
-   ▼ ETHUSDT: entry 1772.19 → ahora 1730.65 (+3.24 USD)
+   ▼ SOLUSDT: entry 73.78 → ahora 72.01 (+3.31 USD)
+   ▼ ETHUSDT: entry 1772.19 → ahora 1720.02 (+4.06 USD)
