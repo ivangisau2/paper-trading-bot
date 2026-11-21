@@ -1,21 +1,8 @@
 {
-  "balance": 928.9008047701382,
+  "balance": 924.5341026620042,
   "initial_balance": 1000.0,
-  "positions": {
-    "LINKUSDT": {
-      "side": "short",
-      "qty": 16.62505403,
-      "entry": 8.38229,
-      "sl": 8.636311608194907,
-      "tp": 7.874246783610184,
-      "opened_at": "2026-11-21T06:50:30+00:00",
-      "notional": 139.35602414512869,
-      "fee": 0.13935602414512868,
-      "note": "score -3 | IA: Bearish EMA, negative MACD, price down; RSI neutral, moderate confidence",
-      "checked_at": 1795267676.3269396
-    }
-  },
-  "closed": 195,
-  "realized_pnl": -70.9598392057165,
+  "positions": {},
+  "closed": 196,
+  "realized_pnl": -75.46589733799561,
   "started": "2026-09-23T21:38:36+00:00"
 }
