@@ -1,12 +1,9 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-21 15:09 UTC
+⏰ Ciclo — 2026-11-21 15:24 UTC
 ============================================================
 
-📊 1 candidatos tras filtros
-
-🤖 Analista IA evaluando UNIUSDT (short score -1)...
-   → FLAT (confianza 70%): Baja confirmación, volumen muy bajo y MACD positivo
+📊 0 candidatos tras filtros
 
 💰 Equity: $924.53 | Cash: $924.53 | Retorno: -7.55%
 📈 Posiciones abiertas: 0 | Cerradas: 196 | PnL realizado: -75.47
