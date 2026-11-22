@@ -12,7 +12,7 @@
       "notional": 138.2981750243,
       "fee": 0.1382981750243,
       "note": "score -2 | IA: EMA bajista, MACD negativo, precio cerca banda inferior, RSI neutro",
-      "checked_at": 1795339348.2962966
+      "checked_at": 1795340223.7005596
     },
     "NEARUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-11-22T09:22:32+00:00",
       "notional": 138.277430622964,
       "fee": 0.13827743062296402,
-      "note": "score -1 | IA: Precio sobre banda superior, EMA bajista, pero MACD positivo y bajo volumen; corto cauteloso."
+      "note": "score -1 | IA: Precio sobre banda superior, EMA bajista, pero MACD positivo y bajo volumen; corto cauteloso.",
+      "checked_at": 1795340223.7005596
     }
   },
   "closed": 197,
