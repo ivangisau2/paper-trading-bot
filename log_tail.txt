@@ -1,14 +1,16 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-22 10:52 UTC
+⏰ Ciclo — 2026-11-22 11:06 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO NEARUSDT @ 2.990972760055256: -3.43 USD (stop loss (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
+
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 55%): Mixed indicators, low volume, unclear direction
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 65%): Conflicto entre indicadores, señal corta no confirmada
+   → FLAT (confianza 60%): Indicadores mixtos y bajo volumen; falta confirmación clara para short
 
-💰 Equity: $916.58 | Cash: $919.41 | Retorno: -8.34%
-📈 Posiciones abiertas: 1 | Cerradas: 198 | PnL realizado: -80.45
-   ▼ NEARUSDT: entry 2.9243 → ahora 2.9841 (-2.83 USD)
+💰 Equity: $916.11 | Cash: $916.11 | Retorno: -8.39%
+📈 Posiciones abiertas: 0 | Cerradas: 199 | PnL realizado: -83.89
