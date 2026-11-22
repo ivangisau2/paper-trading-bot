@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-22 11:21 UTC
+⏰ Ciclo — 2026-11-22 11:35 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish; mejor no operar.
+   → FLAT (confianza 55%): Mixed indicators; overbought price but MACD bullish, better stay flat
 
 💰 Equity: $916.11 | Cash: $916.11 | Retorno: -8.39%
 📈 Posiciones abiertas: 0 | Cerradas: 199 | PnL realizado: -83.89
