@@ -1,12 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-22 12:34 UTC
+⏰ Ciclo — 2026-11-22 12:48 UTC
 ============================================================
 
-📊 1 candidatos tras filtros
+📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando NEARUSDT (long score 1)...
-   → FLAT (confianza 45%): EMA trend bajista y precio cerca banda superior, señal poco confirmada
+🤖 Analista IA evaluando BTCUSDT (long score 1)...
+   → FLAT (confianza 65%): EMA200 downtrend y precio cerca banda superior, señal poco confirmada
+
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 55%): Mixed indicators, bearish EMA and overbought RSI, but MACD bullish; mejor esperar
 
 💰 Equity: $916.11 | Cash: $916.11 | Retorno: -8.39%
 📈 Posiciones abiertas: 0 | Cerradas: 199 | PnL realizado: -83.89
