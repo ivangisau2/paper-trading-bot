@@ -1,22 +1,21 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-22 08:23 UTC
+⏰ Ciclo — 2026-11-22 08:38 UTC
 ============================================================
-  [ejecución] ❌ CERRADO DOGEUSDT @ 0.054906378810570235: -2.55 USD (stop loss (wick entre ciclos))
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Duda razonable, indicadores mixtos, volumen bajo
-
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 40%): Baja confirmación, RSI neutro y volumen débil
+   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI y precio cerca de banda superior generan duda
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen bajo y RSI neutro
+   → FLAT (confianza 45%): Señal bajista pero RSI neutro y precio en medio de Bollinger
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero precio cerca banda baja y bajo volumen
+   → FLAT (confianza 60%): Baja confirmación, volumen débil y RSI neutro
+
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 55%): Indicadores mixtos, tendencia bajista pero momentum alcista
 
 💰 Equity: $921.99 | Cash: $921.99 | Retorno: -7.80%
 📈 Posiciones abiertas: 0 | Cerradas: 197 | PnL realizado: -78.01
