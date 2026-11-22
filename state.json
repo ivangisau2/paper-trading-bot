@@ -11,7 +11,8 @@
       "opened_at": "2026-11-22T22:51:06+00:00",
       "notional": 137.416953826832,
       "fee": 0.13741695382683203,
-      "note": "score -3 | IA: EMA bearish, MACD negative, high volume, price near lower Bollinger"
+      "note": "score -3 | IA: EMA bearish, MACD negative, high volume, price near lower Bollinger",
+      "checked_at": 1795388734.7773373
     }
   },
   "closed": 199,
