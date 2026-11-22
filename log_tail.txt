@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-22 15:58 UTC
+⏰ Ciclo — 2026-11-22 16:12 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 45%): EMA bearish, MACD negative, but RSI neutral and low volume; insufficient confirmation.
+   → FLAT (confianza 65%): Baja confirmación, volumen débil y RSI neutro
 
 💰 Equity: $916.11 | Cash: $916.11 | Retorno: -8.39%
 📈 Posiciones abiertas: 0 | Cerradas: 199 | PnL realizado: -83.89
