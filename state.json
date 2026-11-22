@@ -1,21 +1,8 @@
 {
-  "balance": 924.395422546605,
+  "balance": 921.987835717665,
   "initial_balance": 1000.0,
-  "positions": {
-    "DOGEUSDT": {
-      "side": "short",
-      "qty": 2567.03790208,
-      "entry": 0.0540234,
-      "sl": 0.054906378810570235,
-      "tp": 0.05225744237885953,
-      "opened_at": "2026-11-22T03:46:17+00:00",
-      "notional": 138.68011539922867,
-      "fee": 0.13868011539922867,
-      "note": "score -2 | IA: EMA bajista, MACD negativo, precio bajo, RSI neutro",
-      "checked_at": 1795334965.993156
-    }
-  },
-  "closed": 196,
-  "realized_pnl": -75.46589733799561,
+  "positions": {},
+  "closed": 197,
+  "realized_pnl": -78.01216428233485,
   "started": "2026-09-23T21:38:36+00:00"
 }
