@@ -1,18 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-22 03:31 UTC
+⏰ Ciclo — 2026-11-22 03:46 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen débil y precio cerca banda inferior
+   → FLAT (confianza 60%): Baja confirmación, volumen débil, precio cerca banda inferior
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 55%): Señal corta, pero indicadores mixtos, riesgo de rebote
+   → FLAT (confianza 55%): Precio cerca de soporte, señal corta sin confirmación suficiente
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 70%): Volumen bajo y RSI neutro no confirman señal bajista
+   → FLAT (confianza 65%): EMA bearish, MACD negative, but low volume and near lower Bollinger
 
-💰 Equity: $924.53 | Cash: $924.53 | Retorno: -7.55%
-📈 Posiciones abiertas: 0 | Cerradas: 196 | PnL realizado: -75.47
+🤖 Analista IA evaluando DOGEUSDT (short score -2)...
+   → SHORT (confianza 65%): EMA bajista, MACD negativo, precio bajo, RSI neutro
+  [ejecución] ▼ SHORT DOGEUSDT: 2567.03790208 @ 0.0540234 | SL 0.0549064 | TP 0.0522574 | score -2 | IA: EMA bajista, MACD negativo, precio bajo, RSI neutro
+
+💰 Equity: $924.40 | Cash: $924.40 | Retorno: -7.56%
+📈 Posiciones abiertas: 1 | Cerradas: 196 | PnL realizado: -75.47
+   ▼ DOGEUSDT: entry 0.0540234 → ahora 0.0540208 (+0.01 USD)
