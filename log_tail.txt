@@ -1,12 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-22 16:41 UTC
+⏰ Ciclo — 2026-11-22 16:56 UTC
 ============================================================
 
 📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators, low volume, insufficient confirmation
+   → FLAT (confianza 55%): Overbought RSI and upper Bollinger favor short; bullish MACD and low volume create doubt.
 
 💰 Equity: $916.11 | Cash: $916.11 | Retorno: -8.39%
 📈 Posiciones abiertas: 0 | Cerradas: 199 | PnL realizado: -83.89
