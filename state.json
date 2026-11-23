@@ -1,45 +1,42 @@
 {
-  "balance": 915.7008365410849,
+  "balance": 909.7278720791561,
   "initial_balance": 1000.0,
   "positions": {
-    "XRPUSDT": {
-      "side": "short",
-      "qty": 149.02608592,
-      "entry": 0.9221,
-      "sl": 0.933562975742441,
-      "tp": 0.8991740485151183,
-      "opened_at": "2026-11-22T22:51:06+00:00",
-      "notional": 137.416953826832,
-      "fee": 0.13741695382683203,
-      "note": "score -3 | IA: EMA bearish, MACD negative, high volume, price near lower Bollinger",
-      "checked_at": 1795403619.1588793
-    },
     "BTCUSDT": {
       "side": "short",
-      "qty": 0.00225775,
-      "entry": 60855.4,
-      "sl": 61610.38469226695,
-      "tp": 59345.4306154661,
-      "opened_at": "2026-11-23T01:45:57+00:00",
-      "notional": 137.39627935000001,
-      "fee": 0.13739627935,
-      "note": "score -2 | IA: EMA bearish, MACD negative, but RSI neutral and low volume; moderate short confidence",
-      "checked_at": 1795403619.1588793
+      "qty": 0.00222325,
+      "entry": 61406.0,
+      "sl": 62270.313597876666,
+      "tp": 59677.372804246676,
+      "opened_at": "2026-11-23T03:28:19+00:00",
+      "notional": 136.5208895,
+      "fee": 0.13652088950000002,
+      "note": "score -4 | IA: Precio cerca banda superior, MACD negativo, EMA bajista, volumen alto respaldan corto"
     },
     "ETHUSDT": {
       "side": "short",
-      "qty": 0.08065364,
-      "entry": 1703.28,
-      "sl": 1724.7704075820338,
-      "tp": 1660.299184835932,
-      "opened_at": "2026-11-23T02:59:09+00:00",
-      "notional": 137.3757319392,
-      "fee": 0.1373757319392,
-      "note": "score -3 | IA: MACD negativo, EMA bajista, precio cerca banda inferior",
-      "checked_at": 1795403619.1588793
+      "qty": 0.07878841,
+      "entry": 1732.49,
+      "sl": 1757.4275176563988,
+      "tp": 1682.6149646872022,
+      "opened_at": "2026-11-23T03:28:20+00:00",
+      "notional": 136.50013244090002,
+      "fee": 0.1365001324409,
+      "note": "score -4 | IA: Price above upper Bollinger, bearish MACD, EMA trend down, high volume supports short"
+    },
+    "NEARUSDT": {
+      "side": "short",
+      "qty": 45.18894535,
+      "entry": 3.0202,
+      "sl": 3.0850985655804632,
+      "tp": 2.8904028688390735,
+      "opened_at": "2026-11-23T03:28:22+00:00",
+      "notional": 136.47965274607,
+      "fee": 0.13647965274607002,
+      "note": "score -2 | IA: RSI high, MACD negative, EMA bearish, but low volume."
     }
   },
-  "closed": 199,
-  "realized_pnl": -83.88697449379903,
+  "closed": 202,
+  "realized_pnl": -89.86262724615673,
   "started": "2026-09-23T21:38:36+00:00"
 }

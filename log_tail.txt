@@ -1,19 +1,30 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-23 03:13 UTC
+⏰ Ciclo — 2026-11-23 03:28 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO XRPUSDT @ 0.933562975742441: -1.98 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO BTCUSDT @ 61610.38469226695: -1.98 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO ETHUSDT @ 1724.7704075820338: -2.01 USD (stop loss (wick entre ciclos))
 
-📊 2 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando BTCUSDT (short score -4)...
+   → SHORT (confianza 70%): Precio cerca banda superior, MACD negativo, EMA bajista, volumen alto respaldan corto
+  [ejecución] ▼ SHORT BTCUSDT: 0.00222325 @ 61406.0 | SL 62270.3 | TP 59677.4 | score -4 | IA: Precio cerca banda superior, MACD negativo, EMA bajista, volumen alto respaldan corto
+
+🤖 Analista IA evaluando ETHUSDT (short score -4)...
+   → SHORT (confianza 70%): Price above upper Bollinger, bearish MACD, EMA trend down, high volume supports short
+  [ejecución] ▼ SHORT ETHUSDT: 0.07878841 @ 1732.49 | SL 1757.43 | TP 1682.61 | score -4 | IA: Price above upper Bollinger, bearish MACD, EMA trend down, high volume supports short
+
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 55%): EMA bearish, MACD negative, price near upper Bollinger; RSI neutral, doubt remains
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 65%): Baja confirmación, volumen muy bajo, riesgo de rebote
+   → SHORT (confianza 65%): RSI high, MACD negative, EMA bearish, but low volume.
+  [ejecución] ▼ SHORT NEARUSDT: 45.18894535 @ 3.0202 | SL 3.0851 | TP 2.8904 | score -2 | IA: RSI high, MACD negative, EMA bearish, but low volume.
 
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y MACD bullish
-
-💰 Equity: $913.66 | Cash: $915.70 | Retorno: -8.63%
-📈 Posiciones abiertas: 3 | Cerradas: 199 | PnL realizado: -83.89
-   ▼ XRPUSDT: entry 0.9221 → ahora 0.92375 (-0.25 USD)
-   ▼ BTCUSDT: entry 60855.4 → ahora 61081.6 (-0.51 USD)
-   ▼ ETHUSDT: entry 1703.28 → ahora 1719.19 (-1.28 USD)
+💰 Equity: $909.92 | Cash: $909.73 | Retorno: -9.01%
+📈 Posiciones abiertas: 3 | Cerradas: 202 | PnL realizado: -89.86
+   ▼ BTCUSDT: entry 61406 → ahora 61369.8 (+0.08 USD)
+   ▼ ETHUSDT: entry 1732.49 → ahora 1732.18 (+0.02 USD)
+   ▼ NEARUSDT: entry 3.0202 → ahora 3.0182 (+0.09 USD)
