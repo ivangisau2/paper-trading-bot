@@ -12,7 +12,7 @@
       "notional": 137.416953826832,
       "fee": 0.13741695382683203,
       "note": "score -3 | IA: EMA bearish, MACD negative, high volume, price near lower Bollinger",
-      "checked_at": 1795399232.1659858
+      "checked_at": 1795400111.1888359
     },
     "BTCUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 137.39627935000001,
       "fee": 0.13739627935,
       "note": "score -2 | IA: EMA bearish, MACD negative, but RSI neutral and low volume; moderate short confidence",
-      "checked_at": 1795399232.1659858
+      "checked_at": 1795400111.1888359
     }
   },
   "closed": 199,
