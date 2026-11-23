@@ -1,16 +1,24 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-23 13:43 UTC
+⏰ Ciclo — 2026-11-23 13:57 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO BTCUSDT @ 62270.313597876666: -2.20 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO ETHUSDT @ 1757.4275176563988: -2.24 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO NEARUSDT @ 3.0850985655804632: -3.21 USD (stop loss (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 5 candidatos tras filtros
+
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): Precio sobre Bollinger, RSI alto, MACD bullish; señal corta no confirmada
+
+🤖 Analista IA evaluando ETHUSDT (short score -1)...
+   → FLAT (confianza 65%): Conflicto entre impulso alcista y tendencia bajista, mejor esperar
 
 🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI overbought but MACD bullish, low volume, mixed signals.
+   → FLAT (confianza 60%): Indicadores mixtos; sobrecompra y precio sobre banda superior, pero MACD alcista, duda razonable.
 
-💰 Equity: $909.93 | Cash: $907.67 | Retorno: -9.01%
-📈 Posiciones abiertas: 3 | Cerradas: 203 | PnL realizado: -91.92
-   ▼ BTCUSDT: entry 61406 → ahora 61221.9 (+0.41 USD)
-   ▼ ETHUSDT: entry 1732.49 → ahora 1723.06 (+0.74 USD)
-   ▼ NEARUSDT: entry 3.0202 → ahora 2.9956 (+1.11 USD)
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 65%): RSI overbought, price above BB, but MACD still bullish
+
+💰 Equity: $900.43 | Cash: $900.43 | Retorno: -9.96%
+📈 Posiciones abiertas: 0 | Cerradas: 206 | PnL realizado: -99.57
