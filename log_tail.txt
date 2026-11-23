@@ -1,15 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-23 16:53 UTC
+⏰ Ciclo — 2026-11-23 17:08 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
-
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 65%): EMA50/200 indica tendencia bajista, señales alcistas insuficientes
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish; mejor esperar
+   → FLAT (confianza 70%): Mixed signals; overbought but low volume, EMA downtrend, MACD bullish.
 
 💰 Equity: $900.43 | Cash: $900.43 | Retorno: -9.96%
 📈 Posiciones abiertas: 0 | Cerradas: 206 | PnL realizado: -99.57
