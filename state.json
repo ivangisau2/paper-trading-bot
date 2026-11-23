@@ -12,7 +12,7 @@
       "notional": 136.5208895,
       "fee": 0.13652088950000002,
       "note": "score -4 | IA: Precio cerca banda superior, MACD negativo, EMA bajista, volumen alto respaldan corto",
-      "checked_at": 1795412241.5352294
+      "checked_at": 1795413116.8832092
     },
     "ETHUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 136.50013244090002,
       "fee": 0.1365001324409,
       "note": "score -4 | IA: Price above upper Bollinger, bearish MACD, EMA trend down, high volume supports short",
-      "checked_at": 1795412241.5352294
+      "checked_at": 1795413116.8832092
     },
     "NEARUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 136.47965274607,
       "fee": 0.13647965274607002,
       "note": "score -2 | IA: RSI high, MACD negative, EMA bearish, but low volume.",
-      "checked_at": 1795412241.5352294
+      "checked_at": 1795413116.8832092
     },
     "SOLUSDT": {
       "side": "short",
@@ -48,7 +48,7 @@
       "notional": 136.4591806904,
       "fee": 0.1364591806904,
       "note": "score -1 | IA: Precio sobre BB superior, RSI alto, tendencia bajista, pero MACD positivo, duda moderada",
-      "checked_at": 1795412241.5352294
+      "checked_at": 1795413116.8832092
     }
   },
   "closed": 202,
