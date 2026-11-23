@@ -1,18 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-23 16:39 UTC
+⏰ Ciclo — 2026-11-23 16:53 UTC
 ============================================================
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): EMA bajista y precio cerca de banda superior, señal débil
-
-🤖 Analista IA evaluando XRPUSDT (short score -1)...
-   → FLAT (confianza 65%): Mixed bullish momentum, bearish EMA, insufficient confirmation for short.
+   → FLAT (confianza 65%): EMA50/200 indica tendencia bajista, señales alcistas insuficientes
 
 🤖 Analista IA evaluando ADAUSDT (short score -1)...
-   → FLAT (confianza 45%): Mixed indicators, low volume, overbought but bullish MACD; no clear confirmation
+   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish; mejor esperar
 
 💰 Equity: $900.43 | Cash: $900.43 | Retorno: -9.96%
 📈 Posiciones abiertas: 0 | Cerradas: 206 | PnL realizado: -99.57
