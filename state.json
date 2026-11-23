@@ -11,7 +11,8 @@
       "opened_at": "2026-11-23T03:28:19+00:00",
       "notional": 136.5208895,
       "fee": 0.13652088950000002,
-      "note": "score -4 | IA: Precio cerca banda superior, MACD negativo, EMA bajista, volumen alto respaldan corto"
+      "note": "score -4 | IA: Precio cerca banda superior, MACD negativo, EMA bajista, volumen alto respaldan corto",
+      "checked_at": 1795405222.6744683
     },
     "ETHUSDT": {
       "side": "short",
@@ -22,7 +23,8 @@
       "opened_at": "2026-11-23T03:28:20+00:00",
       "notional": 136.50013244090002,
       "fee": 0.1365001324409,
-      "note": "score -4 | IA: Price above upper Bollinger, bearish MACD, EMA trend down, high volume supports short"
+      "note": "score -4 | IA: Price above upper Bollinger, bearish MACD, EMA trend down, high volume supports short",
+      "checked_at": 1795405222.6744683
     },
     "NEARUSDT": {
       "side": "short",
@@ -33,7 +35,8 @@
       "opened_at": "2026-11-23T03:28:22+00:00",
       "notional": 136.47965274607,
       "fee": 0.13647965274607002,
-      "note": "score -2 | IA: RSI high, MACD negative, EMA bearish, but low volume."
+      "note": "score -2 | IA: RSI high, MACD negative, EMA bearish, but low volume.",
+      "checked_at": 1795405222.6744683
     }
   },
   "closed": 202,
