@@ -1,23 +1,19 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-24 17:41 UTC
+⏰ Ciclo — 2026-11-24 17:56 UTC
 ============================================================
-  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
 
-📊 3 candidatos tras filtros
+📊 2 candidatos tras filtros
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Precio cerca banda baja, RSI bajo, tendencia bajista débil
+   → FLAT (confianza 60%): Precio cerca banda baja, RSI no confirma, señal débil
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen débil y precio cerca de soporte
+   → FLAT (confianza 55%): EMA bearish, MACD negative, but price near lower Bollinger, RSI neutral, doubt.
 
-🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → SHORT (confianza 60%): EMA bajista, MACD negativo, volumen bajo, RSI neutro
-  [ejecución] ▼ SHORT NEARUSDT: 47.31253087 @ 2.8727 | SL 2.95851 | TP 2.70108 | score -2 | IA: EMA bajista, MACD negativo, volumen bajo, RSI neutro
-
-💰 Equity: $907.67 | Cash: $905.96 | Retorno: -9.23%
+💰 Equity: $909.12 | Cash: $905.96 | Retorno: -9.09%
 📈 Posiciones abiertas: 3 | Cerradas: 207 | PnL realizado: -93.63
-   ▼ ETHUSDT: entry 1693.32 → ahora 1683.62 (+0.77 USD)
-   ▼ BTCUSDT: entry 60416.6 → ahora 59999.9 (+0.93 USD)
-   ▼ NEARUSDT: entry 2.8727 → ahora 2.8727 (+0.00 USD)
+   ▼ ETHUSDT: entry 1693.32 → ahora 1681.01 (+0.98 USD)
+   ▼ BTCUSDT: entry 60416.6 → ahora 59948.9 (+1.05 USD)
+   ▼ NEARUSDT: entry 2.8727 → ahora 2.8489 (+1.13 USD)
