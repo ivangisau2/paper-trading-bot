@@ -1,13 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-25 07:26 UTC
+⏰ Ciclo — 2026-11-25 07:41 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ✅ CERRADO ETHUSDT @ 1634.806565790947: +4.40 USD (take profit (wick entre ciclos))
 
 📊 0 candidatos tras filtros
 
-💰 Equity: $914.35 | Cash: $905.96 | Retorno: -8.57%
-📈 Posiciones abiertas: 3 | Cerradas: 207 | PnL realizado: -93.63
-   ▼ ETHUSDT: entry 1693.32 → ahora 1653.03 (+3.21 USD)
-   ▼ BTCUSDT: entry 60416.6 → ahora 58987 (+3.19 USD)
-   ▼ NEARUSDT: entry 2.8727 → ahora 2.8309 (+1.98 USD)
+💰 Equity: $916.73 | Cash: $910.50 | Retorno: -8.33%
+📈 Posiciones abiertas: 2 | Cerradas: 208 | PnL realizado: -89.23
+   ▼ BTCUSDT: entry 60416.6 → ahora 58785.4 (+3.65 USD)
+   ▼ NEARUSDT: entry 2.8727 → ahora 2.8181 (+2.58 USD)
