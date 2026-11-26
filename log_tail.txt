@@ -1,15 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-26 07:21 UTC
+⏰ Ciclo — 2026-11-26 07:36 UTC
 ============================================================
 
-📊 2 candidatos tras filtros
+📊 1 candidatos tras filtros
 
 🤖 Analista IA evaluando LTCUSDT (long score 1)...
-   → FLAT (confianza 45%): RSI overbought, low volume, price near upper Bollinger; insufficient confirmation.
-
-🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 55%): RSI overbought, EMA bajista, pero bajo volumen y MACD positivo
+   → FLAT (confianza 70%): Low volume, RSI high, near upper Bollinger; signal not confirmed
 
 💰 Equity: $910.41 | Cash: $910.41 | Retorno: -8.96%
 📈 Posiciones abiertas: 0 | Cerradas: 210 | PnL realizado: -89.59
