@@ -1,9 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-26 10:45 UTC
+⏰ Ciclo — 2026-11-26 11:00 UTC
 ============================================================
 
-📊 0 candidatos tras filtros
+📊 3 candidatos tras filtros
+
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → FLAT (confianza 45%): Baja confirmación: volumen bajo, RSI neutro, precio medio Bollinger.
+
+🤖 Analista IA evaluando XRPUSDT (short score -2)...
+   → FLAT (confianza 45%): EMA bearish but RSI neutral, low volume; insufficient confirmation for short
+
+🤖 Analista IA evaluando NEARUSDT (short score -2)...
+   → FLAT (confianza 70%): Baja confirmación, volumen nulo, señal débil
 
 💰 Equity: $910.41 | Cash: $910.41 | Retorno: -8.96%
 📈 Posiciones abiertas: 0 | Cerradas: 210 | PnL realizado: -89.59
