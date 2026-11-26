@@ -1,23 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-26 14:24 UTC
+⏰ Ciclo — 2026-11-26 14:39 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
+🤖 Analista IA evaluando SOLUSDT (short score -3)...
+   → SHORT (confianza 70%): Precio sobre Bollinger, RSI alto, tendencia bajista, bajo volumen
+  [ejecución] ▼ SHORT SOLUSDT: 1.91689648 @ 71.23 | SL 72.1675 | TP 69.3551 | score -3 | IA: Precio sobre Bollinger, RSI alto, tendencia bajista, bajo volumen
+
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Baja confirmación, volumen débil y RSI neutro
+   → FLAT (confianza 55%): EMA bajista y MACD negativo, pero RSI neutro y bajo volumen
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 45%): Volumen bajo y RSI neutro, señal corta no confirmada
-
-🤖 Analista IA evaluando SOLUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, bajo volumen, señal corta débil
+   → FLAT (confianza 60%): EMA bajista, pero RSI y volumen no confirman
 
 🤖 Analista IA evaluando LTCUSDT (short score -1)...
-   → FLAT (confianza 60%): EMA bullish, low volume, weak short signal; mejor esperar
+   → FLAT (confianza 45%): EMA bullish, low volume, mixed signals; insufficient confirmation for short.
 
-💰 Equity: $910.89 | Cash: $910.27 | Retorno: -8.91%
-📈 Posiciones abiertas: 1 | Cerradas: 210 | PnL realizado: -89.59
-   ▼ NEARUSDT: entry 3.0825 → ahora 3.0684 (+0.62 USD)
+💰 Equity: $911.27 | Cash: $910.13 | Retorno: -8.87%
+📈 Posiciones abiertas: 2 | Cerradas: 210 | PnL realizado: -89.59
+   ▼ NEARUSDT: entry 3.0825 → ahora 3.0568 (+1.14 USD)
+   ▼ SOLUSDT: entry 71.23 → ahora 71.23 (+0.00 USD)
