@@ -12,7 +12,7 @@
       "notional": 136.56102048315,
       "fee": 0.13656102048315,
       "note": "score -3 | IA: RSI overbought, bearish EMA, MACD negative, low volume supports short",
-      "checked_at": 1795703960.7246792
+      "checked_at": 1795704848.7314553
     },
     "SOLUSDT": {
       "side": "short",
@@ -23,7 +23,8 @@
       "opened_at": "2026-11-26T14:39:25+00:00",
       "notional": 136.5405362704,
       "fee": 0.1365405362704,
-      "note": "score -3 | IA: Precio sobre Bollinger, RSI alto, tendencia bajista, bajo volumen"
+      "note": "score -3 | IA: Precio sobre Bollinger, RSI alto, tendencia bajista, bajo volumen",
+      "checked_at": 1795704848.7314553
     }
   },
   "closed": 210,
