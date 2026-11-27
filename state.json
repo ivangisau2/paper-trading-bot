@@ -1,5 +1,5 @@
 {
-  "balance": 909.9971817097547,
+  "balance": 906.0003251135399,
   "initial_balance": 1000.0,
   "positions": {
     "NEARUSDT": {
@@ -12,34 +12,32 @@
       "notional": 136.56102048315,
       "fee": 0.13656102048315,
       "note": "score -3 | IA: RSI overbought, bearish EMA, MACD negative, low volume supports short",
-      "checked_at": 1795744849.4402657
-    },
-    "SOLUSDT": {
-      "side": "short",
-      "qty": 1.91689648,
-      "entry": 71.23,
-      "sl": 72.16746458654731,
-      "tp": 69.35507082690538,
-      "opened_at": "2026-11-26T14:39:25+00:00",
-      "notional": 136.5405362704,
-      "fee": 0.1365405362704,
-      "note": "score -3 | IA: Precio sobre Bollinger, RSI alto, tendencia bajista, bajo volumen",
-      "checked_at": 1795744849.4402657
+      "checked_at": 1795745719.2736814
     },
     "BTCUSDT": {
       "side": "short",
-      "qty": 0.00225543,
-      "entry": 60529.5,
-      "sl": 61261.71678239146,
-      "tp": 59065.066435217086,
-      "opened_at": "2026-11-26T15:56:20+00:00",
-      "notional": 136.520050185,
-      "fee": 0.136520050185,
-      "note": "score -3 | IA: EMA bearish, MACD negative, price near lower Bollinger, RSI neutral.",
-      "checked_at": 1795744849.4402657
+      "qty": 0.00222249,
+      "entry": 61166.0,
+      "sl": 61772.14743559508,
+      "tp": 59953.70512880984,
+      "opened_at": "2026-11-27T02:15:24+00:00",
+      "notional": 135.94082334,
+      "fee": 0.13594082334000002,
+      "note": "score -4 | IA: EMA bearish, MACD negative, RSI high, price above upper Bollinger, supports short."
+    },
+    "SOLUSDT": {
+      "side": "short",
+      "qty": 1.88647379,
+      "entry": 72.05,
+      "sl": 72.94707022485872,
+      "tp": 70.25585955028254,
+      "opened_at": "2026-11-27T02:15:25+00:00",
+      "notional": 135.9204365695,
+      "fee": 0.1359204365695,
+      "note": "score -2 | IA: Sobrecompra, EMA bajista, precio sobre banda superior, volumen d\u00e9bil"
     }
   },
-  "closed": 210,
-  "realized_pnl": -89.59319668330653,
+  "closed": 212,
+  "realized_pnl": -93.59125260606726,
   "started": "2026-09-23T21:38:36+00:00"
 }

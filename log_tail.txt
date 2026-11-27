@@ -1,16 +1,25 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 02:00 UTC
+⏰ Ciclo — 2026-11-27 02:15 UTC
 ============================================================
-  [salida] wicks 1m revisados: 3 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO SOLUSDT @ 72.16746458654731: -2.07 USD (stop loss (wick entre ciclos))
+  [ejecución] ❌ CERRADO BTCUSDT @ 61261.71678239146: -1.93 USD (stop loss (wick entre ciclos))
 
-📊 1 candidatos tras filtros
+📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 60%): Baja confirmación, volumen muy bajo, precio cerca de banda superior
+🤖 Analista IA evaluando BTCUSDT (short score -4)...
+   → SHORT (confianza 65%): EMA bearish, MACD negative, RSI high, price above upper Bollinger, supports short.
+  [ejecución] ▼ SHORT BTCUSDT: 0.00222249 @ 61166.0 | SL 61772.1 | TP 59953.7 | score -4 | IA: EMA bearish, MACD negative, RSI high, price above upper Bollinger, supports short.
 
-💰 Equity: $909.56 | Cash: $910.00 | Retorno: -9.04%
-📈 Posiciones abiertas: 3 | Cerradas: 210 | PnL realizado: -89.59
-   ▼ NEARUSDT: entry 3.0825 → ahora 3.074 (+0.38 USD)
-   ▼ SOLUSDT: entry 71.23 → ahora 71.44 (-0.40 USD)
-   ▼ BTCUSDT: entry 60529.5 → ahora 60714 (-0.42 USD)
+🤖 Analista IA evaluando SOLUSDT (short score -2)...
+   → SHORT (confianza 70%): Sobrecompra, EMA bajista, precio sobre banda superior, volumen débil
+  [ejecución] ▼ SHORT SOLUSDT: 1.88647379 @ 72.05 | SL 72.9471 | TP 70.2559 | score -2 | IA: Sobrecompra, EMA bajista, precio sobre banda superior, volumen débil
+
+🤖 Analista IA evaluando XRPUSDT (short score -1)...
+   → FLAT (confianza 55%): EMA bullish, low volume, mixed signals, mejor esperar.
+
+💰 Equity: $905.28 | Cash: $906.00 | Retorno: -9.47%
+📈 Posiciones abiertas: 3 | Cerradas: 212 | PnL realizado: -93.59
+   ▼ NEARUSDT: entry 3.0825 → ahora 3.0984 (-0.70 USD)
+   ▼ BTCUSDT: entry 61166 → ahora 61172.2 (-0.01 USD)
+   ▼ SOLUSDT: entry 72.05 → ahora 72.05 (+0.00 USD)
