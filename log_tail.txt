@@ -1,24 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 02:29 UTC
+⏰ Ciclo — 2026-11-27 02:44 UTC
 ============================================================
-  [ejecución] ❌ CERRADO NEARUSDT @ 3.1540424678466397: -3.45 USD (stop loss (wick entre ciclos))
-  [ejecución] ❌ CERRADO BTCUSDT @ 61772.14743559508: -1.62 USD (stop loss (wick entre ciclos))
+  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 4 candidatos tras filtros
 
 🤖 Analista IA evaluando XRPUSDT (short score -2)...
-   → FLAT (confianza 55%): Mixed signals, bullish trend outweighs short cue
+   → FLAT (confianza 55%): Conflicto entre tendencia alcista y señales bajistas, duda razonable
 
 🤖 Analista IA evaluando NEARUSDT (short score -2)...
-   → FLAT (confianza 55%): Bullish trend y sobrecompra, señal corta no confirmada
+   → FLAT (confianza 65%): Trend bullish, mixed indicators, no clear short setup
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y tendencia bajista, pero MACD bullish; duda razonable
+   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra pero momentum alcista, mejor esperar
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 45%): Indicadores mixtos; sobrecompra y tendencia bajista, pero MACD bullish, mejor esperar
+   → FLAT (confianza 55%): Mixed indicators; EMA bearish but MACD bullish, insufficient confirmation.
 
-💰 Equity: $900.43 | Cash: $901.21 | Retorno: -9.96%
+💰 Equity: $900.41 | Cash: $901.21 | Retorno: -9.96%
 📈 Posiciones abiertas: 1 | Cerradas: 214 | PnL realizado: -98.66
-   ▼ SOLUSDT: entry 72.05 → ahora 72.46 (-0.77 USD)
+   ▼ SOLUSDT: entry 72.05 → ahora 72.47 (-0.79 USD)
