@@ -12,7 +12,7 @@
       "notional": 136.56102048315,
       "fee": 0.13656102048315,
       "note": "score -3 | IA: RSI overbought, bearish EMA, MACD negative, low volume supports short",
-      "checked_at": 1795742223.8115666
+      "checked_at": 1795743099.4729433
     },
     "SOLUSDT": {
       "side": "short",
@@ -24,7 +24,7 @@
       "notional": 136.5405362704,
       "fee": 0.1365405362704,
       "note": "score -3 | IA: Precio sobre Bollinger, RSI alto, tendencia bajista, bajo volumen",
-      "checked_at": 1795742223.8115666
+      "checked_at": 1795743099.4729433
     },
     "BTCUSDT": {
       "side": "short",
@@ -36,7 +36,7 @@
       "notional": 136.520050185,
       "fee": 0.136520050185,
       "note": "score -3 | IA: EMA bearish, MACD negative, price near lower Bollinger, RSI neutral.",
-      "checked_at": 1795742223.8115666
+      "checked_at": 1795743099.4729433
     }
   },
   "closed": 210,
