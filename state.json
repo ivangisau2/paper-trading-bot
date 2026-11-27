@@ -11,7 +11,8 @@
       "opened_at": "2026-11-27T04:41:37+00:00",
       "notional": 134.90630246299997,
       "fee": 0.13490630246299998,
-      "note": "score -2 | IA: RSI overbought, price above BB, EMA bearish; MACD bullish, low volume, cautious SHORT."
+      "note": "score -2 | IA: RSI overbought, price above BB, EMA bearish; MACD bullish, low volume, cautious SHORT.",
+      "checked_at": 1795755372.4056797
     }
   },
   "closed": 215,
