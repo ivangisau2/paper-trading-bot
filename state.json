@@ -11,7 +11,8 @@
       "opened_at": "2026-11-27T10:56:39+00:00",
       "notional": 134.6585485187784,
       "fee": 0.1346585485187784,
-      "note": "score 2 | IA: Bullish EMA, positive MACD, RSI below overbought, price near upper Bollinger"
+      "note": "score 2 | IA: Bullish EMA, positive MACD, RSI below overbought, price near upper Bollinger",
+      "checked_at": 1795777876.5704849
     }
   },
   "closed": 216,
