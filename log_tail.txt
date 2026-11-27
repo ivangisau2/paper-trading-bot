@@ -1,21 +1,23 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 04:26 UTC
+⏰ Ciclo — 2026-11-27 04:41 UTC
 ============================================================
 
-📊 4 candidatos tras filtros
+📊 5 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos; sobrecompra y precio sobre BB, pero MACD bullish, volumen bajo.
+   → SHORT (confianza 65%): RSI overbought, price above BB, EMA bearish; MACD bullish, low volume, cautious SHORT.
+  [ejecución] ▼ SHORT BTCUSDT: 0.00219413 @ 61485.1 | SL 62114.9 | TP 60225.5 | score -2 | IA: RSI overbought, price above BB, EMA bearish; MACD bullish, low volume, cautious SHORT.
 
 🤖 Analista IA evaluando ETHUSDT (short score -2)...
-   → FLAT (confianza 60%): Mixed indicators, insufficient confirmation for short
+   → FLAT (confianza 55%): Mixed indicators, overbought but momentum still bullish
 
 🤖 Analista IA evaluando SOLUSDT (short score -2)...
-   → FLAT (confianza 55%): Indicadores mixtos, RSI alto pero MACD positivo; mejor no operar ahora
+   → FLAT (confianza 60%): Mixed indicators, insufficient confirmation for short
 
 🤖 Analista IA evaluando XRPUSDT (long score 1)...
-   → FLAT (confianza 65%): Banda superior, bajo volumen, señal poco confirmada
+   → FLAT (confianza 55%): Baja confirmación de volumen y precio sobre banda superior
 
-💰 Equity: $899.38 | Cash: $899.38 | Retorno: -10.06%
-📈 Posiciones abiertas: 0 | Cerradas: 215 | PnL realizado: -100.62
+💰 Equity: $899.23 | Cash: $899.24 | Retorno: -10.08%
+📈 Posiciones abiertas: 1 | Cerradas: 215 | PnL realizado: -100.62
+   ▼ BTCUSDT: entry 61485.1 → ahora 61491.2 (-0.01 USD)
