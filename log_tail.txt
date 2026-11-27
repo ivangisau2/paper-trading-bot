@@ -1,19 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 08:30 UTC
+⏰ Ciclo — 2026-11-27 08:45 UTC
 ============================================================
-  [ejecución] ❌ CERRADO BTCUSDT @ 62114.92136576765: -1.65 USD (stop loss (wick entre ciclos))
 
 📊 3 candidatos tras filtros
 
-🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Precio cerca banda superior, RSI alto, pero MACD positivo y bajo volumen
-
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Sobrecomprado, bajo volumen, precio cerca banda superior
+   → FLAT (confianza 70%): RSI overbought, near upper Bollinger, low volume, doubt.
+
+🤖 Analista IA evaluando XRPUSDT (long score 1)...
+   → FLAT (confianza 65%): Precio sobre BB superior y RSI alto, señal poco confirmada
 
 🤖 Analista IA evaluando LINKUSDT (long score 1)...
-   → FLAT (confianza 70%): Sobrecompra y cerca de banda superior, señal débil, mejor esperar
+   → FLAT (confianza 60%): Precio cerca de resistencia, RSI alto, señal poco confirmada
 
 💰 Equity: $897.72 | Cash: $897.72 | Retorno: -10.23%
 📈 Posiciones abiertas: 0 | Cerradas: 216 | PnL realizado: -102.28
