@@ -1,21 +1,8 @@
 {
-  "balance": 901.2066731633831,
+  "balance": 899.3767609603613,
   "initial_balance": 1000.0,
-  "positions": {
-    "SOLUSDT": {
-      "side": "short",
-      "qty": 1.88647379,
-      "entry": 72.05,
-      "sl": 72.94707022485872,
-      "tp": 70.25585955028254,
-      "opened_at": "2026-11-27T02:15:25+00:00",
-      "notional": 135.9204365695,
-      "fee": 0.1359204365695,
-      "note": "score -2 | IA: Sobrecompra, EMA bajista, precio sobre banda superior, volumen d\u00e9bil",
-      "checked_at": 1795749226.4434798
-    }
-  },
-  "closed": 214,
-  "realized_pnl": -98.65740640004721,
+  "positions": {},
+  "closed": 215,
+  "realized_pnl": -100.62323903963858,
   "started": "2026-09-23T21:38:36+00:00"
 }
