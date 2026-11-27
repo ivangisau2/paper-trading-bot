@@ -1,21 +1,8 @@
 {
-  "balance": 897.5889979436913,
+  "balance": 895.5701484640225,
   "initial_balance": 1000.0,
-  "positions": {
-    "LINKUSDT": {
-      "side": "long",
-      "qty": 14.07674328,
-      "entry": 9.56603,
-      "sl": 9.43204467607654,
-      "tp": 9.834000647846919,
-      "opened_at": "2026-11-27T10:56:39+00:00",
-      "notional": 134.6585485187784,
-      "fee": 0.1346585485187784,
-      "note": "score 2 | IA: Bullish EMA, positive MACD, RSI below overbought, price near upper Bollinger",
-      "checked_at": 1795789273.5275455
-    }
-  },
-  "closed": 216,
-  "realized_pnl": -102.27634350778963,
+  "positions": {},
+  "closed": 217,
+  "realized_pnl": -104.42985153597722,
   "started": "2026-09-23T21:38:36+00:00"
 }
