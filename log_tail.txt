@@ -1,18 +1,18 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 09:43 UTC
+⏰ Ciclo — 2026-11-27 09:57 UTC
 ============================================================
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 1)...
-   → FLAT (confianza 55%): Indicadores mixtos, sobrecompra y bajo volumen, riesgo de reversión
+   → FLAT (confianza 55%): Precio cerca de resistencia, volumen bajo, RSI alto; señales mixtas, mejor esperar
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI overbought y precio cerca de banda superior, riesgo alto
+   → FLAT (confianza 60%): RSI 77 y precio cerca de banda superior indican sobrecompra; duda razonable
 
-🤖 Analista IA evaluando LINKUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio cerca de sobrecompra, bajo volumen, confirmación débil
+🤖 Analista IA evaluando NEARUSDT (short score -1)...
+   → FLAT (confianza 60%): Indicadores mixtos, tendencia alcista contradice señal corta
 
 💰 Equity: $897.72 | Cash: $897.72 | Retorno: -10.23%
 📈 Posiciones abiertas: 0 | Cerradas: 216 | PnL realizado: -102.28
