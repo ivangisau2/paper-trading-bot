@@ -1,20 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 12:24 UTC
+⏰ Ciclo — 2026-11-27 12:38 UTC
 ============================================================
   [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → FLAT (confianza 45%): Baja confirmación de volumen y RSI cerca de sobrecompra
+   → FLAT (confianza 70%): Baja confirmación de volumen y RSI sobrecomprado, riesgo de reversión
+
+🤖 Analista IA evaluando SOLUSDT (long score 2)...
+   → FLAT (confianza 55%): Precio cerca de sobrecompra, volumen bajo, duda razonable
 
 🤖 Analista IA evaluando XRPUSDT (long score 2)...
-   → FLAT (confianza 55%): Banda superior, RSI alto, volumen bajo, señal débil
+   → FLAT (confianza 65%): Low volume, RSI high, price near upper Bollinger; insufficient confirmation
 
-🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 65%): Volumen bajo y RSI sobrecomprado, señal poco confirmada
-
-💰 Equity: $896.98 | Cash: $897.59 | Retorno: -10.30%
+💰 Equity: $896.91 | Cash: $897.59 | Retorno: -10.31%
 📈 Posiciones abiertas: 1 | Cerradas: 216 | PnL realizado: -102.28
-   ▲ LINKUSDT: entry 9.56603 → ahora 9.52268 (-0.61 USD)
+   ▲ LINKUSDT: entry 9.56603 → ahora 9.51755 (-0.68 USD)
