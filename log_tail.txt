@@ -1,20 +1,19 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 08:15 UTC
+⏰ Ciclo — 2026-11-27 08:30 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [ejecución] ❌ CERRADO BTCUSDT @ 62114.92136576765: -1.65 USD (stop loss (wick entre ciclos))
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -1)...
-   → FLAT (confianza 60%): Mixed indicators, bearish trend but bullish MACD; better not trade.
+   → FLAT (confianza 60%): Precio cerca banda superior, RSI alto, pero MACD positivo y bajo volumen
 
 🤖 Analista IA evaluando SOLUSDT (long score 1)...
-   → FLAT (confianza 70%): Sobrecompra, bajo volumen, riesgo de reversión
+   → FLAT (confianza 70%): Sobrecomprado, bajo volumen, precio cerca banda superior
 
 🤖 Analista IA evaluando LINKUSDT (long score 1)...
-   → FLAT (confianza 70%): Precio cerca de banda superior, RSI alto, volumen bajo, señal débil
+   → FLAT (confianza 70%): Sobrecompra y cerca de banda superior, señal débil, mejor esperar
 
-💰 Equity: $898.49 | Cash: $899.24 | Retorno: -10.15%
-📈 Posiciones abiertas: 1 | Cerradas: 215 | PnL realizado: -100.62
-   ▼ BTCUSDT: entry 61485.1 → ahora 61828 (-0.75 USD)
+💰 Equity: $897.72 | Cash: $897.72 | Retorno: -10.23%
+📈 Posiciones abiertas: 0 | Cerradas: 216 | PnL realizado: -102.28
