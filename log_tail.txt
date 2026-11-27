@@ -1,15 +1,15 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-27 17:31 UTC
+⏰ Ciclo — 2026-11-27 17:46 UTC
 ============================================================
 
 📊 2 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 70%): EMA trend bullish, RSI oversold, price near lower Bollinger; short not justified.
+🤖 Analista IA evaluando ETHUSDT (long score 2)...
+   → FLAT (confianza 55%): Señal mixta, bajo volumen y MACD negativo; esperar confirmación
 
-🤖 Analista IA evaluando ETHUSDT (long score 1)...
-   → FLAT (confianza 60%): RSI oversold but MACD negativo y bajo volumen, duda razonable
+🤖 Analista IA evaluando BTCUSDT (short score -1)...
+   → FLAT (confianza 70%): EMA trend up, RSI oversold, price near lower Bollinger; short not justified.
 
 💰 Equity: $895.57 | Cash: $895.57 | Retorno: -10.44%
 📈 Posiciones abiertas: 0 | Cerradas: 217 | PnL realizado: -104.43
