@@ -1,5 +1,5 @@
 {
-  "balance": 895.3014974555023,
+  "balance": 893.9049470010458,
   "initial_balance": 1000.0,
   "positions": {
     "ETHUSDT": {
@@ -12,22 +12,10 @@
       "notional": 134.3355177822,
       "fee": 0.1343355177822,
       "note": "score -3 | IA: MACD, EMA bearish, volume high; RSI not overbought, price near middle",
-      "checked_at": 1795862130.7129521
-    },
-    "BTCUSDT": {
-      "side": "long",
-      "qty": 0.00224818,
-      "entry": 59744.1,
-      "sl": 59182.090524699684,
-      "tp": 60868.11895060063,
-      "opened_at": "2026-11-28T08:03:16+00:00",
-      "notional": 134.315490738,
-      "fee": 0.134315490738,
-      "note": "score 2 | IA: EMA bullish, MACD positive, RSI near oversold, price above lower Bollinger",
-      "checked_at": 1795862130.7129521
+      "checked_at": 1795863001.2512887
     }
   },
-  "closed": 217,
-  "realized_pnl": -104.42985153597722,
+  "closed": 218,
+  "realized_pnl": -105.9607174811717,
   "started": "2026-09-23T21:38:36+00:00"
 }
