@@ -1,16 +1,12 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-28 08:03 UTC
+⏰ Ciclo — 2026-11-28 08:17 UTC
 ============================================================
-  [salida] wicks 1m revisados: 1 posición(es) — sin toque de SL/TP
+  [salida] wicks 1m revisados: 2 posición(es) — sin toque de SL/TP
 
-📊 1 candidatos tras filtros
+📊 0 candidatos tras filtros
 
-🤖 Analista IA evaluando BTCUSDT (long score 2)...
-   → LONG (confianza 65%): EMA bullish, MACD positive, RSI near oversold, price above lower Bollinger
-  [ejecución] ▲ LONG BTCUSDT: 0.00224818 @ 59744.1 | SL 59182.1 | TP 60868.1 | score 2 | IA: EMA bullish, MACD positive, RSI near oversold, price above lower Bollinger
-
-💰 Equity: $895.39 | Cash: $895.30 | Retorno: -10.46%
+💰 Equity: $895.25 | Cash: $895.30 | Retorno: -10.48%
 📈 Posiciones abiertas: 2 | Cerradas: 217 | PnL realizado: -104.43
-   ▼ ETHUSDT: entry 1656.34 → ahora 1655.29 (+0.09 USD)
-   ▲ BTCUSDT: entry 59744.1 → ahora 59744.1 (+0.00 USD)
+   ▼ ETHUSDT: entry 1656.34 → ahora 1650.89 (+0.44 USD)
+   ▲ BTCUSDT: entry 59744.1 → ahora 59523.3 (-0.50 USD)
