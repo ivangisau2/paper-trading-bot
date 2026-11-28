@@ -1,18 +1,20 @@
 
 ============================================================
-⏰ Ciclo — 2026-11-28 07:34 UTC
+⏰ Ciclo — 2026-11-28 07:48 UTC
 ============================================================
 
 📊 3 candidatos tras filtros
 
 🤖 Analista IA evaluando ETHUSDT (short score -3)...
-   → FLAT (confianza 55%): RSI oversold y precio cerca banda inferior, señal corta no confirmada
+   → SHORT (confianza 65%): MACD, EMA bearish, volume high; RSI not overbought, price near middle
+  [ejecución] ▼ SHORT ETHUSDT: 0.08110383 @ 1656.34 | SL 1675.73 | TP 1617.55 | score -3 | IA: MACD, EMA bearish, volume high; RSI not overbought, price near middle
 
 🤖 Analista IA evaluando BTCUSDT (short score -1)...
-   → FLAT (confianza 60%): EMA bullish, price near lower Bollinger, signal not confirmed
+   → FLAT (confianza 60%): Señal corta contradice tendencia alcista y RSI neutro.
 
 🤖 Analista IA evaluando NEARUSDT (short score -1)...
-   → FLAT (confianza 60%): EMA bullish, señal corta no confirmada
+   → FLAT (confianza 60%): EMA trend bullish, MACD weakly bearish; insufficient confirmation for short.
 
-💰 Equity: $895.57 | Cash: $895.57 | Retorno: -10.44%
-📈 Posiciones abiertas: 0 | Cerradas: 217 | PnL realizado: -104.43
+💰 Equity: $895.45 | Cash: $895.44 | Retorno: -10.46%
+📈 Posiciones abiertas: 1 | Cerradas: 217 | PnL realizado: -104.43
+   ▼ ETHUSDT: entry 1656.34 → ahora 1656.21 (+0.01 USD)
